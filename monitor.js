@@ -36,7 +36,7 @@ CDP(async (client) => {
   await Page.loadEventFired();
 
   // Write network data to a file
-  const fileName = 'network_inspect.json';
+  const fileName = 'network_inspect_bandwidth_limit.json';
   fs.writeFile(fileName, JSON.stringify(networkData, null, 2), (err) => {
     if (err) {
       console.error('Error writing network data:', err);
