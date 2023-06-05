@@ -22,33 +22,53 @@ CDP(async (client) => {
 
   Network.responseReceived((params) => {
     const { requestId, response } = params;
-    const { url, timing } = response;
-
+    const { url, timing, protocol } = response;  
+    console.log(`Protocol used: ${response.protocol}`);
     const networkItem = networkData.find((item) => item.requestId === requestId);
-    if (networkItem) {
+    if (networkItem) {    
+       
       networkItem.responseUrl = url;
-      networkItem.timing = timing;
-    }
-  });
-
-  // Navigate to the desired website
-  await Page.navigate({ url: 'https://10.10.1.2:4433/' });
+      networkItem.timing  = timing;
+      networkItem.protocol = protocol ; 
+    }                     
+  });                     
+                          
+  // Navigate to the desi red website
+  await Page.navigate({ url: 'https://10.10.1.2:4433/' }); //https://10.10.1.2:4433/
   await Page.loadEventFired();
-
+                          
   // Write network data to a file
-  const fileName = 'network_inspect_bandwidth_limit.json';
-  fs.writeFile(fileName, JSON.stringify(networkData, null, 2), (err) => {
-    if (err) {
+  const fileName = 'network_inspect_quic_tc5g5g70ms.json';
+  fs.writeFile(fileName,  JSON.stringify(networkData, null, 2), (err) => {
+    if (err) {            
       console.error('Error writing network data:', err);
-    } else {
+    } else {              
       console.log(`Network data saved to ${fileName}`);
-    }
-  });
-
-  // Close the connection
-  await client.close();
-}).on('error', (err) => {
-  console.error('Error:', err);
-});
-
-
+    }                     
+  });                     
+                          
+  // Close the connection 
+  await client.close();   
+}).on('error', (err) => { 
+  console.error('Error:',  err);
+});                       
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                          
