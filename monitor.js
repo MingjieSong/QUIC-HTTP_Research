@@ -34,11 +34,11 @@ CDP(async (client) => {
   });                     
                           
   // Navigate to the desi red website
-  await Page.navigate({ url: 'https://10.10.1.2:4433/' }); //https://10.10.1.2:4433/
+  await Page.navigate({ url: 'https://10.10.1.2:8000/' }); //https://10.10.1.2:4433/
   await Page.loadEventFired();
                           
   // Write network data to a file
-  const fileName = 'network_inspect_quic_tc5g5g70ms.json';
+  const fileName = 'network_inspect_disable_quic_tc5g5g70ms.json';
   fs.writeFile(fileName,  JSON.stringify(networkData, null, 2), (err) => {
     if (err) {            
       console.error('Error writing network data:', err);
