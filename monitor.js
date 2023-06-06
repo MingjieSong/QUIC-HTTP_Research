@@ -38,7 +38,7 @@ CDP(async (client) => {
   await Page.loadEventFired();
                           
   // Write network data to a file
-  const fileName = 'network_inspect_disable_quic_tc5g5g70ms.json';
+  const fileName = 'network_inspect_h11_test.json';
   fs.writeFile(fileName,  JSON.stringify(networkData, null, 2), (err) => {
     if (err) {            
       console.error('Error writing network data:', err);
