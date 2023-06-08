@@ -1,0 +1,1215 @@
+    <!DOCTYPE html>
+    <html lang="en-us">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="robots" content="nofollow">
+      <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+
+      <!-- NYU STUFF -->
+      <link rel="stylesheet" href="https://www.nyu.edu/etc/designs/nyuseventy/clientlib.css" type="text/css" />
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+      <link rel="icon" href="https://www.nyu.edu/favicon.ico">
+      <link rel="stylesheet" type="text/css" href="https://webstatic.nyu.edu/webfonts/38127808-11dc-4910-876e-cd4f0c9f4770/38127808-11dc-4910-876e-cd4f0c9f4770.css"/>
+      <!-- END NYU STUFF -->
+
+    <link rel="search" type="application/opensearchdescription+xml" href="open-search.xml?query=%20&amp;collection=nyu-all-meta-v02" title="Search nyu-all-meta-v02">
+
+      <title>
+                NYU Search
+      </title>
+
+      <!--<link rel="stylesheet" href="resources-global/thirdparty/bootstrap-3.3.7/css/bootstrap.min.css">-->
+      <link rel="stylesheet" type="text/css"
+        href="resources-global/css/funnelback.faceted-navigation-1.0.0.css" />
+
+        <link rel="stylesheet" type="text/css" href="resources-global/css/funnelback.autocompletion-2.6.0.css" />
+
+      <style>
+        /* Grid Areas */
+        #main-title {
+          grid-area: title;
+          padding: 0 1rem;
+        }
+
+        #search-box {
+          grid-area: search-box;
+        }
+
+        .sidebar {
+          grid-area: sidebar;
+        }
+
+        #search-tabs {
+          grid-area: search-tabs;
+        }
+
+        #results {
+          grid-area: results;
+        }
+
+        #pagination {
+          grid-area: pagination; 
+        }
+
+        .related-searches {
+          grid-area: related-searches;
+        }
+
+        /**/
+        
+        .search main, .search main.initial-search {
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+        }
+
+        .search-filters-label {
+          display: block;
+        }
+
+        .search-filters .item-label {
+          color: #57068c;
+          text-decoration: none;
+          display: flex;
+          flex-grow: 1;
+        }
+
+        .search-filters .item-label .label{
+          text-decoration: underline;
+          text-decoration-color: #d8cbe0;
+        }
+
+        .search-filters .item-label .remove {
+          padding: 3px 6px;
+          margin: 0 .6rem 0 0;
+          line-height: 100%;
+          height: fit-content;
+          border: 1px solid #57068c;
+          text-decoration: none;
+          font-weight: 500;
+        }
+
+        .sidebar--desktop-only {
+          display: none;
+        }
+
+        .result-item .columns {
+          flex-direction: column;
+        } 
+
+        .result-item .columns .column {
+          display: inline-block;
+          margin: .5rem 0;
+        }
+        
+        @media screen and (min-width: 32rem) {
+
+          .search main, .search main.initial-search {
+            display: grid;
+          }
+
+          .nav-list-item {
+            width: fit-content;
+          }
+
+          .sidebar--mobile-only {
+            display: none;
+          }
+
+          .sidebar--desktop-only {
+            display: block;
+          }
+
+          .search main, .search main.initial-search {
+            grid-template-columns: 1fr 12rem 32rem 1fr;
+            grid-template-areas:
+              "breadcrumb breadcrumb breadcrumb breadcrumb"
+              "alert alert alert alert"
+              ". title title ."
+              ". search-box search-box ."
+              ". sidebar search-tabs ."
+              ". sidebar results ."
+              ". pagination pagination ."
+              ". related-searches related-searches . ";
+          }
+          
+          .search-filters {
+            margin-top: 10rem;
+          }
+          
+          .search-filters-label {
+            display: none;
+          }
+        }
+
+        @media screen and (min-width: 62rem) {
+          .search main {
+              grid-template-columns: 1fr 12rem 48rem 1fr;
+              grid-template-areas:
+                  "breadcrumb breadcrumb breadcrumb breadcrumb"
+                  "alert alert alert alert"
+                  ". title title ."
+                  ". sidebar search-box ."
+                  ". sidebar search-tabs ."
+                  ". sidebar results ."
+                  ". pagination pagination ."
+                  ". related-searches related-searches . ";
+          }
+
+          .search main.initial-search {
+            grid-template-columns: 1fr 48rem 1fr;
+            grid-template-areas:
+              "breadcrumb breadcrumb breadcrumb "
+              "alert alert alert "
+              ". title ."
+              ". search-box ."
+              ". search-tabs ."
+              ". results ."
+              ". sidebar ."
+              ". pagination ."
+              ". related-searches . ";
+          }
+
+          .nav-list-item {
+            width: fit-content;
+          }
+
+          .result-item .columns{
+            display: inline-flex;
+            flex-direction: row;
+            justify-content: space-between;
+            width: 75%;
+            margin-top: 1rem;
+          }
+
+          .result-item .columns .column {
+            display: inline;
+            flex-direction: column;
+          }
+        }
+
+        @media screen and (min-width: 80rem) {
+          .search main {
+            grid-template-columns: 1fr 20rem 0 60rem 1fr;
+            grid-template-areas:
+                "breadcrumb breadcrumb breadcrumb breadcrumb breadcrumb"
+                "alert alert alert alert alert"
+                ". title title title ."
+                ". sidebar search-box search-box ."
+                ". sidebar search-tabs search-tabs ."
+                ". sidebar results results ."
+                ". pagination pagination pagination ."
+                ". related-searches related-searches related-searches . "
+                ;
+          }
+
+          .search main.initial-search {
+            grid-template-columns: 1fr 60rem 1fr;
+          }
+        }
+
+        .main-navigation-menu .has-submenu:hover .main-navigation-menu-link-title::after {
+          display: none !important;
+        }
+
+        .search-component .search-form-container {
+            margin-bottom: 0;
+        }
+
+        li {
+          list-style-type: none;
+        }
+
+        .nav-list.tabs {
+          border: 1px solid #d6d6d6;
+          border-width: 0 0 1px 1px;
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+          list-style: none;
+          margin: 0;
+          padding: 0;
+        }
+
+        .nav-list.tabs a.tab {
+          background: #f2f2f2;
+          border: 1px solid #d6d6d6;
+          border-radius: 0;
+          border-width: 1px 1px 0 0;
+          color: #57068c;
+          cursor: pointer;
+          display: block;
+          font-size: 1rem;
+          font-weight: 500;
+          padding: 1rem;
+        }
+
+        .nav-list.tabs .tab.active{
+          background: #FFF;
+          border-bottom: 0;
+          color: #000;
+          font-weight: 700;
+        }
+
+        .search-filters {
+          border: 1px solid #ddd4d4;
+          padding: 1rem;
+          margin-top: 0;
+        }
+
+        .search-filters-title{
+          display: none;
+          font-size: 1rem;
+        }
+
+
+        .search-filters .panel-heading {
+          font-weight: 700;
+          padding: 0 0 .5rem 0;
+        }
+
+        .flb-panel .panel-toggle:before {
+          content: '';
+          display: none !important;
+        }
+
+        .flb-panel .list-group-item {
+          padding: 0;
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+          line-height: 180%;
+        }
+
+        .search-filters .badge {
+          color: #6d6d6d;
+          display: flex; 
+        }
+
+        .pagination-controls .list-button.active {
+          background: #57068c;
+          color: #fff;
+        }
+
+        .result-item {
+          padding: 30px 1.333rem !important; 
+        }
+
+        .result-item .display-url {
+         /* text-decoration: underline;*/
+          max-width: 100%;
+          overflow-wrap: break-word;
+        }
+
+        .result-item cite {
+          font-style: initial;
+        }
+
+        .appointment {
+          margin-top: .25rem;
+        }
+
+        .breadcrumb-wrapper .fa-home {
+          display: inline-block;
+          line-height: 3.55rem;
+          margin-right: 0.3rem;
+          font-size: 2rem;
+        }
+
+        .breadcrumb-wrapper .breadcrumb-inner ul.breadcrumb-list::before {
+          display: none !important;
+        }
+
+        .pagination-controls .list-arrow::after, .pagination-controls .list-arrow::before {
+          display: none !important;
+        }
+
+        #search-facets:empty:before {
+          content: 'No filters';
+          font-weight: 600;
+        }
+
+        .related-searches h3 {
+          margin: 0;
+        }
+
+        .related-searches hr {
+          width: 100%;
+          border: 1px solid #ddd4d4;
+          border-top-width: 0;
+        }
+
+        .related-searches {
+          display: flex;
+          flex-direction: column;
+          padding: 0 1rem;
+        }
+
+        .related-searches .category {
+          display: inline-block;
+          padding: 0 1rem;
+          vertical-align: top;
+        }
+
+        @media screen and (min-width: 32rem) {
+          .related-searches .category:first-child {
+            padding-left: 0;
+          }
+        }
+
+        .related-searches .query{
+          color: #57068c;
+        }
+        
+        .related-searches .suggestions h4{
+          margin: 1rem 0;
+        }
+
+        .related-searches .suggestions a{
+          text-decoration: underline; 
+        }
+      </style>
+      
+      <style>      
+        .search-component .search-results-container .result-item:nth-child(even) {
+            background: #fbfbfb;
+        }
+        .search-component .search-results-container .result-item:nth-child(odd) {
+            background: #fff;
+        }
+        .nav-list.tabs{
+            border-width: 0 0 0 1px;
+            position: relative;
+        }
+        .nav-list.tabs::after{
+            content:"";
+            height:1px;
+            width:100%;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            background: #d6d6d6;
+            z-index: -1;
+        }
+        .nav-list.tabs a.tab{
+            outline-offset: -3px;
+            border-width: 1px 1px 0 0;
+        }
+        .nav-list.tabs .tab.active{
+            border-bottom: 1px solid #fff;
+        }
+        .result-item .personContact > span{
+            display: block;
+        }
+        .result-item > div + div{
+            margin-top: 2rem;
+        }
+        .result-item > div:first-child{
+            margin-top: 0;
+        }
+        .result-item .personTitle{
+            font-style: italic;
+            display: block;
+        }
+        .result-item .personDepartment,
+        .result-item .personDivision{
+            display: block;
+        }
+        .result-item .contactLabel{
+            font-weight: 600;
+        }
+        .result-item a, .result-item a:visited, p a, p a:visited{
+            border-bottom: 1px solid rgba(87, 6, 140, 0.2);
+        }
+        .result-item a:hover, .result-item a:focus, p a:hover, p a:focus{
+            border-bottom: 1px solid #57068c;
+        }
+        .search-component .search-results-container .result-item:first-child{
+            padding-top: 0;
+        }
+        .search-component .search-results-container .result-item .title{
+            margin-bottom: 0;
+        }
+        .search-results-container > .component-static{
+            padding-top: 0;
+        }
+        #search-tabs{
+            padding-bottom: 0;
+        }
+        
+        .related-searches{
+            padding: 0;
+        }
+        
+        .related-searches h3, .related-searches hr{
+            margin-left: 1rem;
+            margin-right: 1rem;
+        }
+        
+        .related-searches .category{
+            display: block;
+        }
+        
+        @media screen and (min-width: 32rem){
+            .related-searches .category:first-child {
+                padding-left: 1rem;
+            }
+        }
+        
+        @media screen and (min-width: 46rem){
+            .related-searches-cols{
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                grid-template-rows: 1fr;
+                grid-column-gap: 0px;
+                grid-row-gap: 0px;
+            }
+        }
+        
+        .pagination-controls li:last-child .list-arrow{
+            width: auto;
+        }
+        .pagination-controls li:last-child .list-arrow .fa{
+            margin-left: 0.25rem;
+        }
+        
+        
+        .nav-list.tabs {
+            flex-wrap: nowrap;
+        }
+        
+        @media screen and (min-width: 62rem){
+            header.header .main-navigation-menu .main-navigation-menu-link-title:focus::before {
+                display: none !important;
+            }
+        }
+        /** Bootstrap CSS **/
+
+        .fade.in {
+            opacity: 1
+        }
+        
+        .collapse {
+            display: none
+        }
+        
+        .collapse.in {
+            display: block
+        }
+        
+        tr.collapse.in {
+            display: table-row
+        }
+        
+        tbody.collapse.in {
+        	display: table-row-group
+        }
+        
+        .collapsing {
+        	position: relative;
+        	height: 0;
+        	overflow: hidden;
+        	-webkit-transition-timing-function: ease;
+        	-o-transition-timing-function: ease;
+        	transition-timing-function: ease;
+        	-webkit-transition-duration: .35s;
+        	-o-transition-duration: .35s;
+        	transition-duration: .35s;
+        	-webkit-transition-property: height, visibility;
+        	-o-transition-property: height, visibility;
+        	transition-property: height, visibility
+        }
+      </style>
+
+      <!--[if lt IE 9]>
+    <script src="resources-global/thirdparty/html5shiv.js"></script>
+    <script src="resources-global/thirdparty/respond.min.js"></script>
+  <![endif]-->
+    </head>
+
+    <body >
+
+      <div class="search">
+        <!-- NYU HEADER -->
+        <header class="header" role="banner">
+          <button type="button" role="button" class="hamburger">
+            <span class="bars"></span>
+            <span class="screen-reader-text">Menu</span>
+          </button>
+          <a class="bypass-block" id="bypass-globalnav" href="#global-menu-toggle">Skip to All NYU Navigation</a>
+          <a class="bypass-block" id="bypass-main" href="#main-content">Skip to Main Content</a>
+
+          <!-- Mobile Only Inner Header -->
+          <div class="inner-header" data-type="mobile">
+
+            <!-- Torch Logo -->
+            <div class="logo-holder">
+              <a class="logo" href="https://www.nyu.edu/" aria-label="NYU Homepage">
+                <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135 46"
+                  width="135" height="46">
+                  <path class="cls-1" d="M57.88,9.71h5.28l12.26,16v-16H81V35.78H76.1L63.5,19.08v16.7H57.88Z"></path>
+                  <path class="cls-1" d="M94,25.56l-10-15.85h6.64l6.3,10.56,6.3-10.56h6.46l-10,15.68V35.78H93.8V25.56Z">
+                  </path>
+                  <path class="cls-1"
+                    d="M112.19,24.7v-15H118V24.53c0,4.26,2,6.48,5.61,6.48s5.62-2.05,5.62-6.31v-15H135V24.53c0,7.84-4.43,11.76-11.41,11.76C116.44,36.29,112.19,32.37,112.19,24.7Z">
+                  </path>
+                  <path class="cls-1"
+                    d="M46,46H0V0H46V46ZM21.45,40.55c0,.34.68.51.85,0l1.53-12.78H19.92l1.53,12.78ZM25.2,26.92V25H18.56v1.88ZM23.32,24c8.34.34,9-7.32,9-10.22h0c-.17.68-1.37,2.73-4.43,4.09A7.38,7.38,0,0,0,23.32,24Zm-.85-.51c1.36-6.3,6.47-6.47,7-7.67.68-1.87-.68-5.28-1-5.62h-.17A11.15,11.15,0,0,1,25.54,14c-1,.85-5.45,4.26-3.07,9.54Zm-1,.34c-2.89-6,2.89-9.88,3.75-10.73.17-.17.17-.17.17-.34A15.55,15.55,0,0,0,24,7.33h-.17c-.51,1.87-3.06,4.6-3.57,5.28-4.43,5.11-3.41,8.35,1.19,11.24ZM20.26,24c-4.77-2.89-4.26-6.81-2.21-9.71V14a7.46,7.46,0,0,0-1.2-2.9c0-.17-.17-.17-.17,0,0,.86-1,2.9-2.38,5.12-1.36,2.38-1.36,7.66,6,7.83Z">
+                  </path>
+                </svg>
+
+                <svg data-name="Layer 1" viewBox="0 0 63.97 22" width="64" height="22"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M0,0H4.47L14.64,13.35V0h4.71V21.62H15.28L4.72,7.88V21.62H0ZM30,13.1,21.64,0h5.59l5.22,8.65L37.66,0h5.47L34.86,13v8.65h-4.7V13.1Zm15.13-.76V0h4.71V12.21c0,3.56,1.78,5.34,4.7,5.34s4.71-1.78,4.71-5.21V0H64V12.21C64,18.82,60.29,22,54.45,22s-9.29-3.31-9.29-9.66"
+                    transform="translate(-0.02)"></path>
+                </svg>
+                <span class="screen-reader-text">NYU</span>
+              </a>
+            </div>
+
+
+            <!-- Collapsed Order: Returns, Search, All NYU -->
+
+            <!-- Search Bar -->
+            <!-- <form class="main-navigation-search-form" role="search" action="https://search.nyu.edu/s/search.html?collection=nyu-all-meta-v02" aria-label="Main Search"> -->
+           <form class="main-navigation-search-form" role="search" action="search.html" method="GET" aria-label="Main Search">
+            	<button type="button" role="button" class="search-toggle" onclick="toggleMobileSearchForm();" aria-expanded="false">
+					<svg id="4625a2ed-b7e6-4a58-acbf-4a55ed388bf4" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.89 20"><path id="c2f7ebf4-9d56-4176-99e7-75c835b148bd" data-name="path3336" d="M15.38,17.9l-2.59-2.6-.51.31a8.56,8.56,0,0,1-4.7,1.11A8.15,8.15,0,0,1,.05,8.64,7.74,7.74,0,0,1,2.45,2.89,7.75,7.75,0,0,1,8.16.5,8.13,8.13,0,0,1,16.29,8a8.66,8.66,0,0,1-1.18,4.79l-.37.59L17.34,16l2.6,2.61-.93.93a13.26,13.26,0,0,1-1,.93s-1.22-1.17-2.65-2.6ZM9.51,14.27A5.84,5.84,0,0,0,10,3.07,6.37,6.37,0,0,0,6.43,3,6.65,6.65,0,0,0,4,4.49a5.85,5.85,0,0,0-.85,7.12,5,5,0,0,0,1.57,1.71,5.83,5.83,0,0,0,4.75.95Z" transform="translate(-0.05 -0.5)"></path></svg>
+					<span class="screen-reader-text" aria-hidden="false">Search</span>
+				</button>
+
+				<label class="screen-reader-text" for="mobile-navigation-search" aria-hidden="true">Search Site</label>
+				                
+                <input id="mobile-navigation-search" required value="" accesskey="q" id="query"
+                        name="query" class="search-field main-navigation-search-form-text-field" type="text" placeholder="Search NYU"
+                        autocomplete="off" aria-autocomplete="none" aria-hidden="true" >
+                <input type="hidden" name="collection" value="nyu-all-meta-v02" />
+                <input class="main-navigation-search-form-submit" type="submit" value="Search NYU">
+			</form>
+
+            <!-- All NYU - Toggles Global Nav Modal -->
+            <button type="button" id="global-menu-toggle" class="global-menu" role="button" aria-label="All NYU">
+              <svg id="64c3602f-5fc5-4c7c-b9e2-50267bc53dc6" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 17.9515 18.0118">
+                <circle cx="8.9758" cy="9.0118" r="8.5608" style="fill:none;stroke:#fff;stroke-miterlimit:10;"></circle>
+                <path d="M8.9288,17.6c-1.2941,0-4.1993-4.0339-4.1993-8.6093S7.7025.3882,8.9966.3882"
+                  transform="translate(-0.0242 0.0118)" style="fill:none;stroke:#fff;stroke-miterlimit:10;"></path>
+                <path d="M9.0645,17.6c1.2941,0,4.1993-4.0339,4.1993-8.6093S10.2907.3882,8.9966.3882"
+                  transform="translate(-0.0242 0.0118)" style="fill:none;stroke:#fff;stroke-miterlimit:10;"></path>
+                <line x1="1.7216" y1="4.5542" x2="16.1612" y2="4.5542"
+                  style="fill:none;stroke:#fff;stroke-miterlimit:10;"></line>
+                <line x1="0.415" y1="9.0118" x2="17.5365" y2="9.0118"
+                  style="fill:none;stroke:#fff;stroke-miterlimit:10;"></line>
+                <line x1="1.6659" y1="13.4693" x2="16.2856" y2="13.4693"
+                  style="fill:none;stroke:#fff;stroke-miterlimit:10;"></line>
+                <line x1="8.9758" y1="17.5725" x2="8.9758" y2="0.451"
+                  style="fill:none;stroke:#fff;stroke-miterlimit:10;"></line>
+              </svg>
+              <span class="screen-reader-text" aria-hidden="false">All NYU</span>
+            </button>
+
+            <!-- Expanded Order: Main Nav, Information Nav, and Login Button -->
+            <span class="mobile-nav-content" aria-hidden="true" tabindex="-1">
+              <!-- Main Nav -->
+              <nav role="navigation" aria-label="Main" class="main-nav-wrap">
+                <div aria-label="Main Navigation" role="application">
+
+                  <ul class="main-navigation-menu">
+                    <li class="has-submenu">
+                      <div class="menu-title">
+                        <a class="main-navigation-menu-link-title" href="https://www.nyu.edu/about.html" id="about"
+                          target="_self" aria-hidden="false" aria-controls="menu-about" tabindex="0"
+                          style="pointer-events: auto;">About NYU</a>
+                      </div>
+                    </li>
+
+                    <li class="has-submenu">
+                      <div class="menu-title">
+                        <a class="main-navigation-menu-link-title" href="https://www.nyu.edu/admissions.html"
+                          id="admissions" target="_self" aria-hidden="false" aria-controls="menu-admissions"
+                          tabindex="0" style="pointer-events: auto;">Admissions</a>
+                      </div>
+                    </li>
+
+                    <li class="has-submenu">
+                      <div class="menu-title">
+                        <a class="main-navigation-menu-link-title" href="https://www.nyu.edu/academics.html" id="academics"
+                          target="_self" aria-hidden="false" aria-controls="menu-academics" tabindex="0"
+                          style="pointer-events: auto;">Academics</a>
+                      </div>
+                    </li>
+
+                    <li class="has-submenu">
+                      <div class="menu-title">
+                        <a class="main-navigation-menu-link-title" href="https://www.nyu.edu/life.html" id="life"
+                          target="_self" aria-hidden="false" aria-controls="menu-life" tabindex="0"
+                          style="pointer-events: auto;">University Life</a>
+                      </div>
+                    </li>
+
+                    <li class="has-submenu">
+                      <div class="menu-title">
+                        <a class="main-navigation-menu-link-title" href="https://www.nyu.edu/research.html" id="research"
+                          target="_self" aria-hidden="false" aria-controls="menu-research" tabindex="0"
+                          style="pointer-events: auto;">Research</a>
+                      </div>
+                    </li>
+                  </ul>
+
+                </div>
+              </nav>
+
+              <!-- Information Nav -->
+              <nav role="navigation" aria-label="Information" class="role-nav-wrap">
+
+                <div class="super-navigation">
+                  <div class="super-navigation-title">Information For: </div>
+
+                  <ul class="super-navigation-menu">
+
+                    <li class="has-submenu">
+                      <div class="menu-title">
+                        <a class="super-navigation-link-title" href="https://www.nyu.edu/students.html" target="_self"
+                          id="Students" aria-controls="menu-Students" aria-live="assertive" tabindex="0"
+                          style="pointer-events: auto;">Students</a>
+                      </div>
+                    </li>
+
+                    <li class="has-submenu">
+                      <div class="menu-title">
+                        <a class="super-navigation-link-title" href="https://www.nyu.edu/faculty.html" target="_self"
+                          id="Faculty" aria-controls="menu-Faculty" aria-live="assertive" tabindex="0"
+                          style="pointer-events: auto;">Faculty</a>
+                      </div>
+                    </li>
+
+                    <li class="has-submenu">
+                      <div class="menu-title">
+                        <a class="super-navigation-link-title" href="https://www.nyu.edu/alumni.html" target="_self"
+                          id="Alumni" aria-controls="menu-Alumni" aria-live="assertive" tabindex="0"
+                          style="pointer-events: auto;">Alumni</a>
+                      </div>
+                    </li>
+
+                    <li class="has-submenu">
+                      <div class="menu-title">
+                        <a class="super-navigation-link-title" href="https://www.nyu.edu/employees.html" target="_self"
+                          id="Employees" aria-controls="menu-Employees" aria-live="assertive" tabindex="0"
+                          style="pointer-events: auto;">Employees</a>
+                      </div>
+                    </li>
+
+                    <li class="has-submenu">
+                      <div class="menu-title">
+                        <a class="super-navigation-link-title" href="https://www.nyu.edu/community.html" target="_self"
+                          id="Community" aria-controls="menu-Community" aria-live="assertive" tabindex="0"
+                          style="pointer-events: auto;">Community</a>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+
+              </nav>
+
+              <!-- Login -->
+              <div class="login-nyu">
+                <a href="http://home.nyu.edu" class="login-nyu-home" tabindex="0" style="pointer-events: auto;">NYU
+                  Home</a>
+              </div>
+            </span>
+          </div>
+
+          <!-- Desktop Only Inner Header -->
+          <div class="inner-header" data-type="main" aria-hidden="false" tabindex="0">
+            <nav role="navigation" aria-label="Information" class="role-nav-wrap">
+              <div class="super-navigation">
+                <div class="super-navigation-title">Information For: </div>
+
+                <ul class="super-navigation-menu">
+                  <li class="has-submenu">
+                    <div class="menu-title">
+                      <a class="super-navigation-link-title" href="https://www.nyu.edu/students.html" target="_self"
+                        id="Students" aria-controls="menu-Students" aria-live="assertive" tabindex="0"
+                        style="pointer-events: auto;">Students</a>
+
+                      <button class="menu-expand" aria-label="expand Students navigation section" aria-haspopup="true"
+                        aria-expanded="false"></button>
+                    </div>
+                  </li>
+
+                  <li class="has-submenu">
+                    <div class="menu-title">
+                      <a class="super-navigation-link-title" href="https://www.nyu.edu/faculty.html" target="_self"
+                        id="Faculty" aria-controls="menu-Faculty" aria-live="assertive" tabindex="0"
+                        style="pointer-events: auto;">Faculty</a>
+                    </div>
+                  </li>
+
+                  <li class="has-submenu">
+                    <div class="menu-title">
+                      <a class="super-navigation-link-title" href="https://www.nyu.edu/alumni.html" target="_self"
+                        id="Alumni" aria-controls="menu-Alumni" aria-live="assertive" tabindex="0"
+                        style="pointer-events: auto;">Alumni</a>
+                    </div>
+                  </li>
+
+                  <li class="has-submenu">
+                    <div class="menu-title">
+                      <a class="super-navigation-link-title" href="https://www.nyu.edu/employees.html" target="_self"
+                        id="Employees" aria-controls="menu-Employees" aria-live="assertive" tabindex="0"
+                        style="pointer-events: auto;">Employees</a>
+                    </div>
+                  </li>
+
+                  <li class="has-submenu">
+                    <div class="menu-title">
+                      <a class="super-navigation-link-title" href="https://www.nyu.edu/community.html" target="_self"
+                        id="Community" aria-controls="menu-Community" aria-live="assertive" tabindex="0"
+                        style="pointer-events: auto;">Community</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </nav>
+
+            <div class="login-nyu">
+              <a href="http://home.nyu.edu" class="login-nyu-home" tabindex="0" style="pointer-events: auto;"><span
+                  class="login-nyu-home--conditional-text">Login to </span>NYU Home</a>
+            </div>
+
+            <button type="button" id="global-menu-toggle" class="global-menu" role="button" aria-label="All NYU">
+              <svg id="64c3602f-5fc5-4c7c-b9e2-50267bc53dc6" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 17.9515 18.0118">
+                <circle cx="8.9758" cy="9.0118" r="8.5608" style="fill:none;stroke:#fff;stroke-miterlimit:10;"></circle>
+                <path d="M8.9288,17.6c-1.2941,0-4.1993-4.0339-4.1993-8.6093S7.7025.3882,8.9966.3882"
+                  transform="translate(-0.0242 0.0118)" style="fill:none;stroke:#fff;stroke-miterlimit:10;"></path>
+                <path d="M9.0645,17.6c1.2941,0,4.1993-4.0339,4.1993-8.6093S10.2907.3882,8.9966.3882"
+                  transform="translate(-0.0242 0.0118)" style="fill:none;stroke:#fff;stroke-miterlimit:10;"></path>
+                <line x1="1.7216" y1="4.5542" x2="16.1612" y2="4.5542"
+                  style="fill:none;stroke:#fff;stroke-miterlimit:10;"></line>
+                <line x1="0.415" y1="9.0118" x2="17.5365" y2="9.0118"
+                  style="fill:none;stroke:#fff;stroke-miterlimit:10;"></line>
+                <line x1="1.6659" y1="13.4693" x2="16.2856" y2="13.4693"
+                  style="fill:none;stroke:#fff;stroke-miterlimit:10;"></line>
+                <line x1="8.9758" y1="17.5725" x2="8.9758" y2="0.451"
+                  style="fill:none;stroke:#fff;stroke-miterlimit:10;"></line>
+              </svg>
+              <span aria-hidden="false">All NYU</span>
+            </button>
+
+            <div class="logo-holder">
+              <a class="logo" href="https://www.nyu.edu/" aria-label="NYU Homepage">
+                <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135 46"
+                  width="135" height="46">
+                  <path class="cls-1" d="M57.88,9.71h5.28l12.26,16v-16H81V35.78H76.1L63.5,19.08v16.7H57.88Z"></path>
+                  <path class="cls-1" d="M94,25.56l-10-15.85h6.64l6.3,10.56,6.3-10.56h6.46l-10,15.68V35.78H93.8V25.56Z">
+                  </path>
+                  <path class="cls-1"
+                    d="M112.19,24.7v-15H118V24.53c0,4.26,2,6.48,5.61,6.48s5.62-2.05,5.62-6.31v-15H135V24.53c0,7.84-4.43,11.76-11.41,11.76C116.44,36.29,112.19,32.37,112.19,24.7Z">
+                  </path>
+                  <path class="cls-1"
+                    d="M46,46H0V0H46V46ZM21.45,40.55c0,.34.68.51.85,0l1.53-12.78H19.92l1.53,12.78ZM25.2,26.92V25H18.56v1.88ZM23.32,24c8.34.34,9-7.32,9-10.22h0c-.17.68-1.37,2.73-4.43,4.09A7.38,7.38,0,0,0,23.32,24Zm-.85-.51c1.36-6.3,6.47-6.47,7-7.67.68-1.87-.68-5.28-1-5.62h-.17A11.15,11.15,0,0,1,25.54,14c-1,.85-5.45,4.26-3.07,9.54Zm-1,.34c-2.89-6,2.89-9.88,3.75-10.73.17-.17.17-.17.17-.34A15.55,15.55,0,0,0,24,7.33h-.17c-.51,1.87-3.06,4.6-3.57,5.28-4.43,5.11-3.41,8.35,1.19,11.24ZM20.26,24c-4.77-2.89-4.26-6.81-2.21-9.71V14a7.46,7.46,0,0,0-1.2-2.9c0-.17-.17-.17-.17,0,0,.86-1,2.9-2.38,5.12-1.36,2.38-1.36,7.66,6,7.83Z">
+                  </path>
+                </svg>
+
+                <svg data-name="Layer 1" viewBox="0 0 63.97 22" width="64" height="22"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M0,0H4.47L14.64,13.35V0h4.71V21.62H15.28L4.72,7.88V21.62H0ZM30,13.1,21.64,0h5.59l5.22,8.65L37.66,0h5.47L34.86,13v8.65h-4.7V13.1Zm15.13-.76V0h4.71V12.21c0,3.56,1.78,5.34,4.7,5.34s4.71-1.78,4.71-5.21V0H64V12.21C64,18.82,60.29,22,54.45,22s-9.29-3.31-9.29-9.66"
+                    transform="translate(-0.02)"></path>
+                </svg>
+
+                <span class="screen-reader-text" aria-hidden="true">NYU</span>
+              </a>
+            </div>
+
+            <nav role="navigation" aria-label="Main" class="main-nav-wrap">
+              <div aria-label="Main Navigation" role="application">
+
+                <ul class="main-navigation-menu">
+                  <li class="has-submenu" aria-hidden="false">
+                    <div class="menu-title">
+                      <a class="main-navigation-menu-link-title" href="https://www.nyu.edu/about.html" id="about"
+                        target="_self" aria-hidden="false" aria-controls="menu-about" tabindex="0"
+                        style="pointer-events: auto;" aria-expanded="false">About NYU</a>
+                    </div>
+                  </li>
+
+                  <li class="has-submenu" aria-hidden="false">
+                    <div class="menu-title">
+                      <a class="main-navigation-menu-link-title" href="https://www.nyu.edu/admissions.html" id="admissions"
+                        target="_self" aria-hidden="false" aria-controls="menu-admissions" tabindex="0"
+                        style="pointer-events: auto;" aria-expanded="false">Admissions</a>
+                    </div>
+                  </li>
+
+                  <li class="has-submenu" aria-hidden="false">
+                    <div class="menu-title">
+                      <a class="main-navigation-menu-link-title" href="https://www.nyu.edu/academics.html" id="academics"
+                        target="_self" aria-hidden="false" aria-controls="menu-academics" tabindex="0"
+                        style="pointer-events: auto;" aria-expanded="false">Academics</a>
+                    </div>
+                  </li>
+
+                  <li class="has-submenu">
+                    <div class="menu-title">
+                      <a class="main-navigation-menu-link-title" href="https://www.nyu.edu/life.html" id="life"
+                        target="_self" aria-hidden="false" aria-controls="menu-life" tabindex="0"
+                        style="pointer-events: auto;">University Life</a>
+                    </div>
+                  </li>
+
+                  <li class="has-submenu">
+                    <div class="menu-title">
+                      <a class="main-navigation-menu-link-title" href="https://www.nyu.edu/research.html" id="research"
+                        target="_self" aria-hidden="false" aria-controls="menu-research" tabindex="0"
+                        style="pointer-events: auto;">Research</a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </nav>
+
+            <!-- <form class="main-navigation-search-form" action="/search.html" role="search" aria-label="Main Search"> -->
+            <form class="main-navigation-search-form" role="search" action="search.html" method="GET" class="search-form" aria-label="Main Search">            
+              <button type="button" role="button" class="search-toggle" onclick="toggleMobileSearchForm();"
+                aria-expanded="false">
+                <svg id="4625a2ed-b7e6-4a58-acbf-4a55ed388bf4" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 19.89 20">
+                  <path id="c2f7ebf4-9d56-4176-99e7-75c835b148bd" data-name="path3336"
+                    d="M15.38,17.9l-2.59-2.6-.51.31a8.56,8.56,0,0,1-4.7,1.11A8.15,8.15,0,0,1,.05,8.64,7.74,7.74,0,0,1,2.45,2.89,7.75,7.75,0,0,1,8.16.5,8.13,8.13,0,0,1,16.29,8a8.66,8.66,0,0,1-1.18,4.79l-.37.59L17.34,16l2.6,2.61-.93.93a13.26,13.26,0,0,1-1,.93s-1.22-1.17-2.65-2.6ZM9.51,14.27A5.84,5.84,0,0,0,10,3.07,6.37,6.37,0,0,0,6.43,3,6.65,6.65,0,0,0,4,4.49a5.85,5.85,0,0,0-.85,7.12,5,5,0,0,0,1.57,1.71,5.83,5.83,0,0,0,4.75.95Z"
+                    transform="translate(-0.05 -0.5)"></path>
+                </svg>
+                <span class="screen-reader-text">Search</span>
+              </button>
+
+              <!-- <label class="screen-reader-text" for="main-navigation-search">Search Site</label>
+              <input id="main-navigation-search" name="search" class="main-navigation-search-form-text-field"
+                type="text" onblur="toggleTopSearches();" onfocus="toggleTopSearches();" placeholder="Search"
+                autocomplete="off" aria-autocomplete="none"> -->
+                
+                      <input required value="" accesskey="q" id="query"
+                        name="query" class="search-field" type="text" placeholder="Search NYU">
+                      <input type="hidden" name="collection" value="nyu-all-meta-v02" />
+<!--                      
+<input type="hidden" name="daat" value="0" />
+<input type="hidden" name="fmo" value="1" />
+<input type="hidden" name="weight_only_fields" value="[K]" /> -->                     
+
+              <input class="main-navigation-search-form-submit" type="submit" value="Search NYU">
+            </form>
+          </div>
+
+          <div class="menu-mask"></div>
+        </header>
+        <!-- END NYU HEADER -->
+<main class="main initial-search" id="main-content" tabindex="-1">          <nav aria-label="Breadcrumbs" class="breadcrumb-wrapper">
+            <div class="breadcrumb-inner">
+              <ul class="breadcrumb-list">
+                <i class="fa fa-home" aria-hidden="true"></i>
+                <li class="breadcrumb-first">
+                  <a class="breadcrumb-link" href="https://www.nyu.edu/">
+                    NYU
+                  </a>
+                </li>
+                <li class="ellipsis" style="">
+                  <button class="ellipsis-foreground" aria-expanded="false">Expand Breadcrumbs</button>
+                  <div class="ellipsis-cta">Click to see full trail</div>
+                </li>
+                <li class="last">
+                  <span aria-current="page">
+                    Search NYU
+                  </span>
+                </li>
+              </ul>
+            </div>
+          </nav>
+
+          <div id="alertContainer"></div>
+
+
+        <h1 id="main-title" tabindex="-1" class="page-title">Search NYU</h1>
+        
+<!-- Start Search Box -->
+<div id="search-box" class="component-static">
+<div class="search-component nyusearch">
+<div class="search-form-container">
+<form action="search.html" method="GET" class="search-form">
+<div class="one-field-wrapper">
+<div class="one-field">
+<div class="input-container">
+<label for="search-form-field" class="screen-reader-text">Search</label>
+<!--<input required name="query" id="query" title="Search query" type="text" placeholder="Search nyu-all-meta-v02&hellip;" class="form-control input-lg query">-->
+<input required value=" " accesskey="q" id="query"
+name="query" class="search-field" type="text" placeholder="Search NYU">
+<input type="hidden" name="collection" value="nyu-all-meta-v02" />
+<!--
+<input type="hidden" name="daat" value="0" />
+<input type="hidden" name="fmo" value="1" />
+<input type="hidden" name="weight_only_fields" value="[K]" /> -->
+</div>
+<div class="submit-container">
+<input class="search-form-submit" type="submit" role="button" value="submit">
+<!--
+<input type="hidden" name="daat" value="0" />
+<input type="hidden" name="fmo" value="1" />
+<input type="hidden" name="weight_only_fields" value="[K]" /> -->
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<!-- End Search Box-->
+      </main>
+      <!-- NYU FOOTER -->
+      <footer class="main-footer footer" role="contentInfo">
+        <div class="footer-top-wrapper">
+          <div class="footer-content">
+            <ul class="footer-top-menu">
+              <li><a class="footer-top-menu-link" href="https://www.nyu.edu/search.html"
+                  target="_self">Search</a></li>
+              <li><a class="footer-top-menu-link" href="https://www.nyu.edu/footer/map.html"
+                  target="_self">Campus Map</a></li>
+              <li><a class="footer-top-menu-link" href="https://www.nyu.edu/footer/events.html"
+                  target="_self">Events</a></li>
+              <li><a class="footer-top-menu-link" href="https://www.nyu.edu/footer/contact-us.html"
+                  target="_self">Contact Us</a></li>
+              <li><a class="footer-top-menu-link"
+                  href="https://www.nyu.edu/footer/copyright-and-fair-use.html" target="_self">Copyright
+                  &amp; Fair Use</a></li>
+              <li><a class="footer-top-menu-link" href="https://www.nyu.edu/footer/accessibility.html"
+                  target="_self">Accessibility</a></li>
+              <li><a class="footer-top-menu-link" href="#feedback.html" target="_self">Feedback</a></li>
+            </ul>
+            <div class="connect-nyu">
+              <h6>Connect With NYU</h6>
+              <ul class="connect-nyu-menu">
+                <li><a target="_blank" class="social instagram"
+                    href="https://www.instagram.com/nyuniversity/">Instagram</a></li>
+                <li><a target="_blank" class="social twitter" href="https://twitter.com/nyuniversity">Twitter</a></li>
+                <li><a target="_blank" class="social facebook" href="https://www.facebook.com/NYU">Facebook</a></li>
+                <li><a target="_blank" class="social linkedin"
+                    href="https://www.linkedin.com/school/new-york-university/">LinkedIn</a></li>
+                <li class="last"><a target="_self" class="social youtube" href="https://www.youtube.com/user/nyu">YouTube</a></li>
+              </ul>
+            </div>
+            <div class="on-this-site">
+              <h6>On This Site</h6>
+              <ul class="on-this-site-menu">
+                <li><a class="on-this-site-menu-link" href="https://www.nyu.edu/about.html"
+                    target="_self">About NYU</a></li>
+                <li><a class="on-this-site-menu-link" href="https://www.nyu.edu/admissions.html"
+                    target="_self">Admissions</a></li>
+                <li><a class="on-this-site-menu-link" href="https://www.nyu.edu/academics.html"
+                    target="_self">Academics</a></li>
+                <li><a class="on-this-site-menu-link" href="https://www.nyu.edu/life.html"
+                    target="_self">University Life</a></li>
+                <li><a class="on-this-site-menu-link" href="https://www.nyu.edu/research.html"
+                    target="_self">Research</a></li>
+              </ul>
+            </div>
+            <div class="main-campuses">
+              <h6>Main Campuses</h6>
+              <ul class="main-campuses-menu">
+                <li><a class="main-campuses-menu-link" href="https://www.nyu.edu/" target="_self">New
+                    York</a>
+                <li><a class="main-campuses-menu-link" href="//nyuad.nyu.edu" target="_self">Abu Dhabi</a>
+                <li><a class="main-campuses-menu-link" href="//shanghai.nyu.edu" target="_self">Shanghai</a>
+              </ul>
+            </div><button class="expand-button"><span class="screen-reader-text">Toggle Footer Contents</span></button>
+          </div>
+        </div>
+        <div class="footer-bottom-wrapper">
+          <div class="footer-content">
+            <div class="footer-bottom-menu">
+              <div class="highlighted-item"><a href="https://www.nyu.edu/">New York University</a>
+              </div>
+              <ul>
+                <li><a class="footer-navigation-bottom-menu-link"
+                    href="https://www.nyu.edu/students.html" target="_self">Students</a></li>
+                <li><a class="footer-navigation-bottom-menu-link" href="https://www.nyu.edu/faculty.html"
+                    target="_self">Faculty</a></li>
+                <li><a class="footer-navigation-bottom-menu-link" href="https://www.nyu.edu/alumni.html"
+                    target="_self">Alumni</a></li>
+                <li><a class="footer-navigation-bottom-menu-link"
+                    href="https://www.nyu.edu/employees.html" target="_self">Employees</a></li>
+                <li><a class="footer-navigation-bottom-menu-link"
+                    href="https://www.nyu.edu/community.html" target="_self">Community</a></li>
+              </ul>
+            </div>
+            <div class="copyright">Unless otherwise noted, all content copyright New York University. All rights
+              reserved.</div>
+          </div>
+        </div>
+        <div class="feedback-form-component">
+          <div class="form-modal">
+            <div class="f-form-container">
+              <div class="f-header-container">
+                <h2>Feedback</h2>
+              </div>
+              <div class="nyu-message">Thank you for taking the time to give us feedback. Your feedback is essential to
+                helping us improve the website</div>
+              <div class="tab-choice">I have feedback for</div>
+              <ul class="tabs">
+                <li class="active"><a href="#" rel="#page-feedback" class="ftab">This Page</a></li>
+                <li><a href="#" rel="#overall-feedback" class="ftab">Overall</a></li>
+              </ul>
+              <div class="tab-content-container">
+                <div id="page-feedback" class="tab-content tab-content-active">
+                  <form id="page-feedback-form" class="form" enctype="multipart/form-data" method="POST"
+                    action="https://www.nyu.edu/scripts/feedback/forms/process-feedback.php"><label for="page-name"
+                      class="f-label">Name</label><input id="page-name" type="text" name="page-name"><label
+                      for="page-email" class="f-label">Email Address</label><input id="page-email" type="text"
+                      name="page-email"><label for="inaccurate-content" class="f-label">Note any inaccurate, missing or
+                      recommended content in this page?</label><textarea id="inaccurate-content"
+                      name="inaccurate-content" data-role="none"></textarea><label for="broken-links"
+                      class="f-label">Note any broken links, images, or technical features on this
+                      page?</label><textarea id="broken-links" name="broken-links" data-role="none"></textarea>
+                    <div class="form-note">Please complete at least one field before submitting your feedback</div>
+                    <input type="hidden" name="feedbackMode" value="page" /><input type="hidden" name="pageLocation"
+                      value="" /><input type="hidden" name="viewportSize" value="" /><input type="hidden"
+                      name="pagenode" value="https://www.nyu.edu/errors/404error" />
+                    <div class="caret-button submit-feedback"><input id="page-feedback-submit" type="submit"
+                        value="Submit Feedback" /></div>
+                  </form>
+                </div>
+                <div id="overall-feedback" class="tab-content">
+                  <form id="overall-feedback-form" class="form" enctype="multipart/form-data" method="POST"
+                    action="https://www.nyu.edu/scripts/feedback/forms/process-feedback.php"><label for="overall-name"
+                      class="f-label">Name</label><input id="overall-name" type="text" name="overall-name"><label
+                      for="overall-email" class="f-label">Email Address</label><input id="overall-email" type="text"
+                      name="overall-email">
+                    <fieldset>
+                      <legend class="f-label">How would you rate the information on the website</legend>
+                      <div class="radio-buttons"><input type="radio" name="rating" value="helpful" id="radio-1"
+                          data-role="none"><label for="radio-1">Helpful</label><input type="radio" name="rating"
+                          value="somewhat" id="radio-2" data-role="none"><label for="radio-2">Somewhat
+                          Helpful</label><input type="radio" name="rating" value="not-helpful" id="radio-3"
+                          data-role="none"><label for="radio-3">Not Helpful</label></div>
+                    </fieldset>
+                    <fieldset>
+                      <legend class="f-label">How would you rate the ease of use on this website</legend>
+                      <div class="radio-buttons"><input type="radio" name="difficulty" value="easy" id="radio-4"
+                          data-role="none"><label for="radio-4">Easy</label><input type="radio" name="difficulty"
+                          value="somewhat" id="radio-5" data-role="none"><label for="radio-5">Somewhat
+                          Easy</label><input type="radio" name="difficulty" value="difficult" id="radio-6"
+                          data-role="none"><label for="radio-6">Difficult</label></div>
+                    </fieldset><label for="likes" class="f-label">What do you like most about the
+                      website?</label><textarea id="likes" name="likes" data-role="none"></textarea><label
+                      for="dislikes" class="f-label">What do you dislike most about the website?</label><textarea
+                      id="dislikes" name="dislikes" data-role="none"></textarea><label for="added-functionality"
+                      class="f-label">What content/functionality would you like to see added to the
+                      website?</label><textarea id="added-functionality" name="added-functionality"
+                      data-role="none"></textarea>
+                    <div class="form-note">Please complete at least one field before submitting your feedback</div>
+                    <input type="hidden" name="feedbackMode" value="overall"><input type="hidden" name="pageLocation"
+                      value="" /><input type="hidden" name="viewportSize" value="" />
+                    <div class="caret-button submit-feedback"><input id="overall-feedback-submit" type="submit"
+                        value="Submit Feedback" /></div>
+                  </form>
+                </div>
+              </div>
+              <div class="f-footer-container">
+                <hr class="divider" /><button type="button" class="close-button">Close</button></div><button
+                type="button" class="cbutton"><span class="screen-reader-text">Close Feedback Form</span></button>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <!-- END NYU FOOTER -->
+
+      <script src="resources-global/js/jquery/jquery-1.10.2.min.js"></script>
+      <script src="resources-global/thirdparty/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+
+        <script src="resources-global/thirdparty/typeahead-0.11.1/typeahead.bundle.min.js"></script>
+        <script src="resources-global/thirdparty/handlebars-4.0.5/handlebars.min.js"></script>
+        <script src="resources-global/js/funnelback.autocompletion-2.6.0.js"></script>
+        <script>
+          jQuery(document).ready(function () {
+            jQuery('input.query').autocompletion({
+              datasets: {
+                      organic: {
+                    collection: 'nyu-all-meta-v02',
+                    profile: '_default',
+                    program: 'suggest.json',
+                    format: 'extended',
+                    alpha: '0.5',
+                    show: '10',
+                    sort: '0',
+                    group: true
+                  },
+              },
+              typeahead: { hint: true },
+              
+            });
+          });
+        </script>
+
+
+      <script>
+        var nyu$ = jQuery; 
+        jQuery(document).ready(function () {
+          // jQuery.widget.bridge('uitooltip', jQuery.ui.tooltip);
+          //jQuery('[data-toggle=tooltip]').tooltip({ 'html': true });
+          jQuery('.search-geolocation').click(function () {
+            try {
+              navigator.geolocation.getCurrentPosition(function (position) {
+                // Success
+                var latitude = Math.ceil(position.coords.latitude * 10000) / 10000;
+                var longitude = Math.ceil(position.coords.longitude * 10000) / 10000;
+                var origin = latitude + ',' + longitude;
+                jQuery('#origin').val(origin);
+              }, function (error) {
+                // Error
+              }, { enableHighAccuracy: true });
+            } catch (e) {
+              alert('Your web browser doesn\'t support this feature');
+            }
+          });
+
+          if(jQuery('#search-facets').text().trim().length <1) {
+            jQuery('#search-facets').html("");
+          }
+        });
+        
+      </script>
+      <script src="https://www.nyu.edu/etc/designs/nyuseventy/clientlib.js"></script>
+      </div>
+      
+<script src="//globalnav.digicomm.nyu.edu/v2.7.2/global-nav.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+		globalNavObject.init({
+			logoPathDesktop: '',
+			logoPathMobile: '',
+			logoAlt: 'New York University',
+			searchFormMethod: 'GET',
+			searchInputName: 'q',
+			searchPlaceholder: 'SEARCH NYU',
+			searchEnabled: false,
+			breakPoints: {
+				desktop: 930,
+				tablet: 690,
+				phone: 290
+			},
+			isResponsive: true,
+			covidInfoEnabled: true,
+          	covidInfoPage: '//nyu.edu/coronavirus',
+		});
+        
+        $('.facet-collapse').click(function(e) {
+            e.preventDefault();
+        });
+	});
+</script>
+
+    </body>
+
+    </html>

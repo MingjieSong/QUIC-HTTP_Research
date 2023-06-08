@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Albert Login</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="en-us" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="nyuicon.ico" rel="Shortcut Icon" />
+    <script type="text/javascript"></script>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        /*background-color: #FFFFFF;*/
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: Helvetica, sans-serif !important;
+        color: #3d4d5d;
+        font-size: 14px;
+        font-weight: normal;
+        margin: 0 !important;
+        -webkit-text-size-adjust: none;
+        min-width: 480px;
+      }
+
+      .pageTitle {
+        font-size: 50px;
+        font-weight: bold;
+        margin-left: 10%;
+        margin-right: 20%;
+        margin-top: 35px;
+      }
+
+      .textBoxContainer {
+        display: inline-block;
+        background-color: #f6f6f6;
+        text-align: center;
+        min-width: 480px;
+        max-width: 500px;
+        vertical-align: top;
+        padding: 10px;
+        margin-bottom: 25px;
+        margin-top: 25px;
+      }
+
+      .textBox {
+        padding: 20px;
+        text-align: left;
+        vertical-align: middle;
+        display: inline-block;
+      }
+
+      .buttonLink {
+        width: 300px;
+        display: block;
+        background: #ffffff;
+        background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+        background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+        background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+        background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+        background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0px;
+        color: #008769;
+        font-size: 23px;
+        padding: 10px 20px 10px 20px;
+        border: solid #008769 1px;
+        text-decoration: none;
+      }
+
+      .buttonLink:hover {
+        width: 300px;
+        display: block;
+        background: #ffffff;
+        background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+        background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+        background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+        background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+        background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0px;
+        color: #15a885;
+        font-size: 23px;
+        padding: 10px 20px 10px 20px;
+        border: solid #15a885 1px;
+        text-decoration: none;
+      }
+
+      .headerContent {
+        background-color: #57068c;
+        height: 60px;
+      }
+
+      .headerLogo {
+        max-width: 80%;
+        max-height: 80%;
+        padding-top: 8px;
+        margin-left: 10%;
+        margin-right: 20%;
+      }
+
+      .centerContent {
+        text-align: center;
+        margin: 10px auto;
+        padding: 10px;
+        min-width: 480px;
+        max-width: 1470px;
+      }
+
+      .shadow {
+        -webkit-box-shadow: 0 0 5px rgba(50, 50, 50, 0.5);
+        -moz-box-shadow: 0 0 5px rgba(50, 50, 50, 0.5);
+        box-shadow: 0 0 5px rgba(50, 50, 50, 0.5);
+      }
+
+      .rounded {
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+      }
+
+      #login_help {
+        color: #000000;
+        text-align: left;
+        font-size: medium;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      #announce_outage {
+        color: #9b0000;
+        text-align: left;
+        font-size: medium;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 3%;
+        font-weight: bold;
+      }
+      #login_help > p {
+        padding-top: 2%;
+      }
+      .textBox > div {
+        padding-top: 4%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <main>
+      <div id="header" class="headerContent">
+        <img class="headerLogo" alt="NYU logo image" src="logo.png" />
+      </div>
+
+      <h1>
+        <div id="albert" class="pageTitle">Albert Login</div>
+      </h1>
+
+      <div class="centerContent">
+        <div id="announcement" class="announcementContent">
+        <!--
+          <div id="login_help">
+            <p>
+              It is recommended to use the latest browser version and avoid
+              using the ‘Edge’ browser.
+            </p>
+            <p>
+              For users who constantly run into login issues, it is recommended
+              to launch a new browser session and then log into Albert from NYU
+              Home. This will make sure that shibboleth login is good and reduce
+              the risk of cookies getting corrupted.
+            </p>
+            <p>
+              For additional help, you can
+              <a
+                href="https://nyu.service-now.com/sp?id=search&amp;spa=1&amp;q=Albert"
+                target="_blank"
+                >browse NYU Servicelink Knowlegebase Articles related to
+                Albert</a
+              >.
+            </p>
+          </div>
+        -->
+        <!--
+          <div
+            id="announce_outage">
+            Due to required system maintenance, Albert and Albert Mobile will be
+            unavailable from 5pm to 10pm ET on Friday, June 2, 2023. We
+            apologize for any inconvenience this may cause.
+          </div>
+        </div>
+        -->
+        <div class="textBoxContainer shadow rounded">
+          <div class="textBox" style="font-size: medium">
+            Sign in below to access the Albert portal, or search the public
+            course catalog (no sign-in required).
+          </div>
+
+          <div class="textBox">
+            <div>
+              <a
+                href="https://sis.portal.nyu.edu/psp/ihprod/EMPLOYEE/EMPL/?cmd=start"
+                class="buttonLink"
+                >Sign in to Albert</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://sis.nyu.edu/psc/csprod/EMPLOYEE/SA/c/NYU_SR.NYU_CLS_SRCH.GBL"
+                class="buttonLink"
+                >Public Course Search</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://bulletins.nyu.edu/course-search/"
+                class="buttonLink"
+                >New Beta Class Search</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/albert-help.html"
+                class="buttonLink"
+                >Albert Help</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

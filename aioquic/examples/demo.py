@@ -17,7 +17,7 @@ from starlette.types import Receive, Scope, Send
 from starlette.websockets import WebSocketDisconnect
 
 ROOT = os.path.dirname(__file__)
-STATIC_ROOT = os.environ.get("STATIC_ROOT", os.path.join(ROOT, "htddocsUCSD"))
+STATIC_ROOT = os.environ.get("STATIC_ROOT", os.path.join(ROOT, "htdocsNYU"))
 STATIC_URL = "/"
 LOGS_PATH = os.path.join(STATIC_ROOT, "logs")
 QVIS_URL = "https://qvis.quictools.info/"
