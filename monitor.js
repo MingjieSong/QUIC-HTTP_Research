@@ -60,7 +60,7 @@ CDP(async (client) => {
     });
                           
   // Navigate to the desi red website
-  await Page.navigate({ url: 'https://10.10.1.2:8000/' }); //https://10.10.1.2:4433/
+  await Page.navigate({ url: 'https://10.10.1.2:4433/' }); //https://10.10.1.2:4433/
   await Page.loadEventFired();
 
     const totalTimeElapsed = lastRequestTimestamp - firstRequestTimestamp;
@@ -74,7 +74,7 @@ CDP(async (client) => {
 	    throughput, 
     });
   // Write network data to a file
-  const fileName = 'network_inspect_h11_test.json';
+  const fileName = 'network_inspect_quic_nyu.json';
   fs.writeFile(fileName,  JSON.stringify(networkData, null, 2), (err) => {
     if (err) {            
       console.error('Error writing network data:', err);
