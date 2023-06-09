@@ -74,7 +74,7 @@ CDP(async (client) => {
 	    throughput, 
     });
   // Write network data to a file
-  const fileName = 'network_inspect_h1_nyu.json';
+  const fileName = 'network_inspect_h1_tbf50k32k70ms_ucsd.json';
   fs.writeFile(fileName,  JSON.stringify(networkData, null, 2), (err) => {
     if (err) {            
       console.error('Error writing network data:', err);
