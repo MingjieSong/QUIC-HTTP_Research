@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Healthy Living: Senior Resources</title>
+    <link>https://www.latimes.com/seniorresources</link>
+    <description>Healthy Living: Senior Resources</description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Apr 2023 20:20:23 GMT</lastBuildDate>
+    <atom:link href="https://www.latimes.com/seniorresources.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

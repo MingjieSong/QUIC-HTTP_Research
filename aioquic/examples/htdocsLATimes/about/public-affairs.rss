@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Public Affairs</title>
+    <link>https://www.latimes.com/about/public-affairs</link>
+    <description>Public Affairs</description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 02 Jun 2023 19:47:16 GMT</lastBuildDate>
+    <atom:link href="https://www.latimes.com/about/public-affairs.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

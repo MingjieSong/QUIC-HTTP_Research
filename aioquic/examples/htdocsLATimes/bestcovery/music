@@ -1,0 +1,2173 @@
+<!DOCTYPE html>
+<html class="SectionPage" lang="en" itemscope itemtype="http://schema.org/WebPage">
+<head>
+    <meta charset="UTF-8">
+
+    <style data-cssvarsponyfill="true">
+                :root {
+        --primaryColor1: #4079ad;
+        --primaryColor2: #000000;
+
+        --primaryTextColor: #333333;
+        --secondaryTextColor: #4079ad;
+        --breakingColor: #e9873f;
+
+        --secondaryColor1: #858585;
+        --secondaryColor2: #cccccc;
+        --secondaryColor3: #e6e6e6;
+        --secondaryColor4: #f5f5f5;
+        --secondaryColor5: #ffffff;
+        --secondaryColor6: #e12327;
+        --secondaryColor7: #4079ad;
+        --secondaryColor8: #202f3f;
+        --secondaryColor9: #666666;
+
+        --siteBgColor: #ffffff;
+        --siteInverseBgColor: #000000;
+
+        --headerBgColor: #ffffff;
+        --headerBgColorInverse: #000000;
+        --headerBorderColor: #e6e6e6;
+        --headerBorderColorInverse: #858585;
+        --headerTextColor: #333333;
+        --headerTextColorInverse: #ffffff;
+        --headerMenuBgColor: #ffffff;
+        --headerMenuTextColor: #ffffff;
+
+        --secondaryHeaderBgColor: #ffffff;
+        --secondaryHeaderTextColor: #333333;
+
+        --footerBgColor: #000000;
+        --footerTextColor: #ffffff;
+
+        --primaryTextColorInverse: #ffffff;
+        --secondaryTextColorInverse: #cccccc;
+        --tertiaryTextColor: #999999;
+        --tertiaryTextColorInverse: #cccccc;
+
+        --listBorderColor: #000000;
+        --gridBorderColor: #e6e6e6;
+
+        --buttonBgColor: #4079ad;
+        --buttonSecondaryBgColor: #ffffff;
+        --buttonSecondaryTextColor: #333333;
+        --buttonTextColor: #ffffff;
+        --inverseButtonBgColor: #030202;
+        --tagButtonBorderColor: #e6e6e6;
+        --tagButtonTextColor: #ff6f00;
+
+        --breakingTextColor: #ffffff;
+
+        --sectionTextColor: #ff6f00;
+
+        --primaryHeadlineFont: Oswald;
+        --secondaryHeadlineFont: Oswald;
+        --bodyFont: Roboto;
+
+        --contentWidth: 1200px;
+        }
+
+    </style>
+
+    
+
+    <meta property="og:title" content="Music">
+
+    <meta property="og:url" content="https://www.latimes.com/bestcovery/music">
+
+
+    <meta property="og:site_name" content="Bestcovery">
+
+
+
+    <meta property="og:type" content="website">
+
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    <meta name="twitter:title" content="Music"/>
+    
+
+
+    <link data-cssvarsponyfill="true" class="Webpack-css" rel="stylesheet" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/All.min.4d29e7a04ca97ea10a5aedec469cda49.css">
+
+    <style>.Page-above {
+    display: block !important;
+}
+
+.InfoBoxBody {
+	font-size: 14px;
+}</style>
+<style>.SectionPage .RichTextBody table {
+    max-width: 838px;
+}
+
+.SectionPage .RichTextBody table tr:first-child, .SectionPage .RichTextBody .table-h {
+    white-space:nowrap;
+    background: #f5f5f5;
+}
+
+.SectionPage .RichTextBody table, .SectionPage .RichTextBody th, .SectionPage .RichTextBody td {
+    border: 1px solid rgba(0,31,63,.08);
+}
+
+.SectionPage .RichTextBody th, .SectionPage .RichTextBody td {
+	padding: 5px 10px;
+}</style>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"><title>Music - Bestcovery</title><link rel="canonical" href="https://www.latimes.com/bestcovery/music"><meta name="brightspot.contentId" content="0000016e-6532-d2e1-a3fe-753b072b0000"><link rel="apple-touch-icon" sizes="180x180" href="/styleguide/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/favicon-32x32.bf34a9f07d94299a7699e16042ef11fd.png">
+<link rel="icon" type="image/png" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/favicon-16x16.9f124a4f6e59c7927104889e0167e7ef.png">
+    <link type="application/rss+xml" rel="alternate" title="Music" href="https://www.latimes.com/bestcovery/music.rss"><script>var _lb = '1';</script>
+<script src="https://activate.platform.californiatimes.com/caltimes/bestcovery/Bootstrap.js" async></script>
+
+
+    
+
+    <!--This is needed for custom elements to function in browsers that
+    support them natively but that are using es6 code transpiled to es5.
+    This will cause a non-fatal error to show up in the IE11 console.
+    It can be safely ignored. https://github.com/webcomponents/webcomponentsjs/issues/749 -->
+    <script>
+        (function () {
+        'use strict';
+
+        (()=>{'use strict';if(!window.customElements)return;const a=window.HTMLElement,b=window.customElements.define,c=window.customElements.get,d=new Map,e=new Map;let f=!1,g=!1;window.HTMLElement=function(){if(!f){const a=d.get(this.constructor),b=c.call(window.customElements,a);g=!0;const e=new b;return e}f=!1;},window.HTMLElement.prototype=a.prototype;Object.defineProperty(window,'customElements',{value:window.customElements,configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'define',{value:(c,h)=>{const i=h.prototype,j=class extends a{constructor(){super(),Object.setPrototypeOf(this,i),g||(f=!0,h.call(this)),g=!1;}},k=j.prototype;j.observedAttributes=h.observedAttributes,k.connectedCallback=i.connectedCallback,k.disconnectedCallback=i.disconnectedCallback,k.attributeChangedCallback=i.attributeChangedCallback,k.adoptedCallback=i.adoptedCallback,d.set(h,c),e.set(c,h),b.call(window.customElements,c,j);},configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'get',{value:(a)=>e.get(a),configurable:!0,writable:!0});})();
+
+        /**
+        @license
+        Copyright (c) 2017 The Polymer Project Authors. All rights reserved.
+        This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+        The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+        The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+        Code distributed by Google as part of the polymer project is also
+        subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+        */
+        }());
+    </script>
+    <script>
+        /**
+            For the fastest load times https://developers.google.com/speed/docs/insights/BlockingJS
+            and to prevent any FOUC, as well as prevent any race conditions for browsers that also
+            rely on the CSS variables polyfill, this is inlined.
+        **/
+        if (!window.customElements) {
+            (function(){
+                'use strict';var h=new function(){};var aa=new Set("annotation-xml color-profile font-face font-face-src font-face-uri font-face-format font-face-name missing-glyph".split(" "));function m(b){var a=aa.has(b);b=/^[a-z][.0-9_a-z]*-[\-.0-9_a-z]*$/.test(b);return!a&&b}function n(b){var a=b.isConnected;if(void 0!==a)return a;for(;b&&!(b.__CE_isImportDocument||b instanceof Document);)b=b.parentNode||(window.ShadowRoot&&b instanceof ShadowRoot?b.host:void 0);return!(!b||!(b.__CE_isImportDocument||b instanceof Document))}
+                function p(b,a){for(;a&&a!==b&&!a.nextSibling;)a=a.parentNode;return a&&a!==b?a.nextSibling:null}
+                function t(b,a,c){c=c?c:new Set;for(var d=b;d;){if(d.nodeType===Node.ELEMENT_NODE){var e=d;a(e);var f=e.localName;if("link"===f&&"import"===e.getAttribute("rel")){d=e.import;if(d instanceof Node&&!c.has(d))for(c.add(d),d=d.firstChild;d;d=d.nextSibling)t(d,a,c);d=p(b,e);continue}else if("template"===f){d=p(b,e);continue}if(e=e.__CE_shadowRoot)for(e=e.firstChild;e;e=e.nextSibling)t(e,a,c)}d=d.firstChild?d.firstChild:p(b,d)}}function u(b,a,c){b[a]=c};function v(){this.a=new Map;this.s=new Map;this.f=[];this.b=!1}function ba(b,a,c){b.a.set(a,c);b.s.set(c.constructor,c)}function w(b,a){b.b=!0;b.f.push(a)}function x(b,a){b.b&&t(a,function(a){return y(b,a)})}function y(b,a){if(b.b&&!a.__CE_patched){a.__CE_patched=!0;for(var c=0;c<b.f.length;c++)b.f[c](a)}}function z(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state?b.connectedCallback(d):A(b,d)}}
+                function B(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state&&b.disconnectedCallback(d)}}
+                function C(b,a,c){c=c?c:{};var d=c.w||new Set,e=c.i||function(a){return A(b,a)},f=[];t(a,function(a){if("link"===a.localName&&"import"===a.getAttribute("rel")){var c=a.import;c instanceof Node&&(c.__CE_isImportDocument=!0,c.__CE_hasRegistry=!0);c&&"complete"===c.readyState?c.__CE_documentLoadHandled=!0:a.addEventListener("load",function(){var c=a.import;if(!c.__CE_documentLoadHandled){c.__CE_documentLoadHandled=!0;var f=new Set(d);f.delete(c);C(b,c,{w:f,i:e})}})}else f.push(a)},d);if(b.b)for(a=0;a<
+                f.length;a++)y(b,f[a]);for(a=0;a<f.length;a++)e(f[a])}
+                function A(b,a){if(void 0===a.__CE_state){var c=a.ownerDocument;if(c.defaultView||c.__CE_isImportDocument&&c.__CE_hasRegistry)if(c=b.a.get(a.localName)){c.constructionStack.push(a);var d=c.constructor;try{try{if(new d!==a)throw Error("The custom element constructor did not produce the element being upgraded.");}finally{c.constructionStack.pop()}}catch(r){throw a.__CE_state=2,r;}a.__CE_state=1;a.__CE_definition=c;if(c.attributeChangedCallback)for(c=c.observedAttributes,d=0;d<c.length;d++){var e=c[d],
+                        f=a.getAttribute(e);null!==f&&b.attributeChangedCallback(a,e,null,f,null)}n(a)&&b.connectedCallback(a)}}}v.prototype.connectedCallback=function(b){var a=b.__CE_definition;a.connectedCallback&&a.connectedCallback.call(b)};v.prototype.disconnectedCallback=function(b){var a=b.__CE_definition;a.disconnectedCallback&&a.disconnectedCallback.call(b)};
+                v.prototype.attributeChangedCallback=function(b,a,c,d,e){var f=b.__CE_definition;f.attributeChangedCallback&&-1<f.observedAttributes.indexOf(a)&&f.attributeChangedCallback.call(b,a,c,d,e)};function D(b,a){this.c=b;this.a=a;this.b=void 0;C(this.c,this.a);"loading"===this.a.readyState&&(this.b=new MutationObserver(this.f.bind(this)),this.b.observe(this.a,{childList:!0,subtree:!0}))}function E(b){b.b&&b.b.disconnect()}D.prototype.f=function(b){var a=this.a.readyState;"interactive"!==a&&"complete"!==a||E(this);for(a=0;a<b.length;a++)for(var c=b[a].addedNodes,d=0;d<c.length;d++)C(this.c,c[d])};function ca(){var b=this;this.b=this.a=void 0;this.f=new Promise(function(a){b.b=a;b.a&&a(b.a)})}function F(b){if(b.a)throw Error("Already resolved.");b.a=void 0;b.b&&b.b(void 0)};function G(b){this.j=!1;this.c=b;this.o=new Map;this.l=function(b){return b()};this.g=!1;this.m=[];this.u=new D(b,document)}
+                G.prototype.define=function(b,a){var c=this;if(!(a instanceof Function))throw new TypeError("Custom element constructors must be functions.");if(!m(b))throw new SyntaxError("The element name '"+b+"' is not valid.");if(this.c.a.get(b))throw Error("A custom element with name '"+b+"' has already been defined.");if(this.j)throw Error("A custom element is already being defined.");this.j=!0;var d,e,f,r,k;try{var g=function(b){var a=l[b];if(void 0!==a&&!(a instanceof Function))throw Error("The '"+b+"' callback must be a function.");
+                    return a},l=a.prototype;if(!(l instanceof Object))throw new TypeError("The custom element constructor's prototype is not an object.");d=g("connectedCallback");e=g("disconnectedCallback");f=g("adoptedCallback");r=g("attributeChangedCallback");k=a.observedAttributes||[]}catch(q){return}finally{this.j=!1}a={localName:b,constructor:a,connectedCallback:d,disconnectedCallback:e,adoptedCallback:f,attributeChangedCallback:r,observedAttributes:k,constructionStack:[]};ba(this.c,b,a);this.m.push(a);this.g||
+                (this.g=!0,this.l(function(){return da(c)}))};G.prototype.i=function(b){C(this.c,b)};function da(b){if(!1!==b.g){b.g=!1;for(var a=b.m,c=[],d=new Map,e=0;e<a.length;e++)d.set(a[e].localName,[]);C(b.c,document,{i:function(a){if(void 0===a.__CE_state){var e=a.localName,f=d.get(e);f?f.push(a):b.c.a.get(e)&&c.push(a)}}});for(e=0;e<c.length;e++)A(b.c,c[e]);for(;0<a.length;){for(var f=a.shift(),e=f.localName,f=d.get(f.localName),r=0;r<f.length;r++)A(b.c,f[r]);(e=b.o.get(e))&&F(e)}}}
+                G.prototype.get=function(b){if(b=this.c.a.get(b))return b.constructor};G.prototype.whenDefined=function(b){if(!m(b))return Promise.reject(new SyntaxError("'"+b+"' is not a valid custom element name."));var a=this.o.get(b);if(a)return a.f;a=new ca;this.o.set(b,a);this.c.a.get(b)&&!this.m.some(function(a){return a.localName===b})&&F(a);return a.f};G.prototype.v=function(b){E(this.u);var a=this.l;this.l=function(c){return b(function(){return a(c)})}};window.CustomElementRegistry=G;
+                G.prototype.define=G.prototype.define;G.prototype.upgrade=G.prototype.i;G.prototype.get=G.prototype.get;G.prototype.whenDefined=G.prototype.whenDefined;G.prototype.polyfillWrapFlushCallback=G.prototype.v;var H=window.Document.prototype.createElement,ea=window.Document.prototype.createElementNS,fa=window.Document.prototype.importNode,ga=window.Document.prototype.prepend,ha=window.Document.prototype.append,ia=window.DocumentFragment.prototype.prepend,ja=window.DocumentFragment.prototype.append,I=window.Node.prototype.cloneNode,J=window.Node.prototype.appendChild,K=window.Node.prototype.insertBefore,L=window.Node.prototype.removeChild,M=window.Node.prototype.replaceChild,N=Object.getOwnPropertyDescriptor(window.Node.prototype,
+                        "textContent"),O=window.Element.prototype.attachShadow,P=Object.getOwnPropertyDescriptor(window.Element.prototype,"innerHTML"),Q=window.Element.prototype.getAttribute,R=window.Element.prototype.setAttribute,S=window.Element.prototype.removeAttribute,T=window.Element.prototype.getAttributeNS,U=window.Element.prototype.setAttributeNS,ka=window.Element.prototype.removeAttributeNS,la=window.Element.prototype.insertAdjacentElement,ma=window.Element.prototype.insertAdjacentHTML,na=window.Element.prototype.prepend,
+                        oa=window.Element.prototype.append,V=window.Element.prototype.before,pa=window.Element.prototype.after,qa=window.Element.prototype.replaceWith,ra=window.Element.prototype.remove,sa=window.HTMLElement,W=Object.getOwnPropertyDescriptor(window.HTMLElement.prototype,"innerHTML"),ta=window.HTMLElement.prototype.insertAdjacentElement,ua=window.HTMLElement.prototype.insertAdjacentHTML;function va(){var b=X;window.HTMLElement=function(){function a(){var a=this.constructor,d=b.s.get(a);if(!d)throw Error("The custom element being constructed was not registered with `customElements`.");var e=d.constructionStack;if(!e.length)return e=H.call(document,d.localName),Object.setPrototypeOf(e,a.prototype),e.__CE_state=1,e.__CE_definition=d,y(b,e),e;var d=e.length-1,f=e[d];if(f===h)throw Error("The HTMLElement constructor was either called reentrantly for this constructor or called multiple times.");
+                    e[d]=h;Object.setPrototypeOf(f,a.prototype);y(b,f);return f}a.prototype=sa.prototype;return a}()};function Y(b,a,c){function d(a){return function(c){for(var e=[],d=0;d<arguments.length;++d)e[d-0]=arguments[d];for(var d=[],f=[],l=0;l<e.length;l++){var q=e[l];q instanceof Element&&n(q)&&f.push(q);if(q instanceof DocumentFragment)for(q=q.firstChild;q;q=q.nextSibling)d.push(q);else d.push(q)}a.apply(this,e);for(e=0;e<f.length;e++)B(b,f[e]);if(n(this))for(e=0;e<d.length;e++)f=d[e],f instanceof Element&&z(b,f)}}c.h&&(a.prepend=d(c.h));c.append&&(a.append=d(c.append))};function wa(){var b=X;u(Document.prototype,"createElement",function(a){if(this.__CE_hasRegistry){var c=b.a.get(a);if(c)return new c.constructor}a=H.call(this,a);y(b,a);return a});u(Document.prototype,"importNode",function(a,c){a=fa.call(this,a,c);this.__CE_hasRegistry?C(b,a):x(b,a);return a});u(Document.prototype,"createElementNS",function(a,c){if(this.__CE_hasRegistry&&(null===a||"http://www.w3.org/1999/xhtml"===a)){var d=b.a.get(c);if(d)return new d.constructor}a=ea.call(this,a,c);y(b,a);return a});
+                    Y(b,Document.prototype,{h:ga,append:ha})};function xa(){var b=X;function a(a,d){Object.defineProperty(a,"textContent",{enumerable:d.enumerable,configurable:!0,get:d.get,set:function(a){if(this.nodeType===Node.TEXT_NODE)d.set.call(this,a);else{var e=void 0;if(this.firstChild){var c=this.childNodes,k=c.length;if(0<k&&n(this))for(var e=Array(k),g=0;g<k;g++)e[g]=c[g]}d.set.call(this,a);if(e)for(a=0;a<e.length;a++)B(b,e[a])}}})}u(Node.prototype,"insertBefore",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);
+                    a=K.call(this,a,d);if(n(this))for(d=0;d<e.length;d++)z(b,e[d]);return a}e=n(a);d=K.call(this,a,d);e&&B(b,a);n(this)&&z(b,a);return d});u(Node.prototype,"appendChild",function(a){if(a instanceof DocumentFragment){var c=Array.prototype.slice.apply(a.childNodes);a=J.call(this,a);if(n(this))for(var e=0;e<c.length;e++)z(b,c[e]);return a}c=n(a);e=J.call(this,a);c&&B(b,a);n(this)&&z(b,a);return e});u(Node.prototype,"cloneNode",function(a){a=I.call(this,a);this.ownerDocument.__CE_hasRegistry?C(b,a):x(b,a);
+                    return a});u(Node.prototype,"removeChild",function(a){var c=n(a),e=L.call(this,a);c&&B(b,a);return e});u(Node.prototype,"replaceChild",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);a=M.call(this,a,d);if(n(this))for(B(b,d),d=0;d<e.length;d++)z(b,e[d]);return a}var e=n(a),f=M.call(this,a,d),c=n(this);c&&B(b,d);e&&B(b,a);c&&z(b,a);return f});N&&N.get?a(Node.prototype,N):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){for(var a=[],b=
+                            0;b<this.childNodes.length;b++)a.push(this.childNodes[b].textContent);return a.join("")},set:function(a){for(;this.firstChild;)L.call(this,this.firstChild);J.call(this,document.createTextNode(a))}})})};function ya(b){var a=Element.prototype;function c(a){return function(e){for(var c=[],d=0;d<arguments.length;++d)c[d-0]=arguments[d];for(var d=[],k=[],g=0;g<c.length;g++){var l=c[g];l instanceof Element&&n(l)&&k.push(l);if(l instanceof DocumentFragment)for(l=l.firstChild;l;l=l.nextSibling)d.push(l);else d.push(l)}a.apply(this,c);for(c=0;c<k.length;c++)B(b,k[c]);if(n(this))for(c=0;c<d.length;c++)k=d[c],k instanceof Element&&z(b,k)}}V&&(a.before=c(V));V&&(a.after=c(pa));qa&&u(a,"replaceWith",function(a){for(var e=
+                        [],c=0;c<arguments.length;++c)e[c-0]=arguments[c];for(var c=[],d=[],k=0;k<e.length;k++){var g=e[k];g instanceof Element&&n(g)&&d.push(g);if(g instanceof DocumentFragment)for(g=g.firstChild;g;g=g.nextSibling)c.push(g);else c.push(g)}k=n(this);qa.apply(this,e);for(e=0;e<d.length;e++)B(b,d[e]);if(k)for(B(b,this),e=0;e<c.length;e++)d=c[e],d instanceof Element&&z(b,d)});ra&&u(a,"remove",function(){var a=n(this);ra.call(this);a&&B(b,this)})};function za(){var b=X;function a(a,c){Object.defineProperty(a,"innerHTML",{enumerable:c.enumerable,configurable:!0,get:c.get,set:function(a){var e=this,d=void 0;n(this)&&(d=[],t(this,function(a){a!==e&&d.push(a)}));c.set.call(this,a);if(d)for(var f=0;f<d.length;f++){var r=d[f];1===r.__CE_state&&b.disconnectedCallback(r)}this.ownerDocument.__CE_hasRegistry?C(b,this):x(b,this);return a}})}function c(a,c){u(a,"insertAdjacentElement",function(a,e){var d=n(e);a=c.call(this,a,e);d&&B(b,e);n(a)&&z(b,e);
+                    return a})}function d(a,c){function e(a,e){for(var c=[];a!==e;a=a.nextSibling)c.push(a);for(e=0;e<c.length;e++)C(b,c[e])}u(a,"insertAdjacentHTML",function(a,b){a=a.toLowerCase();if("beforebegin"===a){var d=this.previousSibling;c.call(this,a,b);e(d||this.parentNode.firstChild,this)}else if("afterbegin"===a)d=this.firstChild,c.call(this,a,b),e(this.firstChild,d);else if("beforeend"===a)d=this.lastChild,c.call(this,a,b),e(d||this.firstChild,null);else if("afterend"===a)d=this.nextSibling,c.call(this,
+                        a,b),e(this.nextSibling,d);else throw new SyntaxError("The value provided ("+String(a)+") is not one of 'beforebegin', 'afterbegin', 'beforeend', or 'afterend'.");})}O&&u(Element.prototype,"attachShadow",function(a){return this.__CE_shadowRoot=a=O.call(this,a)});P&&P.get?a(Element.prototype,P):W&&W.get?a(HTMLElement.prototype,W):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){return I.call(this,!0).innerHTML},set:function(a){var b="template"===this.localName,e=b?this.content:this,
+                            c=H.call(document,this.localName);for(c.innerHTML=a;0<e.childNodes.length;)L.call(e,e.childNodes[0]);for(a=b?c.content:c;0<a.childNodes.length;)J.call(e,a.childNodes[0])}})});u(Element.prototype,"setAttribute",function(a,c){if(1!==this.__CE_state)return R.call(this,a,c);var e=Q.call(this,a);R.call(this,a,c);c=Q.call(this,a);b.attributeChangedCallback(this,a,e,c,null)});u(Element.prototype,"setAttributeNS",function(a,c,d){if(1!==this.__CE_state)return U.call(this,a,c,d);var e=T.call(this,a,c);U.call(this,
+                        a,c,d);d=T.call(this,a,c);b.attributeChangedCallback(this,c,e,d,a)});u(Element.prototype,"removeAttribute",function(a){if(1!==this.__CE_state)return S.call(this,a);var c=Q.call(this,a);S.call(this,a);null!==c&&b.attributeChangedCallback(this,a,c,null,null)});u(Element.prototype,"removeAttributeNS",function(a,c){if(1!==this.__CE_state)return ka.call(this,a,c);var d=T.call(this,a,c);ka.call(this,a,c);var e=T.call(this,a,c);d!==e&&b.attributeChangedCallback(this,c,d,e,a)});ta?c(HTMLElement.prototype,
+                        ta):la?c(Element.prototype,la):console.warn("Custom Elements: `Element#insertAdjacentElement` was not patched.");ua?d(HTMLElement.prototype,ua):ma?d(Element.prototype,ma):console.warn("Custom Elements: `Element#insertAdjacentHTML` was not patched.");Y(b,Element.prototype,{h:na,append:oa});ya(b)};/*
+
+                Copyright (c) 2016 The Polymer Project Authors. All rights reserved.
+                This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+                The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+                The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+                Code distributed by Google as part of the polymer project is also
+                subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+                */
+                var Z=window.customElements;if(!Z||Z.forcePolyfill||"function"!=typeof Z.define||"function"!=typeof Z.get){var X=new v;va();wa();Y(X,DocumentFragment.prototype,{h:ia,append:ja});xa();za();document.__CE_hasRegistry=!0;var customElements=new G(X);Object.defineProperty(window,"customElements",{configurable:!0,enumerable:!0,value:customElements})};
+            }).call(self);
+        }
+
+        /**
+            This allows us to load the IE polyfills via feature detection so that they do not load
+            needlessly in the browsers that do not need them. It also ensures they are loaded
+            non async so that they load before the rest of our JS.
+        */
+        var head = document.getElementsByTagName('head')[0];
+        if (!window.CSS || !window.CSS.supports || !window.CSS.supports('--fake-var', 0)) {
+            var script = document.createElement('script');
+            script.setAttribute('src', "https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/util/IEPolyfills.7a8440e4b9a8eed9874904d20fd32963.js");
+            script.setAttribute('type', 'text/javascript');
+            script.async = false;
+            head.appendChild(script);
+        }
+    </script>
+    
+    <script src="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/All.min.f7fc019e5c5fa20dfcbd5201bcaa5c8e.js" async></script>
+
+    <script>document.addEventListener("DOMContentLoaded",function(){var t=Math.random()+"",e=document.createElement("img");e.src="https://pubads.g.doubleclick.net/activity;xsp=4618488;ord="+Math.floor(1e13*t)+"?",e.width=1,e.height=1,e.border=0,document.body.appendChild(e)});</script>
+
+
+    <script>
+        var link = document.createElement('link');
+        link.setAttribute('href', 'https://fonts.googleapis.com/css?family=Oswald:200,500,600,700|Roboto:400,500,700&display=swap');
+        var relList = link.relList;
+
+        if (relList && relList.supports('preload')) {
+            link.setAttribute('as', 'style');
+            link.setAttribute('rel', 'preload');
+            link.setAttribute('onload', 'this.rel="stylesheet"');
+            link.setAttribute('crossorigin', 'anonymous');
+        } else {
+            link.setAttribute('rel', 'stylesheet');
+        }
+
+        head.appendChild(link);
+    </script>
+</head>
+
+<body class="Page-body">
+<!-- Putting icons here, so we don't have to include in a bunch of -body hbs's -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" id="iconsMap">
+    <symbol id="mono-icon-facebook" viewBox="0 0 10 19">
+        <path fill-rule="evenodd" d="M2.707 18.25V10.2H0V7h2.707V4.469c0-1.336.375-2.373 1.125-3.112C4.582.62 5.578.25 6.82.25c1.008 0 1.828.047 2.461.14v2.848H7.594c-.633 0-1.067.14-1.301.422-.188.235-.281.61-.281 1.125V7H9l-.422 3.2H6.012v8.05H2.707z"></path>
+    </symbol>
+    <symbol id="mono-icon-instagram" viewBox="0 0 17 17">
+        <g>
+            <path fill-rule="evenodd" d="M8.281 4.207c.727 0 1.4.182 2.022.545a4.055 4.055 0 0 1 1.476 1.477c.364.62.545 1.294.545 2.021 0 .727-.181 1.4-.545 2.021a4.055 4.055 0 0 1-1.476 1.477 3.934 3.934 0 0 1-2.022.545c-.726 0-1.4-.182-2.021-.545a4.055 4.055 0 0 1-1.477-1.477 3.934 3.934 0 0 1-.545-2.021c0-.727.182-1.4.545-2.021A4.055 4.055 0 0 1 6.26 4.752a3.934 3.934 0 0 1 2.021-.545zm0 6.68a2.54 2.54 0 0 0 1.864-.774 2.54 2.54 0 0 0 .773-1.863 2.54 2.54 0 0 0-.773-1.863 2.54 2.54 0 0 0-1.864-.774 2.54 2.54 0 0 0-1.863.774 2.54 2.54 0 0 0-.773 1.863c0 .727.257 1.348.773 1.863a2.54 2.54 0 0 0 1.863.774zM13.45 4.03c-.023.258-.123.48-.299.668a.856.856 0 0 1-.65.281.913.913 0 0 1-.668-.28.913.913 0 0 1-.281-.669c0-.258.094-.48.281-.668a.913.913 0 0 1 .668-.28c.258 0 .48.093.668.28.187.188.281.41.281.668zm2.672.95c.023.656.035 1.746.035 3.269 0 1.523-.017 2.62-.053 3.287-.035.668-.134 1.248-.298 1.74a4.098 4.098 0 0 1-.967 1.53 4.098 4.098 0 0 1-1.53.966c-.492.164-1.072.264-1.74.3-.668.034-1.763.052-3.287.052-1.523 0-2.619-.018-3.287-.053-.668-.035-1.248-.146-1.74-.334a3.747 3.747 0 0 1-1.53-.931 4.098 4.098 0 0 1-.966-1.53c-.164-.492-.264-1.072-.299-1.74C.424 10.87.406 9.773.406 8.25S.424 5.63.46 4.963c.035-.668.135-1.248.299-1.74.21-.586.533-1.096.967-1.53A4.098 4.098 0 0 1 3.254.727c.492-.164 1.072-.264 1.74-.3C5.662.394 6.758.376 8.281.376c1.524 0 2.62.018 3.287.053.668.035 1.248.135 1.74.299a4.098 4.098 0 0 1 2.496 2.496c.165.492.27 1.078.317 1.757zm-1.687 7.91c.14-.399.234-1.032.28-1.899.024-.515.036-1.242.036-2.18V7.689c0-.961-.012-1.688-.035-2.18-.047-.89-.14-1.524-.281-1.899a2.537 2.537 0 0 0-1.512-1.511c-.375-.14-1.008-.235-1.899-.282a51.292 51.292 0 0 0-2.18-.035H7.72c-.938 0-1.664.012-2.18.035-.867.047-1.5.141-1.898.282a2.537 2.537 0 0 0-1.512 1.511c-.14.375-.234 1.008-.281 1.899a51.292 51.292 0 0 0-.036 2.18v1.125c0 .937.012 1.664.036 2.18.047.866.14 1.5.28 1.898.306.726.81 1.23 1.513 1.511.398.141 1.03.235 1.898.282.516.023 1.242.035 2.18.035h1.125c.96 0 1.687-.012 2.18-.035.89-.047 1.523-.141 1.898-.282.726-.304 1.23-.808 1.512-1.511z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-email" viewBox="0 0 512 512">
+        <g>
+            <path d="M67,148.7c11,5.8,163.8,89.1,169.5,92.1c5.7,3,11.5,4.4,20.5,4.4c9,0,14.8-1.4,20.5-4.4c5.7-3,158.5-86.3,169.5-92.1
+                c4.1-2.1,11-5.9,12.5-10.2c2.6-7.6-0.2-10.5-11.3-10.5H257H65.8c-11.1,0-13.9,3-11.3,10.5C56,142.9,62.9,146.6,67,148.7z"></path>
+            <path d="M455.7,153.2c-8.2,4.2-81.8,56.6-130.5,88.1l82.2,92.5c2,2,2.9,4.4,1.8,5.6c-1.2,1.1-3.8,0.5-5.9-1.4l-98.6-83.2
+                c-14.9,9.6-25.4,16.2-27.2,17.2c-7.7,3.9-13.1,4.4-20.5,4.4c-7.4,0-12.8-0.5-20.5-4.4c-1.9-1-12.3-7.6-27.2-17.2l-98.6,83.2
+                c-2,2-4.7,2.6-5.9,1.4c-1.2-1.1-0.3-3.6,1.7-5.6l82.1-92.5c-48.7-31.5-123.1-83.9-131.3-88.1c-8.8-4.5-9.3,0.8-9.3,4.9
+                c0,4.1,0,205,0,205c0,9.3,13.7,20.9,23.5,20.9H257h185.5c9.8,0,21.5-11.7,21.5-20.9c0,0,0-201,0-205
+                C464,153.9,464.6,148.7,455.7,153.2z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-print" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path fill-rule="nonzero" d="M9 10V7H3v3H1a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v3.132A2.868 2.868 0 0 1 9.132 10H9zm.5-4.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2zM3 0h6v2H3z"></path>
+            <path d="M4 8h4v4H4z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-copylink" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path d="M10.199 2.378c.222.205.4.548.465.897.062.332.016.614-.132.774L8.627 6.106c-.187.203-.512.232-.75-.014a.498.498 0 0 0-.706.028.499.499 0 0 0 .026.706 1.509 1.509 0 0 0 2.165-.04l1.903-2.06c.37-.398.506-.98.382-1.636-.105-.557-.392-1.097-.77-1.445L9.968.8C9.591.452 9.03.208 8.467.145 7.803.072 7.233.252 6.864.653L4.958 2.709a1.509 1.509 0 0 0 .126 2.161.5.5 0 1 0 .68-.734c-.264-.218-.26-.545-.071-.747L7.597 1.33c.147-.16.425-.228.76-.19.353.038.71.188.931.394l.91.843.001.001zM1.8 9.623c-.222-.205-.4-.549-.465-.897-.062-.332-.016-.614.132-.774l1.905-2.057c.187-.203.512-.232.75.014a.498.498 0 0 0 .706-.028.499.499 0 0 0-.026-.706 1.508 1.508 0 0 0-2.165.04L.734 7.275c-.37.399-.506.98-.382 1.637.105.557.392 1.097.77 1.445l.91.843c.376.35.937.594 1.5.656.664.073 1.234-.106 1.603-.507L7.04 9.291a1.508 1.508 0 0 0-.126-2.16.5.5 0 0 0-.68.734c.264.218.26.545.071.747l-1.904 2.057c-.147.16-.425.228-.76.191-.353-.038-.71-.188-.931-.394l-.91-.843z"></path>
+            <path d="M8.208 3.614a.5.5 0 0 0-.707.028L3.764 7.677a.5.5 0 0 0 .734.68L8.235 4.32a.5.5 0 0 0-.027-.707"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-linkedin" viewBox="0 0 16 17">
+        <g fill-rule="evenodd">
+            <path d="M3.734 16.125H.464V5.613h3.27zM2.117 4.172c-.515 0-.96-.188-1.336-.563A1.825 1.825 0 0 1 .22 2.273c0-.515.187-.96.562-1.335.375-.375.82-.563 1.336-.563.516 0 .961.188 1.336.563.375.375.563.82.563 1.335 0 .516-.188.961-.563 1.336-.375.375-.82.563-1.336.563zM15.969 16.125h-3.27v-5.133c0-.844-.07-1.453-.21-1.828-.259-.633-.762-.95-1.512-.95s-1.278.282-1.582.845c-.235.421-.352 1.043-.352 1.863v5.203H5.809V5.613h3.128v1.442h.036c.234-.469.609-.856 1.125-1.16.562-.375 1.218-.563 1.968-.563 1.524 0 2.59.48 3.2 1.441.468.774.703 1.97.703 3.586v5.766z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-pinterest" viewBox="0 0 512 512">
+        <g>
+            <path d="M256,32C132.3,32,32,132.3,32,256c0,91.7,55.2,170.5,134.1,205.2c-0.6-15.6-0.1-34.4,3.9-51.4
+                c4.3-18.2,28.8-122.1,28.8-122.1s-7.2-14.3-7.2-35.4c0-33.2,19.2-58,43.2-58c20.4,0,30.2,15.3,30.2,33.6
+                c0,20.5-13.1,51.1-19.8,79.5c-5.6,23.8,11.9,43.1,35.4,43.1c42.4,0,71-54.5,71-119.1c0-49.1-33.1-85.8-93.2-85.8
+                c-67.9,0-110.3,50.7-110.3,107.3c0,19.5,5.8,33.3,14.8,43.9c4.1,4.9,4.7,6.9,3.2,12.5c-1.1,4.1-3.5,14-4.6,18
+                c-1.5,5.7-6.1,7.7-11.2,5.6c-31.3-12.8-45.9-47-45.9-85.6c0-63.6,53.7-139.9,160.1-139.9c85.5,0,141.8,61.9,141.8,128.3
+                c0,87.9-48.9,153.5-120.9,153.5c-24.2,0-46.9-13.1-54.7-27.9c0,0-13,51.6-15.8,61.6c-4.7,17.3-14,34.5-22.5,48
+                c20.1,5.9,41.4,9.2,63.5,9.2c123.7,0,224-100.3,224-224C480,132.3,379.7,32,256,32z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-tumblr" viewBox="0 0 512 512">
+        <g>
+            <path d="M321.2,396.3c-11.8,0-22.4-2.8-31.5-8.3c-6.9-4.1-11.5-9.6-14-16.4c-2.6-6.9-3.6-22.3-3.6-46.4V224h96v-64h-96V48h-61.9
+                c-2.7,21.5-7.5,44.7-14.5,58.6c-7,13.9-14,25.8-25.6,35.7c-11.6,9.9-25.6,17.9-41.9,23.3V224h48v140.4c0,19,2,33.5,5.9,43.5
+                c4,10,11.1,19.5,21.4,28.4c10.3,8.9,22.8,15.7,37.3,20.5c14.6,4.8,31.4,7.2,50.4,7.2c16.7,0,30.3-1.7,44.7-5.1
+                c14.4-3.4,30.5-9.3,48.2-17.6v-65.6C363.2,389.4,342.3,396.3,321.2,396.3z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-twitter" viewBox="0 0 19 16">
+        <g>
+            <path fill-rule="evenodd" d="M16.48 4.594c.024.094.036.246.036.457 0 1.687-.41 3.316-1.23 4.887-.845 1.664-2.028 2.988-3.552 3.972-1.664 1.102-3.574 1.652-5.73 1.652-2.063 0-3.95-.55-5.66-1.652.258.024.55.035.879.035 1.71 0 3.246-.527 4.605-1.582-.82 0-1.54-.24-2.162-.72a3.671 3.671 0 0 1-1.283-1.811c.234.023.457.035.668.035.328 0 .656-.035.984-.105a3.72 3.72 0 0 1-2.11-1.301 3.54 3.54 0 0 1-.843-2.32v-.07a3.475 3.475 0 0 0 1.652.492A4.095 4.095 0 0 1 1.54 5.227a3.546 3.546 0 0 1-.457-1.776c0-.644.176-1.26.527-1.845a10.18 10.18 0 0 0 3.358 2.742 10.219 10.219 0 0 0 4.236 1.125 5.124 5.124 0 0 1-.07-.844c0-.656.164-1.272.492-1.846a3.613 3.613 0 0 1 1.336-1.353 3.565 3.565 0 0 1 1.828-.492c.54 0 1.037.105 1.494.316.457.21.861.492 1.213.844a7.51 7.51 0 0 0 2.356-.88c-.282.868-.82 1.548-1.618 2.04a7.93 7.93 0 0 0 2.11-.598 8.114 8.114 0 0 1-1.864 1.934z"></path>
+
+        </g>
+    </symbol>
+    <symbol id="mono-icon-youtube" viewBox="0 0 512 512">
+        <g>
+            <path fill-rule="evenodd" d="M508.6,148.8c0-45-33.1-81.2-74-81.2C379.2,65,322.7,64,265,64c-3,0-6,0-9,0s-6,0-9,0c-57.6,0-114.2,1-169.6,3.6
+                c-40.8,0-73.9,36.4-73.9,81.4C1,184.6-0.1,220.2,0,255.8C-0.1,291.4,1,327,3.4,362.7c0,45,33.1,81.5,73.9,81.5
+                c58.2,2.7,117.9,3.9,178.6,3.8c60.8,0.2,120.3-1,178.6-3.8c40.9,0,74-36.5,74-81.5c2.4-35.7,3.5-71.3,3.4-107
+                C512.1,220.1,511,184.5,508.6,148.8z M207,353.9V157.4l145,98.2L207,353.9z"></path>
+        </g>
+    </symbol>
+    <symbol id="icon-magnify" viewBox="0 0 512 512">
+        <g>
+            <path d="M337.509,305.372h-17.501l-6.571-5.486c20.791-25.232,33.922-57.054,33.922-93.257
+                C347.358,127.632,283.896,64,205.135,64C127.452,64,64,127.632,64,206.629s63.452,142.628,142.225,142.628
+                c35.011,0,67.831-13.167,92.991-34.008l6.561,5.487v17.551L415.18,448L448,415.086L337.509,305.372z M206.225,305.372
+                c-54.702,0-98.463-43.887-98.463-98.743c0-54.858,43.761-98.742,98.463-98.742c54.7,0,98.462,43.884,98.462,98.742
+                C304.687,261.485,260.925,305.372,206.225,305.372z"></path>
+        </g>
+    </symbol>
+    <symbol id="burger-menu" viewBox="0 0 512 512">
+        <g>
+            <path d="M501.333,96H10.667C4.779,96,0,100.779,0,106.667s4.779,10.667,10.667,10.667h490.667c5.888,0,10.667-4.779,10.667-10.667
+			S507.221,96,501.333,96z" />
+            <path d="M501.333,245.333H10.667C4.779,245.333,0,250.112,0,256s4.779,10.667,10.667,10.667h490.667
+			c5.888,0,10.667-4.779,10.667-10.667S507.221,245.333,501.333,245.333z" />
+            <path d="M501.333,394.667H10.667C4.779,394.667,0,399.445,0,405.333C0,411.221,4.779,416,10.667,416h490.667
+			c5.888,0,10.667-4.779,10.667-10.667C512,399.445,507.221,394.667,501.333,394.667z" />
+        </g>
+    </symbol>
+    <symbol id="close-x" viewBox="0 0 14 14">
+        <g>
+            <path fill-rule="nonzero" d="M6.336 7L0 .664.664 0 7 6.336 13.336 0 14 .664 7.664 7 14 13.336l-.664.664L7 7.664.664 14 0 13.336 6.336 7z"></path>
+        </g>
+    </symbol>
+    <symbol id="share-more-arrow" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;">
+        <g>
+            <g>
+                <path d="M512,241.7L273.643,3.343v156.152c-71.41,3.744-138.015,33.337-188.958,84.28C30.075,298.384,0,370.991,0,448.222v60.436
+                    l29.069-52.985c45.354-82.671,132.173-134.027,226.573-134.027c5.986,0,12.004,0.212,18.001,0.632v157.779L512,241.7z
+                    M255.642,290.666c-84.543,0-163.661,36.792-217.939,98.885c26.634-114.177,129.256-199.483,251.429-199.483h15.489V78.131
+                    l163.568,163.568L304.621,405.267V294.531l-13.585-1.683C279.347,291.401,267.439,290.666,255.642,290.666z"></path>
+            </g>
+        </g>
+    </symbol>
+    <symbol id="chevron" viewBox="0 0 100 100">
+        <g>
+            <path d="M22.4566257,37.2056786 L-21.4456527,71.9511488 C-22.9248661,72.9681457 -24.9073712,72.5311671 -25.8758148,70.9765924 L-26.9788683,69.2027424 C-27.9450684,67.6481676 -27.5292733,65.5646602 -26.0500598,64.5484493 L20.154796,28.2208967 C21.5532435,27.2597011 23.3600078,27.2597011 24.759951,28.2208967 L71.0500598,64.4659264 C72.5292733,65.4829232 72.9450684,67.5672166 71.9788683,69.1217913 L70.8750669,70.8956413 C69.9073712,72.4502161 67.9241183,72.8848368 66.4449048,71.8694118 L22.4566257,37.2056786 Z" id="Transparent-Chevron" transform="translate(22.500000, 50.000000) rotate(90.000000) translate(-22.500000, -50.000000) "></path>
+        </g>
+    </symbol>
+    <symbol id="play-arrow" viewBox="0 0 30 30">
+        <g fill="none" fill-rule="evenodd">
+            <path d="M9 9l12 6-12 6z"></path>
+        </g>
+    </symbol>
+    <symbol id="bookmark" viewBox="0 0 9 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M.5.5v10.997l3.431-2.374a1 1 0 0 1 1.138 0L8.5 11.497V.5h-8z"></path>
+        </g>
+    </symbol>
+    <symbol id="heart" viewBox="0 0 14 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M10.24.5c-1.098 0-2.152.576-2.808 1.7L7 2.938l-.432-.74C5.912 1.076 4.858.5 3.76.5 1.996.5.5 1.899.5 3.859.5 5.2 1.644 6.912 3.57 8.747a27.774 27.774 0 0 0 3.373 2.738A.099.099 0 0 0 7 11.5a.104.104 0 0 0 .061-.018 27.75 27.75 0 0 0 3.368-2.735C12.356 6.912 13.5 5.201 13.5 3.859 13.5 1.899 12.003.5 10.24.5z"></path>
+        </g>
+    </symbol>
+    <symbol id="grid" viewBox="0 0 32 32">
+        <g>
+            <path d="M6.4,5.7 C6.4,6.166669 6.166669,6.4 5.7,6.4 L0.7,6.4 C0.233331,6.4 0,6.166669 0,5.7 L0,0.7 C0,0.233331 0.233331,0 0.7,0 L5.7,0 C6.166669,0 6.4,0.233331 6.4,0.7 L6.4,5.7 Z M19.2,5.7 C19.2,6.166669 18.966669,6.4 18.5,6.4 L13.5,6.4 C13.033331,6.4 12.8,6.166669 12.8,5.7 L12.8,0.7 C12.8,0.233331 13.033331,0 13.5,0 L18.5,0 C18.966669,0 19.2,0.233331 19.2,0.7 L19.2,5.7 Z M32,5.7 C32,6.166669 31.766669,6.4 31.3,6.4 L26.3,6.4 C25.833331,6.4 25.6,6.166669 25.6,5.7 L25.6,0.7 C25.6,0.233331 25.833331,0 26.3,0 L31.3,0 C31.766669,0 32,0.233331 32,0.7 L32,5.7 Z M6.4,18.5 C6.4,18.966669 6.166669,19.2 5.7,19.2 L0.7,19.2 C0.233331,19.2 0,18.966669 0,18.5 L0,13.5 C0,13.033331 0.233331,12.8 0.7,12.8 L5.7,12.8 C6.166669,12.8 6.4,13.033331 6.4,13.5 L6.4,18.5 Z M19.2,18.5 C19.2,18.966669 18.966669,19.2 18.5,19.2 L13.5,19.2 C13.033331,19.2 12.8,18.966669 12.8,18.5 L12.8,13.5 C12.8,13.033331 13.033331,12.8 13.5,12.8 L18.5,12.8 C18.966669,12.8 19.2,13.033331 19.2,13.5 L19.2,18.5 Z M32,18.5 C32,18.966669 31.766669,19.2 31.3,19.2 L26.3,19.2 C25.833331,19.2 25.6,18.966669 25.6,18.5 L25.6,13.5 C25.6,13.033331 25.833331,12.8 26.3,12.8 L31.3,12.8 C31.766669,12.8 32,13.033331 32,13.5 L32,18.5 Z M6.4,31.3 C6.4,31.766669 6.166669,32 5.7,32 L0.7,32 C0.233331,32 0,31.766669 0,31.3 L0,26.3 C0,25.833331 0.233331,25.6 0.7,25.6 L5.7,25.6 C6.166669,25.6 6.4,25.833331 6.4,26.3 L6.4,31.3 Z M19.2,31.3 C19.2,31.766669 18.966669,32 18.5,32 L13.5,32 C13.033331,32 12.8,31.766669 12.8,31.3 L12.8,26.3 C12.8,25.833331 13.033331,25.6 13.5,25.6 L18.5,25.6 C18.966669,25.6 19.2,25.833331 19.2,26.3 L19.2,31.3 Z M32,31.3 C32,31.766669 31.766669,32 31.3,32 L26.3,32 C25.833331,32 25.6,31.766669 25.6,31.3 L25.6,26.3 C25.6,25.833331 25.833331,25.6 26.3,25.6 L31.3,25.6 C31.766669,25.6 32,25.833331 32,26.3 L32,31.3 Z" id=""></path>
+        </g>
+    </symbol>
+    <symbol id="filter" viewBox="0 0 16 12">
+        <path d="M0 2V0h16v2H0zm2.4 5V5h11.2v2H2.4zm2.4 5v-2h6.4v2H4.8z"></path>
+    </symbol>
+    <symbol id="minus-circle" viewBox="0 0 1792 1792">
+        <g>
+            <path d="M1344 960v-128q0-26-19-45t-45-19h-768q-26 0-45 19t-19 45v128q0 26 19 45t45 19h768q26 0 45-19t19-45zm320-64q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" />
+        </g>
+    </symbol>
+    <symbol id="plus-circle" viewBox="0 0 1792 1792">
+        <g>
+            <path d="M1344 960v-128q0-26-19-45t-45-19h-256v-256q0-26-19-45t-45-19h-128q-26 0-45 19t-19 45v256h-256q-26 0-45 19t-19 45v128q0 26 19 45t45 19h256v256q0 26 19 45t45 19h128q26 0 45-19t19-45v-256h256q26 0 45-19t19-45zm320-64q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" />
+        </g>
+    </symbol>
+    <symbol id="chevron-left" viewBox="0 0 511.641 511.641">
+        <path d="M148.32,255.76L386.08,18c4.053-4.267,3.947-10.987-0.213-15.04c-4.16-3.947-10.667-3.947-14.827,0L125.707,248.293
+			c-4.16,4.16-4.16,10.88,0,15.04L371.04,508.667c4.267,4.053,10.987,3.947,15.04-0.213c3.947-4.16,3.947-10.667,0-14.827
+			L148.32,255.76z" />
+    </symbol>
+</svg>
+
+
+<ps-header class="Page-header" itemscope itemtype="http://schema.org/WPHeader" data-sticky-disable>
+    <div class="Page-header-bar">
+        
+            
+                <div class="Page-header-logo"><a aria-label="home page" href="https://www.latimes.com/bestcovery/"  >
+    
+        <img class="PageLogo-image" src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/beea024/2147483647/strip/true/crop/1000x277+0+0/resize/433x120!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F97%2F96%2F5fd40beb48059a3edeff4d92eed5%2Fbestcovery-logo-powered-by-lat.png" alt="Bestcovery logo" width="433"  height="120" />
+    
+    </a>
+</div>
+            
+        
+
+        <button class="Page-header-menu-trigger" aria-expanded="false" tabindex="1">
+            <svg class="burger-menu"><use xlink:href="#burger-menu"></use></svg>
+            <svg class="close-x"><use xlink:href="#chevron-left"></use></svg>
+            <span class="label">Menu</span>
+        </button>
+
+        <div class="Page-header-hamburger-menu">
+            <div class="Page-header-hamburger-menu-wrapper">
+                <div class="Page-header-hamburger-menu-content">
+                    
+                        <nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/auto">Auto</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/home">Home</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/lifestyle">Lifestyle</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/electronics">Electronics</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/tech">Tech</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/health-beauty">Health &amp; Beauty</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/fashion">Fashion</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/sports">Sports</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item" data-current-nav-item data-related-nav-item><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/music">Music</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/kids-babies">Kids &amp; Babies</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/streaming">Streaming</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+        </ul>
+    
+</nav>
+                    
+                    
+                </div>
+            </div>
+        </div>
+
+        
+
+            <div class="Page-header-search-overlay">
+                <form class="Page-header-search-form" action="https://www.latimes.com/bestcovery/search#nt=navsearch" novalidate="" autocomplete="off">
+                    <label><input placeholder="Search" type="text" class="Page-header-search-input" name="q" required="true"><span class="sr-only">Search Query</span></label>
+                    <button type="submit" class="Page-header-search-submit"><svg><use xlink:href="#icon-magnify"></use></svg><span class="sr-only">Submit Search</span></button>
+                </form>
+            </div>
+        
+    </div>
+</ps-header>
+
+
+    <div class="Page-above" ><div class="InfoBoxModule byline-1">
+    
+        <div class="InfoBoxModule-items InfoBoxBody"><p><i>We may earn a commission if you make a purchase through one of our links. The LA Times editorial staff was not involved in the creation of this content. <a class="Link" href="https://www.latimes.com/bestcovery/about-us">Learn more</a></i></p></div>
+    
+</div>
+</div>
+
+
+
+<div class="SectionPage-topContainer">
+    <div class="SectionPage-headingWrapper">
+        
+            <div class="SectionPage-heading">
+                <h1 class="SectionPage-pageHeading">Music</h1>
+                
+            </div>
+        
+
+        
+    <ps-section-nav class="SectionPage-navContainer">
+        <div class="SectionPage-sectionNavigation">
+            <nav class="SectionNavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+        <ul class="SectionNavigation-items">
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/audio-recording">Audio &amp; Recording</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/guitars">Guitars &amp; Accessories</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/keyboards">Keyboards &amp; Pianos</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/string-instruments">String Instruments</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/woodwinds">Woodwinds</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item" data-current-nav-item data-related-nav-item>
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/music">All</a>
+        
+    </div>
+</div>
+                </li>
+            
+            <li class="SectionNavigation-items-item" data-sub-trigger tabindex="0">
+                <div class="SectionNavigationItem">
+                    <div class="SectionNavigationItem-text">More<svg class="chevron"><use xlink:href="#chevron"></use></svg></div>
+                    <div class="SectionNavigationItem-subNav"></div>
+                </div>
+            </li>
+        </ul>
+    
+</nav>
+        </div>
+    </ps-section-nav>
+
+
+    </div>
+</div>
+
+<main class="SectionPage-main">
+    
+        
+            
+    
+    <div class="Row">
+        <div class="OneColumnContainer">
+    <div class="OneColumnContainer-row">
+        
+            <div class="OneColumnContainer-column">
+                
+
+<div class="OneColumnContainer">
+    <div class="OneColumnContainer-row">
+        <div class="OneColumnContainer-column">
+            <ps-list-loadmore class="ListE" >
+    <div class="ListE-header" data-no-title>
+    
+</div>
+
+
+    <div class="ListE-container">
+        
+            <ul class="ListE-items" data-list-loadmore-items>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-ukulele" aria-label="Enter the World of Chord and String Instruments with the Best Ukuleles">
+    <img class="Image" alt="Best Soprano Ukulele" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/e00e15e/2147483647/strip/true/crop/600x392+0+4/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F02%2Fbb%2F00bef8c6483badf71bba554a6503%2Feverjoys-soprano-ukulele-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/string-instruments">String Instruments</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-ukulele">Enter the World of Chord and String Instruments with the Best Ukuleles</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">You might be wondering that in a world of guitars, why would people even want a ukulele? We don't know if it was your vacation to Hawaii or simply a trend that gave this amazing instrument popularity, but in the past few years there have been a record number of sales - especially among young children and seniors. The ukulele is an affordable instrument that gives everyone a chance to play and jam without spending a ton of cash. Are you looking to buy a ukulele? If so, your search ends today. We have compiled a list featuring the best ukuleles in 2022 that help you play ear-soothing music. Having a good-quality instrument is mandatory for having a worthwhile experience. Our thoroughly detailed buying guide will help you pick the perfect one for you.</div>
+        
+
+        
+            <div class="PromoB-date">October 22, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/the-evolution-of-portable-music-players" aria-label="The Evolution of Portable Music Players">
+    <img class="Image" alt="The Evolution of Portable Music Players" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/cb62ceb/2147483647/strip/true/crop/1200x784+0+8/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fe6%2Fa5%2Fc657ffe84bb997d2efdb13ce349d%2Fportable-music-players-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/music">Music</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/the-evolution-of-portable-music-players">The Evolution of Portable Music Players</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The combination of smartphones, streaming services, and wireless headphones have made music more accessible than ever before. Freedom to play music on the go and on demand began with the first Walkman in 1979. For a history of how music playing went from the phonograph in the 1800s to the Apple ipod, check out our quick list below.</div>
+        
+
+        
+            <div class="PromoB-date">August 05, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/tips-to-becoming-the-best-percussionist" aria-label="10 Tips to Becoming the Best Percussionist">
+    <img class="Image" alt="10 Tips to Becoming the Best Percussionist" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/3ea286b/2147483647/strip/true/crop/1200x784+0+13/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fdf%2F59%2Ff7b15b124d5db149954884b8ac29%2Ftips-becoming-best-percussionist-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/tips-to-becoming-the-best-percussionist">10 Tips to Becoming the Best Percussionist</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">A percussionist is someone who specializes in playing instruments that require hitting or scraping. These instruments may include the konga, cajón, bass drum, bongo, timpani, marimba, xylophone, vibraphone, bells, chimes, triangle, tambourine, and other such things.</div>
+        
+
+        
+            <div class="PromoB-date">June 08, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/most-popular-musical-instruments-to-play" aria-label="10 Most Popular Musical Instruments to Play">
+    <img class="Image" alt="10 Most Popular Musical Instruments to Play" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/2d16128/2147483647/strip/true/crop/1200x784+0+8/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F6f%2F44%2F3612fcfd422cb4f82bfb2f87f4cc%2Fpopular-musical-instruments-bestcovery-1.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/music">Music</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/most-popular-musical-instruments-to-play">10 Most Popular Musical Instruments to Play</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Music, as Henry Wadsworth Longfellow asserted, is the universal language of mankind. Music is found in different forms all over the world, with each culture having its own unique music style and musical instruments to accompany it. Alongside vocalization, musical instruments lie at the core of music-making across various climes and cultures. There are many musical instruments available today, each with its unique attributes and use. This article examines the 10 most popular musical instruments to play.</div>
+        
+
+        
+            <div class="PromoB-date">May 11, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/common-mistakes-when-buying-a-guitar" aria-label="6 Common Mistakes When Buying a Guitar">
+    <img class="Image" alt="6 Common Mistakes When Buying a Guitar" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/81108f0/2147483647/strip/true/crop/1200x784+0+8/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F5f%2F2d%2F98a06d51486286fb10ae189a3166%2Fbuying-guitar-bestcovery-1.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/guitars">Guitars &amp; Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/common-mistakes-when-buying-a-guitar">6 Common Mistakes When Buying a Guitar</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Many people look to guitars as the ideal instrument to pick up. It’s portable, has a relatively low skill floor, and can be a great hobby to pick up in general. However, many people grow too excited for their own good and make serious mistakes when buying their first guitar. Here are some of the most common mistakes made when buying a guitar for the first time.</div>
+        
+
+        
+            <div class="PromoB-date">May 04, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/essential-items-for-guitarists" aria-label="10 Essential Items for Guitarists">
+    <img class="Image" alt="10 Essential Items for Guitarists" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/cd2c14e/2147483647/strip/true/crop/1200x784+0+8/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F42%2Fca%2F6b298aa24fcebe007f2e5e8bef56%2Fessentials-items-guitarists-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/guitars">Guitars &amp; Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/essential-items-for-guitarists">10 Essential Items for Guitarists</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Whether you are a newbie or intermediate guitar player, there are a number of accessories and items you must have in your arsenal to get started or improve your playing. With them, you can also make the most of your guitars wherever you are. Let's discuss the 10 most important of these that are must-haves for every strummer.</div>
+        
+
+        
+            <div class="PromoB-date">May 04, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/different-types-of-guitars-explained" aria-label="Different Types of Guitars Explained">
+    <img class="Image" alt="Different Types of Guitars Explained" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/0ebf4a4/2147483647/strip/true/crop/1200x784+0+8/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F1c%2Fee%2F5e3e76f842da86946edfcd3e213d%2Ftypes-guitars-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/guitars">Guitars &amp; Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/different-types-of-guitars-explained">Different Types of Guitars Explained</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">So, you want to get into the world of guitars. While the skill floor of learning guitars is certainly lower than other instruments, such as the piano, there’s still quite a bit you need to learn before you pick one up. With multiple different types of guitars out there, the type of guitar you pick can largely influence what music you’ll end up playing in the years to come.</div>
+        
+
+        
+            <div class="PromoB-date">May 03, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/guitar-tips-for-beginners" aria-label="7 Guitar Tips for Beginners">
+    <img class="Image" alt="7 Guitar Tips for Beginners" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/0547bad/2147483647/strip/true/crop/1200x784+0+8/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fd6%2Fc7%2F15e215f947e8a66a4c4d70bca9ca%2Fguitar-tips-for-beginners-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/guitars">Guitars &amp; Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/guitar-tips-for-beginners">7 Guitar Tips for Beginners</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Learning to play a guitar can be a roller coaster experience. From the highs of learning your first chord to the lows of playing out of tune, you experience it all when learning to play. This article identifies seven useful tips for guitar beginners.</div>
+        
+
+        
+            <div class="PromoB-date">April 28, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-keyboard-piano-review" aria-label="Save Space with the Best Keyboard Piano">
+    <img class="Image" alt="best portable keyboard piano" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/2f5e6ce/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fb5%2Fe9%2Fefb3824241b5829780b40ad80e22%2Falesis-melody-61-mkii-keyboard.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/keyboards">Keyboards &amp; Pianos</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-keyboard-piano-review">Save Space with the Best Keyboard Piano</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The piano is a beautiful instrument that has been around for centuries. You can play anything on it from classical compositions to rearranged pop songs. It’s also less physically torturous to play than a string instrument like the guitar. Unfortunately, a full size piano is a gargantuan room-dominating monolith. Keyboard pianos exist to solve that problem. Here are our top picks for the best keyboard pianos in 2022.</div>
+        
+
+        
+            <div class="PromoB-date">February 19, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-drum-machine-overall" aria-label="Best Drum Machines for Perfect Rhythm ">
+    <img class="Image" alt="best rhythm drum machine" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/9a14cd7/2147483647/strip/true/crop/1165x761+0+8/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fa8%2F51%2F7f75d7524602b5e252237abcc4d7%2Fboss-rhythm-drum-machine-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-drum-machine-overall">Best Drum Machines for Perfect Rhythm </a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Since the first "rhythm machine" (the "Rhythmicon") was invented in 1932, people have sought out a way to overlay their music with loop-based percussion parts. While the first machines could only play a limited number of rhythms, such as mambo or tango, the modern-day drum machine is loaded with thousands of preset rhythms, as well as specialized sounds to help the producer or DJ realize a finished track. Some drum machines are also samplers, allowing the user to create their own sounds and trigger them from the pads. The things to look out for in drum machines are the quality of the sound, of course, but also how easy and fun it is to use in practice. When shopping for a drum machine, questions arise such as, how responsive are the pads themselves, how intuitive is the screen interface, and what are the connectivity options in terms of a larger rig? All of the best drum machines in 2022 below satisfy the core requirements of a functional drum machine, but they differentiate themselves because of the answer to those questions, as well as the quality of sound.</div>
+        
+
+        
+            <div class="PromoB-date">March 02, 2018</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-snare-stand" aria-label="Best Snare Stands for Your Drumkit">
+    <img class="Image" alt="best s930d snare stand" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/4e62764/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fe4%2F43%2F25685f64440e89cac214b320fb13%2Fpearl-s930d-snare-stand-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-snare-stand">Best Snare Stands for Your Drumkit</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The snare drum stand is an important piece of hardware which, as its name implies, holds the snare drum in place. A drummer’s snare drum takes a lot of abuse as it’s usually hit a bit harder than other drums, and therefore these stands needs to be of the best quality. Snare drum stands usually come in two different heights which are drum set and concert height. Drum set height stands are meant to be played from a seated position while playing drum set. Concert height stands are meant to be played while standing, often in an orchestral setting. Obviously, drummers should look for a drum set height snare drum stand if they primarily play drum set. My picks for best snare drum stand are all drum set height stands, as concert height stands have been excluded from this list.The most important feature of the snare drum stand is the design of the “basket” on top of the stand which holds the drum in place with three arms. The stands on this list have great baskets that are easily adjusted and don’t require excessive turning of the wrist. The “tilter” device is a mechanism allowing the drum angle to be adjusted and our selections all have durably constructed tilters which can be adjusted to any angle you need.These picks od the best snare stands in 2022 are also height adjustable and don’t take up a lot of room with excess parts. Sometimes you’ll have to adjust your snare drum to a variety of angles in the middle of a gig or recording session, so all of these picks feature systems for making quick and easily adjustable. The way your snare drum sounds says a lot about you as a drummer, and I have chosen stands that allow the drum to ring properly. These picks are all durable stands from the best hardware manufacturers in the industry and are made with parts which won’t fall apart on you.</div>
+        
+
+        
+            <div class="PromoB-date">April 08, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-upright-piano" aria-label="Best Pianos with Amazing Sound">
+    <img class="Image" alt="best Yamaha Clavinova CVP-705 Piano" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/095ce1e/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Ff5%2Fc6%2F9750cd084088b21997be915410ae%2Fyamaha-clavinova-cvp-705-piano-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/keyboards">Keyboards &amp; Pianos</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-upright-piano">Best Pianos with Amazing Sound</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Digital pianos certainly aren’t a casual purchase. These instruments offer up the feel, look, sound and size as a more traditional acoustic piano, but also come with more modern features that bridge them into the 21st century. This gives buyers a best-of-both-worlds type of playing experience. These are the best pianos in 2022 available today, with each one here manufactured with a minimum of 88 keys to give you a realistic range to make your playing experience feel authentic, they're equipped with realistic, built-in effects to help color the sound of your performance, and each offers USB connectivity for linking the piano to your computer for enhanced playing and recording options.</div>
+        
+
+        
+            <div class="PromoB-date">February 05, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-oboe" aria-label="Dial-in Your Musical Ability With One of the Best Oboes">
+    <img class="Image" alt="best Fox Model 800 Oboe" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/93e13f3/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fe1%2F9d%2F93dc69c347e7871401997a09200e%2Ffox-model-800-oboe-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/woodwinds">Woodwinds</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-oboe">Dial-in Your Musical Ability With One of the Best Oboes</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The oboe is a double reed instrument in the woodwind family and an essential member of large ensembles such as orchestras, bands as well as smaller chamber ensembles. The best oboes in 2022 recommended here are all manufactured by reputable brand names, built from high quality materials to facilitate great sound production, accurate tuning and smooth key response. For more help selecting the right oboe for your needs, check out our buyer’s guide provided below.</div>
+        
+
+        
+            <div class="PromoB-date">February 05, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-saxophone" aria-label="A Band Staple: Best Saxophone">
+    <img class="Image" alt="best jubilee edition saxophone" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/24c2e48/2147483647/strip/true/crop/2250x1470+0+15/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fd2%2F3c%2F49ba4f1d49a68247a2d068ee855d%2Fselmer-paris-series-iii-model62-jubilee-edition-alto-saxophone.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/woodwinds">Woodwinds</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-saxophone">A Band Staple: Best Saxophone</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Invented by Belgium native Adolph Sax, the saxophone is classified as a woodwind instrument due to the reed situated in the mouthpiece which is used to produce sond. Today, the four most commonly played saxophones are the soprano, alto, tenor and baritone saxophones.Since its invention in the mid-1800’s, the saxophone has become a staple in wind and small ensembles, bands, solo performances, the occasional orchestra piece, and more. All of the best saxophones in 2022 featured on the following lists are manufactured by reputable brands, feature durable construction, and manufactured with quality materials which facilitate exceptional tone production and intonation. For more help selecting the best saxophone for your needs, you can check out our buyers guide below.</div>
+        
+
+        
+            <div class="PromoB-date">February 05, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-clarinet" aria-label="Beautiful Sound from the Best Clarinet">
+    <img class="Image" alt="best Buffet Crampon R13 Professional Bb Clarinet" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/cc002e2/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F4c%2F1f%2F13c8002e451593cd454e58502ead%2Fbuffet-crampon-r13-professional-bb-clarinet-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/woodwinds">Woodwinds</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-clarinet">Beautiful Sound from the Best Clarinet</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">B-flat soprano and bass clarinet are the most commonly played members of the clarinet family, finding their way into orchestras, wind ensembles, jazz bands, small ensembles and solo performance. The best overall clarinets in 2022 we’ve listed here are manufactured by reputable brands, built of high-quality, industry-standard materials designed to facilitate great sound production, accurate tuning, and smooth key action. Each clarinet comes with a case, mouthpiece, ligature, at least one reed and a cleaning swab, though performers will most likely want to customize their mouthpiece setup. For more help selecting the best clarinet for your needs, check out our buyer’s guide below.</div>
+        
+
+        
+            <div class="PromoB-date">February 03, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-flute" aria-label="The Best Flutes for Starters">
+    <img class="Image" alt="best ds flutes" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/6eb8015/2147483647/strip/true/crop/900x588+0+156/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fd6%2F02%2F3c80c0a2633fc4408c9dbf0a02b7%2Finst-main-ds.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/woodwinds">Woodwinds</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-flute">The Best Flutes for Starters</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">A member of the woodwind family, the flute is one of the world’s oldest known musical instruments, with early examples dating back over 35,000 years. Each musician’s personal preference and experience level will be a determining factor in selecting a flute with a wide array of choices in terms of brand, metal combination and tone colors.The best flutes in 2022 provided on these lists serve as a great starting point for finding a suitable instrument. They’re all produced by reputable brands using craftsman-level manufacturing techniques with each instrument built from high-quality, industry-standard materials to facilitate great sound production and accurate intonation. For more help selecting the best flute to meet your needs, check out our buyers guide listed below.</div>
+        
+
+        
+            <div class="PromoB-date">February 03, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-microphone-preamp-under-1000" aria-label="Perfect Your Sound with the Best Mic Preamp">
+    <img class="Image" alt="best ART Tube MP Project Series Microphone Preamp" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/8925893/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F0e%2F72%2F286660d5454ba8b773ecafddfd75%2Fart-tube-mp-project-series-microphone-preamp-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/audio-recording">Audio &amp; Recording</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-microphone-preamp-under-1000">Perfect Your Sound with the Best Mic Preamp</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The pre amplifier has been around as long as sound has been recorded. For the past 80 years, thousands of different models have been made and manufacturers have enjoyed successful business from this product.Preamps work by amplifying the signal so it can properly handle further processing. The amplification is done as close to the sensor as possible to decrease any outside noise or interference and how the signal is amplified determines the kind of sound you’ll get. Traditionally, tube preamps add their own color to the signal and solid-state preamps boost the signal while attempting to keep as much transparency as possible. These two lists of the best mic preamps in 2022 comprise of the best of both worlds and any preamp discussed here will satisfy any recording situation you may have ahead of you.</div>
+        
+
+        
+            <div class="PromoB-date">February 03, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-electronic-drum-set-overall" aria-label="Perfect for Practice: Best Electronic Drum Sets">
+    <img class="Image" alt="best Alesis DM Lite Kit Collapsible Electronic Drum Set" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/868d36f/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fa7%2F02%2F4bd61adb486683f97f9589e85230%2Falesis-dm-lite-kit-collapsible-electronic-drum-set-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-electronic-drum-set-overall">Perfect for Practice: Best Electronic Drum Sets</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Because of their technological capabilities and the simple fact they’re quiet, electronic drum sets are becoming very popular. A drummer can plug in a pair of headphones and practice without disturbing neighbors or parents with a lot of noise. And with the added technological components, you’re buying not only a musical instrument but a mini-computer as well. Choosing the best electronic drum set doesn’t have to be complicated, especially after you’ve gone through our list of the best electronic drum sets in 2022 and our buyer’s guide provided below.</div>
+        
+
+        
+            <div class="PromoB-date">February 02, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-box-cajon" aria-label="Great Tone from the Best Box Cajons">
+    <img class="Image" alt="best full size box cajon" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/6f92fbd/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F6c%2F04%2Ffd126dea4d72b3fe882643d34e2d%2Fmeinl-full-size-box-cajon-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-box-cajon">Great Tone from the Best Box Cajons</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Cajóns are all over the retail percussion market these days. It's to the point where competition is apparently so fierce, top manufacturers are cranking out excellent low priced models. All the finalists on this list of the best box cajons in 2022 are remarkably well balanced and diverse in sound projection and tone quality. They'll all make a great workhorse for pros or solid practice tool for beginners. The basic principle behind ranking was how close each one compares to pricier cajóns by the same leading companies. Meinl's Headliner series is clearly the best value – none come close to that kind of quality for a hundred bucks.</div>
+        
+
+        
+            <div class="PromoB-date">February 02, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-bongos" aria-label="The Best Bongos for Quality Sound in 2022">
+    <img class="Image" alt="best drum bongo" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/abde01a/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F7a%2F22%2F2c9a7236461d8148e0e53dbe49a7%2Ftoca-red-drum-bongo-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-bongos">The Best Bongos for Quality Sound in 2022</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Great skins or heads on cheap drums – okay, it may sound like a contradiction in terms, but consider this for a moment – if the issue were congas, it's, of course, a different story; but because bongos require a fraction of the wood or fiberglass that congas require, the overall sound quality depends more on the skin and the player than the drum's body or even its hardware system. So again, consider the idea of not spending hundreds on high tier bongo drums. Instead buy a pair of the cheapies featured on this list for $100, and if the diameters match, invest in some quality hide or synthetic Remos. You should grab a mirror to check out the look of pleasant surprise that'll appear on your face once you start playing! Even without high-quality heads, the bongo drums here are pretty darn decent for extremely low prices. Keep on reading to figure out the right pair for you!</div>
+        
+
+        
+            <div class="PromoB-date">February 02, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-congas-overall" aria-label="The Best Congas with Superior Build Quality">
+    <img class="Image" alt="best wood conga" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/19a1dde/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F64%2F8b%2F447354ae4d6ebb8f0e25d49e3d68%2Flp-matador-wood-conga-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-congas-overall">The Best Congas with Superior Build Quality</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The sad fact is, many affordable conga drums are poorly made. They'll have cheap hardware that will easily strip and stock skins that aren't at all responsive, a pain to play especially if you're a beginner. The best congas in 2022 on this list, though, will last a long time and can take serious abuse if you're a pro who gigs a lot. The main criteria for the higher finishers was the quality of the factory-issued skins, as well as overall durability and sound quality. The top tier drums here do cost a bit more than the featured bargain models, but $300 is the "budget"-level limit.</div>
+        
+
+        
+            <div class="PromoB-date">February 02, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-metronome-overall" aria-label="Keep the Beat with the Best Metronome">
+    <img class="Image" alt="best metronomes" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/a006103/2147483647/strip/true/crop/1050x686+0+7/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F3e%2F64%2Fab0988fd49c796fdd160fe516e6a%2Fdb-90-top-gal.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-metronome-overall">Keep the Beat with the Best Metronome</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The metronome is a powerful musical learning tool and within the last few years, the technology behind it has advanced considerably. Digital metronomes are becoming more common than mechanical metronomes because of the variety of features they are equipped with. Be sure to practice with these best metronomes on a regular basis, but be sure to use the right model which will force you to think and challenge your ability to keep time. Scroll down to our metronome buyers guide for additional information to help you find the perfect model.</div>
+        
+
+        
+            <div class="PromoB-date">February 02, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-violin-overall" aria-label="Invest in the Best Violin">
+    <img class="Image" alt="best violins" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/ba4bfe2/2147483647/strip/true/crop/450x294+0+78/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fcf%2Fee%2Ff3d8832919cbd24c4b87bf8dd109%2F1xcaqisf.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/string-instruments">String Instruments</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-violin-overall">Invest in the Best Violin</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">There comes a point when budding violinists know they want to stick with this instrument for a long time and are ready to find a violin they can call their own. Purchasing a violin can be a good investment, and although violins are some of the more expensive musical instruments, they don’t lose their value over time when treated with care. If the violin sounds good and is easy to play, owning a violin rather than renting one can be an inspiration for a young musician, encouraging them to spend more time playing the instrument. Finding such a violin can be a challenge, however, as every instrument is unique.There is no substitute for playing several violins to find the one that is right for you. If you don’t have a good violin shop in your area, some online sellers are willing to ship several violins to you, allowing you to try them out and keep the one you like best. A good student violin will have a pleasant sound, consistent tone quality through the entire range of notes, responsive dynamic range, and will feel easy to play. Good craftsmanship is essential— look for a solid spruce top, aged maple back and sides, ebony pegs that don’t stick or come loose, and fine tuners on an ebony tailpiece.The list below includes the best violins in 2022 from trusted shops that consistently receive good reviews from teachers, parents, and students. Some are also available as sets complete with a case and a bow. Take a look at our favorite violins below, as well as a helpful buyer's guide.</div>
+        
+
+        
+            <div class="PromoB-date">February 02, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-snare-drum" aria-label="Create Your Signature Sound with the Best Snare Drum">
+    <img class="Image" alt="best supraphonic snare drum" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/fbc6c7b/2147483647/strip/true/crop/1500x980+0+10/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F98%2Fdc%2F392202c4422c8ba297bb4faa40a3%2Fludwig-supraphonic-snare-drum-chrome-lm402.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-snare-drum">Create Your Signature Sound with the Best Snare Drum</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Of any drum, the snare is the one with the most character and the main component in defining a drummer's signature sound. Most professional drummers prefer to use different drums for specific genres of music and snares are no exception. The best snare drums in 2022 are versatile enough for use with multiple genres of music with the four main genre-specific categories being rock, jazz, metal, and hip-hop. We've compiled the following lists of the best genre-specific snare drums available and provided a buyer’s guide loaded with information to help you in your search.</div>
+        
+
+        
+            <div class="PromoB-date">January 29, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-shoes-for-drummers" aria-label="The Best Shoes for Drummers for Powerful Sound">
+    <img class="Image" alt="best Vratim Shoes for Drummers" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/d28bd20/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F01%2Ff9%2Fab2689fd4b9a935e8c3a57dd3597%2Fvratim-shoes-for-drummers-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-shoes-for-drummers">The Best Shoes for Drummers for Powerful Sound</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">As a drummer, I think a lot about the type of shoes that I wear when playing. I played barefoot for most of my young life. While in college, I recorded a rock album with my band in a professional studio. My first time recording, &nbsp;I played barefoot for the first half hour. I decided to switch to shoes when I first heard playback as my kick drum was pretty solid, but it just wasn't consistent enough. I needed every hit to be extremely powerful, and my foot just wasn't enough by itself so from that day forward I switched to wearing a pair of shoes every time I played.There are many types of shoes that are great to wear when playing drums. Most drummers want footwear that gives them some extra power without interfering with the foots natural motion while other drummers like a thin shoe that feels like a glove for the foot. Obviously, different people prefer different feels, but there are some common characteristics that most drummers look for in a pair of shoes.We chose the following best shoes for drummers in 2022 because of their comfortable feel which will allow you to focus on playing consistent patterns and perform advanced techniques picks. These shoes are all extremely lightweight as well so your feet won’t be left feeling weighed down and sluggish when playing. Traction is also a very important consideration and while these picks allow for some sliding to perform doubles, but still have enough grip to keep your foot firmly in control of the pedals.</div>
+        
+
+        
+            <div class="PromoB-date">January 19, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-drum-cases" aria-label="Protect Your Drums On the Go in the Best Drum Case">
+    <img class="Image" alt="best hard drum cases" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/04c27a3/2147483647/strip/true/crop/700x457+0+121/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Ff9%2Fe9%2F1e032e755ec837828501e265ba94%2Fsku-view-image-php.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-drum-cases">Protect Your Drums On the Go in the Best Drum Case</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The first time I thought about getting cases for my drums was before my first gig in high school and my rock band was booked to play a set at a local coffee shop. I had to bring my drum set to the venue, and that meant I needed some cases put my drums in while I drove them to the gig. Heading to the local drum shop, I was surprised at all the questions they had for me! Expecting the clerks to just to hand me a set of bags and a bill for $10, I actually had to go back home, measure my drums, determine what kind of bags/cases I needed, and finally borrow some money from my parents because my $10 budget just wasn’t going to cut it!There are two main types of protection for drums to consider. Hard cases are often called “cases” and soft cases are generally referred to as “bags”. Hard Cases are made of a molded plastic material with most hard case manufacturers offering the option of lining the inside of the case with protective foam. While expensive, it’s highly recommended for individuals seeking the most protection. Hard shell cases with foam lining offer the most protection of any case option because those without the foam lining don’t offer protection against scratching.Soft bags are made of a synthetic fabric or nylon material. They’re lined with padding and are typically a cheaper option than hard cases. Soft cases are also much lighter making them easy to move around. It’s important to choose cases that are appropriate and cost effective to the drums you are protecting. For example, I have hard shell cases with foam lining for my expensive drums and soft cases for my inexpensive drums.The best drum cases in 2022 can cost you about $50-100 per case, but in most situations the price of admission is worth the initial cost. I have several snare drums that are custom built and one of a kind. If they were damaged in any way, they could not be replaced. I have had some of my cases for 20 years, and they look brand new. I have quality cases for these drums. These cases have lasted countless plane rides and 2 cross country moves.It is important to measure your drums properly before you purchase cases. It is also a good idea to talk to the company or venue about things like mounting hardware and snare strainers. Sometimes these items can determine the size of the case that is needed. The actual size and weight of a case is very important for the gigging drummer. Hard cases are going to be more bulky and heavy than soft bags.We chose the following best drum cases for the superior level of protection they provide thanks to their durable construction whether hard or soft shell, their generous sizes which can comfortably accommodate most any setup. These picks are all the lightest options available which allows for easy transportation without compromising their level of protection.</div>
+        
+
+        
+            <div class="PromoB-date">January 08, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-bass-drum-beater" aria-label="New Sound and Feel from the Best Bass Drum Beater">
+    <img class="Image" alt="best bass drum beater" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/5e69568/2147483647/strip/true/crop/700x457+0+121/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F94%2F84%2Fdb0239d35883805c010459fb4d82%2Ftama-cb90f.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-bass-drum-beater">New Sound and Feel from the Best Bass Drum Beater</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The bass drum beater is the part of the bass drum pedal actually striking the head, making it an important element in determining the sound and feel of a drummer’s bass drum. All bass drum pedals come with a beater but vary greatly in design, so purchasing a new bass drum beater is a great way to change the sound and feel of your existing pedal.There are several different types of bass drum beaters. They mostly vary in the type of material that strikes the head with the most common options being felt, plastic, wood, wool, and metal. There’s also beaters available which have multiple surfaces on the same beater. These types are great because you can switch the surface during a gig with one simple turn of a drum key. You can also find beaters made out of a soft synthetic fur material and look like a beater for a concert bass drum.The material the beater striking the head is what determines the sound you hear. It’s recommended you have several bass drum beaters because you’ll need to produce a different sound for each style of music you play. For example, a felt beater is good for general playing because it’s very versatile and you may usually only want to use a plastic beater when your felt beater isn’t cutting through. While plastic beaters have a “ticky” sound, they’re a bit louder than a felt beater. A wooden beater can be used for a raw, articulate, open sound that’s ideal for simulating a concert bass drum. If you’re someone who enjoys playing loud heavy metal music, look to a metal beater for your needs.These for picks for best bass drum beaters in 2022 come available in a variety of different striking materials to suit the sound you’re looking for. They’re also all constructed to be extremely durable, meaning the surface will not wear down over years of playing with them; durability is extremely important with a felt beater because it’s the most susceptible to wear from normal use. Therefore, all of my felt picks are made with quality felt that will retain their sound over time. Lastly, these picks also all have the proper balance of size and weight to ensure consistent sound every time.It is important to note we’re only focusing on beaters intended to play the drum set bass drum. These are often called “kick drum” beaters. Concert bass drum beaters that are used in the orchestra will not be discussed in this review.</div>
+        
+
+        
+            <div class="PromoB-date">January 07, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-practice-drum-pad" aria-label="Practice New Techniques on the Best Practice Drum Pad">
+    <img class="Image" alt="aquarian-quick-bounce-practice-drum-pad-bestcovery" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/d6f49ab/2147483647/strip/true/crop/700x457+0+121/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F70%2F92%2Fc088388c0b74292269c9c0ccf073%2F61tv5enkqsl-sl1127.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-practice-drum-pad">Practice New Techniques on the Best Practice Drum Pad</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">A practice drum pad can be a wonderful tool in developing technique and speed while at the same time allowing a drummer to practice anywhere, and not worry about making a lot of noise. A practice pad looks like a thick drumhead that a drummer can hit to simulate the feel of playing on a real drum. Most drum companies have their signature practice pad available in multiple sizes. Usually the sizes range from 6-12 inches. The most common pad surfaces are rubber, plastic, and an actual drumhead. However, it’s important to note a practice pad is only a tool for practice and not an acceptable substitute for an actual drum. While practice pads are great for practicing stick control exercises and speed building workouts, they cannot improve sound production.Recently companies have been making practice pads with multiple surfaces to simulate the feel of playing on different types of drums; for example, snare drums feel different than tom toms and often require different techniques. Therefore, some of our picks have multiple surfaces on one side while others are double-sided with a soft surface on top and a hard surface on the bottom. Most rubber surfaces are soft and are good for speed building.It’s important to note some soft pads aren’t designed to feel like a real drum, but rather are designed to help build better technique. Hard plastic surfaces are good for simulating the feel of a marching snare drum or cymbals. The actual drumhead surface does a great job of simulating an actual drum and can often be tuned to different tensions.A drummer should have several pads for practicing different techniques. It’s preferred to have multiple surfaces on a pad so one can practice multiple techniques in a given practice session. Another hallmark of a good pad are mounting options for cymbal pad stands. I usually prefer 6 inch double-sided pads for gigging. They are small and don’t take up a lot room in my stick/hardware bag. Small pads are perfect to have for a pre gig warm-up backstage and you’ll usually want to keep larger practice pads in your studio at home.We chose these best practice drum pads in 2022 for their responsiveness, drum-like feel aimed at helping you build better technique, they offer multiple playing surfaces to simulate different drums, and their overall durable construction ensures each pick will last you many years.</div>
+        
+
+        
+            <div class="PromoB-date">January 07, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-cymbal-bag" aria-label="Best Cymbal Bags to Keep Your Cymbals Scratch-Free">
+    <img class="Image" alt="best black out cymbal bag" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/f2a93f2/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F8b%2F40%2F044cf25e4a118376e361c21d9e57%2Fsabian-quick-22-black-out-cymbal-bag-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-cymbal-bag">Best Cymbal Bags to Keep Your Cymbals Scratch-Free</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The cymbal bag is perhaps the most important case a drummer can own as protecting one’s cymbals is usually the highest priority. It doesn’t take a lot to scratch a cymbal, so it is important to protect then during travel. Since most drummers spend a lot of money and time to find cymbals, protecting them adequately is of the utmost importance. Fortunately, there are many different cymbals bags to choose from on the market.The two main options of cymbal bags are soft and hard shell. The hard shell is usually referred to as a “case.” Hard shell cases are made of a hard plastic material and offer more protection. Soft cymbal bags are usually made out of leather or a synthetic material that is lighter and generally easier to carry. I own both hard cases, and soft bags. Soft cymbal bags are usually fine if you will be the only one handling your cymbals. Soft bags are usually easier to open, often only having a zipper. Hard cases usually require a strap or screw being undone, and the case being separated into two separate parts. This can be a hassle and can lead to a lot of time spent fussing with your cymbals. I find hard cases are better for touring and airline travel.Most cymbal bags/cases can accommodate cymbals as large as 22 inches, and that’s the size bag that I recommend. If you are one of the few people that have a 24 inch cymbal, then obviously you should purchase a bag that specifies it can hold a cymbal that large since some bags can only accommodate cymbals as large as 18 or 20 inches, which in my opinion are too small for normal use. If you don’t have a 24 inch cymbal, you shouldn’t buy a matching 24 inch soft cymbal bag. The extra room in a soft bag allows the cymbals to move around, and that leaves the door open for a lot of scratches and dings.A cymbal bag should also be as light as possible since they usually become extremely heavy when they’re loaded down with cymbals, so the bag itself should be as light as possible. When I first started playing gigs, I would always bring a cymbal bag with a shoulder strap which led to a lot of unnecessary pain in my shoulder when I’d be playing a gig. This is the reason that most of my picks have wheels. While some bags also have backpack style straps, I find these usually break from the continual heavy weight of the cymbals. Another helpful convenience is a front pouch for high-hats or sticks.These best cymbal bags in 2022 were chosen for their durable construction which provides a superior level of protection for your cymbals, generously sized interiors sizes to accommodate most cymbals, and they’ve all been designed with features which makes them convenient to transport from one gig to another.</div>
+        
+
+        
+            <div class="PromoB-date">January 06, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-drum-throne" aria-label="Comfortable and Functional: The Best Drum Throne">
+    <img class="Image" alt="best ROC-N-SOC Back Rest Black Drum Throne " width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/328c317/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fe8%2F8c%2F37f76f7c4532bd0546d6ef15ae43%2Froc-n-soc-back-rest-black-drum-throne-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/drums">Drums</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-drum-throne">Comfortable and Functional: The Best Drum Throne</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">A drum throne is a fancy name for the stool that drummers sit on while they play. After all, since you’re sitting on a throne, you should feel like a king! A good drum throne will position the player in an upright and comfortable position. The three main variables that distinguish drum thrones from each other are: seat design, height adjustment mechanism, and legs; these often change within models provided by a particular company.The most important part of the throne is the padded seat (for obvious reasons) which vary by design and the amount of cushion they provide. Ideally you’ll want to have several thrones you can use for different gigs. For example, if you have an intense rock gig, you may prefer a firm seat and vice versa a soft seat for musical theater or pops concert gigs.One common seat design is a round pad that looks similar to the top of a barstool. The other design you’re likely to see is called a bicycle seat or “tractor style”, although it’s actually much wider and more comfortable than a bicycle seat. A bicycle/tractor seat design is triangular in shape, and feels drastically different than a round top. I have thrones with both seat designs and I usually use the bicycle/tractor style for longer gigs because they’re more comfortable.The seats height adjustment mechanism is sometimes hydraulic (similar to a modern office chair) with a lever that you pull to raise and lower the seat. This mechanism adjusts the quickest but it will most likely start to fail after several years of consistent use. There’s also an extended pole design similar to a cymbal stand and other pieces of drumming hardware. This design can be difficult to adjust but it’s often the easiest to set and remain level if you have a locking bracket. Finally there’s the screw type design that spins to adjust the height. In my opinion this design often moves around slightly height-wise but is more durable overall.The last variable to account for is the number of legs on a throne. Thrones typically have three, four, or even five legs which can usually be folded so the base can be neatly packed into a hardware bag. Many thrones also have a backrest that you can purchase separately and is highly recommended if you spend a lot of time playing. One thing to note is some companies are experimenting with tilting thrones but we’re going to be focusing on the traditional design for this best list.The criteria we’ve used in choosing these best drum thrones is their level of comfort, ease of adjustment, and overall durability. Comfort is important when you spend long hours practicing and playing gigs and these picks feature the perfect amount of support and padding, both the resting position and while you’re playing.Drum thrones also need to be height adjustable for obvious reasons, and all of these picks of the best drum throne in 2022 are easily adjustable; you may find yourself plating gigs that don’t allow a lot of space to get off of your throne to adjust the height so this is a key feature to have. Lastly, each of these thrones are durably constructed because who doesn’t hate situations in which you reach to pick up your throne, and the seat separates from the base?</div>
+        
+
+        
+            <div class="PromoB-date">January 06, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+            </ul>
+        
+    </div>
+
+    
+        <div class="ListE-nextPage" data-list-loadmore-pagination>
+            <a class="ButtonHoverOpacity Link" href="?0000016e-d357-dd8d-ad6f-f3779a4f0000-page=2">Load More</a>
+        </div>
+    
+</ps-list-loadmore>
+
+        </div>
+    </div>
+</div>
+            </div>
+        
+    </div>
+</div>
+
+    </div>
+
+
+
+
+        
+    
+</main>
+
+
+
+<footer class="Page-footer" itemscope itemtype="https://schema.org/WPFooter">
+    <div class="Page-footer-body">
+        
+
+        <div class="Page-footer-columns">
+            <div class="Page-footer-column">
+                
+                    <div class="Page-footer-navigation">
+                        <nav class="FooterNavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+        <ul class="FooterNavigation-items">
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/about-us">About Us</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/privacy-policy">Privacy Policy</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/terms-use">Terms of Use</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/contact-us">Contact Us</a>
+    
+    
+</div>
+                </li>
+            
+        </ul>
+    
+</nav>
+                    </div>
+                
+            </div>
+            
+                <div class="Page-footer-column">
+                    <div class="Page-footer-content title-5">
+                        
+    <div class="RichTextModule">
+        
+            <div class="RichTextModule-items RichTextBody"><p>Follow Us</p></div>
+        
+
+    </div>
+<nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item"> <a class="SocialLink" rel="noreferrer noopener nofollow" href="https://www.facebook.com/Bestcovery/" target="_blank" data-social-service="facebook"><svg><use xlink:href="#mono-icon-facebook"></use></svg><span class="sr-only">facebook</span></a>
+</li>
+            
+                <li class="Navigation-items-item"> <a class="SocialLink" rel="noreferrer noopener nofollow" href="https://twitter.com/Bestcovery" target="_blank" data-social-service="twitter"><svg><use xlink:href="#mono-icon-twitter"></use></svg><span class="sr-only">twitter</span></a>
+</li>
+            
+        </ul>
+    
+</nav>
+                    </div>
+                </div>
+            
+        </div>
+
+        
+            <div class="Page-footer-disclaimer text-preview">Copyright 2023 Bestcovery.com, LLC. All rights reserved.</div>
+        
+    </div>
+</footer>
+
+
+</body>
+</html>

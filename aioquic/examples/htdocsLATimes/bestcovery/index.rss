@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Bestcovery | Expert Reviews and Rankings</title>
+    <link>https://www.latimes.com/bestcovery/</link>
+    <description>Experts review and identify the best products and services in a variety of categories including computers, electronics, digital cameras, video games and more.</description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 09 Jun 2023 23:55:57 GMT</lastBuildDate>
+    <atom:link href="http://www.latimes.com/bestcovery/index.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Newsroom Directory</title>
+    <link>https://www.latimes.com/newsroom-directory</link>
+    <description>Newsroom Directory</description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 08 Jun 2023 23:57:41 GMT</lastBuildDate>
+    <atom:link href="https://www.latimes.com/newsroom-directory.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

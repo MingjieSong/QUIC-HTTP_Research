@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>L. A. Times Studios</title>
+    <link>https://www.latimes.com/about/studios</link>
+    <description>L. A. Times Studios</description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 16 Feb 2023 19:26:58 GMT</lastBuildDate>
+    <atom:link href="https://www.latimes.com/about/studios.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

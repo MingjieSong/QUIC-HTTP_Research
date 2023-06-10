@@ -1,0 +1,2154 @@
+<!DOCTYPE html>
+<html class="SectionPage" lang="en" itemscope itemtype="http://schema.org/WebPage">
+<head>
+    <meta charset="UTF-8">
+
+    <style data-cssvarsponyfill="true">
+                :root {
+        --primaryColor1: #4079ad;
+        --primaryColor2: #000000;
+
+        --primaryTextColor: #333333;
+        --secondaryTextColor: #4079ad;
+        --breakingColor: #e9873f;
+
+        --secondaryColor1: #858585;
+        --secondaryColor2: #cccccc;
+        --secondaryColor3: #e6e6e6;
+        --secondaryColor4: #f5f5f5;
+        --secondaryColor5: #ffffff;
+        --secondaryColor6: #e12327;
+        --secondaryColor7: #4079ad;
+        --secondaryColor8: #202f3f;
+        --secondaryColor9: #666666;
+
+        --siteBgColor: #ffffff;
+        --siteInverseBgColor: #000000;
+
+        --headerBgColor: #ffffff;
+        --headerBgColorInverse: #000000;
+        --headerBorderColor: #e6e6e6;
+        --headerBorderColorInverse: #858585;
+        --headerTextColor: #333333;
+        --headerTextColorInverse: #ffffff;
+        --headerMenuBgColor: #ffffff;
+        --headerMenuTextColor: #ffffff;
+
+        --secondaryHeaderBgColor: #ffffff;
+        --secondaryHeaderTextColor: #333333;
+
+        --footerBgColor: #000000;
+        --footerTextColor: #ffffff;
+
+        --primaryTextColorInverse: #ffffff;
+        --secondaryTextColorInverse: #cccccc;
+        --tertiaryTextColor: #999999;
+        --tertiaryTextColorInverse: #cccccc;
+
+        --listBorderColor: #000000;
+        --gridBorderColor: #e6e6e6;
+
+        --buttonBgColor: #4079ad;
+        --buttonSecondaryBgColor: #ffffff;
+        --buttonSecondaryTextColor: #333333;
+        --buttonTextColor: #ffffff;
+        --inverseButtonBgColor: #030202;
+        --tagButtonBorderColor: #e6e6e6;
+        --tagButtonTextColor: #ff6f00;
+
+        --breakingTextColor: #ffffff;
+
+        --sectionTextColor: #ff6f00;
+
+        --primaryHeadlineFont: Oswald;
+        --secondaryHeadlineFont: Oswald;
+        --bodyFont: Roboto;
+
+        --contentWidth: 1200px;
+        }
+
+    </style>
+
+    
+
+    <meta property="og:title" content="Home Theater &amp; A/V">
+
+    <meta property="og:url" content="https://www.latimes.com/bestcovery/home-theater-a-v">
+
+
+    <meta property="og:site_name" content="Bestcovery">
+
+
+
+    <meta property="og:type" content="website">
+
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    <meta name="twitter:title" content="Home Theater &amp; A/V"/>
+    
+
+
+    <link data-cssvarsponyfill="true" class="Webpack-css" rel="stylesheet" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/All.min.4d29e7a04ca97ea10a5aedec469cda49.css">
+
+    <style>.Page-above {
+    display: block !important;
+}
+
+.InfoBoxBody {
+	font-size: 14px;
+}</style>
+<style>.SectionPage .RichTextBody table {
+    max-width: 838px;
+}
+
+.SectionPage .RichTextBody table tr:first-child, .SectionPage .RichTextBody .table-h {
+    white-space:nowrap;
+    background: #f5f5f5;
+}
+
+.SectionPage .RichTextBody table, .SectionPage .RichTextBody th, .SectionPage .RichTextBody td {
+    border: 1px solid rgba(0,31,63,.08);
+}
+
+.SectionPage .RichTextBody th, .SectionPage .RichTextBody td {
+	padding: 5px 10px;
+}</style>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"><title>Home Theater &amp; A/V - Bestcovery</title><link rel="canonical" href="https://www.latimes.com/bestcovery/home-theater-a-v"><meta name="brightspot.contentId" content="0000016e-6532-d2e1-a3fe-753b07bc0000"><link rel="apple-touch-icon" sizes="180x180" href="/styleguide/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/favicon-32x32.bf34a9f07d94299a7699e16042ef11fd.png">
+<link rel="icon" type="image/png" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/favicon-16x16.9f124a4f6e59c7927104889e0167e7ef.png">
+    <link type="application/rss+xml" rel="alternate" title="Home Theater &amp; A/V" href="https://www.latimes.com/bestcovery/home-theater-a-v.rss"><script>var _lb = '1';</script>
+<script src="https://activate.platform.californiatimes.com/caltimes/bestcovery/Bootstrap.js" async></script>
+
+
+    
+
+    <!--This is needed for custom elements to function in browsers that
+    support them natively but that are using es6 code transpiled to es5.
+    This will cause a non-fatal error to show up in the IE11 console.
+    It can be safely ignored. https://github.com/webcomponents/webcomponentsjs/issues/749 -->
+    <script>
+        (function () {
+        'use strict';
+
+        (()=>{'use strict';if(!window.customElements)return;const a=window.HTMLElement,b=window.customElements.define,c=window.customElements.get,d=new Map,e=new Map;let f=!1,g=!1;window.HTMLElement=function(){if(!f){const a=d.get(this.constructor),b=c.call(window.customElements,a);g=!0;const e=new b;return e}f=!1;},window.HTMLElement.prototype=a.prototype;Object.defineProperty(window,'customElements',{value:window.customElements,configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'define',{value:(c,h)=>{const i=h.prototype,j=class extends a{constructor(){super(),Object.setPrototypeOf(this,i),g||(f=!0,h.call(this)),g=!1;}},k=j.prototype;j.observedAttributes=h.observedAttributes,k.connectedCallback=i.connectedCallback,k.disconnectedCallback=i.disconnectedCallback,k.attributeChangedCallback=i.attributeChangedCallback,k.adoptedCallback=i.adoptedCallback,d.set(h,c),e.set(c,h),b.call(window.customElements,c,j);},configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'get',{value:(a)=>e.get(a),configurable:!0,writable:!0});})();
+
+        /**
+        @license
+        Copyright (c) 2017 The Polymer Project Authors. All rights reserved.
+        This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+        The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+        The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+        Code distributed by Google as part of the polymer project is also
+        subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+        */
+        }());
+    </script>
+    <script>
+        /**
+            For the fastest load times https://developers.google.com/speed/docs/insights/BlockingJS
+            and to prevent any FOUC, as well as prevent any race conditions for browsers that also
+            rely on the CSS variables polyfill, this is inlined.
+        **/
+        if (!window.customElements) {
+            (function(){
+                'use strict';var h=new function(){};var aa=new Set("annotation-xml color-profile font-face font-face-src font-face-uri font-face-format font-face-name missing-glyph".split(" "));function m(b){var a=aa.has(b);b=/^[a-z][.0-9_a-z]*-[\-.0-9_a-z]*$/.test(b);return!a&&b}function n(b){var a=b.isConnected;if(void 0!==a)return a;for(;b&&!(b.__CE_isImportDocument||b instanceof Document);)b=b.parentNode||(window.ShadowRoot&&b instanceof ShadowRoot?b.host:void 0);return!(!b||!(b.__CE_isImportDocument||b instanceof Document))}
+                function p(b,a){for(;a&&a!==b&&!a.nextSibling;)a=a.parentNode;return a&&a!==b?a.nextSibling:null}
+                function t(b,a,c){c=c?c:new Set;for(var d=b;d;){if(d.nodeType===Node.ELEMENT_NODE){var e=d;a(e);var f=e.localName;if("link"===f&&"import"===e.getAttribute("rel")){d=e.import;if(d instanceof Node&&!c.has(d))for(c.add(d),d=d.firstChild;d;d=d.nextSibling)t(d,a,c);d=p(b,e);continue}else if("template"===f){d=p(b,e);continue}if(e=e.__CE_shadowRoot)for(e=e.firstChild;e;e=e.nextSibling)t(e,a,c)}d=d.firstChild?d.firstChild:p(b,d)}}function u(b,a,c){b[a]=c};function v(){this.a=new Map;this.s=new Map;this.f=[];this.b=!1}function ba(b,a,c){b.a.set(a,c);b.s.set(c.constructor,c)}function w(b,a){b.b=!0;b.f.push(a)}function x(b,a){b.b&&t(a,function(a){return y(b,a)})}function y(b,a){if(b.b&&!a.__CE_patched){a.__CE_patched=!0;for(var c=0;c<b.f.length;c++)b.f[c](a)}}function z(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state?b.connectedCallback(d):A(b,d)}}
+                function B(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state&&b.disconnectedCallback(d)}}
+                function C(b,a,c){c=c?c:{};var d=c.w||new Set,e=c.i||function(a){return A(b,a)},f=[];t(a,function(a){if("link"===a.localName&&"import"===a.getAttribute("rel")){var c=a.import;c instanceof Node&&(c.__CE_isImportDocument=!0,c.__CE_hasRegistry=!0);c&&"complete"===c.readyState?c.__CE_documentLoadHandled=!0:a.addEventListener("load",function(){var c=a.import;if(!c.__CE_documentLoadHandled){c.__CE_documentLoadHandled=!0;var f=new Set(d);f.delete(c);C(b,c,{w:f,i:e})}})}else f.push(a)},d);if(b.b)for(a=0;a<
+                f.length;a++)y(b,f[a]);for(a=0;a<f.length;a++)e(f[a])}
+                function A(b,a){if(void 0===a.__CE_state){var c=a.ownerDocument;if(c.defaultView||c.__CE_isImportDocument&&c.__CE_hasRegistry)if(c=b.a.get(a.localName)){c.constructionStack.push(a);var d=c.constructor;try{try{if(new d!==a)throw Error("The custom element constructor did not produce the element being upgraded.");}finally{c.constructionStack.pop()}}catch(r){throw a.__CE_state=2,r;}a.__CE_state=1;a.__CE_definition=c;if(c.attributeChangedCallback)for(c=c.observedAttributes,d=0;d<c.length;d++){var e=c[d],
+                        f=a.getAttribute(e);null!==f&&b.attributeChangedCallback(a,e,null,f,null)}n(a)&&b.connectedCallback(a)}}}v.prototype.connectedCallback=function(b){var a=b.__CE_definition;a.connectedCallback&&a.connectedCallback.call(b)};v.prototype.disconnectedCallback=function(b){var a=b.__CE_definition;a.disconnectedCallback&&a.disconnectedCallback.call(b)};
+                v.prototype.attributeChangedCallback=function(b,a,c,d,e){var f=b.__CE_definition;f.attributeChangedCallback&&-1<f.observedAttributes.indexOf(a)&&f.attributeChangedCallback.call(b,a,c,d,e)};function D(b,a){this.c=b;this.a=a;this.b=void 0;C(this.c,this.a);"loading"===this.a.readyState&&(this.b=new MutationObserver(this.f.bind(this)),this.b.observe(this.a,{childList:!0,subtree:!0}))}function E(b){b.b&&b.b.disconnect()}D.prototype.f=function(b){var a=this.a.readyState;"interactive"!==a&&"complete"!==a||E(this);for(a=0;a<b.length;a++)for(var c=b[a].addedNodes,d=0;d<c.length;d++)C(this.c,c[d])};function ca(){var b=this;this.b=this.a=void 0;this.f=new Promise(function(a){b.b=a;b.a&&a(b.a)})}function F(b){if(b.a)throw Error("Already resolved.");b.a=void 0;b.b&&b.b(void 0)};function G(b){this.j=!1;this.c=b;this.o=new Map;this.l=function(b){return b()};this.g=!1;this.m=[];this.u=new D(b,document)}
+                G.prototype.define=function(b,a){var c=this;if(!(a instanceof Function))throw new TypeError("Custom element constructors must be functions.");if(!m(b))throw new SyntaxError("The element name '"+b+"' is not valid.");if(this.c.a.get(b))throw Error("A custom element with name '"+b+"' has already been defined.");if(this.j)throw Error("A custom element is already being defined.");this.j=!0;var d,e,f,r,k;try{var g=function(b){var a=l[b];if(void 0!==a&&!(a instanceof Function))throw Error("The '"+b+"' callback must be a function.");
+                    return a},l=a.prototype;if(!(l instanceof Object))throw new TypeError("The custom element constructor's prototype is not an object.");d=g("connectedCallback");e=g("disconnectedCallback");f=g("adoptedCallback");r=g("attributeChangedCallback");k=a.observedAttributes||[]}catch(q){return}finally{this.j=!1}a={localName:b,constructor:a,connectedCallback:d,disconnectedCallback:e,adoptedCallback:f,attributeChangedCallback:r,observedAttributes:k,constructionStack:[]};ba(this.c,b,a);this.m.push(a);this.g||
+                (this.g=!0,this.l(function(){return da(c)}))};G.prototype.i=function(b){C(this.c,b)};function da(b){if(!1!==b.g){b.g=!1;for(var a=b.m,c=[],d=new Map,e=0;e<a.length;e++)d.set(a[e].localName,[]);C(b.c,document,{i:function(a){if(void 0===a.__CE_state){var e=a.localName,f=d.get(e);f?f.push(a):b.c.a.get(e)&&c.push(a)}}});for(e=0;e<c.length;e++)A(b.c,c[e]);for(;0<a.length;){for(var f=a.shift(),e=f.localName,f=d.get(f.localName),r=0;r<f.length;r++)A(b.c,f[r]);(e=b.o.get(e))&&F(e)}}}
+                G.prototype.get=function(b){if(b=this.c.a.get(b))return b.constructor};G.prototype.whenDefined=function(b){if(!m(b))return Promise.reject(new SyntaxError("'"+b+"' is not a valid custom element name."));var a=this.o.get(b);if(a)return a.f;a=new ca;this.o.set(b,a);this.c.a.get(b)&&!this.m.some(function(a){return a.localName===b})&&F(a);return a.f};G.prototype.v=function(b){E(this.u);var a=this.l;this.l=function(c){return b(function(){return a(c)})}};window.CustomElementRegistry=G;
+                G.prototype.define=G.prototype.define;G.prototype.upgrade=G.prototype.i;G.prototype.get=G.prototype.get;G.prototype.whenDefined=G.prototype.whenDefined;G.prototype.polyfillWrapFlushCallback=G.prototype.v;var H=window.Document.prototype.createElement,ea=window.Document.prototype.createElementNS,fa=window.Document.prototype.importNode,ga=window.Document.prototype.prepend,ha=window.Document.prototype.append,ia=window.DocumentFragment.prototype.prepend,ja=window.DocumentFragment.prototype.append,I=window.Node.prototype.cloneNode,J=window.Node.prototype.appendChild,K=window.Node.prototype.insertBefore,L=window.Node.prototype.removeChild,M=window.Node.prototype.replaceChild,N=Object.getOwnPropertyDescriptor(window.Node.prototype,
+                        "textContent"),O=window.Element.prototype.attachShadow,P=Object.getOwnPropertyDescriptor(window.Element.prototype,"innerHTML"),Q=window.Element.prototype.getAttribute,R=window.Element.prototype.setAttribute,S=window.Element.prototype.removeAttribute,T=window.Element.prototype.getAttributeNS,U=window.Element.prototype.setAttributeNS,ka=window.Element.prototype.removeAttributeNS,la=window.Element.prototype.insertAdjacentElement,ma=window.Element.prototype.insertAdjacentHTML,na=window.Element.prototype.prepend,
+                        oa=window.Element.prototype.append,V=window.Element.prototype.before,pa=window.Element.prototype.after,qa=window.Element.prototype.replaceWith,ra=window.Element.prototype.remove,sa=window.HTMLElement,W=Object.getOwnPropertyDescriptor(window.HTMLElement.prototype,"innerHTML"),ta=window.HTMLElement.prototype.insertAdjacentElement,ua=window.HTMLElement.prototype.insertAdjacentHTML;function va(){var b=X;window.HTMLElement=function(){function a(){var a=this.constructor,d=b.s.get(a);if(!d)throw Error("The custom element being constructed was not registered with `customElements`.");var e=d.constructionStack;if(!e.length)return e=H.call(document,d.localName),Object.setPrototypeOf(e,a.prototype),e.__CE_state=1,e.__CE_definition=d,y(b,e),e;var d=e.length-1,f=e[d];if(f===h)throw Error("The HTMLElement constructor was either called reentrantly for this constructor or called multiple times.");
+                    e[d]=h;Object.setPrototypeOf(f,a.prototype);y(b,f);return f}a.prototype=sa.prototype;return a}()};function Y(b,a,c){function d(a){return function(c){for(var e=[],d=0;d<arguments.length;++d)e[d-0]=arguments[d];for(var d=[],f=[],l=0;l<e.length;l++){var q=e[l];q instanceof Element&&n(q)&&f.push(q);if(q instanceof DocumentFragment)for(q=q.firstChild;q;q=q.nextSibling)d.push(q);else d.push(q)}a.apply(this,e);for(e=0;e<f.length;e++)B(b,f[e]);if(n(this))for(e=0;e<d.length;e++)f=d[e],f instanceof Element&&z(b,f)}}c.h&&(a.prepend=d(c.h));c.append&&(a.append=d(c.append))};function wa(){var b=X;u(Document.prototype,"createElement",function(a){if(this.__CE_hasRegistry){var c=b.a.get(a);if(c)return new c.constructor}a=H.call(this,a);y(b,a);return a});u(Document.prototype,"importNode",function(a,c){a=fa.call(this,a,c);this.__CE_hasRegistry?C(b,a):x(b,a);return a});u(Document.prototype,"createElementNS",function(a,c){if(this.__CE_hasRegistry&&(null===a||"http://www.w3.org/1999/xhtml"===a)){var d=b.a.get(c);if(d)return new d.constructor}a=ea.call(this,a,c);y(b,a);return a});
+                    Y(b,Document.prototype,{h:ga,append:ha})};function xa(){var b=X;function a(a,d){Object.defineProperty(a,"textContent",{enumerable:d.enumerable,configurable:!0,get:d.get,set:function(a){if(this.nodeType===Node.TEXT_NODE)d.set.call(this,a);else{var e=void 0;if(this.firstChild){var c=this.childNodes,k=c.length;if(0<k&&n(this))for(var e=Array(k),g=0;g<k;g++)e[g]=c[g]}d.set.call(this,a);if(e)for(a=0;a<e.length;a++)B(b,e[a])}}})}u(Node.prototype,"insertBefore",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);
+                    a=K.call(this,a,d);if(n(this))for(d=0;d<e.length;d++)z(b,e[d]);return a}e=n(a);d=K.call(this,a,d);e&&B(b,a);n(this)&&z(b,a);return d});u(Node.prototype,"appendChild",function(a){if(a instanceof DocumentFragment){var c=Array.prototype.slice.apply(a.childNodes);a=J.call(this,a);if(n(this))for(var e=0;e<c.length;e++)z(b,c[e]);return a}c=n(a);e=J.call(this,a);c&&B(b,a);n(this)&&z(b,a);return e});u(Node.prototype,"cloneNode",function(a){a=I.call(this,a);this.ownerDocument.__CE_hasRegistry?C(b,a):x(b,a);
+                    return a});u(Node.prototype,"removeChild",function(a){var c=n(a),e=L.call(this,a);c&&B(b,a);return e});u(Node.prototype,"replaceChild",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);a=M.call(this,a,d);if(n(this))for(B(b,d),d=0;d<e.length;d++)z(b,e[d]);return a}var e=n(a),f=M.call(this,a,d),c=n(this);c&&B(b,d);e&&B(b,a);c&&z(b,a);return f});N&&N.get?a(Node.prototype,N):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){for(var a=[],b=
+                            0;b<this.childNodes.length;b++)a.push(this.childNodes[b].textContent);return a.join("")},set:function(a){for(;this.firstChild;)L.call(this,this.firstChild);J.call(this,document.createTextNode(a))}})})};function ya(b){var a=Element.prototype;function c(a){return function(e){for(var c=[],d=0;d<arguments.length;++d)c[d-0]=arguments[d];for(var d=[],k=[],g=0;g<c.length;g++){var l=c[g];l instanceof Element&&n(l)&&k.push(l);if(l instanceof DocumentFragment)for(l=l.firstChild;l;l=l.nextSibling)d.push(l);else d.push(l)}a.apply(this,c);for(c=0;c<k.length;c++)B(b,k[c]);if(n(this))for(c=0;c<d.length;c++)k=d[c],k instanceof Element&&z(b,k)}}V&&(a.before=c(V));V&&(a.after=c(pa));qa&&u(a,"replaceWith",function(a){for(var e=
+                        [],c=0;c<arguments.length;++c)e[c-0]=arguments[c];for(var c=[],d=[],k=0;k<e.length;k++){var g=e[k];g instanceof Element&&n(g)&&d.push(g);if(g instanceof DocumentFragment)for(g=g.firstChild;g;g=g.nextSibling)c.push(g);else c.push(g)}k=n(this);qa.apply(this,e);for(e=0;e<d.length;e++)B(b,d[e]);if(k)for(B(b,this),e=0;e<c.length;e++)d=c[e],d instanceof Element&&z(b,d)});ra&&u(a,"remove",function(){var a=n(this);ra.call(this);a&&B(b,this)})};function za(){var b=X;function a(a,c){Object.defineProperty(a,"innerHTML",{enumerable:c.enumerable,configurable:!0,get:c.get,set:function(a){var e=this,d=void 0;n(this)&&(d=[],t(this,function(a){a!==e&&d.push(a)}));c.set.call(this,a);if(d)for(var f=0;f<d.length;f++){var r=d[f];1===r.__CE_state&&b.disconnectedCallback(r)}this.ownerDocument.__CE_hasRegistry?C(b,this):x(b,this);return a}})}function c(a,c){u(a,"insertAdjacentElement",function(a,e){var d=n(e);a=c.call(this,a,e);d&&B(b,e);n(a)&&z(b,e);
+                    return a})}function d(a,c){function e(a,e){for(var c=[];a!==e;a=a.nextSibling)c.push(a);for(e=0;e<c.length;e++)C(b,c[e])}u(a,"insertAdjacentHTML",function(a,b){a=a.toLowerCase();if("beforebegin"===a){var d=this.previousSibling;c.call(this,a,b);e(d||this.parentNode.firstChild,this)}else if("afterbegin"===a)d=this.firstChild,c.call(this,a,b),e(this.firstChild,d);else if("beforeend"===a)d=this.lastChild,c.call(this,a,b),e(d||this.firstChild,null);else if("afterend"===a)d=this.nextSibling,c.call(this,
+                        a,b),e(this.nextSibling,d);else throw new SyntaxError("The value provided ("+String(a)+") is not one of 'beforebegin', 'afterbegin', 'beforeend', or 'afterend'.");})}O&&u(Element.prototype,"attachShadow",function(a){return this.__CE_shadowRoot=a=O.call(this,a)});P&&P.get?a(Element.prototype,P):W&&W.get?a(HTMLElement.prototype,W):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){return I.call(this,!0).innerHTML},set:function(a){var b="template"===this.localName,e=b?this.content:this,
+                            c=H.call(document,this.localName);for(c.innerHTML=a;0<e.childNodes.length;)L.call(e,e.childNodes[0]);for(a=b?c.content:c;0<a.childNodes.length;)J.call(e,a.childNodes[0])}})});u(Element.prototype,"setAttribute",function(a,c){if(1!==this.__CE_state)return R.call(this,a,c);var e=Q.call(this,a);R.call(this,a,c);c=Q.call(this,a);b.attributeChangedCallback(this,a,e,c,null)});u(Element.prototype,"setAttributeNS",function(a,c,d){if(1!==this.__CE_state)return U.call(this,a,c,d);var e=T.call(this,a,c);U.call(this,
+                        a,c,d);d=T.call(this,a,c);b.attributeChangedCallback(this,c,e,d,a)});u(Element.prototype,"removeAttribute",function(a){if(1!==this.__CE_state)return S.call(this,a);var c=Q.call(this,a);S.call(this,a);null!==c&&b.attributeChangedCallback(this,a,c,null,null)});u(Element.prototype,"removeAttributeNS",function(a,c){if(1!==this.__CE_state)return ka.call(this,a,c);var d=T.call(this,a,c);ka.call(this,a,c);var e=T.call(this,a,c);d!==e&&b.attributeChangedCallback(this,c,d,e,a)});ta?c(HTMLElement.prototype,
+                        ta):la?c(Element.prototype,la):console.warn("Custom Elements: `Element#insertAdjacentElement` was not patched.");ua?d(HTMLElement.prototype,ua):ma?d(Element.prototype,ma):console.warn("Custom Elements: `Element#insertAdjacentHTML` was not patched.");Y(b,Element.prototype,{h:na,append:oa});ya(b)};/*
+
+                Copyright (c) 2016 The Polymer Project Authors. All rights reserved.
+                This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+                The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+                The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+                Code distributed by Google as part of the polymer project is also
+                subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+                */
+                var Z=window.customElements;if(!Z||Z.forcePolyfill||"function"!=typeof Z.define||"function"!=typeof Z.get){var X=new v;va();wa();Y(X,DocumentFragment.prototype,{h:ia,append:ja});xa();za();document.__CE_hasRegistry=!0;var customElements=new G(X);Object.defineProperty(window,"customElements",{configurable:!0,enumerable:!0,value:customElements})};
+            }).call(self);
+        }
+
+        /**
+            This allows us to load the IE polyfills via feature detection so that they do not load
+            needlessly in the browsers that do not need them. It also ensures they are loaded
+            non async so that they load before the rest of our JS.
+        */
+        var head = document.getElementsByTagName('head')[0];
+        if (!window.CSS || !window.CSS.supports || !window.CSS.supports('--fake-var', 0)) {
+            var script = document.createElement('script');
+            script.setAttribute('src', "https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/util/IEPolyfills.7a8440e4b9a8eed9874904d20fd32963.js");
+            script.setAttribute('type', 'text/javascript');
+            script.async = false;
+            head.appendChild(script);
+        }
+    </script>
+    
+    <script src="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/All.min.f7fc019e5c5fa20dfcbd5201bcaa5c8e.js" async></script>
+
+    <script>document.addEventListener("DOMContentLoaded",function(){var t=Math.random()+"",e=document.createElement("img");e.src="https://pubads.g.doubleclick.net/activity;xsp=4618488;ord="+Math.floor(1e13*t)+"?",e.width=1,e.height=1,e.border=0,document.body.appendChild(e)});</script>
+
+
+    <script>
+        var link = document.createElement('link');
+        link.setAttribute('href', 'https://fonts.googleapis.com/css?family=Oswald:200,500,600,700|Roboto:400,500,700&display=swap');
+        var relList = link.relList;
+
+        if (relList && relList.supports('preload')) {
+            link.setAttribute('as', 'style');
+            link.setAttribute('rel', 'preload');
+            link.setAttribute('onload', 'this.rel="stylesheet"');
+            link.setAttribute('crossorigin', 'anonymous');
+        } else {
+            link.setAttribute('rel', 'stylesheet');
+        }
+
+        head.appendChild(link);
+    </script>
+</head>
+
+<body class="Page-body">
+<!-- Putting icons here, so we don't have to include in a bunch of -body hbs's -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" id="iconsMap">
+    <symbol id="mono-icon-facebook" viewBox="0 0 10 19">
+        <path fill-rule="evenodd" d="M2.707 18.25V10.2H0V7h2.707V4.469c0-1.336.375-2.373 1.125-3.112C4.582.62 5.578.25 6.82.25c1.008 0 1.828.047 2.461.14v2.848H7.594c-.633 0-1.067.14-1.301.422-.188.235-.281.61-.281 1.125V7H9l-.422 3.2H6.012v8.05H2.707z"></path>
+    </symbol>
+    <symbol id="mono-icon-instagram" viewBox="0 0 17 17">
+        <g>
+            <path fill-rule="evenodd" d="M8.281 4.207c.727 0 1.4.182 2.022.545a4.055 4.055 0 0 1 1.476 1.477c.364.62.545 1.294.545 2.021 0 .727-.181 1.4-.545 2.021a4.055 4.055 0 0 1-1.476 1.477 3.934 3.934 0 0 1-2.022.545c-.726 0-1.4-.182-2.021-.545a4.055 4.055 0 0 1-1.477-1.477 3.934 3.934 0 0 1-.545-2.021c0-.727.182-1.4.545-2.021A4.055 4.055 0 0 1 6.26 4.752a3.934 3.934 0 0 1 2.021-.545zm0 6.68a2.54 2.54 0 0 0 1.864-.774 2.54 2.54 0 0 0 .773-1.863 2.54 2.54 0 0 0-.773-1.863 2.54 2.54 0 0 0-1.864-.774 2.54 2.54 0 0 0-1.863.774 2.54 2.54 0 0 0-.773 1.863c0 .727.257 1.348.773 1.863a2.54 2.54 0 0 0 1.863.774zM13.45 4.03c-.023.258-.123.48-.299.668a.856.856 0 0 1-.65.281.913.913 0 0 1-.668-.28.913.913 0 0 1-.281-.669c0-.258.094-.48.281-.668a.913.913 0 0 1 .668-.28c.258 0 .48.093.668.28.187.188.281.41.281.668zm2.672.95c.023.656.035 1.746.035 3.269 0 1.523-.017 2.62-.053 3.287-.035.668-.134 1.248-.298 1.74a4.098 4.098 0 0 1-.967 1.53 4.098 4.098 0 0 1-1.53.966c-.492.164-1.072.264-1.74.3-.668.034-1.763.052-3.287.052-1.523 0-2.619-.018-3.287-.053-.668-.035-1.248-.146-1.74-.334a3.747 3.747 0 0 1-1.53-.931 4.098 4.098 0 0 1-.966-1.53c-.164-.492-.264-1.072-.299-1.74C.424 10.87.406 9.773.406 8.25S.424 5.63.46 4.963c.035-.668.135-1.248.299-1.74.21-.586.533-1.096.967-1.53A4.098 4.098 0 0 1 3.254.727c.492-.164 1.072-.264 1.74-.3C5.662.394 6.758.376 8.281.376c1.524 0 2.62.018 3.287.053.668.035 1.248.135 1.74.299a4.098 4.098 0 0 1 2.496 2.496c.165.492.27 1.078.317 1.757zm-1.687 7.91c.14-.399.234-1.032.28-1.899.024-.515.036-1.242.036-2.18V7.689c0-.961-.012-1.688-.035-2.18-.047-.89-.14-1.524-.281-1.899a2.537 2.537 0 0 0-1.512-1.511c-.375-.14-1.008-.235-1.899-.282a51.292 51.292 0 0 0-2.18-.035H7.72c-.938 0-1.664.012-2.18.035-.867.047-1.5.141-1.898.282a2.537 2.537 0 0 0-1.512 1.511c-.14.375-.234 1.008-.281 1.899a51.292 51.292 0 0 0-.036 2.18v1.125c0 .937.012 1.664.036 2.18.047.866.14 1.5.28 1.898.306.726.81 1.23 1.513 1.511.398.141 1.03.235 1.898.282.516.023 1.242.035 2.18.035h1.125c.96 0 1.687-.012 2.18-.035.89-.047 1.523-.141 1.898-.282.726-.304 1.23-.808 1.512-1.511z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-email" viewBox="0 0 512 512">
+        <g>
+            <path d="M67,148.7c11,5.8,163.8,89.1,169.5,92.1c5.7,3,11.5,4.4,20.5,4.4c9,0,14.8-1.4,20.5-4.4c5.7-3,158.5-86.3,169.5-92.1
+                c4.1-2.1,11-5.9,12.5-10.2c2.6-7.6-0.2-10.5-11.3-10.5H257H65.8c-11.1,0-13.9,3-11.3,10.5C56,142.9,62.9,146.6,67,148.7z"></path>
+            <path d="M455.7,153.2c-8.2,4.2-81.8,56.6-130.5,88.1l82.2,92.5c2,2,2.9,4.4,1.8,5.6c-1.2,1.1-3.8,0.5-5.9-1.4l-98.6-83.2
+                c-14.9,9.6-25.4,16.2-27.2,17.2c-7.7,3.9-13.1,4.4-20.5,4.4c-7.4,0-12.8-0.5-20.5-4.4c-1.9-1-12.3-7.6-27.2-17.2l-98.6,83.2
+                c-2,2-4.7,2.6-5.9,1.4c-1.2-1.1-0.3-3.6,1.7-5.6l82.1-92.5c-48.7-31.5-123.1-83.9-131.3-88.1c-8.8-4.5-9.3,0.8-9.3,4.9
+                c0,4.1,0,205,0,205c0,9.3,13.7,20.9,23.5,20.9H257h185.5c9.8,0,21.5-11.7,21.5-20.9c0,0,0-201,0-205
+                C464,153.9,464.6,148.7,455.7,153.2z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-print" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path fill-rule="nonzero" d="M9 10V7H3v3H1a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v3.132A2.868 2.868 0 0 1 9.132 10H9zm.5-4.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2zM3 0h6v2H3z"></path>
+            <path d="M4 8h4v4H4z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-copylink" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path d="M10.199 2.378c.222.205.4.548.465.897.062.332.016.614-.132.774L8.627 6.106c-.187.203-.512.232-.75-.014a.498.498 0 0 0-.706.028.499.499 0 0 0 .026.706 1.509 1.509 0 0 0 2.165-.04l1.903-2.06c.37-.398.506-.98.382-1.636-.105-.557-.392-1.097-.77-1.445L9.968.8C9.591.452 9.03.208 8.467.145 7.803.072 7.233.252 6.864.653L4.958 2.709a1.509 1.509 0 0 0 .126 2.161.5.5 0 1 0 .68-.734c-.264-.218-.26-.545-.071-.747L7.597 1.33c.147-.16.425-.228.76-.19.353.038.71.188.931.394l.91.843.001.001zM1.8 9.623c-.222-.205-.4-.549-.465-.897-.062-.332-.016-.614.132-.774l1.905-2.057c.187-.203.512-.232.75.014a.498.498 0 0 0 .706-.028.499.499 0 0 0-.026-.706 1.508 1.508 0 0 0-2.165.04L.734 7.275c-.37.399-.506.98-.382 1.637.105.557.392 1.097.77 1.445l.91.843c.376.35.937.594 1.5.656.664.073 1.234-.106 1.603-.507L7.04 9.291a1.508 1.508 0 0 0-.126-2.16.5.5 0 0 0-.68.734c.264.218.26.545.071.747l-1.904 2.057c-.147.16-.425.228-.76.191-.353-.038-.71-.188-.931-.394l-.91-.843z"></path>
+            <path d="M8.208 3.614a.5.5 0 0 0-.707.028L3.764 7.677a.5.5 0 0 0 .734.68L8.235 4.32a.5.5 0 0 0-.027-.707"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-linkedin" viewBox="0 0 16 17">
+        <g fill-rule="evenodd">
+            <path d="M3.734 16.125H.464V5.613h3.27zM2.117 4.172c-.515 0-.96-.188-1.336-.563A1.825 1.825 0 0 1 .22 2.273c0-.515.187-.96.562-1.335.375-.375.82-.563 1.336-.563.516 0 .961.188 1.336.563.375.375.563.82.563 1.335 0 .516-.188.961-.563 1.336-.375.375-.82.563-1.336.563zM15.969 16.125h-3.27v-5.133c0-.844-.07-1.453-.21-1.828-.259-.633-.762-.95-1.512-.95s-1.278.282-1.582.845c-.235.421-.352 1.043-.352 1.863v5.203H5.809V5.613h3.128v1.442h.036c.234-.469.609-.856 1.125-1.16.562-.375 1.218-.563 1.968-.563 1.524 0 2.59.48 3.2 1.441.468.774.703 1.97.703 3.586v5.766z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-pinterest" viewBox="0 0 512 512">
+        <g>
+            <path d="M256,32C132.3,32,32,132.3,32,256c0,91.7,55.2,170.5,134.1,205.2c-0.6-15.6-0.1-34.4,3.9-51.4
+                c4.3-18.2,28.8-122.1,28.8-122.1s-7.2-14.3-7.2-35.4c0-33.2,19.2-58,43.2-58c20.4,0,30.2,15.3,30.2,33.6
+                c0,20.5-13.1,51.1-19.8,79.5c-5.6,23.8,11.9,43.1,35.4,43.1c42.4,0,71-54.5,71-119.1c0-49.1-33.1-85.8-93.2-85.8
+                c-67.9,0-110.3,50.7-110.3,107.3c0,19.5,5.8,33.3,14.8,43.9c4.1,4.9,4.7,6.9,3.2,12.5c-1.1,4.1-3.5,14-4.6,18
+                c-1.5,5.7-6.1,7.7-11.2,5.6c-31.3-12.8-45.9-47-45.9-85.6c0-63.6,53.7-139.9,160.1-139.9c85.5,0,141.8,61.9,141.8,128.3
+                c0,87.9-48.9,153.5-120.9,153.5c-24.2,0-46.9-13.1-54.7-27.9c0,0-13,51.6-15.8,61.6c-4.7,17.3-14,34.5-22.5,48
+                c20.1,5.9,41.4,9.2,63.5,9.2c123.7,0,224-100.3,224-224C480,132.3,379.7,32,256,32z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-tumblr" viewBox="0 0 512 512">
+        <g>
+            <path d="M321.2,396.3c-11.8,0-22.4-2.8-31.5-8.3c-6.9-4.1-11.5-9.6-14-16.4c-2.6-6.9-3.6-22.3-3.6-46.4V224h96v-64h-96V48h-61.9
+                c-2.7,21.5-7.5,44.7-14.5,58.6c-7,13.9-14,25.8-25.6,35.7c-11.6,9.9-25.6,17.9-41.9,23.3V224h48v140.4c0,19,2,33.5,5.9,43.5
+                c4,10,11.1,19.5,21.4,28.4c10.3,8.9,22.8,15.7,37.3,20.5c14.6,4.8,31.4,7.2,50.4,7.2c16.7,0,30.3-1.7,44.7-5.1
+                c14.4-3.4,30.5-9.3,48.2-17.6v-65.6C363.2,389.4,342.3,396.3,321.2,396.3z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-twitter" viewBox="0 0 19 16">
+        <g>
+            <path fill-rule="evenodd" d="M16.48 4.594c.024.094.036.246.036.457 0 1.687-.41 3.316-1.23 4.887-.845 1.664-2.028 2.988-3.552 3.972-1.664 1.102-3.574 1.652-5.73 1.652-2.063 0-3.95-.55-5.66-1.652.258.024.55.035.879.035 1.71 0 3.246-.527 4.605-1.582-.82 0-1.54-.24-2.162-.72a3.671 3.671 0 0 1-1.283-1.811c.234.023.457.035.668.035.328 0 .656-.035.984-.105a3.72 3.72 0 0 1-2.11-1.301 3.54 3.54 0 0 1-.843-2.32v-.07a3.475 3.475 0 0 0 1.652.492A4.095 4.095 0 0 1 1.54 5.227a3.546 3.546 0 0 1-.457-1.776c0-.644.176-1.26.527-1.845a10.18 10.18 0 0 0 3.358 2.742 10.219 10.219 0 0 0 4.236 1.125 5.124 5.124 0 0 1-.07-.844c0-.656.164-1.272.492-1.846a3.613 3.613 0 0 1 1.336-1.353 3.565 3.565 0 0 1 1.828-.492c.54 0 1.037.105 1.494.316.457.21.861.492 1.213.844a7.51 7.51 0 0 0 2.356-.88c-.282.868-.82 1.548-1.618 2.04a7.93 7.93 0 0 0 2.11-.598 8.114 8.114 0 0 1-1.864 1.934z"></path>
+
+        </g>
+    </symbol>
+    <symbol id="mono-icon-youtube" viewBox="0 0 512 512">
+        <g>
+            <path fill-rule="evenodd" d="M508.6,148.8c0-45-33.1-81.2-74-81.2C379.2,65,322.7,64,265,64c-3,0-6,0-9,0s-6,0-9,0c-57.6,0-114.2,1-169.6,3.6
+                c-40.8,0-73.9,36.4-73.9,81.4C1,184.6-0.1,220.2,0,255.8C-0.1,291.4,1,327,3.4,362.7c0,45,33.1,81.5,73.9,81.5
+                c58.2,2.7,117.9,3.9,178.6,3.8c60.8,0.2,120.3-1,178.6-3.8c40.9,0,74-36.5,74-81.5c2.4-35.7,3.5-71.3,3.4-107
+                C512.1,220.1,511,184.5,508.6,148.8z M207,353.9V157.4l145,98.2L207,353.9z"></path>
+        </g>
+    </symbol>
+    <symbol id="icon-magnify" viewBox="0 0 512 512">
+        <g>
+            <path d="M337.509,305.372h-17.501l-6.571-5.486c20.791-25.232,33.922-57.054,33.922-93.257
+                C347.358,127.632,283.896,64,205.135,64C127.452,64,64,127.632,64,206.629s63.452,142.628,142.225,142.628
+                c35.011,0,67.831-13.167,92.991-34.008l6.561,5.487v17.551L415.18,448L448,415.086L337.509,305.372z M206.225,305.372
+                c-54.702,0-98.463-43.887-98.463-98.743c0-54.858,43.761-98.742,98.463-98.742c54.7,0,98.462,43.884,98.462,98.742
+                C304.687,261.485,260.925,305.372,206.225,305.372z"></path>
+        </g>
+    </symbol>
+    <symbol id="burger-menu" viewBox="0 0 512 512">
+        <g>
+            <path d="M501.333,96H10.667C4.779,96,0,100.779,0,106.667s4.779,10.667,10.667,10.667h490.667c5.888,0,10.667-4.779,10.667-10.667
+			S507.221,96,501.333,96z" />
+            <path d="M501.333,245.333H10.667C4.779,245.333,0,250.112,0,256s4.779,10.667,10.667,10.667h490.667
+			c5.888,0,10.667-4.779,10.667-10.667S507.221,245.333,501.333,245.333z" />
+            <path d="M501.333,394.667H10.667C4.779,394.667,0,399.445,0,405.333C0,411.221,4.779,416,10.667,416h490.667
+			c5.888,0,10.667-4.779,10.667-10.667C512,399.445,507.221,394.667,501.333,394.667z" />
+        </g>
+    </symbol>
+    <symbol id="close-x" viewBox="0 0 14 14">
+        <g>
+            <path fill-rule="nonzero" d="M6.336 7L0 .664.664 0 7 6.336 13.336 0 14 .664 7.664 7 14 13.336l-.664.664L7 7.664.664 14 0 13.336 6.336 7z"></path>
+        </g>
+    </symbol>
+    <symbol id="share-more-arrow" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;">
+        <g>
+            <g>
+                <path d="M512,241.7L273.643,3.343v156.152c-71.41,3.744-138.015,33.337-188.958,84.28C30.075,298.384,0,370.991,0,448.222v60.436
+                    l29.069-52.985c45.354-82.671,132.173-134.027,226.573-134.027c5.986,0,12.004,0.212,18.001,0.632v157.779L512,241.7z
+                    M255.642,290.666c-84.543,0-163.661,36.792-217.939,98.885c26.634-114.177,129.256-199.483,251.429-199.483h15.489V78.131
+                    l163.568,163.568L304.621,405.267V294.531l-13.585-1.683C279.347,291.401,267.439,290.666,255.642,290.666z"></path>
+            </g>
+        </g>
+    </symbol>
+    <symbol id="chevron" viewBox="0 0 100 100">
+        <g>
+            <path d="M22.4566257,37.2056786 L-21.4456527,71.9511488 C-22.9248661,72.9681457 -24.9073712,72.5311671 -25.8758148,70.9765924 L-26.9788683,69.2027424 C-27.9450684,67.6481676 -27.5292733,65.5646602 -26.0500598,64.5484493 L20.154796,28.2208967 C21.5532435,27.2597011 23.3600078,27.2597011 24.759951,28.2208967 L71.0500598,64.4659264 C72.5292733,65.4829232 72.9450684,67.5672166 71.9788683,69.1217913 L70.8750669,70.8956413 C69.9073712,72.4502161 67.9241183,72.8848368 66.4449048,71.8694118 L22.4566257,37.2056786 Z" id="Transparent-Chevron" transform="translate(22.500000, 50.000000) rotate(90.000000) translate(-22.500000, -50.000000) "></path>
+        </g>
+    </symbol>
+    <symbol id="play-arrow" viewBox="0 0 30 30">
+        <g fill="none" fill-rule="evenodd">
+            <path d="M9 9l12 6-12 6z"></path>
+        </g>
+    </symbol>
+    <symbol id="bookmark" viewBox="0 0 9 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M.5.5v10.997l3.431-2.374a1 1 0 0 1 1.138 0L8.5 11.497V.5h-8z"></path>
+        </g>
+    </symbol>
+    <symbol id="heart" viewBox="0 0 14 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M10.24.5c-1.098 0-2.152.576-2.808 1.7L7 2.938l-.432-.74C5.912 1.076 4.858.5 3.76.5 1.996.5.5 1.899.5 3.859.5 5.2 1.644 6.912 3.57 8.747a27.774 27.774 0 0 0 3.373 2.738A.099.099 0 0 0 7 11.5a.104.104 0 0 0 .061-.018 27.75 27.75 0 0 0 3.368-2.735C12.356 6.912 13.5 5.201 13.5 3.859 13.5 1.899 12.003.5 10.24.5z"></path>
+        </g>
+    </symbol>
+    <symbol id="grid" viewBox="0 0 32 32">
+        <g>
+            <path d="M6.4,5.7 C6.4,6.166669 6.166669,6.4 5.7,6.4 L0.7,6.4 C0.233331,6.4 0,6.166669 0,5.7 L0,0.7 C0,0.233331 0.233331,0 0.7,0 L5.7,0 C6.166669,0 6.4,0.233331 6.4,0.7 L6.4,5.7 Z M19.2,5.7 C19.2,6.166669 18.966669,6.4 18.5,6.4 L13.5,6.4 C13.033331,6.4 12.8,6.166669 12.8,5.7 L12.8,0.7 C12.8,0.233331 13.033331,0 13.5,0 L18.5,0 C18.966669,0 19.2,0.233331 19.2,0.7 L19.2,5.7 Z M32,5.7 C32,6.166669 31.766669,6.4 31.3,6.4 L26.3,6.4 C25.833331,6.4 25.6,6.166669 25.6,5.7 L25.6,0.7 C25.6,0.233331 25.833331,0 26.3,0 L31.3,0 C31.766669,0 32,0.233331 32,0.7 L32,5.7 Z M6.4,18.5 C6.4,18.966669 6.166669,19.2 5.7,19.2 L0.7,19.2 C0.233331,19.2 0,18.966669 0,18.5 L0,13.5 C0,13.033331 0.233331,12.8 0.7,12.8 L5.7,12.8 C6.166669,12.8 6.4,13.033331 6.4,13.5 L6.4,18.5 Z M19.2,18.5 C19.2,18.966669 18.966669,19.2 18.5,19.2 L13.5,19.2 C13.033331,19.2 12.8,18.966669 12.8,18.5 L12.8,13.5 C12.8,13.033331 13.033331,12.8 13.5,12.8 L18.5,12.8 C18.966669,12.8 19.2,13.033331 19.2,13.5 L19.2,18.5 Z M32,18.5 C32,18.966669 31.766669,19.2 31.3,19.2 L26.3,19.2 C25.833331,19.2 25.6,18.966669 25.6,18.5 L25.6,13.5 C25.6,13.033331 25.833331,12.8 26.3,12.8 L31.3,12.8 C31.766669,12.8 32,13.033331 32,13.5 L32,18.5 Z M6.4,31.3 C6.4,31.766669 6.166669,32 5.7,32 L0.7,32 C0.233331,32 0,31.766669 0,31.3 L0,26.3 C0,25.833331 0.233331,25.6 0.7,25.6 L5.7,25.6 C6.166669,25.6 6.4,25.833331 6.4,26.3 L6.4,31.3 Z M19.2,31.3 C19.2,31.766669 18.966669,32 18.5,32 L13.5,32 C13.033331,32 12.8,31.766669 12.8,31.3 L12.8,26.3 C12.8,25.833331 13.033331,25.6 13.5,25.6 L18.5,25.6 C18.966669,25.6 19.2,25.833331 19.2,26.3 L19.2,31.3 Z M32,31.3 C32,31.766669 31.766669,32 31.3,32 L26.3,32 C25.833331,32 25.6,31.766669 25.6,31.3 L25.6,26.3 C25.6,25.833331 25.833331,25.6 26.3,25.6 L31.3,25.6 C31.766669,25.6 32,25.833331 32,26.3 L32,31.3 Z" id=""></path>
+        </g>
+    </symbol>
+    <symbol id="filter" viewBox="0 0 16 12">
+        <path d="M0 2V0h16v2H0zm2.4 5V5h11.2v2H2.4zm2.4 5v-2h6.4v2H4.8z"></path>
+    </symbol>
+    <symbol id="minus-circle" viewBox="0 0 1792 1792">
+        <g>
+            <path d="M1344 960v-128q0-26-19-45t-45-19h-768q-26 0-45 19t-19 45v128q0 26 19 45t45 19h768q26 0 45-19t19-45zm320-64q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" />
+        </g>
+    </symbol>
+    <symbol id="plus-circle" viewBox="0 0 1792 1792">
+        <g>
+            <path d="M1344 960v-128q0-26-19-45t-45-19h-256v-256q0-26-19-45t-45-19h-128q-26 0-45 19t-19 45v256h-256q-26 0-45 19t-19 45v128q0 26 19 45t45 19h256v256q0 26 19 45t45 19h128q26 0 45-19t19-45v-256h256q26 0 45-19t19-45zm320-64q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" />
+        </g>
+    </symbol>
+    <symbol id="chevron-left" viewBox="0 0 511.641 511.641">
+        <path d="M148.32,255.76L386.08,18c4.053-4.267,3.947-10.987-0.213-15.04c-4.16-3.947-10.667-3.947-14.827,0L125.707,248.293
+			c-4.16,4.16-4.16,10.88,0,15.04L371.04,508.667c4.267,4.053,10.987,3.947,15.04-0.213c3.947-4.16,3.947-10.667,0-14.827
+			L148.32,255.76z" />
+    </symbol>
+</svg>
+
+
+<ps-header class="Page-header" itemscope itemtype="http://schema.org/WPHeader" data-sticky-disable>
+    <div class="Page-header-bar">
+        
+            
+                <div class="Page-header-logo"><a aria-label="home page" href="https://www.latimes.com/bestcovery/"  >
+    
+        <img class="PageLogo-image" src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/beea024/2147483647/strip/true/crop/1000x277+0+0/resize/433x120!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F97%2F96%2F5fd40beb48059a3edeff4d92eed5%2Fbestcovery-logo-powered-by-lat.png" alt="Bestcovery logo" width="433"  height="120" />
+    
+    </a>
+</div>
+            
+        
+
+        <button class="Page-header-menu-trigger" aria-expanded="false" tabindex="1">
+            <svg class="burger-menu"><use xlink:href="#burger-menu"></use></svg>
+            <svg class="close-x"><use xlink:href="#chevron-left"></use></svg>
+            <span class="label">Menu</span>
+        </button>
+
+        <div class="Page-header-hamburger-menu">
+            <div class="Page-header-hamburger-menu-wrapper">
+                <div class="Page-header-hamburger-menu-content">
+                    
+                        <nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/auto">Auto</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/home">Home</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/lifestyle">Lifestyle</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item" data-related-nav-item><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/electronics">Electronics</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/tech">Tech</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/health-beauty">Health &amp; Beauty</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/fashion">Fashion</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/sports">Sports</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/music">Music</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/kids-babies">Kids &amp; Babies</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/streaming">Streaming</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+        </ul>
+    
+</nav>
+                    
+                    
+                </div>
+            </div>
+        </div>
+
+        
+
+            <div class="Page-header-search-overlay">
+                <form class="Page-header-search-form" action="https://www.latimes.com/bestcovery/search#nt=navsearch" novalidate="" autocomplete="off">
+                    <label><input placeholder="Search" type="text" class="Page-header-search-input" name="q" required="true"><span class="sr-only">Search Query</span></label>
+                    <button type="submit" class="Page-header-search-submit"><svg><use xlink:href="#icon-magnify"></use></svg><span class="sr-only">Submit Search</span></button>
+                </form>
+            </div>
+        
+    </div>
+</ps-header>
+
+
+    <div class="Page-above" ><div class="InfoBoxModule byline-1">
+    
+        <div class="InfoBoxModule-items InfoBoxBody"><p><i>We may earn a commission if you make a purchase through one of our links. The LA Times editorial staff was not involved in the creation of this content. <a class="Link" href="https://www.latimes.com/bestcovery/about-us">Learn more</a></i></p></div>
+    
+</div>
+</div>
+
+
+
+<div class="SectionPage-topContainer">
+    <div class="SectionPage-headingWrapper">
+        
+            <div class="SectionPage-heading">
+                <h1 class="SectionPage-pageHeading">Home Theater &amp; A/V</h1>
+                
+            </div>
+        
+
+        
+    <ps-section-nav class="SectionPage-navContainer">
+        <div class="SectionPage-sectionNavigation">
+            <nav class="SectionNavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+        <ul class="SectionNavigation-items">
+            
+                <li class="SectionNavigation-items-item" data-current-nav-item data-related-nav-item>
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/cameras">Cameras</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/audio">Audio</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/office">Office</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/electronic-accessories">Electronic Accessories</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item" data-related-nav-item>
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/electronics">All</a>
+        
+    </div>
+</div>
+                </li>
+            
+            <li class="SectionNavigation-items-item" data-sub-trigger tabindex="0">
+                <div class="SectionNavigationItem">
+                    <div class="SectionNavigationItem-text">More<svg class="chevron"><use xlink:href="#chevron"></use></svg></div>
+                    <div class="SectionNavigationItem-subNav"></div>
+                </div>
+            </li>
+        </ul>
+    
+</nav>
+        </div>
+    </ps-section-nav>
+
+
+    </div>
+</div>
+
+<main class="SectionPage-main">
+    
+        
+            
+    
+    <div class="Row">
+        <div class="OneColumnContainer">
+    <div class="OneColumnContainer-row">
+        
+            <div class="OneColumnContainer-column">
+                <ps-list-loadmore class="ListE" >
+    <div class="ListE-header" data-no-title>
+    
+</div>
+
+
+    <div class="ListE-container">
+        
+            <ul class="ListE-items" data-list-loadmore-items>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/what-is-the-difference-between-4k-qled-and-oled-tvs" aria-label="What is the Difference Between 4K, QLED, and OLED TVs?">
+    <img class="Image" alt="What is the Difference Between 4K, QLED, and OLED TVs" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/3fbbc3f/2147483647/strip/true/crop/1200x784+0+50/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F58%2F79%2F56fccae140a183f7557eec545403%2Fdifference-between-4k-qled-oled-tv-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/what-is-the-difference-between-4k-qled-and-oled-tvs">What is the Difference Between 4K, QLED, and OLED TVs?</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">A television set is no longer a luxury in today's world, but rather an essential appliance in every home. There were few options in the TV segment until a few decades ago, and decision making was binary – black and white or color television? Today's situation is very different.</div>
+        
+
+        
+            <div class="PromoB-date">February 02, 2023</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-plasma-tv-overall" aria-label="Best Plasma TV... in 2023?">
+    <img class="Image" alt="LG OLED65BXPUA.jpg" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/0ea4a8e/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fa8%2Ffb%2Fe96b894844c89efe04a885457555%2Flg-oled65bxpua.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-plasma-tv-overall">Best Plasma TV... in 2023?</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Try searching for the best plasma TVs today, and you may have found out the hard way that plasma TVs no longer exist. LG and Samsung sold their last PDP sets in 2015 (largely as re-hashed versions of their respective 2014 models), while Panasonic packed up their plasma TV operations in 2014 and left the US TV market entirely only a couple years later. Despite their inherently superior picture quality and surprisingly affordable prices, dwindling consumer interest and falling prices of rival HDTV technologies led to the plasma display panel joining CRTs and DLP/rear projection in the "obsolete" section of the consumer TV market.</div>
+        
+
+        
+            <div class="PromoB-date">January 25, 2023</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/how-to-build-the-best-viewing-experience-for-big-games" aria-label="How To Build The Best Viewing Experience For Big Games">
+    <img class="Image" alt="How To Build The Best Viewing Experience For Big Games" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/3c3aa9e/2147483647/strip/true/crop/1213x792+0+4/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F6f%2F2d%2Fa357aee44558b31edc1c9652a269%2Fbuild-the-best-viewing-experience-for-big-game-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/how-to-build-the-best-viewing-experience-for-big-games">How To Build The Best Viewing Experience For Big Games</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">This year, large gatherings with friends and family to watch the game might not be happening. The coronavirus has really kicked us in the teeth, and it seems to be loving it. Luckily there are other exciting ways to catch the game. And maybe these alternatives might not be the same as a physical viewing; we know some ways that you can get the absolute best out of them. Here are a few tips on how to build the best viewing experience for big games.</div>
+        
+
+        
+            <div class="PromoB-date">October 12, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/what-size-tv-should-i-get" aria-label="What Size TV Should I Get?">
+    <img class="Image" alt="What Size TV Should I Get" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/f6e8d58/2147483647/strip/true/crop/1200x784+0+8/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F15%2F5e%2Fef6f97b8483aa33dd7913c3b8f4a%2Ftv-size-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/what-size-tv-should-i-get">What Size TV Should I Get?</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Whenever you're considering a new TV for your home, you'll inevitably spend an untold number of hours looking through the specifications of all the ones you're interested in. However, one particular aspect which is quite difficult to decide is the size of the TV, especially in regards to how it will fit into the space you have available. For example, 40" to 55" TVs have become standard for most houses. However, there are people who want to buy larger sizes like 65", 75", or even 85" TVs.</div>
+        
+
+        
+            <div class="PromoB-date">August 09, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-hdmi-extension-cable" aria-label="Best HDMI Extension Cables To Stream Anywhere">
+    <img class="Image" alt="Best High-Speed HDMI Extension Cable" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/5d3fa15/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Ff9%2F84%2F7a96071c46e5a26cd8064717578b%2Famazon-basics-high-speed-extension-cable-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-hdmi-extension-cable">Best HDMI Extension Cables To Stream Anywhere</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">These days, HDMI cables are an absolute necessity. In comparison to older connection styles, HDMI is simpler to use and connect; it sends video and audio signals through the same cable, eliminating messy tangles of cords everywhere. But what do you do when your cable isn’t as long as it needs to be?Enter HDMI extension cables: they provide extra length and reach to help quickly connect your devices. When your cord length simply doesn’t cut it, then getting yourself a decent HDMI extension cable is the next step. However, most times it can be a bit of a bother to research the extension cable that's best.To help you make the right choice, we have compiled a buyer's guide and a list of the best HDMI extension cables in 2022. Without further ado, let’s check them out.</div>
+        
+
+        
+            <div class="PromoB-date">June 16, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/tips-for-setting-up-a-home-theatre" aria-label="Tips For Setting Up A Home Theater">
+    <img class="Image" alt="TIPS FOR SETTING UP A HOME THEATER" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/cf89da6/2147483647/strip/true/crop/1254x819+0+8/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F9e%2F88%2F1bbcbfa24ff4adb0e281e5798d3e%2Ftips-home-theatre-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/tips-for-setting-up-a-home-theatre">Tips For Setting Up A Home Theater</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Since movie theaters have been mostly inaccessible due to a certain public health crisis, an increasing number of moviegoers have discovered that a home theater can be an acceptable substitute if set up the right way. What’s more exciting, as an ardent film lover, than having your personal theater designed to suit every movie time you have ever wanted? With the top ten tips for setting up a home theater below, you can quickly bridge the gap between your favorite cinema and the comfort of your home.</div>
+        
+
+        
+            <div class="PromoB-date">April 01, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-tv-stands" aria-label="Update Your Home&#x27;s Visual Focal Point With Best TV Stand">
+    <img class="Image" alt="best wood tv stand" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/fdd5c61/2147483647/strip/true/crop/600x392+0+4/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F6e%2F60%2F6599a8f44c369276ac5cbab04914%2Fwalker-edison-wren-classic-cubby-tv-stand-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-tv-stands">Update Your Home&#x27;s Visual Focal Point With Best TV Stand</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">A TV stand serves as a visual focal point in a home. Finding the right size, storage compartments, style, and color is worth the search if it adds to your comfort and satisfaction. Here is a list of best TV stands in 2022 that we recommend for adding that special touch to a room.</div>
+        
+
+        
+            <div class="PromoB-date">March 11, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-projector-screens" aria-label="Make Movie Night Great With The Best Projector Screens">
+    <img class="Image" alt="Best Projector Screen " width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/248eeb3/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F67%2Fb0%2F342de42e469a92df0ceea64ee801%2Fholiday-styling-projector-screen-bestcovery-1.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-projector-screens">Make Movie Night Great With The Best Projector Screens</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">When movie night rolls around, you may find yourself waffling about watching your chosen flicks on a plain old television screen. Why not jazz it up with a projector screen instead? The best projector screens are easy to set up, durable, and offer an excellent surface to display the ideal picture.</div>
+        
+
+        
+            <div class="PromoB-date">February 25, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-av-receiver-overall" aria-label="Get High Quality Video With The Best AV Receivers">
+    <img class="Image" alt="best surround sound av receiver" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/32dc902/2147483647/strip/true/crop/1500x980+0+260/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F78%2F93%2Fbaf5c437da118b501f8aa6e89a94%2Fsony-str-dn1080.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-av-receiver-overall">Get High Quality Video With The Best AV Receivers</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">AV receivers (alternately, A/V receivers) act as an electronic gateway or organizer for your home entertainment system, and consolidate the function of multiple devices into a single box. Modern AV receivers offer several HDMI inputs and an ARC-capable output, with higher-end units featuring advanced video processing as well. Better AV receivers offer superior sound quality, which can immerse viewers in the "atmosphere" that movie directors intended. The best AV receivers in 2022 below offer excellent options for expanding your home audio or theater system, and we’ve also provided an AV Receiver buyer's guide below for your review.</div>
+        
+
+        
+            <div class="PromoB-date">September 06, 2019</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-hdtv-overall" aria-label="Get a Home Theater Experience With the Best HDTVs">
+    <img class="Image" alt="best visio led lcd hdtv" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/6e8b497/2147483647/strip/true/crop/1000x653+0+7/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fc6%2F2e%2F2b1e521a49a6b66abac5fb63bf8d%2Fvizio-px65-g1-quantum-4k-hdr-tv.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-hdtv-overall">Get a Home Theater Experience With the Best HDTVs</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Now that flat-screen HDTVs have had a couple of decades worth of refinement and product development, it's fair to say that it's harder to find a bad TV than it is a good one. A modern HDTV pairs excellent picture quality with built-in smart TV streaming features, all at an incredibly affordable price. The most recent trend with HDTVs has been increasingly larger screen sizes; it's now possible to find 55-inch TVs priced similarly to 40-inch models from even a few years ago. Our top HDTV picks display inky black levels, creating a more immersive experience thanks to the well-defined contrast between light and dark areas. These selections also provide excellent color accuracy, recreating an image to make it look lifelike (along with carrying the necessary adjustments to dial in the perfect images with true-to-life colors). Each of the best HDTVs in 2022 can also easily process moving images and maintain clarity with fast-moving programs or movie scenes free of shuddering or skipping, making them well-suited for home theater use. We also evaluated each TV's respective smart TV capabilities for ease of use and functionality. If you're still unsure of which HDTV you should buy,&nbsp;head straight down to our buyer's guide below for more information.</div>
+        
+
+        
+            <div class="PromoB-date">August 15, 2019</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-virtual-sound-bar-overall" aria-label="Best Sound Bar for Theater Quality Sound ">
+    <img class="Image" alt="best compact sound bar" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/1f18236/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F68%2Ff3%2Fec4e78e14130a5c74423638be547%2Fyamaha-compact-sound-bar-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-virtual-sound-bar-overall">Best Sound Bar for Theater Quality Sound </a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Sound bars are by far the easiest way to add volume and clarity to any TV or home theater system. Most TVs come with small downward or rear firing speakers that have especially poor bass response, and often unsatisfactory volume. This generally makes for terrible sound quality, and most don’t reach below 300 Hz or above 10,000; human hearing extends between 20-20,000 Hz, meaning that over half the spectrum is missing! The output from built-in speakers is certainly usable, especially in smaller rooms, but let’s face it: everyone wants their TV to sound more like a movie theater. The good news is that it's possible to move closer to this ideal with a minimal investment. Around $100-200 will net you a unit that can drastically improve sound quality over built-in speakers, lowering bass response down past 100hz to put some good thump in your music and movies, and offering a much more spacious, realistic presentation that will leave you wondering how you ever got by with the bare minimum. Check out our list of the best sound bars in 2022.</div>
+        
+
+        
+            <div class="PromoB-date">August 08, 2019</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-led-lcd-tv" aria-label="Upgrade Your TV Streaming With The Best LED LCD TVs">
+    <img class="Image" alt="best visio led lcd hdtv" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/6e8b497/2147483647/strip/true/crop/1000x653+0+7/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fc6%2F2e%2F2b1e521a49a6b66abac5fb63bf8d%2Fvizio-px65-g1-quantum-4k-hdr-tv.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-led-lcd-tv">Upgrade Your TV Streaming With The Best LED LCD TVs</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">It's no secret that the most popular type of HDTV on the market today is the LED TV. Technically a misnomer born out of marketing and convenience, the term "LED TV" actually refers to an LCD TV that utilizes an LED backlight to display an image. LED TVs have attained their popularity due to their affordability, varied screen size options, as well as their low energy consumption and compatibility with all different types of content.The latest innovation in this field is the widespread use of "Quantum Dot" technology. While this may sound like something out of a sci-fi TV series, quantum dots are quite real and are commonplace in higher-end LED TVs. The basic science underpinning quantum dots revolves around their behavior when excited by certain frequencies; LED TVs equipped with quantum dots utilize a blue LED backlight, which in turn "excites" quantum dots into emitting red and green tones. In a nutshell, these TVs can display brighter colors that appear more lifelike and saturated, translating into a more pleasing image overall. If you want to do more research, check out our HDTV buyer's guide.You’ll find two distinct layouts that utilize LED backlighting: full array and edge-lit. Full-array backlighting positions the LED backlight directly behind the LCD panel. This is often combined with a feature known as "local dimming" in higher-spec models, which can selectively dim or switch off LEDs depending on the desired image to obtain deeper black levels where they are needed. Edge-lit LED backlighting moves the LEDs to the edges of the panel, instead relying on special light guides to illuminate the screen.In our research, we've noted that full-array LED TVs with local dimming consistently outperform their edge-lit counterparts in screen uniformity, black level measurements, and contrast with both standard and HDR content. When combined with quantum dot technology, these LED TVs are capable of generating an outstanding picture while keeping the cost versus screen size at a reasonable level. We've compiled the best LED LCD TVs in 2022.</div>
+        
+
+        
+            <div class="PromoB-date">June 19, 2019</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-hd-media-streamer" aria-label="Watch All The Shows You Love With Best Digital Media Player">
+    <img class="Image" alt="best amazon fire tv digital media player" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/e0cefdf/2147483647/strip/true/crop/500x327+0+87/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fd2%2Fd0%2F5003f4065fa3cf9b5076810f3c44%2F41oinrdjs9l-sl500-aa500.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-hd-media-streamer">Watch All The Shows You Love With Best Digital Media Player</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Digital media players have evolved a lot over the last few years, growing from a niche market to establishing a presence in millions of households. There are a lot of different devices available on the market, and they tend to offer a lot of the same features, with minor variations overall. However, these minor variations soon become major differences since they can impact how you control your digital media player and what it does in your living room. As you consider different models, take into account your own viewing habits, the features you want, and the media sources you’re most likely to use.These digital media players give you the best options and performance thanks to a wide range of channels and streaming services to choose from and utilize, with support for at least Netflix and some other media streaming options. All of these devices offer HD media options of up to at least 1080p, though you’ll typically need to also have access to HD video through a streaming service. These picks are easy to connect to your existing entertainment center either wirelessly or through an Ethernet port. Lastly, they all include remote controls with a variety of voice and manual input commands for accessing your preferred media.</div>
+        
+
+        
+            <div class="PromoB-date">April 01, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-home-theatre-projector" aria-label="Best Projectors For Your Next Movie Night ">
+    <img class="Image" alt="best svga dlp projector" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/c36a08a/2147483647/strip/true/crop/700x457+0+121/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fca%2Fec%2Ff4230fe4f3b044c92fa8836070d0%2F71irieuku8l-sl1500-aa700.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-home-theatre-projector">Best Projectors For Your Next Movie Night </a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Projectors are used for a wide variety of purposes, ranging from high-end home theaters to business presentations and classroom applications. Depending on their intended use, projectors can vary in their technology, style, and price. We’ve compiled lists of some of the best projectors in 2022 currently available while considering different budgets and performance needs. Although we’ve included several high-end models, we’ve kept ultra-expensive projectors off the list in favor of one’s which are more realistic for use in the average home or business. If you’re new to projectors and need some pointers on what to look for, be sure to also check out our buyer’s guide below.</div>
+        
+
+        
+            <div class="PromoB-date">March 31, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-digital-to-analog-converter-box" aria-label="Cut The Cord: Best Digital to Analog Converter Box">
+    <img class="Image" alt="best recording digital to analog converter box" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/ea1c30d/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F08%2Ffe%2F5432657846e29f60e2f116360117%2Fhomeworx-mediasonic-atsc-tv-recording-digital-to-analog-converter-box-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-digital-to-analog-converter-box">Cut The Cord: Best Digital to Analog Converter Box</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">For consumers seeking to "cut the cord" from high monthly cable or satellite bills, there’s the option of a digital television adapter or digital-to-analog converter box. These are television tuners are designed to receive the free broadcast signals transmitted over the airwaves mainly from the major networks and some local or regional stations.These converter boxes are affordable options for bringing home network programming at a one-time price versus a monthly charge. Some of these boxes come with recording functions, performing much the same way as a DVR does. Some models can even support multimedia files like digital photos, videos, and music.We've chosen the following picks because of their connectivity options for hooking them up to a variety of devices, as well as their ability to record shows to a USB flash drive or an external hard drive. Each of the following converter boxes also offers basic features such as program guides or parental controls. Take a look at our list of the best digital to analog converter boxes in 2022 here.</div>
+        
+
+        
+            <div class="PromoB-date">March 11, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-power-conditioner" aria-label="Have an Elite Home Theater Experience with the Best Power Conditioners">
+    <img class="Image" alt="best Panamax Home Theater Power Conditioner" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/442f1d5/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F33%2F76%2F59ec1ce04727ae2965491b58e5bf%2Fpanamax-home-theater-power-conditioner-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-power-conditioner">Have an Elite Home Theater Experience with the Best Power Conditioners</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">If you have an elite home theater system and favor heavy-duty protection for your equipment, consider investing in a good power conditioner. These devices constantly monitor the voltage coming through the power lines to ensure your entertainment system receives a consistent flow of 120 volts. Fully equipped models can also double as surge protectors to provide an added layer of security. These units are generally on the bulky side, so we’ve selected models which require minimal space accommodations. While these power conditioners may seem unreasonably expensive, they do offer maximum protection against over- and under-power situations that can potentially damage equipment. Each of our recommendations excels at voltage regulation while offering a wide variety of features to suit the needs of various home theater systems. Check out our top picks for the best power conditioner in 2022 below.</div>
+        
+
+        
+            <div class="PromoB-date">March 10, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-hdmi-cable-for-value" aria-label="Home Essentials: The Best HDMI Cable in 2022">
+    <img class="Image" alt="best high-speed hdmi cable" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/f589519/2147483647/strip/true/crop/2250x1470+0+0/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F32%2F95%2F5f1af91f40688d9a2133b54fdfbc%2Famazonbasics-hdmi-cable.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-hdmi-cable-for-value">Home Essentials: The Best HDMI Cable in 2022</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Buying an HDMI cable is actually much easier than you may think. Just be sure you're buying an HDMI cable and not some other cable instead. There can be some confusion when it comes to selecting cables for your home theater equipment, but one thing is for certain: HDMI is currently the most popular audio/video cable standard. It offers the best quality picture and sound possible, simultaneously, all in one cable.Most HDMI cables on the market today will work just fine with high-definition content. The ones that are labeled as high-speed cables can handle greater bandwidth capacities at a mandatory minimum of 10.2 gigabits per second, though a claimed bandwidth of 18 Gbps is more commonly encountered. With 4K material having just about replaced 3D as the most data-intensive format, manufacturers now offer a wide range of options that support all current and previous content.HDMI cables on our list offer gold-plated terminals to prevent corrosion, utilize high-conductivity materials such as copper (or silver in some cases) for a clean signal transfer and contain shielding materials to prevent outside noise or distortion from radio frequency and electromagnetic interference. That said, the digital nature of HDMI cables means that they either work or they don't. Save for unusual circumstances such as 50-foot-long cables that travel through walls, the most common symptom of an HDMI cable failure is a blank screen. For typical home use, we recommend going with the lowest-priced options without sacrificing build quality. These are just a few of the factors that went into creating our list of what we think to be the top HDMI cables on the market. Read on to pick one out now!</div>
+        
+
+        
+            <div class="PromoB-date">February 17, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-center-channel-speaker-overall" aria-label="Best Center Channel Speakers for Audio Enthusiasts ">
+    <img class="Image" alt="best Sony 2-way Center Channel Speaker" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/71a046d/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F9f%2F11%2F6c0b54c9445f8131fb9bf1f8dcb5%2Fsony-2-way-center-channel-speaker-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-center-channel-speaker-overall">Best Center Channel Speakers for Audio Enthusiasts </a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The importance of center channel speakers is a matter of much debate among audio enthusiasts. For those not prepared to invest in a full system, or using their speakers in a smaller room, money may be better spent on higher-quality floor or bookshelf speakers or a good 2.1 system if extra bass is desired. On the other hand, no truly high-end system is complete without a good center, which helps vocals and dialog remain clear over powerful subwoofer bass and enhances the dimensionality of sound in larger rooms and home theaters. Ultimately, this is a matter of preference, and anyone looking to invest in a good system should try it before buying if at all possible (looking up a local HiFi shop is the best place to start). But, with today's online shopping market, it is often easier to buy online. That's why we have reviewed the best center channel speakers of 2022 for you to consider. When browsing, always take into account the size of the room the system will be used in and your budget. With those two things in mind, along with the compatibility of your existing devices, you will make a worthwhile purchase. The speakers listed here are recognized for their price to performance ratio, as well as their ability to lift vocals above the mix to create a more realistic, 3-dimensional sound. Pick your price range and enjoy! Check out our favorite picks for the best center channel speaker in 2022 below.</div>
+        
+
+        
+            <div class="PromoB-date">January 19, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-subwoofer-overall" aria-label="Make Your Sound System Great With The Best Subwoofers">
+    <img class="Image" alt="best JBL Powered Subwoofer " width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/9a2c057/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fed%2Fda%2F4f31ed11465fb0610ec2872c418f%2Fjbl-powered-subwoofer-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-subwoofer-overall">Make Your Sound System Great With The Best Subwoofers</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">A subwoofer is the one piece of audio equipment that will lift a simple sound system out of the ordinary, and can make or break the most expensive HiFi system. Even the cheapest subwoofer will take a pair of basic bookshelf speakers and turn them into something that sounds like a real sound system. A truly high-end subwoofer, on the other hand, is the difference between simply "good" sound and true realism. Good low frequency response is an absolute must for a home theater system, making dialogue richer and more immediate sounding, and bringing much-needed depth to sound tracks, explosions, and ambient noises. Most music requires solid bass response too: everything from orchestral classical music to dubstep sounds better when bass notes are fully fleshed out and given their real atmospheric textures by a dedicated subwoofer. Even a loan acoustic guitar benefits from extra LF, making plucked strings sound much more immediate and realistic, and adding rich reverb to lower notes. Subwoofers, like speakers, come in all shapes, sizes, and designs. Some are optimized for outdoor or car use; others are ported to give the most powerful output possible, or sealed to maintain tightness and evenness of response. And price does matter; here, perhaps more than anywhere else in home theater audio, you get what you pay for. Spend under $100, and you're really just adding extra thump. Jump to $200 or so, and we're talking real slam with decent extension and easily distinguishable multi-tonal textures. Around $500 will get you deep, tight, punchy bass that can shake windows and, in a smaller space or with multiple woofers, produce room lock, that famous sensation of a room being filled by bass waves, pressurizing the air and creating a truly immediate, tactile experience. Cross the $1,000 mark, and you are in true HiFi territory: expect serious LF vibrations and the kind of sound that will put anything you've ever heard, including movie theaters and high-end concert hall systems, to absolute shame. All in all, if you aren't willing to shell out at least half the price of the rest of your system for a subwoofer, you won't be doing your speakers justice, but better any subwoofer than none! This is perhaps the most important piece of any sound system, and if you aren't putting serious consideration into which one is best for you, you'll be shortchanging yourself and anyone who hears your system. We've compiled the best subwoofers in 2022.</div>
+        
+
+        
+            <div class="PromoB-date">January 19, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-floor-standing-speakers-under-1000" aria-label=" Best Floor Standing Speakers For Any Sound System">
+    <img class="Image" alt="best Focal Grande Utopia EM Floor Standing Speakers" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/35ddf64/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F0f%2F0f%2Fe72c5c29446fa3f111b3d7f302ee%2Ffocal-grande-utopia-em-floor-standing-speakers-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-floor-standing-speakers-under-1000"> Best Floor Standing Speakers For Any Sound System</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Floor speakers are the most important aspect of any home theater system; realistically, they're the only speakers you could use on their own and still wind up with respectable sound. Some folks might try to get away with just a center channel like a sound bar, but it's really not the same. Some tower speakers can create enormous sound fields that approach that of full surround sound, which a lone center channel or sound bar could never accomplish. Best floor speakers in 2022 come in all shapes and sizes, and are designed for a variety of listening styles and intended uses; rather than looking solely at ranking or price, remember to consider how and where you will use these speakers when reading reviews. I'm sure the Focal Grande Utopia EM or Sound Lab U-1PX would sound great no matter where you put them, but they are designed for large dedicated listening spaces; smaller speakers like the Triton Two would probably sound (and look) much more appropriate in a master bedroom or smaller den. There are two main types of floor speakers: dynamic and electrostatic. Dynamic speakers are your traditional air-moving cones with a diaphragm, they account for virtually all "normal" speakers. Electrostatic speakers utilize a charged field within which a very thin membrane vibrates to create sound waves; the resulting sound is very fast and can produce an extremely large soundstage with peerless imaging, but they have a smaller sweet spot, meaning that you should point the speakers directly at your intended listening position; the sound won't be as realistic or spacious from outside the sweet spot, which is usually big enough for 1-3 people. Dynamic speakers have a sweet spot, too, but it is usually much larger, and they sound better outside the sweet spot than electrostatics. Electrostats are usually bought by audiophiles who use their speakers mostly for music, but with a supporting subwoofer they can sound great with movies, too. If you've never owned electrostats, please try to demo before buying, as they sound noticeably different from dynamic speakers and are considered to be an acquired taste by many. The speakers that comprise the following lists range from excellent budget models, which deliver great bang for your buck, all the way up to peak HiFi setups and the kinds of speakers used for mastering in the world’s most renowned studios. I advise most first-time buyers to start low; many non-audiophiles won't feel the need to spend more than a few hundred dollars to get very satisfying budget models, and I would bet that most people will be happy with speakers like the Pioneer FS-52 without feeling the need to upgrade. That said, you get what you pay for, and if you’re ready to shell out a thousand or more, you'll get serious audio that will make your local movie theater sound muddy and undetailed, and if you decide to roll with the big dogs and spend over $5,000, you're getting into the realm of professional-class sound and will probably never want to go back. In the end, every speaker listed here is great for its intended purpose, and no matter what your budget, there are speakers out there for everyone. Have a good read, and prepare for a big package to show up on your doorstep soon!</div>
+        
+
+        
+            <div class="PromoB-date">January 19, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-home-theater-speakers-overall" aria-label="Best Home Theater Speaker for Your Home-Watching Experience">
+    <img class="Image" alt="best Pioneer SP-PK52FS 5.1 Home Theater Speaker" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/00b665b/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F05%2F24%2Fe78fb79f4edeadaf63112467f7d4%2Fpioneer-sp-pk52fs-5.1%20Home%20Theater%20Speaker%20-%20bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-home-theater-speakers-overall">Best Home Theater Speaker for Your Home-Watching Experience</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Building a custom home theater system can be a daunting task for those without extensive experience with audio equipment; indeed, even with hours upon hours of research, sorting the wheat from the chaff can be a challenge in an industry filled with buzzwords, confusing terminology, and sheets filled with graphs and numbers that seem like they would take a college degree to understand. Luckily, some of the best names in the industry, well-known or not, offer easy solutions for those without the experience or time to research a system piece by piece. Ranging from 5.1 to full 11.4 setups and everywhere in between, manufacturers everywhere between the lauded Bowers &amp; Wilkins and JBL, to little-known audiophile favorites like KEF, and budget-wonder brands like Monoprice offer full surround-sound systems that are built and tuned specifically to sound great as a single, cohesive system. This not only makes things easy for you, the buyer, it also ensures that the whole system will sound great together. However, not all who try succeed, of course, and those listed here have been chosen for offering superior value for the dollar and the ability to blend well as systems; no one component takes the stage over others, the subwoofers integrate well, and everything just works. Not all systems are built equal, and you do usually get what you pay for, but when researching please keep in mind that audio products are highly susceptible to the phenomenon of diminishing returns: the higher you climb in the audio stratosphere, the smaller improvements you get with every jump up. The difference between the Monoprice 5.1 system and an entry-level offering from MartinLogan will be noticeable to anyone with ears, but going from Klipsch's Reference Series up to the Palladium probably won't be worth spending 10x the price unless you are a very discerning listener (or if you have money to spare and really like the look of the Palladiums; they are gorgeous). It's also very important to consider the size of your space; larger home theaters won't be served well by a system with satellites instead of floor speakers, and putting the JBL Synthesis Everest in a master bedroom is going to yield incredibly disappointing results, unless you just want to blow your windows out! Be sure to consider all of these elements when making your purchase to ensure that you are satisfied with the money you spend, but above all, remember to enjoy your new system!For more information on what to look at in selecting the best home theater speakers in 2022, We have listed below the best home theater speaker available for you to help you decide what product is best to buy.</div>
+        
+
+        
+            <div class="PromoB-date">January 19, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-bookshelf-speakers-overall" aria-label="Best Bookshelf Speakers for A Discreet Sound Experience">
+    <img class="Image" alt="best bookshelf speakers" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/8faae01/2147483647/strip/true/crop/400x261+0+69/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fe0%2F03%2Fc6a43bc81e6c7470a0be1caf4064%2Fxlscherrypairweb-000.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-bookshelf-speakers-overall">Best Bookshelf Speakers for A Discreet Sound Experience</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">If you’re a consumer that is looking to get the full experience from your home theater system, or looking to add to your current set up, you should consider a pair of high fidelity bookshelf speakers. A pair of bookshelf speakers can be a great addition to your home theater system, but can also double as studio monitors in your recording setup. Bookshelf speakers can serve as your standalone sonic source in your home theater setup or play a support role in 5.1 and 7.1 surround sound setups. In home theater setups with a .1 means that they include an LFE channel (A channel that is dedicated to only the subwoofer to reproduce low end), so your bookshelf speakers are used to provide detailed highs, full mid-range, and some low end information. In a standalone situation you would be looking for your bookshelf speakers to reproduce all sonic information highs, mids, and lows (to the best of their ability). Which is why I have populated these lists with bookshelf speakers that show versatility and strengths in both additional support and standalone situations. No matter the purpose of the speaker it is always difficult looking through an endless variety of manufacturers, designs, prices and engineering advances. I have compiled the following lists of speakers focused on versatility; to suit the taste of audio professionals and consumers alike. Checkout our top picks for best bookshelf speakers in 2022.</div>
+        
+
+        
+            <div class="PromoB-date">November 21, 2014</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-projection-screen" aria-label="Upgrade Movie Night With The Best Projector Screen in 2022">
+    <img class="Image" alt="best Silver Ticket HDTV Projection Screen" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/bb8f709/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F1e%2F6a%2F87d7ebaf43e582f7a722d136bad7%2Fsilver-ticket-hdtv-projection-screen-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-projection-screen">Upgrade Movie Night With The Best Projector Screen in 2022</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">When you're in the market to buy a projection screen, there are a few things you'll need to decide before you buy. Do you want a screen that you can mount to your wall or ceiling, or do you want something that is portable and can be carried with you? Once you know what you're looking for there, then you have the option of a manual or electric screen. These are pretty self-explanatory; while a manual screen is your only option if you're looking for something portable, the mounted screen gives you options of a pull-down spring-loaded manual option or an electric screen that lowers and rises with the use of remote control or wall switch.After you've figured that out, you'll want to consider the fabric material of your screen. The two most important things to think about are gain and viewing angle. These two items are related to one another; the higher the gain of your screen, the more your viewing angle is minimized. Gain measures the brightness of your screen and how much it reflects or absorbs the light coming from your projector. Most screens are rated around 1.0-1.3 gain, but some screens are rated lower and are best in dimly-lit rooms. The brightness of your screen affects your viewing angle, in that depending upon where you sit in front of the screen, the image can be darker or brighter. The image can be much brighter in the middle of the projection and darker on the edges, so if you're seated to the side you'll be seeing a dimmer picture.Finally, you'll need to decide what size screen you need. A square screen of 1:1 ratio is good for projected presentations, while a 4:3 video format ratio is great for projecting television and computer monitors. Then there's 16:9, which is the accepted ratio for letterbox and widescreen. HDTVs are the same ratio and are best for high-def TV and motion pictures. Read on to see some of our picks for the top projector screens on the market now!</div>
+        
+
+        
+            <div class="PromoB-date">November 21, 2014</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-stereo-receiver-overall" aria-label="Best Stereo Receiver for Great Quality Sound ">
+    <img class="Image" alt="best PYLE PT260A 200-Watt Digital AM/FM Stereo Receiver" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/fb91a3c/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fa4%2Fee%2Fae4efdde4373943724868da298bb%2Fpyle-pt260a-200-watt-digital-am-fm-stereo-receiver-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-stereo-receiver-overall">Best Stereo Receiver for Great Quality Sound </a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Directed at audiophiles who specifically want a superior home audio setup, stereo receivers are somewhat of a niche item due to their lack of video support. However, those who do not need or want an AV receiver will appreciate the ability to consolidate multiple audio devices, with many models including inputs ranging from iPods to phono inputs for turntables. Many modern stereo receivers have similar features to AV receivers, including support for Bluetooth and AirPlay. On the other hand, most stereo receivers do tend to be on the more basic side, with the focus being on discrete amplification for high-fidelity sound and flexible audio output options for expandability. We've compiled a list the best stereo receivers in 2022.</div>
+        
+
+        
+            <div class="PromoB-date">November 21, 2014</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-antenna-for-hdtv" aria-label="Get Great Connectivity: Best HDTV Antennas">
+    <img class="Image" alt="best Mohu Leaf Paper-Thin Indoor HDTV Antenna" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/fa960b8/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fdb%2F22%2F852a7d6a48f6a81fc9c15be57078%2Fmohu-leaf-paper-thin-indoor-hdtv-antenna-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-antenna-for-hdtv">Get Great Connectivity: Best HDTV Antennas</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Cutting the cord has never been easier these days. You no longer need to pay those hefty and ever-increasing monthly cable bills in order to receive your favorite high definition television programs. Just like back in the days of analog television, a variety of channels are broadcasting high definition content over-the-air for anyone with an antenna to pick up. You won't have unlimited access to cable channels like ESPN, MSNBC, or Food Network, but many of those networks now have "On-demand" versions of their content on streaming devices such as Roku or through your laptop or tablet.Some of these networks may charge a small subscription fee, but considering the low, onetime cost of these HDTV antennas you're still ahead of the game. They can give you access to the regional affiliates of the major networks like CBS, NBC, and so on, in addition to local access channels and nightly news.We've chosen five of the best HDTV antennas in 2022 for when you're ready to cut the cable, providing variety in terms of both range and price. Although there are antennas available that have longer reception range than the ones we've included, we've opted for popular antennas that meet average needs. We've ensured that they all have excellent signal strength and picture clarity, with easy installation and setup.</div>
+        
+
+        
+            <div class="PromoB-date">November 21, 2014</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-wall-speakers-for-home-theater" aria-label="Discrete Sound Quality: Best In-Wall/Ceiling Speaker">
+    <img class="Image" alt="best home in-wall/ceiling speaker" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/603aeb9/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F3d%2F46%2Fff989fd84b2ba349850f6705397f%2Fpolk-audio-home-audio-in-wall-ceiling-speaker-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-wall-speakers-for-home-theater">Discrete Sound Quality: Best In-Wall/Ceiling Speaker</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">While in-wall and in-ceiling speakers typically can't match the sound quality and performance of floorstanding models, they have the benefit of taking up less space. Neatly installed into the wall or ceiling, these speakers don't take up any floorspace and can free a living room or home theater from clutter and unsightly wires.For building a budget surround system, it's important to choose speakers that work well for both your listening and budget needs. This means good sound quality for the money, and ideally the ability to be used as fronts or rear surrounds. Easy installation is also important, with most of the following best budget in-wall speakers in 2022 including nearly everything needed for the process. Some have moisture-resistance to do a better job of standing up to humidity, while others offer swiveling tweeters to allow for angling sound where it's most needed. Overall, each of these selections offers excellent value for your money.</div>
+        
+
+        
+            <div class="PromoB-date">November 13, 2014</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-universal-remote-control" aria-label="All The Power In One Place: Best Universal Remotes">
+    <img class="Image" alt="best device universal remote" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/31fdcea/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F07%2F0c%2Fb763a70f4f44acd20c0a3e8fe5df%2Frca-6-device-universal-remote-control-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-universal-remote-control">All The Power In One Place: Best Universal Remotes</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Rather than dealing with the clutter of half a dozen different remotes, it's infinitely more convenient to program all of their functionality to a universal remote control. These best universal remotes in 2022 devices range from feature-filled, multi-tasking remotes to more basic options that can replace a lost or damaged factory remote control.</div>
+        
+
+        
+            <div class="PromoB-date">October 28, 2014</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-wi-fi-multiroom-digital-music-system" aria-label="Best Wi-Fi Multiroom Digital Music Systems for Great Sound in Every Room ">
+    <img class="Image" alt="best voice controlled wifi multiroom digital music system" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/9e14b59/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F0a%2F76%2Fc6aac60a4c7880ce3306da97a270%2Fsonos-one-voice-controlled-wifi-multiroom-digital-music-system-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-wi-fi-multiroom-digital-music-system">Best Wi-Fi Multiroom Digital Music Systems for Great Sound in Every Room </a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Consumers have embraced the spread of digital music, allowing for technology such as wireless speakers and multi-room systems to begin gaining massive popularity. Although Sonos has been at the forefront of this market, in the past months it seems nearly every other company, heavy hitters and small operations alike, have been trying to jump onboard.Since this market is currently in a period of development and growth, it will be interesting to see how WiFi multi-room digital music systems progress and evolve into the mainstream. We've selected some of the best wireless multi-room digital music devices currently available although many more models will be released in the coming months with offerings from manufacturers such as Naim, Harman Kardon, and LG.The picks on this list are all wireless home audio devices that are part of a larger system. You can start with one, and gradually add more devices to create a true multi-room digital music system. The following selections have been chosen for their overall versatility and value with each offering excellent sound quality for the price. Each one is simple to set up and easy to use, with extensive connectivity and streaming options.For more information on what to look at in selecting the best wi-fi multiroom digital music system in 2022, We have listed below the available wi-fi multiroom digital music systems for you to help you decide what product is best to buy.</div>
+        
+
+        
+            <div class="PromoB-date">September 17, 2014</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-home-theater-system-overall-htib" aria-label="Best Home Theater System for the Perfect Movie Nights ">
+    <img class="Image" alt="best home theater system" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/1f19852/2147483647/strip/true/crop/600x392+0+104/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fc7%2F1e%2Fac2c83bffe16288722449d0ba2b3%2F600x600-1.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-home-theater-system-overall-htib">Best Home Theater System for the Perfect Movie Nights </a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Right now it’s easier than ever to find high-quality and affordable options for a home theater system bundle. All of the following picks are from well-established and trusted brands known for their higher-end offerings. Although none of the following home theater systems are neither suitable for large spaces nor likely to impress audiophiles, they’re perfectly adequate for casual use in a small home theater setup.Important features we looked for are quality components to ensure good audio and video quality, as well as any features such as video upconversion. Connectivity is generally less important on these budget-friendly systems, with manufacturers striving to make setting the devices up as simple as possible over allowing for too much customization. However, modern home theater systems ideally have WiFi, a USB port, and sometimes also Bluetooth and DLNA capabilities.Overall, each of the following selections is an affordable way to bring powerful surround sound and good video quality to your home without the complicated process of having to build your own system.For more information on what to look at in selecting the best home theater system in 2022, We have listed below the home theater systems available for you to help you decide what product is best to buy.</div>
+        
+
+        
+            <div class="PromoB-date">June 11, 2014</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-flat-panel-wall-mount" aria-label="Best TV Wall Mount for Secure and Simple Watching ">
+    <img class="Image" alt="best low profile tv wall mount" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/4c48971/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F21%2F1f%2Ff38090794d15ab8c2e445abfa0df%2Fvideosecu-low-profile-tv-wall-mount-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-flat-panel-wall-mount">Best TV Wall Mount for Secure and Simple Watching </a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Selecting the best wall mount for your home is really a question of where you plan on placing your flat-screen TV. You have three options to choose from, each one offering particular advantages in certain type of mounting situations and television weights and sizes. The most common is the tilting mount; keeping the television close to the wall in much the same way a low-profile mount would, except this mount does exactly what it says it can do: tilt. Usually offering a ten degree tilt up and down, this mount is perfect for positioning your television higher on the wall, above eye level. Low-profile mounts do not move in any way, they are stationary mounts that do one thing only; keep your TV hung up on the wall. These mounts are called "low-profile" because you can hardly see them when in use. There is such a small gap between the back of your unit and the wall that they're hardly, if ever, visible. Unfortunately, while these are often the least expensive mounts to buy they can also be problematic since most cables and cords connecting the television to cable boxes or Blu-ray players are plugged into the back of it. So this mount could pose some clearance issues with your cables. The final mount you can choose is a full motion or articulating mount. These are slightly more complex as they feature an articulating arm that lets you extend and retract the TV from the wall, in addition to tilting and swiveling capabilities. These mounts are often the most expensive because they offer so much movement and require more hardware in their manufacturing, not to mention they can be more challenging to install. But these mounts are well-suited for positioning your TV along corners, though do they require more room to operate as some of these mounts can extend out from the wall up to 20" or more. All of these mounts are viable options for just about any television, but be sure you choose the proper size that fits with your specific TV brand and model. Consult the VESA standard compatibility between your TV and the mount first; this is the industry standard for how apart your mounting holes are on the back of your television. If your mount and television don't conform to one another, you will not be able to attach them. While this isn't a complicated matter to determine, it is crucial for the proper installation of your television and the safety of anyone who might come in close proximity with it. For more information on what to look at in selecting the best tv wall mount in 2022, We have listed below the tv wall mounts available for you to help you decide what product is best to buy.</div>
+        
+
+        
+            <div class="PromoB-date">April 03, 2014</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+            </ul>
+        
+    </div>
+
+    
+        <div class="ListE-nextPage" data-list-loadmore-pagination>
+            <a class="ButtonHoverOpacity Link" href="?0000016e-d7f8-d790-a5fe-f7fab4870000-page=2">Load More</a>
+        </div>
+    
+</ps-list-loadmore>
+            </div>
+        
+    </div>
+</div>
+
+    </div>
+
+
+
+
+        
+    
+</main>
+
+
+
+<footer class="Page-footer" itemscope itemtype="https://schema.org/WPFooter">
+    <div class="Page-footer-body">
+        
+
+        <div class="Page-footer-columns">
+            <div class="Page-footer-column">
+                
+                    <div class="Page-footer-navigation">
+                        <nav class="FooterNavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+        <ul class="FooterNavigation-items">
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/about-us">About Us</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/privacy-policy">Privacy Policy</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/terms-use">Terms of Use</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/contact-us">Contact Us</a>
+    
+    
+</div>
+                </li>
+            
+        </ul>
+    
+</nav>
+                    </div>
+                
+            </div>
+            
+                <div class="Page-footer-column">
+                    <div class="Page-footer-content title-5">
+                        
+    <div class="RichTextModule">
+        
+            <div class="RichTextModule-items RichTextBody"><p>Follow Us</p></div>
+        
+
+    </div>
+<nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item"> <a class="SocialLink" rel="noreferrer noopener nofollow" href="https://www.facebook.com/Bestcovery/" target="_blank" data-social-service="facebook"><svg><use xlink:href="#mono-icon-facebook"></use></svg><span class="sr-only">facebook</span></a>
+</li>
+            
+                <li class="Navigation-items-item"> <a class="SocialLink" rel="noreferrer noopener nofollow" href="https://twitter.com/Bestcovery" target="_blank" data-social-service="twitter"><svg><use xlink:href="#mono-icon-twitter"></use></svg><span class="sr-only">twitter</span></a>
+</li>
+            
+        </ul>
+    
+</nav>
+                    </div>
+                </div>
+            
+        </div>
+
+        
+            <div class="Page-footer-disclaimer text-preview">Copyright 2023 Bestcovery.com, LLC. All rights reserved.</div>
+        
+    </div>
+</footer>
+
+
+</body>
+</html>

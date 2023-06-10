@@ -1,0 +1,2133 @@
+<!DOCTYPE html>
+<html class="SectionPage" lang="en" itemscope itemtype="http://schema.org/WebPage">
+<head>
+    <meta charset="UTF-8">
+
+    <style data-cssvarsponyfill="true">
+                :root {
+        --primaryColor1: #4079ad;
+        --primaryColor2: #000000;
+
+        --primaryTextColor: #333333;
+        --secondaryTextColor: #4079ad;
+        --breakingColor: #e9873f;
+
+        --secondaryColor1: #858585;
+        --secondaryColor2: #cccccc;
+        --secondaryColor3: #e6e6e6;
+        --secondaryColor4: #f5f5f5;
+        --secondaryColor5: #ffffff;
+        --secondaryColor6: #e12327;
+        --secondaryColor7: #4079ad;
+        --secondaryColor8: #202f3f;
+        --secondaryColor9: #666666;
+
+        --siteBgColor: #ffffff;
+        --siteInverseBgColor: #000000;
+
+        --headerBgColor: #ffffff;
+        --headerBgColorInverse: #000000;
+        --headerBorderColor: #e6e6e6;
+        --headerBorderColorInverse: #858585;
+        --headerTextColor: #333333;
+        --headerTextColorInverse: #ffffff;
+        --headerMenuBgColor: #ffffff;
+        --headerMenuTextColor: #ffffff;
+
+        --secondaryHeaderBgColor: #ffffff;
+        --secondaryHeaderTextColor: #333333;
+
+        --footerBgColor: #000000;
+        --footerTextColor: #ffffff;
+
+        --primaryTextColorInverse: #ffffff;
+        --secondaryTextColorInverse: #cccccc;
+        --tertiaryTextColor: #999999;
+        --tertiaryTextColorInverse: #cccccc;
+
+        --listBorderColor: #000000;
+        --gridBorderColor: #e6e6e6;
+
+        --buttonBgColor: #4079ad;
+        --buttonSecondaryBgColor: #ffffff;
+        --buttonSecondaryTextColor: #333333;
+        --buttonTextColor: #ffffff;
+        --inverseButtonBgColor: #030202;
+        --tagButtonBorderColor: #e6e6e6;
+        --tagButtonTextColor: #ff6f00;
+
+        --breakingTextColor: #ffffff;
+
+        --sectionTextColor: #ff6f00;
+
+        --primaryHeadlineFont: Oswald;
+        --secondaryHeadlineFont: Oswald;
+        --bodyFont: Roboto;
+
+        --contentWidth: 1200px;
+        }
+
+    </style>
+
+    
+
+    <meta property="og:title" content="Fashion">
+
+    <meta property="og:url" content="https://www.latimes.com/bestcovery/fashion">
+
+
+    <meta property="og:site_name" content="Bestcovery">
+
+
+
+    <meta property="og:type" content="website">
+
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    <meta name="twitter:title" content="Fashion"/>
+    
+
+
+    <link data-cssvarsponyfill="true" class="Webpack-css" rel="stylesheet" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/All.min.4d29e7a04ca97ea10a5aedec469cda49.css">
+
+    <style>.Page-above {
+    display: block !important;
+}
+
+.InfoBoxBody {
+	font-size: 14px;
+}</style>
+<style>.SectionPage .RichTextBody table {
+    max-width: 838px;
+}
+
+.SectionPage .RichTextBody table tr:first-child, .SectionPage .RichTextBody .table-h {
+    white-space:nowrap;
+    background: #f5f5f5;
+}
+
+.SectionPage .RichTextBody table, .SectionPage .RichTextBody th, .SectionPage .RichTextBody td {
+    border: 1px solid rgba(0,31,63,.08);
+}
+
+.SectionPage .RichTextBody th, .SectionPage .RichTextBody td {
+	padding: 5px 10px;
+}</style>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"><title>Fashion - Bestcovery</title><link rel="canonical" href="https://www.latimes.com/bestcovery/fashion"><meta name="brightspot.contentId" content="0000016e-6532-d2e1-a3fe-753b079e0000"><link rel="apple-touch-icon" sizes="180x180" href="/styleguide/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/favicon-32x32.bf34a9f07d94299a7699e16042ef11fd.png">
+<link rel="icon" type="image/png" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/favicon-16x16.9f124a4f6e59c7927104889e0167e7ef.png">
+    <link type="application/rss+xml" rel="alternate" title="Fashion" href="https://www.latimes.com/bestcovery/fashion.rss"><script>var _lb = '1';</script>
+<script src="https://activate.platform.californiatimes.com/caltimes/bestcovery/Bootstrap.js" async></script>
+
+
+    
+
+    <!--This is needed for custom elements to function in browsers that
+    support them natively but that are using es6 code transpiled to es5.
+    This will cause a non-fatal error to show up in the IE11 console.
+    It can be safely ignored. https://github.com/webcomponents/webcomponentsjs/issues/749 -->
+    <script>
+        (function () {
+        'use strict';
+
+        (()=>{'use strict';if(!window.customElements)return;const a=window.HTMLElement,b=window.customElements.define,c=window.customElements.get,d=new Map,e=new Map;let f=!1,g=!1;window.HTMLElement=function(){if(!f){const a=d.get(this.constructor),b=c.call(window.customElements,a);g=!0;const e=new b;return e}f=!1;},window.HTMLElement.prototype=a.prototype;Object.defineProperty(window,'customElements',{value:window.customElements,configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'define',{value:(c,h)=>{const i=h.prototype,j=class extends a{constructor(){super(),Object.setPrototypeOf(this,i),g||(f=!0,h.call(this)),g=!1;}},k=j.prototype;j.observedAttributes=h.observedAttributes,k.connectedCallback=i.connectedCallback,k.disconnectedCallback=i.disconnectedCallback,k.attributeChangedCallback=i.attributeChangedCallback,k.adoptedCallback=i.adoptedCallback,d.set(h,c),e.set(c,h),b.call(window.customElements,c,j);},configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'get',{value:(a)=>e.get(a),configurable:!0,writable:!0});})();
+
+        /**
+        @license
+        Copyright (c) 2017 The Polymer Project Authors. All rights reserved.
+        This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+        The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+        The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+        Code distributed by Google as part of the polymer project is also
+        subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+        */
+        }());
+    </script>
+    <script>
+        /**
+            For the fastest load times https://developers.google.com/speed/docs/insights/BlockingJS
+            and to prevent any FOUC, as well as prevent any race conditions for browsers that also
+            rely on the CSS variables polyfill, this is inlined.
+        **/
+        if (!window.customElements) {
+            (function(){
+                'use strict';var h=new function(){};var aa=new Set("annotation-xml color-profile font-face font-face-src font-face-uri font-face-format font-face-name missing-glyph".split(" "));function m(b){var a=aa.has(b);b=/^[a-z][.0-9_a-z]*-[\-.0-9_a-z]*$/.test(b);return!a&&b}function n(b){var a=b.isConnected;if(void 0!==a)return a;for(;b&&!(b.__CE_isImportDocument||b instanceof Document);)b=b.parentNode||(window.ShadowRoot&&b instanceof ShadowRoot?b.host:void 0);return!(!b||!(b.__CE_isImportDocument||b instanceof Document))}
+                function p(b,a){for(;a&&a!==b&&!a.nextSibling;)a=a.parentNode;return a&&a!==b?a.nextSibling:null}
+                function t(b,a,c){c=c?c:new Set;for(var d=b;d;){if(d.nodeType===Node.ELEMENT_NODE){var e=d;a(e);var f=e.localName;if("link"===f&&"import"===e.getAttribute("rel")){d=e.import;if(d instanceof Node&&!c.has(d))for(c.add(d),d=d.firstChild;d;d=d.nextSibling)t(d,a,c);d=p(b,e);continue}else if("template"===f){d=p(b,e);continue}if(e=e.__CE_shadowRoot)for(e=e.firstChild;e;e=e.nextSibling)t(e,a,c)}d=d.firstChild?d.firstChild:p(b,d)}}function u(b,a,c){b[a]=c};function v(){this.a=new Map;this.s=new Map;this.f=[];this.b=!1}function ba(b,a,c){b.a.set(a,c);b.s.set(c.constructor,c)}function w(b,a){b.b=!0;b.f.push(a)}function x(b,a){b.b&&t(a,function(a){return y(b,a)})}function y(b,a){if(b.b&&!a.__CE_patched){a.__CE_patched=!0;for(var c=0;c<b.f.length;c++)b.f[c](a)}}function z(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state?b.connectedCallback(d):A(b,d)}}
+                function B(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state&&b.disconnectedCallback(d)}}
+                function C(b,a,c){c=c?c:{};var d=c.w||new Set,e=c.i||function(a){return A(b,a)},f=[];t(a,function(a){if("link"===a.localName&&"import"===a.getAttribute("rel")){var c=a.import;c instanceof Node&&(c.__CE_isImportDocument=!0,c.__CE_hasRegistry=!0);c&&"complete"===c.readyState?c.__CE_documentLoadHandled=!0:a.addEventListener("load",function(){var c=a.import;if(!c.__CE_documentLoadHandled){c.__CE_documentLoadHandled=!0;var f=new Set(d);f.delete(c);C(b,c,{w:f,i:e})}})}else f.push(a)},d);if(b.b)for(a=0;a<
+                f.length;a++)y(b,f[a]);for(a=0;a<f.length;a++)e(f[a])}
+                function A(b,a){if(void 0===a.__CE_state){var c=a.ownerDocument;if(c.defaultView||c.__CE_isImportDocument&&c.__CE_hasRegistry)if(c=b.a.get(a.localName)){c.constructionStack.push(a);var d=c.constructor;try{try{if(new d!==a)throw Error("The custom element constructor did not produce the element being upgraded.");}finally{c.constructionStack.pop()}}catch(r){throw a.__CE_state=2,r;}a.__CE_state=1;a.__CE_definition=c;if(c.attributeChangedCallback)for(c=c.observedAttributes,d=0;d<c.length;d++){var e=c[d],
+                        f=a.getAttribute(e);null!==f&&b.attributeChangedCallback(a,e,null,f,null)}n(a)&&b.connectedCallback(a)}}}v.prototype.connectedCallback=function(b){var a=b.__CE_definition;a.connectedCallback&&a.connectedCallback.call(b)};v.prototype.disconnectedCallback=function(b){var a=b.__CE_definition;a.disconnectedCallback&&a.disconnectedCallback.call(b)};
+                v.prototype.attributeChangedCallback=function(b,a,c,d,e){var f=b.__CE_definition;f.attributeChangedCallback&&-1<f.observedAttributes.indexOf(a)&&f.attributeChangedCallback.call(b,a,c,d,e)};function D(b,a){this.c=b;this.a=a;this.b=void 0;C(this.c,this.a);"loading"===this.a.readyState&&(this.b=new MutationObserver(this.f.bind(this)),this.b.observe(this.a,{childList:!0,subtree:!0}))}function E(b){b.b&&b.b.disconnect()}D.prototype.f=function(b){var a=this.a.readyState;"interactive"!==a&&"complete"!==a||E(this);for(a=0;a<b.length;a++)for(var c=b[a].addedNodes,d=0;d<c.length;d++)C(this.c,c[d])};function ca(){var b=this;this.b=this.a=void 0;this.f=new Promise(function(a){b.b=a;b.a&&a(b.a)})}function F(b){if(b.a)throw Error("Already resolved.");b.a=void 0;b.b&&b.b(void 0)};function G(b){this.j=!1;this.c=b;this.o=new Map;this.l=function(b){return b()};this.g=!1;this.m=[];this.u=new D(b,document)}
+                G.prototype.define=function(b,a){var c=this;if(!(a instanceof Function))throw new TypeError("Custom element constructors must be functions.");if(!m(b))throw new SyntaxError("The element name '"+b+"' is not valid.");if(this.c.a.get(b))throw Error("A custom element with name '"+b+"' has already been defined.");if(this.j)throw Error("A custom element is already being defined.");this.j=!0;var d,e,f,r,k;try{var g=function(b){var a=l[b];if(void 0!==a&&!(a instanceof Function))throw Error("The '"+b+"' callback must be a function.");
+                    return a},l=a.prototype;if(!(l instanceof Object))throw new TypeError("The custom element constructor's prototype is not an object.");d=g("connectedCallback");e=g("disconnectedCallback");f=g("adoptedCallback");r=g("attributeChangedCallback");k=a.observedAttributes||[]}catch(q){return}finally{this.j=!1}a={localName:b,constructor:a,connectedCallback:d,disconnectedCallback:e,adoptedCallback:f,attributeChangedCallback:r,observedAttributes:k,constructionStack:[]};ba(this.c,b,a);this.m.push(a);this.g||
+                (this.g=!0,this.l(function(){return da(c)}))};G.prototype.i=function(b){C(this.c,b)};function da(b){if(!1!==b.g){b.g=!1;for(var a=b.m,c=[],d=new Map,e=0;e<a.length;e++)d.set(a[e].localName,[]);C(b.c,document,{i:function(a){if(void 0===a.__CE_state){var e=a.localName,f=d.get(e);f?f.push(a):b.c.a.get(e)&&c.push(a)}}});for(e=0;e<c.length;e++)A(b.c,c[e]);for(;0<a.length;){for(var f=a.shift(),e=f.localName,f=d.get(f.localName),r=0;r<f.length;r++)A(b.c,f[r]);(e=b.o.get(e))&&F(e)}}}
+                G.prototype.get=function(b){if(b=this.c.a.get(b))return b.constructor};G.prototype.whenDefined=function(b){if(!m(b))return Promise.reject(new SyntaxError("'"+b+"' is not a valid custom element name."));var a=this.o.get(b);if(a)return a.f;a=new ca;this.o.set(b,a);this.c.a.get(b)&&!this.m.some(function(a){return a.localName===b})&&F(a);return a.f};G.prototype.v=function(b){E(this.u);var a=this.l;this.l=function(c){return b(function(){return a(c)})}};window.CustomElementRegistry=G;
+                G.prototype.define=G.prototype.define;G.prototype.upgrade=G.prototype.i;G.prototype.get=G.prototype.get;G.prototype.whenDefined=G.prototype.whenDefined;G.prototype.polyfillWrapFlushCallback=G.prototype.v;var H=window.Document.prototype.createElement,ea=window.Document.prototype.createElementNS,fa=window.Document.prototype.importNode,ga=window.Document.prototype.prepend,ha=window.Document.prototype.append,ia=window.DocumentFragment.prototype.prepend,ja=window.DocumentFragment.prototype.append,I=window.Node.prototype.cloneNode,J=window.Node.prototype.appendChild,K=window.Node.prototype.insertBefore,L=window.Node.prototype.removeChild,M=window.Node.prototype.replaceChild,N=Object.getOwnPropertyDescriptor(window.Node.prototype,
+                        "textContent"),O=window.Element.prototype.attachShadow,P=Object.getOwnPropertyDescriptor(window.Element.prototype,"innerHTML"),Q=window.Element.prototype.getAttribute,R=window.Element.prototype.setAttribute,S=window.Element.prototype.removeAttribute,T=window.Element.prototype.getAttributeNS,U=window.Element.prototype.setAttributeNS,ka=window.Element.prototype.removeAttributeNS,la=window.Element.prototype.insertAdjacentElement,ma=window.Element.prototype.insertAdjacentHTML,na=window.Element.prototype.prepend,
+                        oa=window.Element.prototype.append,V=window.Element.prototype.before,pa=window.Element.prototype.after,qa=window.Element.prototype.replaceWith,ra=window.Element.prototype.remove,sa=window.HTMLElement,W=Object.getOwnPropertyDescriptor(window.HTMLElement.prototype,"innerHTML"),ta=window.HTMLElement.prototype.insertAdjacentElement,ua=window.HTMLElement.prototype.insertAdjacentHTML;function va(){var b=X;window.HTMLElement=function(){function a(){var a=this.constructor,d=b.s.get(a);if(!d)throw Error("The custom element being constructed was not registered with `customElements`.");var e=d.constructionStack;if(!e.length)return e=H.call(document,d.localName),Object.setPrototypeOf(e,a.prototype),e.__CE_state=1,e.__CE_definition=d,y(b,e),e;var d=e.length-1,f=e[d];if(f===h)throw Error("The HTMLElement constructor was either called reentrantly for this constructor or called multiple times.");
+                    e[d]=h;Object.setPrototypeOf(f,a.prototype);y(b,f);return f}a.prototype=sa.prototype;return a}()};function Y(b,a,c){function d(a){return function(c){for(var e=[],d=0;d<arguments.length;++d)e[d-0]=arguments[d];for(var d=[],f=[],l=0;l<e.length;l++){var q=e[l];q instanceof Element&&n(q)&&f.push(q);if(q instanceof DocumentFragment)for(q=q.firstChild;q;q=q.nextSibling)d.push(q);else d.push(q)}a.apply(this,e);for(e=0;e<f.length;e++)B(b,f[e]);if(n(this))for(e=0;e<d.length;e++)f=d[e],f instanceof Element&&z(b,f)}}c.h&&(a.prepend=d(c.h));c.append&&(a.append=d(c.append))};function wa(){var b=X;u(Document.prototype,"createElement",function(a){if(this.__CE_hasRegistry){var c=b.a.get(a);if(c)return new c.constructor}a=H.call(this,a);y(b,a);return a});u(Document.prototype,"importNode",function(a,c){a=fa.call(this,a,c);this.__CE_hasRegistry?C(b,a):x(b,a);return a});u(Document.prototype,"createElementNS",function(a,c){if(this.__CE_hasRegistry&&(null===a||"http://www.w3.org/1999/xhtml"===a)){var d=b.a.get(c);if(d)return new d.constructor}a=ea.call(this,a,c);y(b,a);return a});
+                    Y(b,Document.prototype,{h:ga,append:ha})};function xa(){var b=X;function a(a,d){Object.defineProperty(a,"textContent",{enumerable:d.enumerable,configurable:!0,get:d.get,set:function(a){if(this.nodeType===Node.TEXT_NODE)d.set.call(this,a);else{var e=void 0;if(this.firstChild){var c=this.childNodes,k=c.length;if(0<k&&n(this))for(var e=Array(k),g=0;g<k;g++)e[g]=c[g]}d.set.call(this,a);if(e)for(a=0;a<e.length;a++)B(b,e[a])}}})}u(Node.prototype,"insertBefore",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);
+                    a=K.call(this,a,d);if(n(this))for(d=0;d<e.length;d++)z(b,e[d]);return a}e=n(a);d=K.call(this,a,d);e&&B(b,a);n(this)&&z(b,a);return d});u(Node.prototype,"appendChild",function(a){if(a instanceof DocumentFragment){var c=Array.prototype.slice.apply(a.childNodes);a=J.call(this,a);if(n(this))for(var e=0;e<c.length;e++)z(b,c[e]);return a}c=n(a);e=J.call(this,a);c&&B(b,a);n(this)&&z(b,a);return e});u(Node.prototype,"cloneNode",function(a){a=I.call(this,a);this.ownerDocument.__CE_hasRegistry?C(b,a):x(b,a);
+                    return a});u(Node.prototype,"removeChild",function(a){var c=n(a),e=L.call(this,a);c&&B(b,a);return e});u(Node.prototype,"replaceChild",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);a=M.call(this,a,d);if(n(this))for(B(b,d),d=0;d<e.length;d++)z(b,e[d]);return a}var e=n(a),f=M.call(this,a,d),c=n(this);c&&B(b,d);e&&B(b,a);c&&z(b,a);return f});N&&N.get?a(Node.prototype,N):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){for(var a=[],b=
+                            0;b<this.childNodes.length;b++)a.push(this.childNodes[b].textContent);return a.join("")},set:function(a){for(;this.firstChild;)L.call(this,this.firstChild);J.call(this,document.createTextNode(a))}})})};function ya(b){var a=Element.prototype;function c(a){return function(e){for(var c=[],d=0;d<arguments.length;++d)c[d-0]=arguments[d];for(var d=[],k=[],g=0;g<c.length;g++){var l=c[g];l instanceof Element&&n(l)&&k.push(l);if(l instanceof DocumentFragment)for(l=l.firstChild;l;l=l.nextSibling)d.push(l);else d.push(l)}a.apply(this,c);for(c=0;c<k.length;c++)B(b,k[c]);if(n(this))for(c=0;c<d.length;c++)k=d[c],k instanceof Element&&z(b,k)}}V&&(a.before=c(V));V&&(a.after=c(pa));qa&&u(a,"replaceWith",function(a){for(var e=
+                        [],c=0;c<arguments.length;++c)e[c-0]=arguments[c];for(var c=[],d=[],k=0;k<e.length;k++){var g=e[k];g instanceof Element&&n(g)&&d.push(g);if(g instanceof DocumentFragment)for(g=g.firstChild;g;g=g.nextSibling)c.push(g);else c.push(g)}k=n(this);qa.apply(this,e);for(e=0;e<d.length;e++)B(b,d[e]);if(k)for(B(b,this),e=0;e<c.length;e++)d=c[e],d instanceof Element&&z(b,d)});ra&&u(a,"remove",function(){var a=n(this);ra.call(this);a&&B(b,this)})};function za(){var b=X;function a(a,c){Object.defineProperty(a,"innerHTML",{enumerable:c.enumerable,configurable:!0,get:c.get,set:function(a){var e=this,d=void 0;n(this)&&(d=[],t(this,function(a){a!==e&&d.push(a)}));c.set.call(this,a);if(d)for(var f=0;f<d.length;f++){var r=d[f];1===r.__CE_state&&b.disconnectedCallback(r)}this.ownerDocument.__CE_hasRegistry?C(b,this):x(b,this);return a}})}function c(a,c){u(a,"insertAdjacentElement",function(a,e){var d=n(e);a=c.call(this,a,e);d&&B(b,e);n(a)&&z(b,e);
+                    return a})}function d(a,c){function e(a,e){for(var c=[];a!==e;a=a.nextSibling)c.push(a);for(e=0;e<c.length;e++)C(b,c[e])}u(a,"insertAdjacentHTML",function(a,b){a=a.toLowerCase();if("beforebegin"===a){var d=this.previousSibling;c.call(this,a,b);e(d||this.parentNode.firstChild,this)}else if("afterbegin"===a)d=this.firstChild,c.call(this,a,b),e(this.firstChild,d);else if("beforeend"===a)d=this.lastChild,c.call(this,a,b),e(d||this.firstChild,null);else if("afterend"===a)d=this.nextSibling,c.call(this,
+                        a,b),e(this.nextSibling,d);else throw new SyntaxError("The value provided ("+String(a)+") is not one of 'beforebegin', 'afterbegin', 'beforeend', or 'afterend'.");})}O&&u(Element.prototype,"attachShadow",function(a){return this.__CE_shadowRoot=a=O.call(this,a)});P&&P.get?a(Element.prototype,P):W&&W.get?a(HTMLElement.prototype,W):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){return I.call(this,!0).innerHTML},set:function(a){var b="template"===this.localName,e=b?this.content:this,
+                            c=H.call(document,this.localName);for(c.innerHTML=a;0<e.childNodes.length;)L.call(e,e.childNodes[0]);for(a=b?c.content:c;0<a.childNodes.length;)J.call(e,a.childNodes[0])}})});u(Element.prototype,"setAttribute",function(a,c){if(1!==this.__CE_state)return R.call(this,a,c);var e=Q.call(this,a);R.call(this,a,c);c=Q.call(this,a);b.attributeChangedCallback(this,a,e,c,null)});u(Element.prototype,"setAttributeNS",function(a,c,d){if(1!==this.__CE_state)return U.call(this,a,c,d);var e=T.call(this,a,c);U.call(this,
+                        a,c,d);d=T.call(this,a,c);b.attributeChangedCallback(this,c,e,d,a)});u(Element.prototype,"removeAttribute",function(a){if(1!==this.__CE_state)return S.call(this,a);var c=Q.call(this,a);S.call(this,a);null!==c&&b.attributeChangedCallback(this,a,c,null,null)});u(Element.prototype,"removeAttributeNS",function(a,c){if(1!==this.__CE_state)return ka.call(this,a,c);var d=T.call(this,a,c);ka.call(this,a,c);var e=T.call(this,a,c);d!==e&&b.attributeChangedCallback(this,c,d,e,a)});ta?c(HTMLElement.prototype,
+                        ta):la?c(Element.prototype,la):console.warn("Custom Elements: `Element#insertAdjacentElement` was not patched.");ua?d(HTMLElement.prototype,ua):ma?d(Element.prototype,ma):console.warn("Custom Elements: `Element#insertAdjacentHTML` was not patched.");Y(b,Element.prototype,{h:na,append:oa});ya(b)};/*
+
+                Copyright (c) 2016 The Polymer Project Authors. All rights reserved.
+                This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+                The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+                The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+                Code distributed by Google as part of the polymer project is also
+                subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+                */
+                var Z=window.customElements;if(!Z||Z.forcePolyfill||"function"!=typeof Z.define||"function"!=typeof Z.get){var X=new v;va();wa();Y(X,DocumentFragment.prototype,{h:ia,append:ja});xa();za();document.__CE_hasRegistry=!0;var customElements=new G(X);Object.defineProperty(window,"customElements",{configurable:!0,enumerable:!0,value:customElements})};
+            }).call(self);
+        }
+
+        /**
+            This allows us to load the IE polyfills via feature detection so that they do not load
+            needlessly in the browsers that do not need them. It also ensures they are loaded
+            non async so that they load before the rest of our JS.
+        */
+        var head = document.getElementsByTagName('head')[0];
+        if (!window.CSS || !window.CSS.supports || !window.CSS.supports('--fake-var', 0)) {
+            var script = document.createElement('script');
+            script.setAttribute('src', "https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/util/IEPolyfills.7a8440e4b9a8eed9874904d20fd32963.js");
+            script.setAttribute('type', 'text/javascript');
+            script.async = false;
+            head.appendChild(script);
+        }
+    </script>
+    
+    <script src="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/All.min.f7fc019e5c5fa20dfcbd5201bcaa5c8e.js" async></script>
+
+    <script>document.addEventListener("DOMContentLoaded",function(){var t=Math.random()+"",e=document.createElement("img");e.src="https://pubads.g.doubleclick.net/activity;xsp=4618488;ord="+Math.floor(1e13*t)+"?",e.width=1,e.height=1,e.border=0,document.body.appendChild(e)});</script>
+
+
+    <script>
+        var link = document.createElement('link');
+        link.setAttribute('href', 'https://fonts.googleapis.com/css?family=Oswald:200,500,600,700|Roboto:400,500,700&display=swap');
+        var relList = link.relList;
+
+        if (relList && relList.supports('preload')) {
+            link.setAttribute('as', 'style');
+            link.setAttribute('rel', 'preload');
+            link.setAttribute('onload', 'this.rel="stylesheet"');
+            link.setAttribute('crossorigin', 'anonymous');
+        } else {
+            link.setAttribute('rel', 'stylesheet');
+        }
+
+        head.appendChild(link);
+    </script>
+</head>
+
+<body class="Page-body">
+<!-- Putting icons here, so we don't have to include in a bunch of -body hbs's -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" id="iconsMap">
+    <symbol id="mono-icon-facebook" viewBox="0 0 10 19">
+        <path fill-rule="evenodd" d="M2.707 18.25V10.2H0V7h2.707V4.469c0-1.336.375-2.373 1.125-3.112C4.582.62 5.578.25 6.82.25c1.008 0 1.828.047 2.461.14v2.848H7.594c-.633 0-1.067.14-1.301.422-.188.235-.281.61-.281 1.125V7H9l-.422 3.2H6.012v8.05H2.707z"></path>
+    </symbol>
+    <symbol id="mono-icon-instagram" viewBox="0 0 17 17">
+        <g>
+            <path fill-rule="evenodd" d="M8.281 4.207c.727 0 1.4.182 2.022.545a4.055 4.055 0 0 1 1.476 1.477c.364.62.545 1.294.545 2.021 0 .727-.181 1.4-.545 2.021a4.055 4.055 0 0 1-1.476 1.477 3.934 3.934 0 0 1-2.022.545c-.726 0-1.4-.182-2.021-.545a4.055 4.055 0 0 1-1.477-1.477 3.934 3.934 0 0 1-.545-2.021c0-.727.182-1.4.545-2.021A4.055 4.055 0 0 1 6.26 4.752a3.934 3.934 0 0 1 2.021-.545zm0 6.68a2.54 2.54 0 0 0 1.864-.774 2.54 2.54 0 0 0 .773-1.863 2.54 2.54 0 0 0-.773-1.863 2.54 2.54 0 0 0-1.864-.774 2.54 2.54 0 0 0-1.863.774 2.54 2.54 0 0 0-.773 1.863c0 .727.257 1.348.773 1.863a2.54 2.54 0 0 0 1.863.774zM13.45 4.03c-.023.258-.123.48-.299.668a.856.856 0 0 1-.65.281.913.913 0 0 1-.668-.28.913.913 0 0 1-.281-.669c0-.258.094-.48.281-.668a.913.913 0 0 1 .668-.28c.258 0 .48.093.668.28.187.188.281.41.281.668zm2.672.95c.023.656.035 1.746.035 3.269 0 1.523-.017 2.62-.053 3.287-.035.668-.134 1.248-.298 1.74a4.098 4.098 0 0 1-.967 1.53 4.098 4.098 0 0 1-1.53.966c-.492.164-1.072.264-1.74.3-.668.034-1.763.052-3.287.052-1.523 0-2.619-.018-3.287-.053-.668-.035-1.248-.146-1.74-.334a3.747 3.747 0 0 1-1.53-.931 4.098 4.098 0 0 1-.966-1.53c-.164-.492-.264-1.072-.299-1.74C.424 10.87.406 9.773.406 8.25S.424 5.63.46 4.963c.035-.668.135-1.248.299-1.74.21-.586.533-1.096.967-1.53A4.098 4.098 0 0 1 3.254.727c.492-.164 1.072-.264 1.74-.3C5.662.394 6.758.376 8.281.376c1.524 0 2.62.018 3.287.053.668.035 1.248.135 1.74.299a4.098 4.098 0 0 1 2.496 2.496c.165.492.27 1.078.317 1.757zm-1.687 7.91c.14-.399.234-1.032.28-1.899.024-.515.036-1.242.036-2.18V7.689c0-.961-.012-1.688-.035-2.18-.047-.89-.14-1.524-.281-1.899a2.537 2.537 0 0 0-1.512-1.511c-.375-.14-1.008-.235-1.899-.282a51.292 51.292 0 0 0-2.18-.035H7.72c-.938 0-1.664.012-2.18.035-.867.047-1.5.141-1.898.282a2.537 2.537 0 0 0-1.512 1.511c-.14.375-.234 1.008-.281 1.899a51.292 51.292 0 0 0-.036 2.18v1.125c0 .937.012 1.664.036 2.18.047.866.14 1.5.28 1.898.306.726.81 1.23 1.513 1.511.398.141 1.03.235 1.898.282.516.023 1.242.035 2.18.035h1.125c.96 0 1.687-.012 2.18-.035.89-.047 1.523-.141 1.898-.282.726-.304 1.23-.808 1.512-1.511z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-email" viewBox="0 0 512 512">
+        <g>
+            <path d="M67,148.7c11,5.8,163.8,89.1,169.5,92.1c5.7,3,11.5,4.4,20.5,4.4c9,0,14.8-1.4,20.5-4.4c5.7-3,158.5-86.3,169.5-92.1
+                c4.1-2.1,11-5.9,12.5-10.2c2.6-7.6-0.2-10.5-11.3-10.5H257H65.8c-11.1,0-13.9,3-11.3,10.5C56,142.9,62.9,146.6,67,148.7z"></path>
+            <path d="M455.7,153.2c-8.2,4.2-81.8,56.6-130.5,88.1l82.2,92.5c2,2,2.9,4.4,1.8,5.6c-1.2,1.1-3.8,0.5-5.9-1.4l-98.6-83.2
+                c-14.9,9.6-25.4,16.2-27.2,17.2c-7.7,3.9-13.1,4.4-20.5,4.4c-7.4,0-12.8-0.5-20.5-4.4c-1.9-1-12.3-7.6-27.2-17.2l-98.6,83.2
+                c-2,2-4.7,2.6-5.9,1.4c-1.2-1.1-0.3-3.6,1.7-5.6l82.1-92.5c-48.7-31.5-123.1-83.9-131.3-88.1c-8.8-4.5-9.3,0.8-9.3,4.9
+                c0,4.1,0,205,0,205c0,9.3,13.7,20.9,23.5,20.9H257h185.5c9.8,0,21.5-11.7,21.5-20.9c0,0,0-201,0-205
+                C464,153.9,464.6,148.7,455.7,153.2z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-print" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path fill-rule="nonzero" d="M9 10V7H3v3H1a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v3.132A2.868 2.868 0 0 1 9.132 10H9zm.5-4.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2zM3 0h6v2H3z"></path>
+            <path d="M4 8h4v4H4z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-copylink" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path d="M10.199 2.378c.222.205.4.548.465.897.062.332.016.614-.132.774L8.627 6.106c-.187.203-.512.232-.75-.014a.498.498 0 0 0-.706.028.499.499 0 0 0 .026.706 1.509 1.509 0 0 0 2.165-.04l1.903-2.06c.37-.398.506-.98.382-1.636-.105-.557-.392-1.097-.77-1.445L9.968.8C9.591.452 9.03.208 8.467.145 7.803.072 7.233.252 6.864.653L4.958 2.709a1.509 1.509 0 0 0 .126 2.161.5.5 0 1 0 .68-.734c-.264-.218-.26-.545-.071-.747L7.597 1.33c.147-.16.425-.228.76-.19.353.038.71.188.931.394l.91.843.001.001zM1.8 9.623c-.222-.205-.4-.549-.465-.897-.062-.332-.016-.614.132-.774l1.905-2.057c.187-.203.512-.232.75.014a.498.498 0 0 0 .706-.028.499.499 0 0 0-.026-.706 1.508 1.508 0 0 0-2.165.04L.734 7.275c-.37.399-.506.98-.382 1.637.105.557.392 1.097.77 1.445l.91.843c.376.35.937.594 1.5.656.664.073 1.234-.106 1.603-.507L7.04 9.291a1.508 1.508 0 0 0-.126-2.16.5.5 0 0 0-.68.734c.264.218.26.545.071.747l-1.904 2.057c-.147.16-.425.228-.76.191-.353-.038-.71-.188-.931-.394l-.91-.843z"></path>
+            <path d="M8.208 3.614a.5.5 0 0 0-.707.028L3.764 7.677a.5.5 0 0 0 .734.68L8.235 4.32a.5.5 0 0 0-.027-.707"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-linkedin" viewBox="0 0 16 17">
+        <g fill-rule="evenodd">
+            <path d="M3.734 16.125H.464V5.613h3.27zM2.117 4.172c-.515 0-.96-.188-1.336-.563A1.825 1.825 0 0 1 .22 2.273c0-.515.187-.96.562-1.335.375-.375.82-.563 1.336-.563.516 0 .961.188 1.336.563.375.375.563.82.563 1.335 0 .516-.188.961-.563 1.336-.375.375-.82.563-1.336.563zM15.969 16.125h-3.27v-5.133c0-.844-.07-1.453-.21-1.828-.259-.633-.762-.95-1.512-.95s-1.278.282-1.582.845c-.235.421-.352 1.043-.352 1.863v5.203H5.809V5.613h3.128v1.442h.036c.234-.469.609-.856 1.125-1.16.562-.375 1.218-.563 1.968-.563 1.524 0 2.59.48 3.2 1.441.468.774.703 1.97.703 3.586v5.766z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-pinterest" viewBox="0 0 512 512">
+        <g>
+            <path d="M256,32C132.3,32,32,132.3,32,256c0,91.7,55.2,170.5,134.1,205.2c-0.6-15.6-0.1-34.4,3.9-51.4
+                c4.3-18.2,28.8-122.1,28.8-122.1s-7.2-14.3-7.2-35.4c0-33.2,19.2-58,43.2-58c20.4,0,30.2,15.3,30.2,33.6
+                c0,20.5-13.1,51.1-19.8,79.5c-5.6,23.8,11.9,43.1,35.4,43.1c42.4,0,71-54.5,71-119.1c0-49.1-33.1-85.8-93.2-85.8
+                c-67.9,0-110.3,50.7-110.3,107.3c0,19.5,5.8,33.3,14.8,43.9c4.1,4.9,4.7,6.9,3.2,12.5c-1.1,4.1-3.5,14-4.6,18
+                c-1.5,5.7-6.1,7.7-11.2,5.6c-31.3-12.8-45.9-47-45.9-85.6c0-63.6,53.7-139.9,160.1-139.9c85.5,0,141.8,61.9,141.8,128.3
+                c0,87.9-48.9,153.5-120.9,153.5c-24.2,0-46.9-13.1-54.7-27.9c0,0-13,51.6-15.8,61.6c-4.7,17.3-14,34.5-22.5,48
+                c20.1,5.9,41.4,9.2,63.5,9.2c123.7,0,224-100.3,224-224C480,132.3,379.7,32,256,32z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-tumblr" viewBox="0 0 512 512">
+        <g>
+            <path d="M321.2,396.3c-11.8,0-22.4-2.8-31.5-8.3c-6.9-4.1-11.5-9.6-14-16.4c-2.6-6.9-3.6-22.3-3.6-46.4V224h96v-64h-96V48h-61.9
+                c-2.7,21.5-7.5,44.7-14.5,58.6c-7,13.9-14,25.8-25.6,35.7c-11.6,9.9-25.6,17.9-41.9,23.3V224h48v140.4c0,19,2,33.5,5.9,43.5
+                c4,10,11.1,19.5,21.4,28.4c10.3,8.9,22.8,15.7,37.3,20.5c14.6,4.8,31.4,7.2,50.4,7.2c16.7,0,30.3-1.7,44.7-5.1
+                c14.4-3.4,30.5-9.3,48.2-17.6v-65.6C363.2,389.4,342.3,396.3,321.2,396.3z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-twitter" viewBox="0 0 19 16">
+        <g>
+            <path fill-rule="evenodd" d="M16.48 4.594c.024.094.036.246.036.457 0 1.687-.41 3.316-1.23 4.887-.845 1.664-2.028 2.988-3.552 3.972-1.664 1.102-3.574 1.652-5.73 1.652-2.063 0-3.95-.55-5.66-1.652.258.024.55.035.879.035 1.71 0 3.246-.527 4.605-1.582-.82 0-1.54-.24-2.162-.72a3.671 3.671 0 0 1-1.283-1.811c.234.023.457.035.668.035.328 0 .656-.035.984-.105a3.72 3.72 0 0 1-2.11-1.301 3.54 3.54 0 0 1-.843-2.32v-.07a3.475 3.475 0 0 0 1.652.492A4.095 4.095 0 0 1 1.54 5.227a3.546 3.546 0 0 1-.457-1.776c0-.644.176-1.26.527-1.845a10.18 10.18 0 0 0 3.358 2.742 10.219 10.219 0 0 0 4.236 1.125 5.124 5.124 0 0 1-.07-.844c0-.656.164-1.272.492-1.846a3.613 3.613 0 0 1 1.336-1.353 3.565 3.565 0 0 1 1.828-.492c.54 0 1.037.105 1.494.316.457.21.861.492 1.213.844a7.51 7.51 0 0 0 2.356-.88c-.282.868-.82 1.548-1.618 2.04a7.93 7.93 0 0 0 2.11-.598 8.114 8.114 0 0 1-1.864 1.934z"></path>
+
+        </g>
+    </symbol>
+    <symbol id="mono-icon-youtube" viewBox="0 0 512 512">
+        <g>
+            <path fill-rule="evenodd" d="M508.6,148.8c0-45-33.1-81.2-74-81.2C379.2,65,322.7,64,265,64c-3,0-6,0-9,0s-6,0-9,0c-57.6,0-114.2,1-169.6,3.6
+                c-40.8,0-73.9,36.4-73.9,81.4C1,184.6-0.1,220.2,0,255.8C-0.1,291.4,1,327,3.4,362.7c0,45,33.1,81.5,73.9,81.5
+                c58.2,2.7,117.9,3.9,178.6,3.8c60.8,0.2,120.3-1,178.6-3.8c40.9,0,74-36.5,74-81.5c2.4-35.7,3.5-71.3,3.4-107
+                C512.1,220.1,511,184.5,508.6,148.8z M207,353.9V157.4l145,98.2L207,353.9z"></path>
+        </g>
+    </symbol>
+    <symbol id="icon-magnify" viewBox="0 0 512 512">
+        <g>
+            <path d="M337.509,305.372h-17.501l-6.571-5.486c20.791-25.232,33.922-57.054,33.922-93.257
+                C347.358,127.632,283.896,64,205.135,64C127.452,64,64,127.632,64,206.629s63.452,142.628,142.225,142.628
+                c35.011,0,67.831-13.167,92.991-34.008l6.561,5.487v17.551L415.18,448L448,415.086L337.509,305.372z M206.225,305.372
+                c-54.702,0-98.463-43.887-98.463-98.743c0-54.858,43.761-98.742,98.463-98.742c54.7,0,98.462,43.884,98.462,98.742
+                C304.687,261.485,260.925,305.372,206.225,305.372z"></path>
+        </g>
+    </symbol>
+    <symbol id="burger-menu" viewBox="0 0 512 512">
+        <g>
+            <path d="M501.333,96H10.667C4.779,96,0,100.779,0,106.667s4.779,10.667,10.667,10.667h490.667c5.888,0,10.667-4.779,10.667-10.667
+			S507.221,96,501.333,96z" />
+            <path d="M501.333,245.333H10.667C4.779,245.333,0,250.112,0,256s4.779,10.667,10.667,10.667h490.667
+			c5.888,0,10.667-4.779,10.667-10.667S507.221,245.333,501.333,245.333z" />
+            <path d="M501.333,394.667H10.667C4.779,394.667,0,399.445,0,405.333C0,411.221,4.779,416,10.667,416h490.667
+			c5.888,0,10.667-4.779,10.667-10.667C512,399.445,507.221,394.667,501.333,394.667z" />
+        </g>
+    </symbol>
+    <symbol id="close-x" viewBox="0 0 14 14">
+        <g>
+            <path fill-rule="nonzero" d="M6.336 7L0 .664.664 0 7 6.336 13.336 0 14 .664 7.664 7 14 13.336l-.664.664L7 7.664.664 14 0 13.336 6.336 7z"></path>
+        </g>
+    </symbol>
+    <symbol id="share-more-arrow" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;">
+        <g>
+            <g>
+                <path d="M512,241.7L273.643,3.343v156.152c-71.41,3.744-138.015,33.337-188.958,84.28C30.075,298.384,0,370.991,0,448.222v60.436
+                    l29.069-52.985c45.354-82.671,132.173-134.027,226.573-134.027c5.986,0,12.004,0.212,18.001,0.632v157.779L512,241.7z
+                    M255.642,290.666c-84.543,0-163.661,36.792-217.939,98.885c26.634-114.177,129.256-199.483,251.429-199.483h15.489V78.131
+                    l163.568,163.568L304.621,405.267V294.531l-13.585-1.683C279.347,291.401,267.439,290.666,255.642,290.666z"></path>
+            </g>
+        </g>
+    </symbol>
+    <symbol id="chevron" viewBox="0 0 100 100">
+        <g>
+            <path d="M22.4566257,37.2056786 L-21.4456527,71.9511488 C-22.9248661,72.9681457 -24.9073712,72.5311671 -25.8758148,70.9765924 L-26.9788683,69.2027424 C-27.9450684,67.6481676 -27.5292733,65.5646602 -26.0500598,64.5484493 L20.154796,28.2208967 C21.5532435,27.2597011 23.3600078,27.2597011 24.759951,28.2208967 L71.0500598,64.4659264 C72.5292733,65.4829232 72.9450684,67.5672166 71.9788683,69.1217913 L70.8750669,70.8956413 C69.9073712,72.4502161 67.9241183,72.8848368 66.4449048,71.8694118 L22.4566257,37.2056786 Z" id="Transparent-Chevron" transform="translate(22.500000, 50.000000) rotate(90.000000) translate(-22.500000, -50.000000) "></path>
+        </g>
+    </symbol>
+    <symbol id="play-arrow" viewBox="0 0 30 30">
+        <g fill="none" fill-rule="evenodd">
+            <path d="M9 9l12 6-12 6z"></path>
+        </g>
+    </symbol>
+    <symbol id="bookmark" viewBox="0 0 9 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M.5.5v10.997l3.431-2.374a1 1 0 0 1 1.138 0L8.5 11.497V.5h-8z"></path>
+        </g>
+    </symbol>
+    <symbol id="heart" viewBox="0 0 14 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M10.24.5c-1.098 0-2.152.576-2.808 1.7L7 2.938l-.432-.74C5.912 1.076 4.858.5 3.76.5 1.996.5.5 1.899.5 3.859.5 5.2 1.644 6.912 3.57 8.747a27.774 27.774 0 0 0 3.373 2.738A.099.099 0 0 0 7 11.5a.104.104 0 0 0 .061-.018 27.75 27.75 0 0 0 3.368-2.735C12.356 6.912 13.5 5.201 13.5 3.859 13.5 1.899 12.003.5 10.24.5z"></path>
+        </g>
+    </symbol>
+    <symbol id="grid" viewBox="0 0 32 32">
+        <g>
+            <path d="M6.4,5.7 C6.4,6.166669 6.166669,6.4 5.7,6.4 L0.7,6.4 C0.233331,6.4 0,6.166669 0,5.7 L0,0.7 C0,0.233331 0.233331,0 0.7,0 L5.7,0 C6.166669,0 6.4,0.233331 6.4,0.7 L6.4,5.7 Z M19.2,5.7 C19.2,6.166669 18.966669,6.4 18.5,6.4 L13.5,6.4 C13.033331,6.4 12.8,6.166669 12.8,5.7 L12.8,0.7 C12.8,0.233331 13.033331,0 13.5,0 L18.5,0 C18.966669,0 19.2,0.233331 19.2,0.7 L19.2,5.7 Z M32,5.7 C32,6.166669 31.766669,6.4 31.3,6.4 L26.3,6.4 C25.833331,6.4 25.6,6.166669 25.6,5.7 L25.6,0.7 C25.6,0.233331 25.833331,0 26.3,0 L31.3,0 C31.766669,0 32,0.233331 32,0.7 L32,5.7 Z M6.4,18.5 C6.4,18.966669 6.166669,19.2 5.7,19.2 L0.7,19.2 C0.233331,19.2 0,18.966669 0,18.5 L0,13.5 C0,13.033331 0.233331,12.8 0.7,12.8 L5.7,12.8 C6.166669,12.8 6.4,13.033331 6.4,13.5 L6.4,18.5 Z M19.2,18.5 C19.2,18.966669 18.966669,19.2 18.5,19.2 L13.5,19.2 C13.033331,19.2 12.8,18.966669 12.8,18.5 L12.8,13.5 C12.8,13.033331 13.033331,12.8 13.5,12.8 L18.5,12.8 C18.966669,12.8 19.2,13.033331 19.2,13.5 L19.2,18.5 Z M32,18.5 C32,18.966669 31.766669,19.2 31.3,19.2 L26.3,19.2 C25.833331,19.2 25.6,18.966669 25.6,18.5 L25.6,13.5 C25.6,13.033331 25.833331,12.8 26.3,12.8 L31.3,12.8 C31.766669,12.8 32,13.033331 32,13.5 L32,18.5 Z M6.4,31.3 C6.4,31.766669 6.166669,32 5.7,32 L0.7,32 C0.233331,32 0,31.766669 0,31.3 L0,26.3 C0,25.833331 0.233331,25.6 0.7,25.6 L5.7,25.6 C6.166669,25.6 6.4,25.833331 6.4,26.3 L6.4,31.3 Z M19.2,31.3 C19.2,31.766669 18.966669,32 18.5,32 L13.5,32 C13.033331,32 12.8,31.766669 12.8,31.3 L12.8,26.3 C12.8,25.833331 13.033331,25.6 13.5,25.6 L18.5,25.6 C18.966669,25.6 19.2,25.833331 19.2,26.3 L19.2,31.3 Z M32,31.3 C32,31.766669 31.766669,32 31.3,32 L26.3,32 C25.833331,32 25.6,31.766669 25.6,31.3 L25.6,26.3 C25.6,25.833331 25.833331,25.6 26.3,25.6 L31.3,25.6 C31.766669,25.6 32,25.833331 32,26.3 L32,31.3 Z" id=""></path>
+        </g>
+    </symbol>
+    <symbol id="filter" viewBox="0 0 16 12">
+        <path d="M0 2V0h16v2H0zm2.4 5V5h11.2v2H2.4zm2.4 5v-2h6.4v2H4.8z"></path>
+    </symbol>
+    <symbol id="minus-circle" viewBox="0 0 1792 1792">
+        <g>
+            <path d="M1344 960v-128q0-26-19-45t-45-19h-768q-26 0-45 19t-19 45v128q0 26 19 45t45 19h768q26 0 45-19t19-45zm320-64q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" />
+        </g>
+    </symbol>
+    <symbol id="plus-circle" viewBox="0 0 1792 1792">
+        <g>
+            <path d="M1344 960v-128q0-26-19-45t-45-19h-256v-256q0-26-19-45t-45-19h-128q-26 0-45 19t-19 45v256h-256q-26 0-45 19t-19 45v128q0 26 19 45t45 19h256v256q0 26 19 45t45 19h128q26 0 45-19t19-45v-256h256q26 0 45-19t19-45zm320-64q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" />
+        </g>
+    </symbol>
+    <symbol id="chevron-left" viewBox="0 0 511.641 511.641">
+        <path d="M148.32,255.76L386.08,18c4.053-4.267,3.947-10.987-0.213-15.04c-4.16-3.947-10.667-3.947-14.827,0L125.707,248.293
+			c-4.16,4.16-4.16,10.88,0,15.04L371.04,508.667c4.267,4.053,10.987,3.947,15.04-0.213c3.947-4.16,3.947-10.667,0-14.827
+			L148.32,255.76z" />
+    </symbol>
+</svg>
+
+
+<ps-header class="Page-header" itemscope itemtype="http://schema.org/WPHeader" data-sticky-disable>
+    <div class="Page-header-bar">
+        
+            
+                <div class="Page-header-logo"><a aria-label="home page" href="https://www.latimes.com/bestcovery/"  >
+    
+        <img class="PageLogo-image" src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/beea024/2147483647/strip/true/crop/1000x277+0+0/resize/433x120!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F97%2F96%2F5fd40beb48059a3edeff4d92eed5%2Fbestcovery-logo-powered-by-lat.png" alt="Bestcovery logo" width="433"  height="120" />
+    
+    </a>
+</div>
+            
+        
+
+        <button class="Page-header-menu-trigger" aria-expanded="false" tabindex="1">
+            <svg class="burger-menu"><use xlink:href="#burger-menu"></use></svg>
+            <svg class="close-x"><use xlink:href="#chevron-left"></use></svg>
+            <span class="label">Menu</span>
+        </button>
+
+        <div class="Page-header-hamburger-menu">
+            <div class="Page-header-hamburger-menu-wrapper">
+                <div class="Page-header-hamburger-menu-content">
+                    
+                        <nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/auto">Auto</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/home">Home</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/lifestyle">Lifestyle</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/electronics">Electronics</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/tech">Tech</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/health-beauty">Health &amp; Beauty</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item" data-current-nav-item data-related-nav-item><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/fashion">Fashion</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/sports">Sports</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/music">Music</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/kids-babies">Kids &amp; Babies</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/streaming">Streaming</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+        </ul>
+    
+</nav>
+                    
+                    
+                </div>
+            </div>
+        </div>
+
+        
+
+            <div class="Page-header-search-overlay">
+                <form class="Page-header-search-form" action="https://www.latimes.com/bestcovery/search#nt=navsearch" novalidate="" autocomplete="off">
+                    <label><input placeholder="Search" type="text" class="Page-header-search-input" name="q" required="true"><span class="sr-only">Search Query</span></label>
+                    <button type="submit" class="Page-header-search-submit"><svg><use xlink:href="#icon-magnify"></use></svg><span class="sr-only">Submit Search</span></button>
+                </form>
+            </div>
+        
+    </div>
+</ps-header>
+
+
+    <div class="Page-above" ><div class="InfoBoxModule byline-1">
+    
+        <div class="InfoBoxModule-items InfoBoxBody"><p><i>We may earn a commission if you make a purchase through one of our links. The LA Times editorial staff was not involved in the creation of this content. <a class="Link" href="https://www.latimes.com/bestcovery/about-us">Learn more</a></i></p></div>
+    
+</div>
+</div>
+
+
+
+<div class="SectionPage-topContainer">
+    <div class="SectionPage-headingWrapper">
+        
+            <div class="SectionPage-heading">
+                <h1 class="SectionPage-pageHeading">Fashion</h1>
+                
+            </div>
+        
+
+        
+    <ps-section-nav class="SectionPage-navContainer">
+        <div class="SectionPage-sectionNavigation">
+            <nav class="SectionNavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+        <ul class="SectionNavigation-items">
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/shoes">Shoes</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item" data-current-nav-item data-related-nav-item>
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/fashion">All</a>
+        
+    </div>
+</div>
+                </li>
+            
+            <li class="SectionNavigation-items-item" data-sub-trigger tabindex="0">
+                <div class="SectionNavigationItem">
+                    <div class="SectionNavigationItem-text">More<svg class="chevron"><use xlink:href="#chevron"></use></svg></div>
+                    <div class="SectionNavigationItem-subNav"></div>
+                </div>
+            </li>
+        </ul>
+    
+</nav>
+        </div>
+    </ps-section-nav>
+
+
+    </div>
+</div>
+
+<main class="SectionPage-main">
+    
+        
+            
+    
+    <div class="Row">
+        <div class="OneColumnContainer">
+    <div class="OneColumnContainer-row">
+        
+            <div class="OneColumnContainer-column">
+                
+
+<div class="OneColumnContainer">
+    <div class="OneColumnContainer-row">
+        <div class="OneColumnContainer-column">
+            <ps-list-loadmore class="ListE" >
+    <div class="ListE-header" data-no-title>
+    
+</div>
+
+
+    <div class="ListE-container">
+        
+            <ul class="ListE-items" data-list-loadmore-items>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-beach-bags-and-totes" aria-label="The Best Beach Bags and Totes for Summer">
+    <img class="Image" alt="Arrangement of beach bags" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/126f00c/2147483647/strip/true/crop/840x549+0+6/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F1e%2F3f%2Fe0a7875b4b3585b13d4b3ee898f2%2Fbestcovery-beach-bags-v2.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/fashion">Fashion</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-beach-bags-and-totes">The Best Beach Bags and Totes for Summer</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">It's almost summertime, so it's time to head to the beach! But before you go, you'll need a reliable and stylish beach bag to carry all your essentials and protect them from the sand and water. Fortunately, there are plenty of options — from durable nylon and lightweight mesh to rubber for waterproof beach bags — so whether you're looking for something stylish and easy to carry or something with plenty of storage, we’ll help you identify the best beach bag for your needs.We've done the research for you and have provided a review of the best beach bags and totes to get you started. Below, we give you a brief description and a link to a fuller review of each option, so keep reading to find your perfect summer beach bag tote!Price Legend$: 0 - 40$$: 41 - 80$$$: 81+</div>
+        
+
+        
+            <div class="PromoB-date">May 11, 2023</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-womens-leggings" aria-label="The Best Women’s Leggings of 2023">
+    <img class="Image" alt="Lululemon Align High-Rise Pant legging in black" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/b2cf35b/2147483647/strip/true/crop/840x549+0+6/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F95%2F56%2F5a40f62f4012ae8ae1162e3086a6%2Flululemon-align-high-rise-pant.png" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-womens-leggings">The Best Women’s Leggings of 2023</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Gone are the days of wearing stiff denim, cotton, and other unforgiving fabrics day in and day out — leggings have taken the world by storm, giving women a comfier yet equally stylish and versatile alternative to casual wear. From running errands to lifting to cardio to lounging at home, leggings have become a go-to staple in every woman’s wardrobe. They’re not just cozy; they’re also stretchy and flattering, and they can be dressed up or down, making them an excellent choice for various occasions.On the reverse side of the coin, not all leggings are created equal. Many types are known to pill between the thighs, have unsightly seams, reveal underwear lines, have a waistband that folds on itself, or be too see-through for squatting at the gym. And with all the legging brands out there claiming to be the best, how do you know how to find the best supportive leggings and which ones really deliver on their promises?Bestcovery has selected a handful of great options based on price, material, performance, special features, design, and more to help you identify the best athleisure brand for your needs. Whether you're a gym junkie or just looking for something stylish and comfortable to wear, our list of the best women’s leggings of 2023 will help you find the perfect pair.Price legend$: 0 - 40$$: 40 - 80$$$: 80 - 120+</div>
+        
+
+        
+            <div class="PromoB-date">March 23, 2023</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/backpack-purse" aria-label="The Best Backpack Purses To Carry All Your Essentials With Style">
+    <img class="Image" alt="best women&#x27;s fashion backpack purse" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/30b9892/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fbd%2F4a%2F17bbd39d45dbb0d65ad180e8f051%2Fzocilor-backpack-purse.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/backpack-purse">The Best Backpack Purses To Carry All Your Essentials With Style</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Can backpack purses be stylish and sturdy at the same time? Well, we know that a perfect bag should do more than just look good. It should be comfortable to carry, durable enough to last a long time, and have sufficient capacity to fit all your necessary things. We've shortlisted these outstanding backpack purses of 2022 for you, after we carefully examined tons of products available on the market. They are not just lightweight and trendy, but are also versatile to fit all of your bag needs. Featuring classy designs, smooth zippers, long and beautiful tassels, high-end finishes, and lots of spacious pockets, these bags are exactly what you need. Now let’s dive in to explore our top picks that won’t cost you a fortune.</div>
+        
+
+        
+            <div class="PromoB-date">September 02, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/bangle-bracelet" aria-label="The Best Bangle Bracelets">
+    <img class="Image" alt="friendship bangle bracelet" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/77615f7/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F4c%2F3c%2F52368016447faf1b05539ace6df2%2Fchrishine-life-bangle-bracelet.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/fashion">Fashion</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/bangle-bracelet">The Best Bangle Bracelets</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Bangles have been a part of many cultures around the globe for thousands of years. Evidence of the use of bangles can be found in ancient civilizations such as Mohenjo-Daro and Ancient India. Even in 2022, people like to wear bangle bracelets because of how beautiful and intricate they look.They are also a popular gift item, and with Mother’s Day coming up, we decided to make a guide to buying the best ones. This guide will help you find the perfect bangle bracelets for yourself or your loved ones. A bangle bracelet is a circular piece of jewelry made using metal or some other material.Sometimes they also have crystals or precious stones on them to further enhance their beauty. Bangle bracelets are usually thin and are worn on the wrist on either or both hands. Some people also like to pair their bangle bracelets with other types of jewelry.</div>
+        
+
+        
+            <div class="PromoB-date">April 28, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/silk-pajama-set" aria-label="Stylish and Comfortable – These are the Best Silk Pajama Sets">
+    <img class="Image" alt="cami nightwear silk pajama set" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/c54a68a/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Ff9%2Fc7%2F88d9c1f649e0a9b7c662c751212a%2Fescalier-silk-pajama-set.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/silk-pajama-set">Stylish and Comfortable – These are the Best Silk Pajama Sets</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Since pure silk is rare and pricey, most people opt for satin products that offer the same texture, soft feel against the skin, and elegant lightness. Satin, however, is much more affordable and a big bonus is that it is machine washable. If you like lounging around in pajamas on lazy weekends or after a long day at work but don’t feel like wearing frumpy flannel, a silk pajama set is just for you. It offers the ultimate pajama comfort with a touch of elegance. The best silk pajama set in 2022 is a great way to pamper your mom this Mother’s Day, so she can feel like royalty all year round. If you’re not sure where to begin, we’ve already lined up a range of comfort-approved styles, so all you need to do is pick your favorite color.</div>
+        
+
+        
+            <div class="PromoB-date">April 27, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/alex-crane-campo-sweater-review" aria-label="Alex Crane Campo Merino Wool Sweater Review">
+    <img class="Image" alt="Alex Crane Campo Sweater lead.jpeg" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/3e6bda2/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F39%2Fc0%2F7003dbf746e898937ada895c572a%2Falex-crane-campo-sweater-lead.jpeg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/fashion">Fashion</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/alex-crane-campo-sweater-review">Alex Crane Campo Merino Wool Sweater Review</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Alex Crane is a Brooklyn-based clothing brand that wants you to lighten your load. Literally. Their company mentality (more on that in a bit) and the fabrics they use are all carefully chosen to make you feel cool and light.</div>
+        
+
+        
+            <div class="PromoB-date">April 26, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/womens-bathrobe" aria-label="Next Level Comfort: The Best Women&#x27;s Bathrobes">
+    <img class="Image" alt="plush long women&#x27;s bathrobe" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/660d7c2/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fb8%2Fb7%2F57b154b7455ea1ad875b4c615289%2Fny-threads-womens-bathrobe.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/womens-bathrobe">Next Level Comfort: The Best Women&#x27;s Bathrobes</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Whether you’re relaxing at the pool, making your morning cup of joe, or reading a book on the couch, a bathrobe provides luxurious comfort and an extra bit of warmth when needed. Some robes double as a bath towel so you can get your hair and makeup ready after a shower without getting cold. The finest women’s bathrobes come in a range of styles and fabrics from long fluffy fleece robes to shorter silky gowns. We’ve searched for the best women’s bathrobes in 2022 with great quality fabric and the perfect comfy feel. Check out our favorite picks and tips on choosing the best one for yourself or as a gift.</div>
+        
+
+        
+            <div class="PromoB-date">April 26, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/fuzzy-socks" aria-label="Best Fuzzy Socks">
+    <img class="Image" alt="colorful warm fuzzy sock" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/5db4c0e/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fdf%2Fd5%2Fdc3fb3e84b6c811cddb043b99ad4%2Ftoes-home-fuzzy-socks.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/fuzzy-socks">Best Fuzzy Socks</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">If you struggle to stay warm during the winter nights or miss the coziness while walking indoors, you need to stock up on fuzzy socks. Prioritizing your feet is essential, and keeping them warm and comfortable is even more critical. Furthermore, fuzzy socks add a little brightness to your look, giving your feet some personality. So, if you want to add that little bright cheer to your sock drawer, we have got you covered. This buying guide will discuss the different fuzzy socks designed in attractive colors and adorable prints. We have picked out a few popular products to help you stock up your sock collection this season.</div>
+        
+
+        
+            <div class="PromoB-date">April 22, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/ten-thousand-tactical-pant-review" aria-label="Ten Thousand Tactical Pant Review">
+    <img class="Image" alt="tenthousandtacticalpantsdetail1.jpg" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/ac715fa/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F11%2F1f%2Fda2147cf444481ce81e630413736%2Ftenthousandtacticalpantsdetail1.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/ten-thousand-tactical-pant-review">Ten Thousand Tactical Pant Review</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">When you hear the phrase “tactical pants” the mind probably conjures up images of Seal Team Six or snipers rising up out of the swamp. But did you know that tactical pants are also worn by hikers, hunters, ranchers, travelers, gym-goers, and everyone in between? These types of pants are versatile and super comfortable, and many people choose to wear them as everyday clothing.</div>
+        
+
+        
+            <div class="PromoB-date">February 24, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/faux-leather-fabric" aria-label="Review: Best Faux Leather Fabrics">
+    <img class="Image" alt="Best Brown Distressed 2 Tone Oily Faux Leather Fabric" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/fba4764/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F17%2Fec%2F77d35ce6468db4a26d8027c80a64%2Fnat-leathers-brown-distressed-2-tone-oily-faux-leather-fabric-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/faux-leather-fabric">Review: Best Faux Leather Fabrics</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Is the upholstery of your dining chair torn? Is that leather couch cracked and scratched? Well, in any case, if your issue involves leather fabrics, then you might want to consider reupholstering with faux leather.Faux leather fabric is artificial leather made from synthetic materials — it has a plastic base, treated with polyurethane and wax. It appears just like genuine leather but costs much less! Since it’s a budget-friendly solution, people use it for upholstery, clothing, accessories, and much more. It is a go-to choice for DIY enthusiasts and craftsmen.Below, you will find some of the best faux leather fabric options on the market. We have also added an insightful buying guide to make purchasing as simple and enjoyable as possible.</div>
+        
+
+        
+            <div class="PromoB-date">November 19, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/cross-necklaces" aria-label="The Best Looking Cross Necklaces In 2022">
+    <img class="Image" alt="Best 14K Gold Plated Cross Necklace" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/adda515/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F27%2F3f%2F0c97d174465a9b8cb09ff9309504%2Fpavoi-old-necklaces-for-women-cross-necklace-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/fashion">Fashion</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/cross-necklaces">The Best Looking Cross Necklaces In 2022</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The cross is a symbol that is closely tied to Christianity. Nowadays, this historically relevant symbol also serves as a stylish addition to anyone's jewelry collection. The appealing look of these necklaces has caught the eyes of users all around the globe. Now that they've become so popular, there are many different brands of cross necklaces on the market. It's tough to sift through all the options, so we've researched many brands and now present to you the top 5 cross necklaces in an easy-to-read guide. Read on to get the perfect one for you!</div>
+        
+
+        
+            <div class="PromoB-date">November 05, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/foot-protector" aria-label="Best Foot Protectors">
+    <img class="Image" alt="Best Heel Cushion Protector Pillow to Relieve Pressure Foot Protector" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/1979073/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fa2%2Ff4%2F111f86454c2f8b1b32439ca5c317%2Fdmi-heel-cushion-protector-pillow-to-relieve-pressure-foot-protector-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/shoes">Shoes</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/foot-protector">Best Foot Protectors</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Your feet can take you anywhere in this beautiful world, yet sometimes they need some extra protection and care, especially when facing injuries or pains. That's where good foot protectors can come in handy. You can find various types available for different situations and injuries, and we have outlined our best foot protectors in 2021 picks for you to consider using.</div>
+        
+
+        
+            <div class="PromoB-date">November 05, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/compression-sock-for-men" aria-label="Keep Your Feet Dry With The Best Compression Socks">
+    <img class="Image" alt="Best USA Made Graduated Compression Socks For Men" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/b06135a/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F59%2Fef%2Fdea3afde4361959bd83dbfa8e447%2Fevonation-usa-made-graduated-compression-socks-for-men-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/compression-sock-for-men">Keep Your Feet Dry With The Best Compression Socks</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Regular socks are meant to keep your feet warm, but when it comes to comfort and perfect circulation, compression socks are what you need. Experts have searched for scientific shreds of evidence to prove the advantages of compression socks and have found that these socks are especially crucial for people with chronic venous insufficiency. The only way these people can cure it is by traveling, hiking, and jogging- an easy alternative? Compression socks. They are also fantastic for people who have office jobs that require them to sit all day. Overall, if you need better circulation for your legs, compression socks are the way to go. But with so many different brands on the market, it's tough to pick one. So, we've made a list of 5 of our favorite pairs on the market- read on to choose the right one for you.</div>
+        
+
+        
+            <div class="PromoB-date">November 01, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/glasses-holder" aria-label="Protect Your Glasses With The Best Glasses Holders In 2022">
+    <img class="Image" alt="Best Plush Lined Eye Glasses Holder" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/80d2672/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fcd%2Fb0%2Fa5200e0341b58c86ecf3b4f64262%2Ffintie-plush-lined-eye-glasses-holder-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/glasses-holder">Protect Your Glasses With The Best Glasses Holders In 2022</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">There was a time when people forgot about glasses holders. But lately, they’ve come back with a bang. Sellers have been reintroducing them to the market with enticing designs and shapes that are simply irresistible. If you want to keep your glasses in a safe place, read on to find out about some of the top glasses holders on the market.</div>
+        
+
+        
+            <div class="PromoB-date">October 28, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/clear-concert-bag" aria-label="Get Through Security Quickly with the Best Clear Concert Bags">
+    <img class="Image" alt="Best Heavy Duty PVC Transparent Clear Concert Bag" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/4a92b23/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F59%2F35%2F643a98f24bfd9a3017dc5a72babd%2Ff-color-heavy-duty-pvc-transparent-clear-concert-bag-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/clear-concert-bag">Get Through Security Quickly with the Best Clear Concert Bags</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">When you choose a bag to pair with your outfit, a see-through clear bag is probably the last option that comes to mind. Of course, no one wants to publicly show the items in their bag and invite thieves to it. However, it has become necessary due to the upgraded security protocols at concerts and other public events. With a clear bag, the police and security guards can monitor what each person carries into the public event and avoid harmful incidents. Some brands dealt with the situation beautifully and introduced stylish clear bags that fulfilled the security protocols and paired great with outfits. Let's take a look at some of the best clear concert bags in 2022.</div>
+        
+
+        
+            <div class="PromoB-date">October 28, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-neck-wallet" aria-label="Keep Important Documents Safe While Traveling with the Best Neck Wallet">
+    <img class="Image" alt="Best RFID Neck Wallet" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/5075217/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fb9%2F31%2F623410fe4668ade3244e71c9548d%2Flewis-n-clark-rfid-neck-wallet-bestcovery-1.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-neck-wallet">Keep Important Documents Safe While Traveling with the Best Neck Wallet</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">If you love vacationing, then you will need a comfortable, lightweight, affordable, and secure place to keep your important documents, credit cards, mobile devices, and even cash while on the move. The last thing you want while traveling is to lose your passport or get pickpocketed. Enter the neck wallet: an easy-to-access flat bag worn around the neck that houses your valuables. In this article, we will be reviewing only the best neck wallets in 2021. Since digital thieves are on the increase, we chose the best neck wallets that offer RFID protection.Here are the best RFID-protected neck wallets in 2022.</div>
+        
+
+        
+            <div class="PromoB-date">October 26, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/the-best-initial-necklaces" aria-label="Upscale Your Accessory Game With 5 Best Initial Necklaces">
+    <img class="Image" alt="Best Initial Necklace" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/9446b6b/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F7f%2F96%2F703838bd4db990258c17fc2237e4%2Ftrendsmax-initial-necklace-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/the-best-initial-necklaces">Upscale Your Accessory Game With 5 Best Initial Necklaces</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Wearing jewelry with name initials has been a trend that never goes out of style. It's personalized, aesthetically pleasing, and fits everyone's personal style. The market is full of gorgeous options already. However, not all of those necklaces are worth the money. To ensure you don't waste your money, check out this complete guide on the best initial necklaces in 2022.If your jewelry collection needs a sprucing up or a gift for a loved one, initial necklaces will revamp your accessories game or make a great gift. This article will help you choose the best necklace and a care guide to maintain your jewelry. So, whether you prefer sideline initials, tiny hearts, gold-plated, or zirconia, you'll find something for yourself in the options below!</div>
+        
+
+        
+            <div class="PromoB-date">October 26, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-clear-purses-for-women" aria-label="5 Best Clear Purses for Women: Embrace the Style!">
+    <img class="Image" alt="Best Crossbody PU Leather Clear Purse For Women" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/a6615c1/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F35%2F52%2F3d74c9214bf9b6c280ff009f33a5%2Fvorspack-clear-crossbody-purse-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-clear-purses-for-women">5 Best Clear Purses for Women: Embrace the Style!</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Are you someone who finds themselves constantly updating their wardrobe and accessories? Fashion is always evolving, and the list of new purses hitting the market never seems to end. Sometimes, it can get a little overwhelming trying to keep up with the latest bag trend. But don't stress — we're here to help you discover a rising star: clear purses. We cannot count the amount of time we've spent digging through our purse trying to find what we're looking for — sometimes getting so frustrated we have to empty out the entire bag. Clear purses eliminate that struggle entirely. If designed and styled right, they are the perfect addition to any closet — not to mention they make getting through security a breeze. While this trend might be here to stay, there are some factors you should consider before making your next purchase. From what material to look out for to how to determine excellent quality, our guide will help you navigate through this journey with ease.</div>
+        
+
+        
+            <div class="PromoB-date">October 15, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/slim-wallet" aria-label="Best Slim Wallets For Men">
+    <img class="Image" alt="Best Men&#x27;s Leather Slim Wallet" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/9f8dea7/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fe4%2F6c%2Ffba097774871ac752a68492a7caa%2Ftommy-hilfiger-mens-leather-slim-wallet-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/slim-wallet">Best Slim Wallets For Men</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">A wallet is how you carry all your cards, IDs, cash, and other personal information. A slim wallet is how you do all that in style. The perfect slim wallet brings together style and design aesthetic with real-world functionality. We’ve put together a few of our favorite slim wallets for men to help you find one that best suits your needs.</div>
+        
+
+        
+            <div class="PromoB-date">October 14, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/jeans-for-women" aria-label="Comfortable and Stylish: Best Jeans for Women">
+    <img class="Image" alt="Best Modern Skinny Jeans For Women" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/e8bce3a/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fe2%2Fd0%2F53a5c2a24234a85a86ac26a2b611%2Fsignature-by-levi-strauss-co.-Gold-Label-Modern-Skinny-Jeans-For-Women-Bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/jeans-for-women">Comfortable and Stylish: Best Jeans for Women</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Whether you are a comfort-seeker looking for pants to lounge around in or an aesthetics-focused customer searching for the perfect fit, the need for a stylish, yet functional pair of jeans is a critical must-have in any woman’s closet. The best jeans are comfortable enough to wear every day while you run errands and stylish enough to keep you looking (and feeling) good at the same time.To help you figure out which jeans are perfect for you, we’ve put together a list of the best jeans for women on the market in 2022.</div>
+        
+
+        
+            <div class="PromoB-date">October 04, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/mens-cargo-shorts" aria-label="Back in Style: The Best Men’s Cargo Shorts">
+    <img class="Image" alt="Best Classic-Fit 10” Mens Cargo Short" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/7c11548/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fa4%2F0d%2Fefb7913048f8b0c0be5adf52ac23%2Famazon-essentials-classic-fit-10-mens-cargo-short-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/mens-cargo-shorts">Back in Style: The Best Men’s Cargo Shorts</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Gather around men, because we’ve got something to talk about. With old fashion trends coming to life in the 21st century, cargo shorts are back in style. They are considered to be one of the trendiest shorts you can wear. So you become the focal point of every party, we’ve gathered the best men’s cargo shorts in 2022.Cargo shorts are built to provide comfort. They work best during summer and the fact that they fit well with both collared shirts and t-shirts make them irresistible. These slim-fit pants are bound to attract people to you, so make sure you’re ready for attention when you try them on.</div>
+        
+
+        
+            <div class="PromoB-date">September 21, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-black-no-show-sock-for-men" aria-label="Dress for Success With These Best Black No-Show Socks For Men">
+    <img class="Image" alt="Best Black No-Show Sock For Man" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/8450e62/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Faa%2F59%2F369c614d4069bddc97709e4321db%2Famazon-essentials-black-no-show-sock-for-man-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-black-no-show-sock-for-men">Dress for Success With These Best Black No-Show Socks For Men</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">A few simple pieces of apparel can make a difference in how comfortable you feel. A pair of quality socks can definitely take some pressure off your feet. Breathable and lightweight, no-show socks can keep your feet from getting too hot all while giving you the no-show sock look you want. Quality socks keep your feet comfortable and stylish. We have reviewed the best no-show socks for men in 2022 to help you keep your feet comfortable and stylish.</div>
+        
+
+        
+            <div class="PromoB-date">August 24, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-exercise-dress" aria-label="Sporty and Stylish: Best Exercise Dresses">
+    <img class="Image" alt="Best Women&#x27;s Exercise Dress" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/5f9ccf1/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F63%2F08%2F096a05f74d27a08ac66ace54d76d%2Fwillit-womens-exercise-dress-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/fashion">Fashion</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-exercise-dress">Sporty and Stylish: Best Exercise Dresses</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Being as fit as a fiddle is an essential aspect of life. With the help of daily exercise, you can look flawlessly younger than your actual age. While working out is a crucial aspect of life, proper exercise gear holds equal significance. The right kind of workout clothes will make your fitness routine even more fun. For that, we have reviewed some of the best exercise dresses in 2022 that will make your life a lot easier.If your workout clothes make you feel uncomfortable during your gym session, you are more likely to quit. Because of this factor, proper apparel is as fundamental as faultless exercise equipment. Hence, exercise dresses play a crucial role in keeping you intact with your workout routine.</div>
+        
+
+        
+            <div class="PromoB-date">August 13, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-non-slip-socks" aria-label="For Safety or Fitness: Best Non-Slip Socks">
+    <img class="Image" alt="Best Unisex Non-Slip Sock" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/3313c37/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Ffb%2F04%2F4e75656547ef95a5c972ab28f8c5%2Funenow-unisex-non-slip-sock-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-non-slip-socks">For Safety or Fitness: Best Non-Slip Socks</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Whether you're into yoga or fitness, or you are stuck at a hospital ward, you can benefit from owning several pairs of well-made non-slip socks. They provide you with sure footing when you're working on more delicate exercises or walking on slippery surfaces. They are excellent for all ages, and the best non-slip socks in 2022 can even improve your performance in the gym.There are a ton of great non-slip socks on the market, but not all of them are created equal. We’ll be looking at some of the best non-slip socks you can purchase right now. To help find the perfect socks for you, we’ll also be covering everything you need to know.</div>
+        
+
+        
+            <div class="PromoB-date">August 12, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-crew-socks-for-men" aria-label="The Best Crew Socks for Men for Everyday Wear">
+    <img class="Image" alt="Best Cotton Half Cushioned Crew Sock For Men" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/67d67a2/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F3d%2F41%2F229d5d464141a580c21bf15ae2bb%2Famazon-essentials-cotton-half-cushioned-crew-sock-for-men-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-crew-socks-for-men">The Best Crew Socks for Men for Everyday Wear</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Crew socks are soft and absorbent enough to keep you cool while also offering multiple colors, styles, and sizes. They’re also stylish enough to wear with any of your wardrobe choices, and are even durable enough to withstand plenty of wear. Here are some of the best crew socks for men in 2022 you should think about buying.</div>
+        
+
+        
+            <div class="PromoB-date">August 02, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-animal-socks" aria-label="Add Some Fun to Your Wardrobe with the Best Animal Socks">
+    <img class="Image" alt="Best Animal Socks" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/914ebc9/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F13%2Fc5%2F2a336daf4a16a2a84d252e174555%2Fchalier-5-pairs-womens-cute-dog-patterned-animal-socks-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-animal-socks">Add Some Fun to Your Wardrobe with the Best Animal Socks</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Providing comfort for our feet isn’t just about choosing the right fabrics or the best quality material on the market. Wearing any pair of socks will suffice, but why settle for less if you can have the chance to add some character to your feet? Don’t just cover your feet; make them adorable and artistic. Take a look at some of the best animal socks on the market in 2022 that are cute and creatively irresistible.</div>
+        
+
+        
+            <div class="PromoB-date">July 30, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-high-waisted-legging" aria-label="The Best High-Waisted Leggings to Flatter Any Body Type">
+    <img class="Image" alt="Best High Waisted Legging" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/bf656dd/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fb5%2F2e%2Ff779c33f4b38b8c823604ff3e92e%2Fsatina-full-length-high-waisted-legging-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/apparel">Apparel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-high-waisted-legging">The Best High-Waisted Leggings to Flatter Any Body Type</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">High-waisted leggings: versatile, comfortable, and stylish. They flatter any body type, are suitable for lounging or working out, and can be dressed up or down for any occasion. If you don’t have a pair of high-waisted leggings, you’re seriously missing out on a wardrobe essential. We have reviewed the best high-waisted leggings on the market in 2022 to ensure you have comfortable, long-lasting, versatile leggings in your wardrobe. For all of your high-waisted legging needs, read our helpful guide and the list below.</div>
+        
+
+        
+            <div class="PromoB-date">July 29, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-silver-chain" aria-label="Simple Style: Best Silver Chains">
+    <img class="Image" alt="Best Silver Chain" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/5e0b944/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fa6%2Ffa%2F611a0cfd47a09885830fe2381135%2Fgenuine-solid-sterling-silver-chain-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/fashion">Fashion</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-silver-chain">Simple Style: Best Silver Chains</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Jewelry is one of the most reliable gifts you can buy. Whether you are looking for a little something for a special somebody or just something to complement your own style, you can usually find a suitable silver chain. Silver may not be as precious as gold, but it goes well with almost any outfit, which is why it is incredibly popular with so many people.These necklaces come in a variety of styles from round box chains to diamond-cut Figaro links. You’d be surprised just how many different chains there actually are on the market today. But how do you find the perfect one for you? That is where we come in. We have done our best to curate a comprehensive buyer's guide that covers everything you need to know when purchasing a new silver chain. Without our further ado, here’s our guide to the best silver chains in 2022.</div>
+        
+
+        
+            <div class="PromoB-date">July 23, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/dos-and-donts-of-wearing-and-buying-lingerie" aria-label="The Dos and Don&#x27;ts of Wearing and Buying Lingerie">
+    <img class="Image" alt="The Dos and Don&#x27;ts of Wearing and Buying Lingerie" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/19942e2/2147483647/strip/true/crop/1200x784+0+8/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F44%2Fe4%2F017871b04543938d4e0e7fbdad61%2Fwearing-and-buying-lingerie-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/fashion">Fashion</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/dos-and-donts-of-wearing-and-buying-lingerie">The Dos and Don&#x27;ts of Wearing and Buying Lingerie</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Lingerie not only looks luxurious, but it has the power to give you a confidence boost and make you feel beautiful. Choosing the best lingerie for your shape, size, and unique curves can be intimidating. With options ranging from lacy, neutral, and simple, to completely extravagant, bold, and a little over-the-edge, there is a whole world of lingerie exploring to do.</div>
+        
+
+        
+            <div class="PromoB-date">July 19, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/footwear-every-man-should-have" aria-label="5 Different Footwear Types Every Man Should Have">
+    <img class="Image" alt="5 different footwear Types Every Man Should Have" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/054a047/2147483647/strip/true/crop/1200x784+0+8/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fd4%2Fd2%2Fdfdb8ae240509fb8b169d5969528%2Fdifferent-footwear-types-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/shoes">Shoes</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/footwear-every-man-should-have">5 Different Footwear Types Every Man Should Have</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">While it might seem natural to buy only shoes that catch our fancy, there is a case to be made for practical shoes. Different work and social situations demand different footwear and clothing needs from us, and it's only right we have a shoe or two for each of these situations. In this post, we’ll be exploring five different footwear types every man should have.</div>
+        
+
+        
+            <div class="PromoB-date">July 16, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+            </ul>
+        
+    </div>
+
+    
+        <div class="ListE-nextPage" data-list-loadmore-pagination>
+            <a class="ButtonHoverOpacity Link" href="?0000016e-d34a-dd8d-ad6f-f37ba7f70000-page=2">Load More</a>
+        </div>
+    
+</ps-list-loadmore>
+
+        </div>
+    </div>
+</div>
+            </div>
+        
+    </div>
+</div>
+
+    </div>
+
+
+
+
+        
+    
+</main>
+
+
+
+<footer class="Page-footer" itemscope itemtype="https://schema.org/WPFooter">
+    <div class="Page-footer-body">
+        
+
+        <div class="Page-footer-columns">
+            <div class="Page-footer-column">
+                
+                    <div class="Page-footer-navigation">
+                        <nav class="FooterNavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+        <ul class="FooterNavigation-items">
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/about-us">About Us</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/privacy-policy">Privacy Policy</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/terms-use">Terms of Use</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/contact-us">Contact Us</a>
+    
+    
+</div>
+                </li>
+            
+        </ul>
+    
+</nav>
+                    </div>
+                
+            </div>
+            
+                <div class="Page-footer-column">
+                    <div class="Page-footer-content title-5">
+                        
+    <div class="RichTextModule">
+        
+            <div class="RichTextModule-items RichTextBody"><p>Follow Us</p></div>
+        
+
+    </div>
+<nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item"> <a class="SocialLink" rel="noreferrer noopener nofollow" href="https://www.facebook.com/Bestcovery/" target="_blank" data-social-service="facebook"><svg><use xlink:href="#mono-icon-facebook"></use></svg><span class="sr-only">facebook</span></a>
+</li>
+            
+                <li class="Navigation-items-item"> <a class="SocialLink" rel="noreferrer noopener nofollow" href="https://twitter.com/Bestcovery" target="_blank" data-social-service="twitter"><svg><use xlink:href="#mono-icon-twitter"></use></svg><span class="sr-only">twitter</span></a>
+</li>
+            
+        </ul>
+    
+</nav>
+                    </div>
+                </div>
+            
+        </div>
+
+        
+            <div class="Page-footer-disclaimer text-preview">Copyright 2023 Bestcovery.com, LLC. All rights reserved.</div>
+        
+    </div>
+</footer>
+
+
+</body>
+</html>

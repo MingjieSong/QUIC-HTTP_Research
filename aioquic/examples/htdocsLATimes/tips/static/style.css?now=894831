@@ -1,0 +1,182 @@
+.container {
+  max-width: 650px;
+}
+a {
+    color: #9b2626;
+}
+#footer-container #tos {
+    float: none;
+    text-align: center;
+}
+header.center h1 {
+    max-width: 100%;
+}
+header.center p.description {
+  margin: 15px auto 10px auto;
+  max-width: 650px;
+}
+.tip-icons {
+  align-content: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 10px auto 10px auto;
+}
+.group:after {
+    clear: both;
+    content: "";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+.tip-icon-container {
+    width: 33%;
+}
+.tip-icon {
+    align-items: center;
+    background: #fdfdfd;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px auto 10px auto;
+    text-align: center;
+}
+.tip-icon img {
+    height: 125px;
+    margin: 0 30px;
+    object-fit: cover;
+}
+section, section:first-of-type {
+    margin: 0;
+    padding: 0;
+}
+section.lead {
+    margin: 15px auto 0 auto;
+    max-width: 500px;
+}
+section.lead p:first-of-type {
+    margin-top: 0;
+}
+.card {
+    background: #fdfdfd;
+    border-radius: 0;
+    border-top: 0;
+    box-shadow: 1px 1px 3px #888888;
+    font-size: 16px;
+    margin: 0 auto 50px auto;
+    max-width: 500px;
+    padding: 0;
+    text-align: center;
+}
+.card:first-of-type {
+  margin-top: 60px;
+}
+.card h2.card-name {
+  color: #FDFDFD;
+  background: #9b2626;
+  display: inline-block;
+  margin: 0;
+  padding: 8px 18px 8px 18px;
+  width: 100%;
+}
+.card p {
+  font-size: 15px;
+  margin: 8px 0;
+  text-align: left;
+}
+.card .content {
+    padding: 10px 20px 0 20px;
+}
+.card .content .tease {
+    font-size: 18px;
+}
+.btn, .btn:focus  {
+    background-color: #ffffff;
+    border: 1px solid #9b2626;
+    color: #9b2626;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 25px;
+    margin: 15px 0 15px 0;
+    min-width: 130px;
+}
+.btn:hover, .btn:active {
+    background-color: #9b2626;
+    color: #ffffff;
+}
+.instructions {
+    display: none;
+    font-family: "Benton Gothic", Arial, sans-serif;
+    font-size: 16px;
+    padding: 0 20px 20px 20px;
+    text-align: left;
+}
+
+@media (min-width: 980px) {
+    #tophat-logo {
+        display: table;
+        float: none;
+        margin: 0 auto;
+        width: 200px;
+    }
+}
+
+@media (max-width: 979px) {
+    #tophat-logo {
+        display: block !important;
+        width: 156px !important;
+        height: 50px !important;
+        background-repeat: no-repeat !important;
+        background-position: left center !important;
+        background-size: auto !important;
+        background-image: url('https://d1qqc1e9kvmdh8.cloudfront.net/img/latimes-logo-reversed.svg') !important;
+        display: table;
+        float: none;
+        margin: 0 auto;
+        padding: 0 0 0 0;
+    }
+}
+
+@media(min-width: 768px) {
+    header.center h1 {
+        font-size: 100px;
+        line-height: 135px;
+        margin: 15px auto 0 auto;
+    }
+}
+
+@media(min-width: 767px) {
+    .lead {
+        padding: 0 25px;
+    }
+}
+
+@media(max-width: 767px) {
+    h1 {
+        font-size: 4em;
+    }
+    header.center p.description {
+        margin: 15px auto 30px auto;
+        max-width: 650px;
+        padding-bottom: 15px;
+    }
+}
+
+@media(max-width: 480px) {
+  h1 {
+    font-size: 60px;
+    line-height: 70px;
+  }
+  .tip-icon img{
+    max-height: 70px;
+    width: 65%;
+  }
+}
+
+@media(max-width: 380px) {
+  .tip-icon img{
+    max-height: 70px;
+    width: 85%;
+  }
+}

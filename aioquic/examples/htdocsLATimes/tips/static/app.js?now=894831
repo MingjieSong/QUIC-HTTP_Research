@@ -1,0 +1,45 @@
+$(document).ready(function() {
+  //click button to expand
+  $('.more-button').click(function() {
+      var $this = $(this);
+      var div = $(".instructions", $this.parent());
+      div.fadeToggle();
+      $this.toggleClass('show');
+      if ($this.hasClass('show')) {
+          $this.text(' Hide - ');
+      } else {
+          $this.text(' Instructions + ');
+      }
+  });
+  // Hover images
+  var setDefaultImage = function(img) {
+      img.attr("src", img.attr("data-default"));
+      img.attr("data-state", "default")
+  }
+  var setActiveImage = function(img) {
+      img.attr("src", img.attr("data-active"));
+      img.attr("data-state", "active")
+  }
+  var toggleImage = function (img) {
+      var state = img.attr("data-state");
+      if (state == "active") {
+          setDefaultImage(img);
+      } else {
+          setActiveImage(img);
+      }
+  }
+  var iconContainer = $(".tip-icon-container");
+  iconContainer.mouseenter(function() { toggleImage($("img", this)); });
+  iconContainer.mouseleave(function() { toggleImage($("img", this)); });
+  // Pop the icons on page load
+  var tipsList = ["postal", "email", "text"];
+  var stepper = window.setInterval(function() {
+      var slug = tipsList.pop()
+      if (slug == undefined) {
+          window.clearInterval(stepper);
+      } else {
+          var img = $("img[data-slug='" + slug + "']");
+          toggleImage(img);
+      }
+  }, 1000)
+});

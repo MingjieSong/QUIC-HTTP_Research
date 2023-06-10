@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>B2B Publishing</title>
+    <link>https://www.latimes.com/b2bpublishing</link>
+    <description>B2B Publishing</description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 05 Jun 2023 16:45:30 GMT</lastBuildDate>
+    <atom:link href="https://www.latimes.com/b2bpublishing.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

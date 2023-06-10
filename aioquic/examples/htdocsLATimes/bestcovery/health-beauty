@@ -1,0 +1,2496 @@
+<!DOCTYPE html>
+<html class="SectionPage" lang="en" itemscope itemtype="http://schema.org/WebPage">
+<head>
+    <meta charset="UTF-8">
+
+    <style data-cssvarsponyfill="true">
+                :root {
+        --primaryColor1: #4079ad;
+        --primaryColor2: #000000;
+
+        --primaryTextColor: #333333;
+        --secondaryTextColor: #4079ad;
+        --breakingColor: #e9873f;
+
+        --secondaryColor1: #858585;
+        --secondaryColor2: #cccccc;
+        --secondaryColor3: #e6e6e6;
+        --secondaryColor4: #f5f5f5;
+        --secondaryColor5: #ffffff;
+        --secondaryColor6: #e12327;
+        --secondaryColor7: #4079ad;
+        --secondaryColor8: #202f3f;
+        --secondaryColor9: #666666;
+
+        --siteBgColor: #ffffff;
+        --siteInverseBgColor: #000000;
+
+        --headerBgColor: #ffffff;
+        --headerBgColorInverse: #000000;
+        --headerBorderColor: #e6e6e6;
+        --headerBorderColorInverse: #858585;
+        --headerTextColor: #333333;
+        --headerTextColorInverse: #ffffff;
+        --headerMenuBgColor: #ffffff;
+        --headerMenuTextColor: #ffffff;
+
+        --secondaryHeaderBgColor: #ffffff;
+        --secondaryHeaderTextColor: #333333;
+
+        --footerBgColor: #000000;
+        --footerTextColor: #ffffff;
+
+        --primaryTextColorInverse: #ffffff;
+        --secondaryTextColorInverse: #cccccc;
+        --tertiaryTextColor: #999999;
+        --tertiaryTextColorInverse: #cccccc;
+
+        --listBorderColor: #000000;
+        --gridBorderColor: #e6e6e6;
+
+        --buttonBgColor: #4079ad;
+        --buttonSecondaryBgColor: #ffffff;
+        --buttonSecondaryTextColor: #333333;
+        --buttonTextColor: #ffffff;
+        --inverseButtonBgColor: #030202;
+        --tagButtonBorderColor: #e6e6e6;
+        --tagButtonTextColor: #ff6f00;
+
+        --breakingTextColor: #ffffff;
+
+        --sectionTextColor: #ff6f00;
+
+        --primaryHeadlineFont: Oswald;
+        --secondaryHeadlineFont: Oswald;
+        --bodyFont: Roboto;
+
+        --contentWidth: 1200px;
+        }
+
+    </style>
+
+    
+
+    <meta property="og:title" content="Health &amp; Beauty">
+
+    <meta property="og:url" content="https://www.latimes.com/bestcovery/health-beauty">
+
+
+    <meta property="og:site_name" content="Bestcovery">
+
+
+
+    <meta property="og:type" content="website">
+
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    <meta name="twitter:title" content="Health &amp; Beauty"/>
+    
+
+
+    <link data-cssvarsponyfill="true" class="Webpack-css" rel="stylesheet" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/All.min.4d29e7a04ca97ea10a5aedec469cda49.css">
+
+    <style>.Page-above {
+    display: block !important;
+}
+
+.InfoBoxBody {
+	font-size: 14px;
+}</style>
+<style>.SectionPage .RichTextBody table {
+    max-width: 838px;
+}
+
+.SectionPage .RichTextBody table tr:first-child, .SectionPage .RichTextBody .table-h {
+    white-space:nowrap;
+    background: #f5f5f5;
+}
+
+.SectionPage .RichTextBody table, .SectionPage .RichTextBody th, .SectionPage .RichTextBody td {
+    border: 1px solid rgba(0,31,63,.08);
+}
+
+.SectionPage .RichTextBody th, .SectionPage .RichTextBody td {
+	padding: 5px 10px;
+}</style>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"><title>Health &amp; Beauty - Bestcovery</title><link rel="canonical" href="https://www.latimes.com/bestcovery/health-beauty"><meta name="brightspot.contentId" content="0000016e-6532-d2e1-a3fe-753b07860000"><link rel="apple-touch-icon" sizes="180x180" href="/styleguide/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/favicon-32x32.bf34a9f07d94299a7699e16042ef11fd.png">
+<link rel="icon" type="image/png" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/favicon-16x16.9f124a4f6e59c7927104889e0167e7ef.png">
+    <link type="application/rss+xml" rel="alternate" title="Health &amp; Beauty" href="https://www.latimes.com/bestcovery/health-beauty.rss"><script>var _lb = '1';</script>
+<script src="https://activate.platform.californiatimes.com/caltimes/bestcovery/Bootstrap.js" async></script>
+
+
+    
+
+    <!--This is needed for custom elements to function in browsers that
+    support them natively but that are using es6 code transpiled to es5.
+    This will cause a non-fatal error to show up in the IE11 console.
+    It can be safely ignored. https://github.com/webcomponents/webcomponentsjs/issues/749 -->
+    <script>
+        (function () {
+        'use strict';
+
+        (()=>{'use strict';if(!window.customElements)return;const a=window.HTMLElement,b=window.customElements.define,c=window.customElements.get,d=new Map,e=new Map;let f=!1,g=!1;window.HTMLElement=function(){if(!f){const a=d.get(this.constructor),b=c.call(window.customElements,a);g=!0;const e=new b;return e}f=!1;},window.HTMLElement.prototype=a.prototype;Object.defineProperty(window,'customElements',{value:window.customElements,configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'define',{value:(c,h)=>{const i=h.prototype,j=class extends a{constructor(){super(),Object.setPrototypeOf(this,i),g||(f=!0,h.call(this)),g=!1;}},k=j.prototype;j.observedAttributes=h.observedAttributes,k.connectedCallback=i.connectedCallback,k.disconnectedCallback=i.disconnectedCallback,k.attributeChangedCallback=i.attributeChangedCallback,k.adoptedCallback=i.adoptedCallback,d.set(h,c),e.set(c,h),b.call(window.customElements,c,j);},configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'get',{value:(a)=>e.get(a),configurable:!0,writable:!0});})();
+
+        /**
+        @license
+        Copyright (c) 2017 The Polymer Project Authors. All rights reserved.
+        This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+        The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+        The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+        Code distributed by Google as part of the polymer project is also
+        subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+        */
+        }());
+    </script>
+    <script>
+        /**
+            For the fastest load times https://developers.google.com/speed/docs/insights/BlockingJS
+            and to prevent any FOUC, as well as prevent any race conditions for browsers that also
+            rely on the CSS variables polyfill, this is inlined.
+        **/
+        if (!window.customElements) {
+            (function(){
+                'use strict';var h=new function(){};var aa=new Set("annotation-xml color-profile font-face font-face-src font-face-uri font-face-format font-face-name missing-glyph".split(" "));function m(b){var a=aa.has(b);b=/^[a-z][.0-9_a-z]*-[\-.0-9_a-z]*$/.test(b);return!a&&b}function n(b){var a=b.isConnected;if(void 0!==a)return a;for(;b&&!(b.__CE_isImportDocument||b instanceof Document);)b=b.parentNode||(window.ShadowRoot&&b instanceof ShadowRoot?b.host:void 0);return!(!b||!(b.__CE_isImportDocument||b instanceof Document))}
+                function p(b,a){for(;a&&a!==b&&!a.nextSibling;)a=a.parentNode;return a&&a!==b?a.nextSibling:null}
+                function t(b,a,c){c=c?c:new Set;for(var d=b;d;){if(d.nodeType===Node.ELEMENT_NODE){var e=d;a(e);var f=e.localName;if("link"===f&&"import"===e.getAttribute("rel")){d=e.import;if(d instanceof Node&&!c.has(d))for(c.add(d),d=d.firstChild;d;d=d.nextSibling)t(d,a,c);d=p(b,e);continue}else if("template"===f){d=p(b,e);continue}if(e=e.__CE_shadowRoot)for(e=e.firstChild;e;e=e.nextSibling)t(e,a,c)}d=d.firstChild?d.firstChild:p(b,d)}}function u(b,a,c){b[a]=c};function v(){this.a=new Map;this.s=new Map;this.f=[];this.b=!1}function ba(b,a,c){b.a.set(a,c);b.s.set(c.constructor,c)}function w(b,a){b.b=!0;b.f.push(a)}function x(b,a){b.b&&t(a,function(a){return y(b,a)})}function y(b,a){if(b.b&&!a.__CE_patched){a.__CE_patched=!0;for(var c=0;c<b.f.length;c++)b.f[c](a)}}function z(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state?b.connectedCallback(d):A(b,d)}}
+                function B(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state&&b.disconnectedCallback(d)}}
+                function C(b,a,c){c=c?c:{};var d=c.w||new Set,e=c.i||function(a){return A(b,a)},f=[];t(a,function(a){if("link"===a.localName&&"import"===a.getAttribute("rel")){var c=a.import;c instanceof Node&&(c.__CE_isImportDocument=!0,c.__CE_hasRegistry=!0);c&&"complete"===c.readyState?c.__CE_documentLoadHandled=!0:a.addEventListener("load",function(){var c=a.import;if(!c.__CE_documentLoadHandled){c.__CE_documentLoadHandled=!0;var f=new Set(d);f.delete(c);C(b,c,{w:f,i:e})}})}else f.push(a)},d);if(b.b)for(a=0;a<
+                f.length;a++)y(b,f[a]);for(a=0;a<f.length;a++)e(f[a])}
+                function A(b,a){if(void 0===a.__CE_state){var c=a.ownerDocument;if(c.defaultView||c.__CE_isImportDocument&&c.__CE_hasRegistry)if(c=b.a.get(a.localName)){c.constructionStack.push(a);var d=c.constructor;try{try{if(new d!==a)throw Error("The custom element constructor did not produce the element being upgraded.");}finally{c.constructionStack.pop()}}catch(r){throw a.__CE_state=2,r;}a.__CE_state=1;a.__CE_definition=c;if(c.attributeChangedCallback)for(c=c.observedAttributes,d=0;d<c.length;d++){var e=c[d],
+                        f=a.getAttribute(e);null!==f&&b.attributeChangedCallback(a,e,null,f,null)}n(a)&&b.connectedCallback(a)}}}v.prototype.connectedCallback=function(b){var a=b.__CE_definition;a.connectedCallback&&a.connectedCallback.call(b)};v.prototype.disconnectedCallback=function(b){var a=b.__CE_definition;a.disconnectedCallback&&a.disconnectedCallback.call(b)};
+                v.prototype.attributeChangedCallback=function(b,a,c,d,e){var f=b.__CE_definition;f.attributeChangedCallback&&-1<f.observedAttributes.indexOf(a)&&f.attributeChangedCallback.call(b,a,c,d,e)};function D(b,a){this.c=b;this.a=a;this.b=void 0;C(this.c,this.a);"loading"===this.a.readyState&&(this.b=new MutationObserver(this.f.bind(this)),this.b.observe(this.a,{childList:!0,subtree:!0}))}function E(b){b.b&&b.b.disconnect()}D.prototype.f=function(b){var a=this.a.readyState;"interactive"!==a&&"complete"!==a||E(this);for(a=0;a<b.length;a++)for(var c=b[a].addedNodes,d=0;d<c.length;d++)C(this.c,c[d])};function ca(){var b=this;this.b=this.a=void 0;this.f=new Promise(function(a){b.b=a;b.a&&a(b.a)})}function F(b){if(b.a)throw Error("Already resolved.");b.a=void 0;b.b&&b.b(void 0)};function G(b){this.j=!1;this.c=b;this.o=new Map;this.l=function(b){return b()};this.g=!1;this.m=[];this.u=new D(b,document)}
+                G.prototype.define=function(b,a){var c=this;if(!(a instanceof Function))throw new TypeError("Custom element constructors must be functions.");if(!m(b))throw new SyntaxError("The element name '"+b+"' is not valid.");if(this.c.a.get(b))throw Error("A custom element with name '"+b+"' has already been defined.");if(this.j)throw Error("A custom element is already being defined.");this.j=!0;var d,e,f,r,k;try{var g=function(b){var a=l[b];if(void 0!==a&&!(a instanceof Function))throw Error("The '"+b+"' callback must be a function.");
+                    return a},l=a.prototype;if(!(l instanceof Object))throw new TypeError("The custom element constructor's prototype is not an object.");d=g("connectedCallback");e=g("disconnectedCallback");f=g("adoptedCallback");r=g("attributeChangedCallback");k=a.observedAttributes||[]}catch(q){return}finally{this.j=!1}a={localName:b,constructor:a,connectedCallback:d,disconnectedCallback:e,adoptedCallback:f,attributeChangedCallback:r,observedAttributes:k,constructionStack:[]};ba(this.c,b,a);this.m.push(a);this.g||
+                (this.g=!0,this.l(function(){return da(c)}))};G.prototype.i=function(b){C(this.c,b)};function da(b){if(!1!==b.g){b.g=!1;for(var a=b.m,c=[],d=new Map,e=0;e<a.length;e++)d.set(a[e].localName,[]);C(b.c,document,{i:function(a){if(void 0===a.__CE_state){var e=a.localName,f=d.get(e);f?f.push(a):b.c.a.get(e)&&c.push(a)}}});for(e=0;e<c.length;e++)A(b.c,c[e]);for(;0<a.length;){for(var f=a.shift(),e=f.localName,f=d.get(f.localName),r=0;r<f.length;r++)A(b.c,f[r]);(e=b.o.get(e))&&F(e)}}}
+                G.prototype.get=function(b){if(b=this.c.a.get(b))return b.constructor};G.prototype.whenDefined=function(b){if(!m(b))return Promise.reject(new SyntaxError("'"+b+"' is not a valid custom element name."));var a=this.o.get(b);if(a)return a.f;a=new ca;this.o.set(b,a);this.c.a.get(b)&&!this.m.some(function(a){return a.localName===b})&&F(a);return a.f};G.prototype.v=function(b){E(this.u);var a=this.l;this.l=function(c){return b(function(){return a(c)})}};window.CustomElementRegistry=G;
+                G.prototype.define=G.prototype.define;G.prototype.upgrade=G.prototype.i;G.prototype.get=G.prototype.get;G.prototype.whenDefined=G.prototype.whenDefined;G.prototype.polyfillWrapFlushCallback=G.prototype.v;var H=window.Document.prototype.createElement,ea=window.Document.prototype.createElementNS,fa=window.Document.prototype.importNode,ga=window.Document.prototype.prepend,ha=window.Document.prototype.append,ia=window.DocumentFragment.prototype.prepend,ja=window.DocumentFragment.prototype.append,I=window.Node.prototype.cloneNode,J=window.Node.prototype.appendChild,K=window.Node.prototype.insertBefore,L=window.Node.prototype.removeChild,M=window.Node.prototype.replaceChild,N=Object.getOwnPropertyDescriptor(window.Node.prototype,
+                        "textContent"),O=window.Element.prototype.attachShadow,P=Object.getOwnPropertyDescriptor(window.Element.prototype,"innerHTML"),Q=window.Element.prototype.getAttribute,R=window.Element.prototype.setAttribute,S=window.Element.prototype.removeAttribute,T=window.Element.prototype.getAttributeNS,U=window.Element.prototype.setAttributeNS,ka=window.Element.prototype.removeAttributeNS,la=window.Element.prototype.insertAdjacentElement,ma=window.Element.prototype.insertAdjacentHTML,na=window.Element.prototype.prepend,
+                        oa=window.Element.prototype.append,V=window.Element.prototype.before,pa=window.Element.prototype.after,qa=window.Element.prototype.replaceWith,ra=window.Element.prototype.remove,sa=window.HTMLElement,W=Object.getOwnPropertyDescriptor(window.HTMLElement.prototype,"innerHTML"),ta=window.HTMLElement.prototype.insertAdjacentElement,ua=window.HTMLElement.prototype.insertAdjacentHTML;function va(){var b=X;window.HTMLElement=function(){function a(){var a=this.constructor,d=b.s.get(a);if(!d)throw Error("The custom element being constructed was not registered with `customElements`.");var e=d.constructionStack;if(!e.length)return e=H.call(document,d.localName),Object.setPrototypeOf(e,a.prototype),e.__CE_state=1,e.__CE_definition=d,y(b,e),e;var d=e.length-1,f=e[d];if(f===h)throw Error("The HTMLElement constructor was either called reentrantly for this constructor or called multiple times.");
+                    e[d]=h;Object.setPrototypeOf(f,a.prototype);y(b,f);return f}a.prototype=sa.prototype;return a}()};function Y(b,a,c){function d(a){return function(c){for(var e=[],d=0;d<arguments.length;++d)e[d-0]=arguments[d];for(var d=[],f=[],l=0;l<e.length;l++){var q=e[l];q instanceof Element&&n(q)&&f.push(q);if(q instanceof DocumentFragment)for(q=q.firstChild;q;q=q.nextSibling)d.push(q);else d.push(q)}a.apply(this,e);for(e=0;e<f.length;e++)B(b,f[e]);if(n(this))for(e=0;e<d.length;e++)f=d[e],f instanceof Element&&z(b,f)}}c.h&&(a.prepend=d(c.h));c.append&&(a.append=d(c.append))};function wa(){var b=X;u(Document.prototype,"createElement",function(a){if(this.__CE_hasRegistry){var c=b.a.get(a);if(c)return new c.constructor}a=H.call(this,a);y(b,a);return a});u(Document.prototype,"importNode",function(a,c){a=fa.call(this,a,c);this.__CE_hasRegistry?C(b,a):x(b,a);return a});u(Document.prototype,"createElementNS",function(a,c){if(this.__CE_hasRegistry&&(null===a||"http://www.w3.org/1999/xhtml"===a)){var d=b.a.get(c);if(d)return new d.constructor}a=ea.call(this,a,c);y(b,a);return a});
+                    Y(b,Document.prototype,{h:ga,append:ha})};function xa(){var b=X;function a(a,d){Object.defineProperty(a,"textContent",{enumerable:d.enumerable,configurable:!0,get:d.get,set:function(a){if(this.nodeType===Node.TEXT_NODE)d.set.call(this,a);else{var e=void 0;if(this.firstChild){var c=this.childNodes,k=c.length;if(0<k&&n(this))for(var e=Array(k),g=0;g<k;g++)e[g]=c[g]}d.set.call(this,a);if(e)for(a=0;a<e.length;a++)B(b,e[a])}}})}u(Node.prototype,"insertBefore",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);
+                    a=K.call(this,a,d);if(n(this))for(d=0;d<e.length;d++)z(b,e[d]);return a}e=n(a);d=K.call(this,a,d);e&&B(b,a);n(this)&&z(b,a);return d});u(Node.prototype,"appendChild",function(a){if(a instanceof DocumentFragment){var c=Array.prototype.slice.apply(a.childNodes);a=J.call(this,a);if(n(this))for(var e=0;e<c.length;e++)z(b,c[e]);return a}c=n(a);e=J.call(this,a);c&&B(b,a);n(this)&&z(b,a);return e});u(Node.prototype,"cloneNode",function(a){a=I.call(this,a);this.ownerDocument.__CE_hasRegistry?C(b,a):x(b,a);
+                    return a});u(Node.prototype,"removeChild",function(a){var c=n(a),e=L.call(this,a);c&&B(b,a);return e});u(Node.prototype,"replaceChild",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);a=M.call(this,a,d);if(n(this))for(B(b,d),d=0;d<e.length;d++)z(b,e[d]);return a}var e=n(a),f=M.call(this,a,d),c=n(this);c&&B(b,d);e&&B(b,a);c&&z(b,a);return f});N&&N.get?a(Node.prototype,N):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){for(var a=[],b=
+                            0;b<this.childNodes.length;b++)a.push(this.childNodes[b].textContent);return a.join("")},set:function(a){for(;this.firstChild;)L.call(this,this.firstChild);J.call(this,document.createTextNode(a))}})})};function ya(b){var a=Element.prototype;function c(a){return function(e){for(var c=[],d=0;d<arguments.length;++d)c[d-0]=arguments[d];for(var d=[],k=[],g=0;g<c.length;g++){var l=c[g];l instanceof Element&&n(l)&&k.push(l);if(l instanceof DocumentFragment)for(l=l.firstChild;l;l=l.nextSibling)d.push(l);else d.push(l)}a.apply(this,c);for(c=0;c<k.length;c++)B(b,k[c]);if(n(this))for(c=0;c<d.length;c++)k=d[c],k instanceof Element&&z(b,k)}}V&&(a.before=c(V));V&&(a.after=c(pa));qa&&u(a,"replaceWith",function(a){for(var e=
+                        [],c=0;c<arguments.length;++c)e[c-0]=arguments[c];for(var c=[],d=[],k=0;k<e.length;k++){var g=e[k];g instanceof Element&&n(g)&&d.push(g);if(g instanceof DocumentFragment)for(g=g.firstChild;g;g=g.nextSibling)c.push(g);else c.push(g)}k=n(this);qa.apply(this,e);for(e=0;e<d.length;e++)B(b,d[e]);if(k)for(B(b,this),e=0;e<c.length;e++)d=c[e],d instanceof Element&&z(b,d)});ra&&u(a,"remove",function(){var a=n(this);ra.call(this);a&&B(b,this)})};function za(){var b=X;function a(a,c){Object.defineProperty(a,"innerHTML",{enumerable:c.enumerable,configurable:!0,get:c.get,set:function(a){var e=this,d=void 0;n(this)&&(d=[],t(this,function(a){a!==e&&d.push(a)}));c.set.call(this,a);if(d)for(var f=0;f<d.length;f++){var r=d[f];1===r.__CE_state&&b.disconnectedCallback(r)}this.ownerDocument.__CE_hasRegistry?C(b,this):x(b,this);return a}})}function c(a,c){u(a,"insertAdjacentElement",function(a,e){var d=n(e);a=c.call(this,a,e);d&&B(b,e);n(a)&&z(b,e);
+                    return a})}function d(a,c){function e(a,e){for(var c=[];a!==e;a=a.nextSibling)c.push(a);for(e=0;e<c.length;e++)C(b,c[e])}u(a,"insertAdjacentHTML",function(a,b){a=a.toLowerCase();if("beforebegin"===a){var d=this.previousSibling;c.call(this,a,b);e(d||this.parentNode.firstChild,this)}else if("afterbegin"===a)d=this.firstChild,c.call(this,a,b),e(this.firstChild,d);else if("beforeend"===a)d=this.lastChild,c.call(this,a,b),e(d||this.firstChild,null);else if("afterend"===a)d=this.nextSibling,c.call(this,
+                        a,b),e(this.nextSibling,d);else throw new SyntaxError("The value provided ("+String(a)+") is not one of 'beforebegin', 'afterbegin', 'beforeend', or 'afterend'.");})}O&&u(Element.prototype,"attachShadow",function(a){return this.__CE_shadowRoot=a=O.call(this,a)});P&&P.get?a(Element.prototype,P):W&&W.get?a(HTMLElement.prototype,W):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){return I.call(this,!0).innerHTML},set:function(a){var b="template"===this.localName,e=b?this.content:this,
+                            c=H.call(document,this.localName);for(c.innerHTML=a;0<e.childNodes.length;)L.call(e,e.childNodes[0]);for(a=b?c.content:c;0<a.childNodes.length;)J.call(e,a.childNodes[0])}})});u(Element.prototype,"setAttribute",function(a,c){if(1!==this.__CE_state)return R.call(this,a,c);var e=Q.call(this,a);R.call(this,a,c);c=Q.call(this,a);b.attributeChangedCallback(this,a,e,c,null)});u(Element.prototype,"setAttributeNS",function(a,c,d){if(1!==this.__CE_state)return U.call(this,a,c,d);var e=T.call(this,a,c);U.call(this,
+                        a,c,d);d=T.call(this,a,c);b.attributeChangedCallback(this,c,e,d,a)});u(Element.prototype,"removeAttribute",function(a){if(1!==this.__CE_state)return S.call(this,a);var c=Q.call(this,a);S.call(this,a);null!==c&&b.attributeChangedCallback(this,a,c,null,null)});u(Element.prototype,"removeAttributeNS",function(a,c){if(1!==this.__CE_state)return ka.call(this,a,c);var d=T.call(this,a,c);ka.call(this,a,c);var e=T.call(this,a,c);d!==e&&b.attributeChangedCallback(this,c,d,e,a)});ta?c(HTMLElement.prototype,
+                        ta):la?c(Element.prototype,la):console.warn("Custom Elements: `Element#insertAdjacentElement` was not patched.");ua?d(HTMLElement.prototype,ua):ma?d(Element.prototype,ma):console.warn("Custom Elements: `Element#insertAdjacentHTML` was not patched.");Y(b,Element.prototype,{h:na,append:oa});ya(b)};/*
+
+                Copyright (c) 2016 The Polymer Project Authors. All rights reserved.
+                This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+                The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+                The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+                Code distributed by Google as part of the polymer project is also
+                subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+                */
+                var Z=window.customElements;if(!Z||Z.forcePolyfill||"function"!=typeof Z.define||"function"!=typeof Z.get){var X=new v;va();wa();Y(X,DocumentFragment.prototype,{h:ia,append:ja});xa();za();document.__CE_hasRegistry=!0;var customElements=new G(X);Object.defineProperty(window,"customElements",{configurable:!0,enumerable:!0,value:customElements})};
+            }).call(self);
+        }
+
+        /**
+            This allows us to load the IE polyfills via feature detection so that they do not load
+            needlessly in the browsers that do not need them. It also ensures they are loaded
+            non async so that they load before the rest of our JS.
+        */
+        var head = document.getElementsByTagName('head')[0];
+        if (!window.CSS || !window.CSS.supports || !window.CSS.supports('--fake-var', 0)) {
+            var script = document.createElement('script');
+            script.setAttribute('src', "https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/util/IEPolyfills.7a8440e4b9a8eed9874904d20fd32963.js");
+            script.setAttribute('type', 'text/javascript');
+            script.async = false;
+            head.appendChild(script);
+        }
+    </script>
+    
+    <script src="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/All.min.f7fc019e5c5fa20dfcbd5201bcaa5c8e.js" async></script>
+
+    <script>document.addEventListener("DOMContentLoaded",function(){var t=Math.random()+"",e=document.createElement("img");e.src="https://pubads.g.doubleclick.net/activity;xsp=4618488;ord="+Math.floor(1e13*t)+"?",e.width=1,e.height=1,e.border=0,document.body.appendChild(e)});</script>
+
+
+    <script>
+        var link = document.createElement('link');
+        link.setAttribute('href', 'https://fonts.googleapis.com/css?family=Oswald:200,500,600,700|Roboto:400,500,700&display=swap');
+        var relList = link.relList;
+
+        if (relList && relList.supports('preload')) {
+            link.setAttribute('as', 'style');
+            link.setAttribute('rel', 'preload');
+            link.setAttribute('onload', 'this.rel="stylesheet"');
+            link.setAttribute('crossorigin', 'anonymous');
+        } else {
+            link.setAttribute('rel', 'stylesheet');
+        }
+
+        head.appendChild(link);
+    </script>
+</head>
+
+<body class="Page-body">
+<!-- Putting icons here, so we don't have to include in a bunch of -body hbs's -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" id="iconsMap">
+    <symbol id="mono-icon-facebook" viewBox="0 0 10 19">
+        <path fill-rule="evenodd" d="M2.707 18.25V10.2H0V7h2.707V4.469c0-1.336.375-2.373 1.125-3.112C4.582.62 5.578.25 6.82.25c1.008 0 1.828.047 2.461.14v2.848H7.594c-.633 0-1.067.14-1.301.422-.188.235-.281.61-.281 1.125V7H9l-.422 3.2H6.012v8.05H2.707z"></path>
+    </symbol>
+    <symbol id="mono-icon-instagram" viewBox="0 0 17 17">
+        <g>
+            <path fill-rule="evenodd" d="M8.281 4.207c.727 0 1.4.182 2.022.545a4.055 4.055 0 0 1 1.476 1.477c.364.62.545 1.294.545 2.021 0 .727-.181 1.4-.545 2.021a4.055 4.055 0 0 1-1.476 1.477 3.934 3.934 0 0 1-2.022.545c-.726 0-1.4-.182-2.021-.545a4.055 4.055 0 0 1-1.477-1.477 3.934 3.934 0 0 1-.545-2.021c0-.727.182-1.4.545-2.021A4.055 4.055 0 0 1 6.26 4.752a3.934 3.934 0 0 1 2.021-.545zm0 6.68a2.54 2.54 0 0 0 1.864-.774 2.54 2.54 0 0 0 .773-1.863 2.54 2.54 0 0 0-.773-1.863 2.54 2.54 0 0 0-1.864-.774 2.54 2.54 0 0 0-1.863.774 2.54 2.54 0 0 0-.773 1.863c0 .727.257 1.348.773 1.863a2.54 2.54 0 0 0 1.863.774zM13.45 4.03c-.023.258-.123.48-.299.668a.856.856 0 0 1-.65.281.913.913 0 0 1-.668-.28.913.913 0 0 1-.281-.669c0-.258.094-.48.281-.668a.913.913 0 0 1 .668-.28c.258 0 .48.093.668.28.187.188.281.41.281.668zm2.672.95c.023.656.035 1.746.035 3.269 0 1.523-.017 2.62-.053 3.287-.035.668-.134 1.248-.298 1.74a4.098 4.098 0 0 1-.967 1.53 4.098 4.098 0 0 1-1.53.966c-.492.164-1.072.264-1.74.3-.668.034-1.763.052-3.287.052-1.523 0-2.619-.018-3.287-.053-.668-.035-1.248-.146-1.74-.334a3.747 3.747 0 0 1-1.53-.931 4.098 4.098 0 0 1-.966-1.53c-.164-.492-.264-1.072-.299-1.74C.424 10.87.406 9.773.406 8.25S.424 5.63.46 4.963c.035-.668.135-1.248.299-1.74.21-.586.533-1.096.967-1.53A4.098 4.098 0 0 1 3.254.727c.492-.164 1.072-.264 1.74-.3C5.662.394 6.758.376 8.281.376c1.524 0 2.62.018 3.287.053.668.035 1.248.135 1.74.299a4.098 4.098 0 0 1 2.496 2.496c.165.492.27 1.078.317 1.757zm-1.687 7.91c.14-.399.234-1.032.28-1.899.024-.515.036-1.242.036-2.18V7.689c0-.961-.012-1.688-.035-2.18-.047-.89-.14-1.524-.281-1.899a2.537 2.537 0 0 0-1.512-1.511c-.375-.14-1.008-.235-1.899-.282a51.292 51.292 0 0 0-2.18-.035H7.72c-.938 0-1.664.012-2.18.035-.867.047-1.5.141-1.898.282a2.537 2.537 0 0 0-1.512 1.511c-.14.375-.234 1.008-.281 1.899a51.292 51.292 0 0 0-.036 2.18v1.125c0 .937.012 1.664.036 2.18.047.866.14 1.5.28 1.898.306.726.81 1.23 1.513 1.511.398.141 1.03.235 1.898.282.516.023 1.242.035 2.18.035h1.125c.96 0 1.687-.012 2.18-.035.89-.047 1.523-.141 1.898-.282.726-.304 1.23-.808 1.512-1.511z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-email" viewBox="0 0 512 512">
+        <g>
+            <path d="M67,148.7c11,5.8,163.8,89.1,169.5,92.1c5.7,3,11.5,4.4,20.5,4.4c9,0,14.8-1.4,20.5-4.4c5.7-3,158.5-86.3,169.5-92.1
+                c4.1-2.1,11-5.9,12.5-10.2c2.6-7.6-0.2-10.5-11.3-10.5H257H65.8c-11.1,0-13.9,3-11.3,10.5C56,142.9,62.9,146.6,67,148.7z"></path>
+            <path d="M455.7,153.2c-8.2,4.2-81.8,56.6-130.5,88.1l82.2,92.5c2,2,2.9,4.4,1.8,5.6c-1.2,1.1-3.8,0.5-5.9-1.4l-98.6-83.2
+                c-14.9,9.6-25.4,16.2-27.2,17.2c-7.7,3.9-13.1,4.4-20.5,4.4c-7.4,0-12.8-0.5-20.5-4.4c-1.9-1-12.3-7.6-27.2-17.2l-98.6,83.2
+                c-2,2-4.7,2.6-5.9,1.4c-1.2-1.1-0.3-3.6,1.7-5.6l82.1-92.5c-48.7-31.5-123.1-83.9-131.3-88.1c-8.8-4.5-9.3,0.8-9.3,4.9
+                c0,4.1,0,205,0,205c0,9.3,13.7,20.9,23.5,20.9H257h185.5c9.8,0,21.5-11.7,21.5-20.9c0,0,0-201,0-205
+                C464,153.9,464.6,148.7,455.7,153.2z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-print" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path fill-rule="nonzero" d="M9 10V7H3v3H1a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v3.132A2.868 2.868 0 0 1 9.132 10H9zm.5-4.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2zM3 0h6v2H3z"></path>
+            <path d="M4 8h4v4H4z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-copylink" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path d="M10.199 2.378c.222.205.4.548.465.897.062.332.016.614-.132.774L8.627 6.106c-.187.203-.512.232-.75-.014a.498.498 0 0 0-.706.028.499.499 0 0 0 .026.706 1.509 1.509 0 0 0 2.165-.04l1.903-2.06c.37-.398.506-.98.382-1.636-.105-.557-.392-1.097-.77-1.445L9.968.8C9.591.452 9.03.208 8.467.145 7.803.072 7.233.252 6.864.653L4.958 2.709a1.509 1.509 0 0 0 .126 2.161.5.5 0 1 0 .68-.734c-.264-.218-.26-.545-.071-.747L7.597 1.33c.147-.16.425-.228.76-.19.353.038.71.188.931.394l.91.843.001.001zM1.8 9.623c-.222-.205-.4-.549-.465-.897-.062-.332-.016-.614.132-.774l1.905-2.057c.187-.203.512-.232.75.014a.498.498 0 0 0 .706-.028.499.499 0 0 0-.026-.706 1.508 1.508 0 0 0-2.165.04L.734 7.275c-.37.399-.506.98-.382 1.637.105.557.392 1.097.77 1.445l.91.843c.376.35.937.594 1.5.656.664.073 1.234-.106 1.603-.507L7.04 9.291a1.508 1.508 0 0 0-.126-2.16.5.5 0 0 0-.68.734c.264.218.26.545.071.747l-1.904 2.057c-.147.16-.425.228-.76.191-.353-.038-.71-.188-.931-.394l-.91-.843z"></path>
+            <path d="M8.208 3.614a.5.5 0 0 0-.707.028L3.764 7.677a.5.5 0 0 0 .734.68L8.235 4.32a.5.5 0 0 0-.027-.707"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-linkedin" viewBox="0 0 16 17">
+        <g fill-rule="evenodd">
+            <path d="M3.734 16.125H.464V5.613h3.27zM2.117 4.172c-.515 0-.96-.188-1.336-.563A1.825 1.825 0 0 1 .22 2.273c0-.515.187-.96.562-1.335.375-.375.82-.563 1.336-.563.516 0 .961.188 1.336.563.375.375.563.82.563 1.335 0 .516-.188.961-.563 1.336-.375.375-.82.563-1.336.563zM15.969 16.125h-3.27v-5.133c0-.844-.07-1.453-.21-1.828-.259-.633-.762-.95-1.512-.95s-1.278.282-1.582.845c-.235.421-.352 1.043-.352 1.863v5.203H5.809V5.613h3.128v1.442h.036c.234-.469.609-.856 1.125-1.16.562-.375 1.218-.563 1.968-.563 1.524 0 2.59.48 3.2 1.441.468.774.703 1.97.703 3.586v5.766z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-pinterest" viewBox="0 0 512 512">
+        <g>
+            <path d="M256,32C132.3,32,32,132.3,32,256c0,91.7,55.2,170.5,134.1,205.2c-0.6-15.6-0.1-34.4,3.9-51.4
+                c4.3-18.2,28.8-122.1,28.8-122.1s-7.2-14.3-7.2-35.4c0-33.2,19.2-58,43.2-58c20.4,0,30.2,15.3,30.2,33.6
+                c0,20.5-13.1,51.1-19.8,79.5c-5.6,23.8,11.9,43.1,35.4,43.1c42.4,0,71-54.5,71-119.1c0-49.1-33.1-85.8-93.2-85.8
+                c-67.9,0-110.3,50.7-110.3,107.3c0,19.5,5.8,33.3,14.8,43.9c4.1,4.9,4.7,6.9,3.2,12.5c-1.1,4.1-3.5,14-4.6,18
+                c-1.5,5.7-6.1,7.7-11.2,5.6c-31.3-12.8-45.9-47-45.9-85.6c0-63.6,53.7-139.9,160.1-139.9c85.5,0,141.8,61.9,141.8,128.3
+                c0,87.9-48.9,153.5-120.9,153.5c-24.2,0-46.9-13.1-54.7-27.9c0,0-13,51.6-15.8,61.6c-4.7,17.3-14,34.5-22.5,48
+                c20.1,5.9,41.4,9.2,63.5,9.2c123.7,0,224-100.3,224-224C480,132.3,379.7,32,256,32z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-tumblr" viewBox="0 0 512 512">
+        <g>
+            <path d="M321.2,396.3c-11.8,0-22.4-2.8-31.5-8.3c-6.9-4.1-11.5-9.6-14-16.4c-2.6-6.9-3.6-22.3-3.6-46.4V224h96v-64h-96V48h-61.9
+                c-2.7,21.5-7.5,44.7-14.5,58.6c-7,13.9-14,25.8-25.6,35.7c-11.6,9.9-25.6,17.9-41.9,23.3V224h48v140.4c0,19,2,33.5,5.9,43.5
+                c4,10,11.1,19.5,21.4,28.4c10.3,8.9,22.8,15.7,37.3,20.5c14.6,4.8,31.4,7.2,50.4,7.2c16.7,0,30.3-1.7,44.7-5.1
+                c14.4-3.4,30.5-9.3,48.2-17.6v-65.6C363.2,389.4,342.3,396.3,321.2,396.3z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-twitter" viewBox="0 0 19 16">
+        <g>
+            <path fill-rule="evenodd" d="M16.48 4.594c.024.094.036.246.036.457 0 1.687-.41 3.316-1.23 4.887-.845 1.664-2.028 2.988-3.552 3.972-1.664 1.102-3.574 1.652-5.73 1.652-2.063 0-3.95-.55-5.66-1.652.258.024.55.035.879.035 1.71 0 3.246-.527 4.605-1.582-.82 0-1.54-.24-2.162-.72a3.671 3.671 0 0 1-1.283-1.811c.234.023.457.035.668.035.328 0 .656-.035.984-.105a3.72 3.72 0 0 1-2.11-1.301 3.54 3.54 0 0 1-.843-2.32v-.07a3.475 3.475 0 0 0 1.652.492A4.095 4.095 0 0 1 1.54 5.227a3.546 3.546 0 0 1-.457-1.776c0-.644.176-1.26.527-1.845a10.18 10.18 0 0 0 3.358 2.742 10.219 10.219 0 0 0 4.236 1.125 5.124 5.124 0 0 1-.07-.844c0-.656.164-1.272.492-1.846a3.613 3.613 0 0 1 1.336-1.353 3.565 3.565 0 0 1 1.828-.492c.54 0 1.037.105 1.494.316.457.21.861.492 1.213.844a7.51 7.51 0 0 0 2.356-.88c-.282.868-.82 1.548-1.618 2.04a7.93 7.93 0 0 0 2.11-.598 8.114 8.114 0 0 1-1.864 1.934z"></path>
+
+        </g>
+    </symbol>
+    <symbol id="mono-icon-youtube" viewBox="0 0 512 512">
+        <g>
+            <path fill-rule="evenodd" d="M508.6,148.8c0-45-33.1-81.2-74-81.2C379.2,65,322.7,64,265,64c-3,0-6,0-9,0s-6,0-9,0c-57.6,0-114.2,1-169.6,3.6
+                c-40.8,0-73.9,36.4-73.9,81.4C1,184.6-0.1,220.2,0,255.8C-0.1,291.4,1,327,3.4,362.7c0,45,33.1,81.5,73.9,81.5
+                c58.2,2.7,117.9,3.9,178.6,3.8c60.8,0.2,120.3-1,178.6-3.8c40.9,0,74-36.5,74-81.5c2.4-35.7,3.5-71.3,3.4-107
+                C512.1,220.1,511,184.5,508.6,148.8z M207,353.9V157.4l145,98.2L207,353.9z"></path>
+        </g>
+    </symbol>
+    <symbol id="icon-magnify" viewBox="0 0 512 512">
+        <g>
+            <path d="M337.509,305.372h-17.501l-6.571-5.486c20.791-25.232,33.922-57.054,33.922-93.257
+                C347.358,127.632,283.896,64,205.135,64C127.452,64,64,127.632,64,206.629s63.452,142.628,142.225,142.628
+                c35.011,0,67.831-13.167,92.991-34.008l6.561,5.487v17.551L415.18,448L448,415.086L337.509,305.372z M206.225,305.372
+                c-54.702,0-98.463-43.887-98.463-98.743c0-54.858,43.761-98.742,98.463-98.742c54.7,0,98.462,43.884,98.462,98.742
+                C304.687,261.485,260.925,305.372,206.225,305.372z"></path>
+        </g>
+    </symbol>
+    <symbol id="burger-menu" viewBox="0 0 512 512">
+        <g>
+            <path d="M501.333,96H10.667C4.779,96,0,100.779,0,106.667s4.779,10.667,10.667,10.667h490.667c5.888,0,10.667-4.779,10.667-10.667
+			S507.221,96,501.333,96z" />
+            <path d="M501.333,245.333H10.667C4.779,245.333,0,250.112,0,256s4.779,10.667,10.667,10.667h490.667
+			c5.888,0,10.667-4.779,10.667-10.667S507.221,245.333,501.333,245.333z" />
+            <path d="M501.333,394.667H10.667C4.779,394.667,0,399.445,0,405.333C0,411.221,4.779,416,10.667,416h490.667
+			c5.888,0,10.667-4.779,10.667-10.667C512,399.445,507.221,394.667,501.333,394.667z" />
+        </g>
+    </symbol>
+    <symbol id="close-x" viewBox="0 0 14 14">
+        <g>
+            <path fill-rule="nonzero" d="M6.336 7L0 .664.664 0 7 6.336 13.336 0 14 .664 7.664 7 14 13.336l-.664.664L7 7.664.664 14 0 13.336 6.336 7z"></path>
+        </g>
+    </symbol>
+    <symbol id="share-more-arrow" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;">
+        <g>
+            <g>
+                <path d="M512,241.7L273.643,3.343v156.152c-71.41,3.744-138.015,33.337-188.958,84.28C30.075,298.384,0,370.991,0,448.222v60.436
+                    l29.069-52.985c45.354-82.671,132.173-134.027,226.573-134.027c5.986,0,12.004,0.212,18.001,0.632v157.779L512,241.7z
+                    M255.642,290.666c-84.543,0-163.661,36.792-217.939,98.885c26.634-114.177,129.256-199.483,251.429-199.483h15.489V78.131
+                    l163.568,163.568L304.621,405.267V294.531l-13.585-1.683C279.347,291.401,267.439,290.666,255.642,290.666z"></path>
+            </g>
+        </g>
+    </symbol>
+    <symbol id="chevron" viewBox="0 0 100 100">
+        <g>
+            <path d="M22.4566257,37.2056786 L-21.4456527,71.9511488 C-22.9248661,72.9681457 -24.9073712,72.5311671 -25.8758148,70.9765924 L-26.9788683,69.2027424 C-27.9450684,67.6481676 -27.5292733,65.5646602 -26.0500598,64.5484493 L20.154796,28.2208967 C21.5532435,27.2597011 23.3600078,27.2597011 24.759951,28.2208967 L71.0500598,64.4659264 C72.5292733,65.4829232 72.9450684,67.5672166 71.9788683,69.1217913 L70.8750669,70.8956413 C69.9073712,72.4502161 67.9241183,72.8848368 66.4449048,71.8694118 L22.4566257,37.2056786 Z" id="Transparent-Chevron" transform="translate(22.500000, 50.000000) rotate(90.000000) translate(-22.500000, -50.000000) "></path>
+        </g>
+    </symbol>
+    <symbol id="play-arrow" viewBox="0 0 30 30">
+        <g fill="none" fill-rule="evenodd">
+            <path d="M9 9l12 6-12 6z"></path>
+        </g>
+    </symbol>
+    <symbol id="bookmark" viewBox="0 0 9 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M.5.5v10.997l3.431-2.374a1 1 0 0 1 1.138 0L8.5 11.497V.5h-8z"></path>
+        </g>
+    </symbol>
+    <symbol id="heart" viewBox="0 0 14 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M10.24.5c-1.098 0-2.152.576-2.808 1.7L7 2.938l-.432-.74C5.912 1.076 4.858.5 3.76.5 1.996.5.5 1.899.5 3.859.5 5.2 1.644 6.912 3.57 8.747a27.774 27.774 0 0 0 3.373 2.738A.099.099 0 0 0 7 11.5a.104.104 0 0 0 .061-.018 27.75 27.75 0 0 0 3.368-2.735C12.356 6.912 13.5 5.201 13.5 3.859 13.5 1.899 12.003.5 10.24.5z"></path>
+        </g>
+    </symbol>
+    <symbol id="grid" viewBox="0 0 32 32">
+        <g>
+            <path d="M6.4,5.7 C6.4,6.166669 6.166669,6.4 5.7,6.4 L0.7,6.4 C0.233331,6.4 0,6.166669 0,5.7 L0,0.7 C0,0.233331 0.233331,0 0.7,0 L5.7,0 C6.166669,0 6.4,0.233331 6.4,0.7 L6.4,5.7 Z M19.2,5.7 C19.2,6.166669 18.966669,6.4 18.5,6.4 L13.5,6.4 C13.033331,6.4 12.8,6.166669 12.8,5.7 L12.8,0.7 C12.8,0.233331 13.033331,0 13.5,0 L18.5,0 C18.966669,0 19.2,0.233331 19.2,0.7 L19.2,5.7 Z M32,5.7 C32,6.166669 31.766669,6.4 31.3,6.4 L26.3,6.4 C25.833331,6.4 25.6,6.166669 25.6,5.7 L25.6,0.7 C25.6,0.233331 25.833331,0 26.3,0 L31.3,0 C31.766669,0 32,0.233331 32,0.7 L32,5.7 Z M6.4,18.5 C6.4,18.966669 6.166669,19.2 5.7,19.2 L0.7,19.2 C0.233331,19.2 0,18.966669 0,18.5 L0,13.5 C0,13.033331 0.233331,12.8 0.7,12.8 L5.7,12.8 C6.166669,12.8 6.4,13.033331 6.4,13.5 L6.4,18.5 Z M19.2,18.5 C19.2,18.966669 18.966669,19.2 18.5,19.2 L13.5,19.2 C13.033331,19.2 12.8,18.966669 12.8,18.5 L12.8,13.5 C12.8,13.033331 13.033331,12.8 13.5,12.8 L18.5,12.8 C18.966669,12.8 19.2,13.033331 19.2,13.5 L19.2,18.5 Z M32,18.5 C32,18.966669 31.766669,19.2 31.3,19.2 L26.3,19.2 C25.833331,19.2 25.6,18.966669 25.6,18.5 L25.6,13.5 C25.6,13.033331 25.833331,12.8 26.3,12.8 L31.3,12.8 C31.766669,12.8 32,13.033331 32,13.5 L32,18.5 Z M6.4,31.3 C6.4,31.766669 6.166669,32 5.7,32 L0.7,32 C0.233331,32 0,31.766669 0,31.3 L0,26.3 C0,25.833331 0.233331,25.6 0.7,25.6 L5.7,25.6 C6.166669,25.6 6.4,25.833331 6.4,26.3 L6.4,31.3 Z M19.2,31.3 C19.2,31.766669 18.966669,32 18.5,32 L13.5,32 C13.033331,32 12.8,31.766669 12.8,31.3 L12.8,26.3 C12.8,25.833331 13.033331,25.6 13.5,25.6 L18.5,25.6 C18.966669,25.6 19.2,25.833331 19.2,26.3 L19.2,31.3 Z M32,31.3 C32,31.766669 31.766669,32 31.3,32 L26.3,32 C25.833331,32 25.6,31.766669 25.6,31.3 L25.6,26.3 C25.6,25.833331 25.833331,25.6 26.3,25.6 L31.3,25.6 C31.766669,25.6 32,25.833331 32,26.3 L32,31.3 Z" id=""></path>
+        </g>
+    </symbol>
+    <symbol id="filter" viewBox="0 0 16 12">
+        <path d="M0 2V0h16v2H0zm2.4 5V5h11.2v2H2.4zm2.4 5v-2h6.4v2H4.8z"></path>
+    </symbol>
+    <symbol id="minus-circle" viewBox="0 0 1792 1792">
+        <g>
+            <path d="M1344 960v-128q0-26-19-45t-45-19h-768q-26 0-45 19t-19 45v128q0 26 19 45t45 19h768q26 0 45-19t19-45zm320-64q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" />
+        </g>
+    </symbol>
+    <symbol id="plus-circle" viewBox="0 0 1792 1792">
+        <g>
+            <path d="M1344 960v-128q0-26-19-45t-45-19h-256v-256q0-26-19-45t-45-19h-128q-26 0-45 19t-19 45v256h-256q-26 0-45 19t-19 45v128q0 26 19 45t45 19h256v256q0 26 19 45t45 19h128q26 0 45-19t19-45v-256h256q26 0 45-19t19-45zm320-64q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" />
+        </g>
+    </symbol>
+    <symbol id="chevron-left" viewBox="0 0 511.641 511.641">
+        <path d="M148.32,255.76L386.08,18c4.053-4.267,3.947-10.987-0.213-15.04c-4.16-3.947-10.667-3.947-14.827,0L125.707,248.293
+			c-4.16,4.16-4.16,10.88,0,15.04L371.04,508.667c4.267,4.053,10.987,3.947,15.04-0.213c3.947-4.16,3.947-10.667,0-14.827
+			L148.32,255.76z" />
+    </symbol>
+</svg>
+
+
+<ps-header class="Page-header" itemscope itemtype="http://schema.org/WPHeader" data-sticky-disable>
+    <div class="Page-header-bar">
+        
+            
+                <div class="Page-header-logo"><a aria-label="home page" href="https://www.latimes.com/bestcovery/"  >
+    
+        <img class="PageLogo-image" src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/beea024/2147483647/strip/true/crop/1000x277+0+0/resize/433x120!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F97%2F96%2F5fd40beb48059a3edeff4d92eed5%2Fbestcovery-logo-powered-by-lat.png" alt="Bestcovery logo" width="433"  height="120" />
+    
+    </a>
+</div>
+            
+        
+
+        <button class="Page-header-menu-trigger" aria-expanded="false" tabindex="1">
+            <svg class="burger-menu"><use xlink:href="#burger-menu"></use></svg>
+            <svg class="close-x"><use xlink:href="#chevron-left"></use></svg>
+            <span class="label">Menu</span>
+        </button>
+
+        <div class="Page-header-hamburger-menu">
+            <div class="Page-header-hamburger-menu-wrapper">
+                <div class="Page-header-hamburger-menu-content">
+                    
+                        <nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/auto">Auto</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/home">Home</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/lifestyle">Lifestyle</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/electronics">Electronics</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/tech">Tech</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item" data-current-nav-item data-related-nav-item><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/health-beauty">Health &amp; Beauty</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/fashion">Fashion</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/sports">Sports</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/music">Music</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/kids-babies">Kids &amp; Babies</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/streaming">Streaming</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+        </ul>
+    
+</nav>
+                    
+                    
+                </div>
+            </div>
+        </div>
+
+        
+
+            <div class="Page-header-search-overlay">
+                <form class="Page-header-search-form" action="https://www.latimes.com/bestcovery/search#nt=navsearch" novalidate="" autocomplete="off">
+                    <label><input placeholder="Search" type="text" class="Page-header-search-input" name="q" required="true"><span class="sr-only">Search Query</span></label>
+                    <button type="submit" class="Page-header-search-submit"><svg><use xlink:href="#icon-magnify"></use></svg><span class="sr-only">Submit Search</span></button>
+                </form>
+            </div>
+        
+    </div>
+</ps-header>
+
+
+    <div class="Page-above" ><div class="InfoBoxModule byline-1">
+    
+        <div class="InfoBoxModule-items InfoBoxBody"><p><i>We may earn a commission if you make a purchase through one of our links. The LA Times editorial staff was not involved in the creation of this content. <a class="Link" href="https://www.latimes.com/bestcovery/about-us">Learn more</a></i></p></div>
+    
+</div>
+</div>
+
+
+
+<div class="SectionPage-topContainer">
+    <div class="SectionPage-headingWrapper">
+        
+            <div class="SectionPage-heading">
+                <h1 class="SectionPage-pageHeading">Health &amp; Beauty</h1>
+                
+            </div>
+        
+
+        
+    <ps-section-nav class="SectionPage-navContainer">
+        <div class="SectionPage-sectionNavigation">
+            <nav class="SectionNavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+        <ul class="SectionNavigation-items">
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/personal-care">Personal Care</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/cosmetics">Cosmetics</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/haircare">Haircare</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/health-monitors">Health Monitors</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/massage-relaxation">Massage &amp; Relaxation</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/nutrition-wellness">Nutrition &amp; Wellness</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/sleep-rest">Sleep &amp; Rest</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item" data-current-nav-item data-related-nav-item>
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/health-beauty">All</a>
+        
+    </div>
+</div>
+                </li>
+            
+            <li class="SectionNavigation-items-item" data-sub-trigger tabindex="0">
+                <div class="SectionNavigationItem">
+                    <div class="SectionNavigationItem-text">More<svg class="chevron"><use xlink:href="#chevron"></use></svg></div>
+                    <div class="SectionNavigationItem-subNav"></div>
+                </div>
+            </li>
+        </ul>
+    
+</nav>
+        </div>
+    </ps-section-nav>
+
+
+    </div>
+</div>
+
+<main class="SectionPage-main">
+    
+        
+            
+    
+    <div class="Row">
+        <div class="TwoColumnContainer7030">
+    <div class="TwoColumnContainer7030-row">
+        
+            <div class="TwoColumnContainer7030-column">
+                <div class="ListA" >
+    <div class="ListA-header" >
+    
+        <div class="ListA-header-title">Most Popular</div>
+    
+</div>
+
+
+    
+        <div class="ListA-items">
+            <div class="ListA-items-column">
+                <div class="ListA-items-item"><div class="PromoC" data-content-type="bestList">
+    
+        
+            <div class="PromoC-media">
+                
+                    
+                        <a class="Link" href="https://www.latimes.com/bestcovery/best-facial-shaver" aria-label="The 5 Best Facial Shavers for 2023">
+    <img class="Image" alt="Bestcovery-Mens_Razors-V1.jpg" width="840" height="560"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/8f10b3d/2147483647/strip/true/crop/840x560+0+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F2f%2F1a%2F81d545394ccdb461c2ac0c609ee1%2Fbestcovery-mens-razors-v1.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                    
+                
+            </div>
+        
+    
+
+    <div class="PromoC-content">
+        
+            <div class="PromoC-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/personal-care">Personal Care</a>
+            </div>
+        
+
+        
+            <div class="PromoC-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-facial-shaver">The 5 Best Facial Shavers for 2023</a>
+            </div>
+        
+
+        
+            <div class="PromoC-description">If you shave your face, then you know that finding the right electric shaver can be easier said than done. Each model has its own capabilities and drawbacks, but it can be hard to decipher which models deliver on their promises, let alone which one is best for your face. With so many options on the market, we took a look at five of the best facial shavers on the market in 2023, so you decide for yourself which one is the perfect fit for you!</div>
+        
+
+        
+            <div class="PromoC-date">April 16, 2023</div>
+        
+    </div>
+
+    
+</div>
+</div>
+            </div>
+            <div class="ListA-items-column">
+                
+                    
+                
+                    
+                        <div class="ListA-items-item"><div class="PromoB" data-content-type="bestList" data-image-align="top">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-nail-polish-remover" aria-label="Erase Away Mistakes: Best Nail Polish Removers">
+    <img class="Image" alt="best moisturizing nail polish remover" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/2c958a5/2147483647/strip/true/crop/500x327+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F74%2Fae%2Fb3d6f3924c86904620c2dee62fa3%2Fcnd-offly-fast-nail-polish-remover.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/cosmetics">Cosmetics</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-nail-polish-remover">Erase Away Mistakes: Best Nail Polish Removers</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">There are tons of nail polish remover options on the market today, and the sheer variety can make it difficult to pick the best product for your needs. For example, an otherwise excellent nail polish remover will fall apart when met with a tough-to-remove dark or glittery color. Gel, acrylic, Shellac, and dip powder nails require extra attention above and beyond regular nail color. When you're unable to get to the salon to remove your manicure, it's important to take the correct steps to protect the health and integrity of your nails.Acetone is somewhat controversial, with many preferring to avoid using it due to its reputation for being harsh and drying out your nails - not to mention its intense odor. We chose to include both acetone and acetone-free options here; while this chemical solvent is indeed harsh, it typically remains the best option when you need something fast-acting and requiring the least amount of scraping and rubbing. Because acetone works quickly, it also helps you to resist the urge to peel your polish off.While some of our picks can actually help to strengthen your nails instead of weakening them, don't forget to hydrate your nails and cuticles after you're done removing your polish. A good habit is to soak your nails in oil for at least 5 minutes; try natural options such as olive, vitamin E, or argan oil. After, we recommend applying a cuticle oil or cuticle cream and finishing with a rich hand lotion to moisturize your skin and counteract any drying effect of the nail polish remover itself.For more information on what to look at in selecting the best nail polish remover in 2022, We have listed below the best nail polish removeravailable for you to help you decide what product is best to buy.**During this time of acetone shortages, we have chosen to feature predominantly products that were confirmed to be in stock at the time of publishing this article. Availability is subject to change.</div>
+        
+
+        
+            <div class="PromoB-date">May 12, 2014</div>
+        
+
+        
+    </div>
+</div>
+</div>
+                    
+                
+                    
+                        <div class="ListA-items-item"><div class="PromoB" data-content-type="bestList" data-image-align="top">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-hand-soap" aria-label="Best Hand Soaps That Tackle Even The Toughest Germs in 2022">
+    <img class="Image" alt="best hand soap" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/c768fbe/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fb6%2Fc1%2Fed2de68e403e867e4f88ef06e736%2Flava-heavy-duty-hand-soap-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/personal-care">Personal Care</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-hand-soap">Best Hand Soaps That Tackle Even The Toughest Germs in 2022</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Using a hand soap is something that is a part of our daily routine. Yet, most of us do not really give it too much thought. We know it’s something we must do to stay healthy and prevent germs from spreading. There are also those of you who work in the medical, automotive, or restaurant profession that relies on these as part of performing your job safely. Others may choose a product since it smells good and looks pretty in the bathroom.Finally, there are those of you who have kids and need something that doesn't cost a lot and is easy and safe for the entire household to use. No matter what way you use these hand soaps just know that all of the products that made it onto these lists are the highest performing consumer favorites that get repurchased time and time again. We've put together a list of what we think are the top ten hand soaps on the market, as well as an accompanying buying guide that will help you pick out the right one for you!</div>
+        
+
+        
+            <div class="PromoB-date">December 11, 2013</div>
+        
+
+        
+    </div>
+</div>
+</div>
+                    
+                
+            </div>
+        </div>
+    
+
+</div>
+            </div>
+        
+        
+            <div class="TwoColumnContainer7030-column">
+                <div class="ListC" >
+    <div class="ListC-header" >
+    
+        <div class="ListC-header-title">Trending</div>
+    
+</div>
+
+
+    
+        <ul class="ListC-items">
+            
+            <li class="ListC-items-item">
+                <div class="PromoB" data-content-type="bestList"data-no-media>
+    <div class="PromoB-content">
+        
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/health-monitors">Health Monitors</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-bathroom-scales">The Best Bathroom Scales of 2023 Reviewed</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">An accurate bathroom scale is necessary for anyone who values maintaining a healthy lifestyle. Regularly weighing yourself can help you monitor progress toward your weight loss or fitness goals and can also serve as a warning sign if you start to gain or lose weight unexpectedly; sudden weight gain or loss can indicate a health condition, such as thyroid problems, diabetes, or heart disease. In this article, we share our top picks for the best bathroom scales of 2023 based on a range of factors, including smart features like Bluetooth connectivity, mobile app integration, and fitness tracking capabilities. We have also looked at more traditional scales, focusing on accuracy and ease of use. Here are our recommended bathroom scales for 2023.Price Legend:$: 0 - 75$$: 75 - 150$$$: 150+</div>
+        
+
+        
+            <div class="PromoB-date">April 12, 2023</div>
+        
+
+        
+    </div>
+</div>
+
+            </li>
+            
+            <li class="ListC-items-item">
+                <div class="PromoB" data-content-type="bestList"data-no-media>
+    <div class="PromoB-content">
+        
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/sleep-rest">Sleep &amp; Rest</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-weighted-blankets">Find the Best Weighted Blanket for Better Sleep in 2023</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">If you struggle with stress, restlessness, or anxiety like so many others, high-quality, restful sleep may be difficult to come by. Fortunately, when weighted blankets entered the market, they provided a solution to those long, frustrating nights of insomnia. Could a weighted blanket be your key to better sleep?Weighted blankets are designed to weigh down your body and imitate the feeling of being hugged, which has a calming effect on the nervous system — but not all weighted blankets are created equal. There are many options available today that come in different materials and styles, each with its own features and benefits. With the market for weighted blankets expanding rapidly, knowing which one to choose can be challenging.That's why we've conducted extensive research and testing to bring you a comprehensive guide to the best weighted blankets on the market in 2023. We'll break down the key features to look for, offer insight into the materials, and provide recommendations based on our testing and analysis. Whether you're a hot sleeper, have specific weight preferences, or are looking for a certain design or fabric, we have you covered. Read on to find the perfect blanket to help you get a better night's sleep.[Price legend]$ 0 - 75$$ 75 - 150$$$ 150+Below, we’ve listed our top choices for the best weighted blankets based on their comfort, durability, weight, size, and overall effectiveness in promoting better sleep, to name a few. You’ll find options ranging from budget-friendly to luxuriously high-end.</div>
+        
+
+        
+            <div class="PromoB-date">March 03, 2023</div>
+        
+
+        
+    </div>
+</div>
+
+            </li>
+            
+            <li class="ListC-items-item">
+                <div class="PromoB" data-content-type="article"data-no-media>
+    <div class="PromoB-content">
+        
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/massage-relaxation">Massage &amp; Relaxation</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/do-wax-warmers-last-longer-than-candles">Does the Scent of Wax Warmers Last Longer Than Candles?</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">When looking for ways to add a pleasant fragrance to their home, a lot of people get confused between wax warmers and candles. Some people like the traditional scent and feel of a candle, while others prefer the safety and convenience of wax warmers. There are several differences between wax warmers and scented candles, which we have discussed in detail below. The one you choose will depend on your personal preference and what exactly you are looking for.</div>
+        
+
+        
+            <div class="PromoB-date">September 19, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+            </li>
+            
+            <li class="ListC-items-item">
+                <div class="PromoB" data-content-type="bestList"data-no-media>
+    <div class="PromoB-content">
+        
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/nutrition-wellness">Nutrition &amp; Wellness</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/zinc-supplement">Improve Your Immunity With the Best Zinc Supplements</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">If you've ever had a cold or flu, you know how crucial it is to relax and drink plenty of water, but did you know that consuming zinc can also help? Zinc is an essential mineral found in every cell of our bodies. It helps regulate growth and development, fights infections, builds strong bones, and supports the immune system.While zinc deficiency has long been associated with poor health outcomes, recent research shows that increasing the amount of zinc in your body can actually enhance your overall health, and even reduce the risk of certain diseases.While taking a supplement for something you get naturally through diet may seem strange, zinc supplements are both safe and beneficial. To get your hands on an ideal option for yourself, we have listed the most effective zinc supplements of 2022 below!</div>
+        
+
+        
+            <div class="PromoB-date">September 14, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+            </li>
+            
+        </ul>
+    
+</div>
+            </div>
+        
+    </div>
+</div>
+    </div>
+
+
+
+
+        
+            
+    
+    <div class="Row">
+        <div class="OneColumnContainer">
+    <div class="OneColumnContainer-row">
+        
+            <div class="OneColumnContainer-column">
+                <ps-list-loadmore class="ListE" >
+    <div class="ListE-header" >
+    
+        <div class="ListE-header-title">Latest Reviews</div>
+    
+</div>
+
+
+    <div class="ListE-container">
+        
+            <ul class="ListE-items" data-list-loadmore-items>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/cooling-pillow" aria-label="Don’t Give Up on Your Dreams: Best Cooling Pillows for a Better Sleep">
+    <img class="Image" alt="bed cooling pillow" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/627bc96/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F9a%2Fda%2Fe4acc8b7440192567c35bf024b1f%2Fmolblly-cooling-pillow.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/sleep-rest">Sleep &amp; Rest</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/cooling-pillow">Don’t Give Up on Your Dreams: Best Cooling Pillows for a Better Sleep</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The feeling of being too hot or overheating during the night can cause discomfort and disrupt quality sleep. If you find yourself waking up during the night to flip your pillow over, this is just for you.Although room temperature and bedding play a significant role in creating the ideal sleeping environment, your pillow also contributes to your comfort. Something designed specifically for breathability or temperature control regulation can reduce sweating, improve relaxation, and enhance your overall quality of sleep.The most comfortable cooling pillows in 2022 come with various features, allowing you to choose something that suits your liking with firmness and composition while staying cool.</div>
+        
+
+        
+            <div class="PromoB-date">July 29, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/protect-your-skin-this-summer-with-the-best-face-sunscreen" aria-label="Protect Your Skin This Summer With the Best Face Sunscreen">
+    <img class="Image" alt="La Roche-Posay bestcovery.jpg" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/160494d/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F8d%2F77%2Fbbd63c53479eb26ca8bf9d33b7ad%2Fla-roche-posay-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/personal-care">Personal Care</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/protect-your-skin-this-summer-with-the-best-face-sunscreen">Protect Your Skin This Summer With the Best Face Sunscreen</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Who doesn't love summer? From beach parties, wholesome picnics, adventurous hikes, to family BBQs in the backyard, summer is a delightful season to look forward to. But what's not so great is the risk of sun damage and sunburns. Many people who are somewhat conscious about skincare like to stay inside to avoid the scorching sun on super hot days, but that's no way to live. A face sunscreen with a strong enough protective layer will allow you to enjoy complete summer freedom no matter how hot it gets!But choosing a sunscreen can get pretty complex when you start to research the different qualities, types, SPFs, and brands. But don't worry! We've evaluated many popular products and have shortlisted some of the safest, most effective sunscreens you can find in 2022. We've also prepared an all-inclusive buying guide to guide you through every detail so that you can make an informed purchase decision. Let's get started!</div>
+        
+
+        
+            <div class="PromoB-date">July 13, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/self-care-box" aria-label="The Best Self Care Boxes">
+    <img class="Image" alt="women&#x27;s beauty &amp; self care box" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/82dcd97/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fa8%2F14%2F1dd9a4f14b62b4c070b2cc76ea48%2Fcocotique-self-care-box.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/personal-care">Personal Care</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/self-care-box">The Best Self Care Boxes</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">It is easy to forget self-care in the busy lives we lead, which can affect you both mentally and physically. This is why it is so important to take some time out of your day to pamper yourself. But to do so, you need self-care tools that will help you achieve that goal.So, to better facilitate your daily self-care regime, we have made this guide to buying the top self-care boxes in 2022. These boxes contain all the things you will need to revitalize and give you a glowing look. They also make for a great gift item for Mother’s Day or birthdays.A self-care box is essentially a package that includes a variety of beauty items. This package-style deal gives you value for your money, and you also don't have to look for each item individually. It is an easy and time-efficient way of getting all you need to give yourself the care you deserve.</div>
+        
+
+        
+            <div class="PromoB-date">April 28, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/spa-kit" aria-label="Best Spa Kit for Ultimate At-Home Pampering">
+    <img class="Image" alt="women and men spa kit" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/c817a3a/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fa7%2F68%2Faf305df84d8d95c74071a17d282f%2Flovery-spa-kit.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/personal-care">Personal Care</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/spa-kit">Best Spa Kit for Ultimate At-Home Pampering</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Taking a few minutes after a long day to nourish your senses with uplifting aromas and replenishing care can be beneficial to your health both physically and mentally. The best spa kits not only smell great, but they also combine nourishing, skin-loving ingredients with calming aromatherapy scents and muscle relaxing ingredients. A spa kit is about indulging your senses to transport you to a haven of relaxation for body, mind, and soul. Spoil your mom this Mother’s Day by giving her the ultimate at-home relaxation and rejuvenation set. To make sure she gets top-quality pampering, we’ve hunted down the most popular anti-stress, rejuvenating, and facial pamper sets.</div>
+        
+
+        
+            <div class="PromoB-date">April 27, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/wax-warmer" aria-label="Best Wax Warmer">
+    <img class="Image" alt="fragrance wax warmer" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/198d290/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Ff4%2F37%2Fbd26871444e9bb22d0cd9bf9b4a3%2Fenaroma-wax-warmer.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/personal-care">Personal Care</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/wax-warmer">Best Wax Warmer</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">If the aroma of essential oils and the fragrance of scented wax puts you in a good mood, you should consider owning a wax warmer. Many of you might still be thinking, why not choose an aromatic candle instead. Candles produce a flame, which could be dangerous or if you are sensitive to smoke.So, how did wax warmers originate, and what made them so popular? Bulk candle manufacturers noticed that they were wasting a lot of small wax pieces while making candles. To procure them, they came up with the idea to sell wax melts. Therefore, to use these wax melts, wax warmers were crafted. Wax warmer kits are also used to heat wax for hair removal. Read our buying guide to get in-depth knowledge about popular wax warmers that make excellent Mother’s Day gifts!</div>
+        
+
+        
+            <div class="PromoB-date">April 25, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-at-home-detox-products" aria-label="Rejuvenate Your Mind And Body With These At-Home Detox Products">
+    <img class="Image" alt="The Plug Drink.jpg" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/dd2db94/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fdd%2F37%2Faa898f1b4898aa7ce95f4394e50f%2Fthe-plug-drink.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/nutrition-wellness">Nutrition &amp; Wellness</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-at-home-detox-products">Rejuvenate Your Mind And Body With These At-Home Detox Products</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The average American consumes nearly 77 grams of sugar every day. And more often than not, people have no idea how many hidden ingredients, like sugar, are in their food. Of course, excessive sugar consumption can contribute to serious health issues like increased weight gain, obesity, type 2 diabetes, and heart disease. However, it’s the less serious side effects like achy joints, sore muscles, brain fog, fatigue, headaches, allergies, gas, migraines, acne, irritable bowel, reflux, or arthritis that overwhelm people over the long run. That’s why detoxing is so important. Luckily, thanks to these products, it’s easier than ever to reset your body and detox from sugar and other harmful substances from the comfort of home.</div>
+        
+
+        
+            <div class="PromoB-date">April 19, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-hair-removal-products" aria-label="Take Your Grooming To The Next Level With The Best Hair Removal Products Of 2022">
+    <img class="Image" alt="freedom grooming best buzz kit.jpg" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/8b301ba/2147483647/strip/true/crop/600x392+0+4/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F34%2Fa5%2F1f434bc54cf689206c91362f0b93%2Ffreedom-grooming-best-buzz-kit.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/personal-care">Personal Care</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-hair-removal-products">Take Your Grooming To The Next Level With The Best Hair Removal Products Of 2022</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Humans have a complicated relationship with hair removal. Most of us want it on our heads. But beyond that, it’s a crapshoot. Some of us go to great lengths to completely remove it from our faces, while others cultivate facial hair like bonsai trees. Some of us are fine with a bit of hair on our arms and legs, but not the chest. Others are fine with hair on the chest and armpits, but not the back. Some of us don’t want hair anywhere south of the equator. Still, others don’t want it anywhere south of the shoulders.Of course, back in the day, our hair-grooming options were limited. You could cut it with scissors, shave it with a razor, or pluck it with tweezers - that was just about it. But today, there are a ton of different hair removal products designed for every need imaginable. And now that spring has officially sprung, there’s no better time to take a look at some of our favorites.Whatever your particular stance on hair, there’s probably an innovative hair removal product on this list for you. So take a look at our picks for the best hair removal products for 2022.</div>
+        
+
+        
+            <div class="PromoB-date">April 14, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-light-therapy-products" aria-label="Brighten Up Your Self-Care Routine With These Innovative Light Therapy Products">
+    <img class="Image" alt="Best Light Therapy lead image.png" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/0d96a7f/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Ffe%2Ffc%2F85d3e16f47f2839b80be9eeb5736%2Fbest-light-therapy-lead-image.png" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/personal-care">Personal Care</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-light-therapy-products">Brighten Up Your Self-Care Routine With These Innovative Light Therapy Products</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">One of the best ways to ensure the best self-care is by incorporating light therapy into your routine. This innovative technology has a wide array of benefits and can be used to brighten skin, stimulate hair growth, whiten teeth, boost your mood, and more. So if you’re interested in any or all of these benefits, check out our list of unique light therapy products.</div>
+        
+
+        
+            <div class="PromoB-date">April 11, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/how-to-build-a-light-therapy-box" aria-label="How to Build a Light Therapy Box">
+    <img class="Image" alt="build a light therapy box" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/b100a98/2147483647/strip/true/crop/1200x784+0+8/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fc8%2Ff9%2Fd70de75e4ba3b582dd2883f9726e%2Fbuild-light-therapy-box.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/health-monitors">Health Monitors</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/how-to-build-a-light-therapy-box">How to Build a Light Therapy Box</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">With the changing seasons, the prevalence of Seasonal Affective Disorder increases. Seasonal Affective Disorder (SAD) is a specific type of depression related to a change in seasons. It’s caused by the reduced bright light in darker seasons. It affects many individuals, and affected individuals experience it at the same time every year. This disorder can cause low energy and low moods in the winter months. Fortunately, an effective and popular remedy is light therapy by using a light box.</div>
+        
+
+        
+            <div class="PromoB-date">February 01, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/tips-to-using-your-massage-gun" aria-label="Five Tips to Using Your Massage Gun">
+    <img class="Image" alt="tips to using your massage gun" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/57c71ee/2147483647/strip/true/crop/1200x784+0+8/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F38%2F34%2F3f23ad2c4cbcba7823ef974e069a%2Ftips-to-using-massage-gun.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/massage-relaxation">Massage &amp; Relaxation</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/tips-to-using-your-massage-gun">Five Tips to Using Your Massage Gun</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Massages have never been better with the help of massage guns. If you get yourself one, you’ll be sure to enjoy comfort. Massage guns are quick, powerful, and reliable.</div>
+        
+
+        
+            <div class="PromoB-date">February 01, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/what-is-an-antioxidant-and-how-do-i-add-them-to-my-diet" aria-label="What Is An Antioxidant, and How Do I Add Them to My Diet?">
+    <img class="Image" alt="" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/e584743/2147483647/strip/true/crop/1250x816+0+11/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F36%2F42%2F17c5fad64f23b9d3748e6ccd800b%2Fistock-643764514.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/nutrition-wellness">Nutrition &amp; Wellness</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/what-is-an-antioxidant-and-how-do-i-add-them-to-my-diet">What Is An Antioxidant, and How Do I Add Them to My Diet?</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">You've most likely heard that antioxidants can do quite a lot for your body. According to most research studies, they are capable of preventing various kinds of diseases, including diabetes, heart attack, and cancer. Nevertheless, what are antioxidants, and how can you implement them in your diet? Well, don't worry because in our article we will do our actual best to provide an adequate answer to your questions.</div>
+        
+
+        
+            <div class="PromoB-date">January 26, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/clock-radio" aria-label="Take a Look at the Best Clock Radios in 2021">
+    <img class="Image" alt="Best Digital Dual Alarm 6 Sounds Adjustable Volume Clock Radio" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/2d640b7/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fcc%2F35%2Fd1cc98a04cbc9b27c9f44f7f0abd%2Fuscce-digital-dual-alarm-6-sounds-adjustable-volume-clock-radio-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/sleep-rest">Sleep &amp; Rest</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/clock-radio">Take a Look at the Best Clock Radios in 2021</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Clock radios are a classic way to ensure you are on time for work, school, or your other hobbies. Although you can still purchase a classic clock radio with access to a couple of radio channels and a traditional buzzer, there are many more options to choose from these days.A clock radio doesn’t just need to be functional, but it should contribute to your happiness by matching your style and waking you in the most pleasant way possible. With so many products on the market, you can guarantee your perfect clock radio is available somewhere. However, finding it amongst less compatible products might seem like a daunting task.To help you find the best clock radio, we will discuss several factors and features you should consider before making a purchase. First, you can read our list of the best clock radios in 2021 below— we are confident you will love our selection.</div>
+        
+
+        
+            <div class="PromoB-date">January 12, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/dairy-free-protein-powders" aria-label="Best Dairy-Free Protein Powders">
+    <img class="Image" alt="Best Organic Plant Based Dairy-Free Protein Powder" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/0e8f073/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F7d%2F31%2Fd12776b34350a050d1c749dc55a1%2Forgain-organic-plant-based-dairyfree-protein-powder-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/nutrition-wellness">Nutrition &amp; Wellness</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/dairy-free-protein-powders">Best Dairy-Free Protein Powders</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Protein powders can serve as a delicious and nutritious snack to accompany a meal. Whether you’re looking for a fast-acting supplement or a delicious, nutrient-dense protein powder to fuel your workout regimen, we’ve got you covered. We have a few great suggestions regarding what to look for in protein powders, so check them out below.</div>
+        
+
+        
+            <div class="PromoB-date">January 04, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-twin-mattress" aria-label="Sleep With Comfort on One of The Best Twin Mattresses">
+    <img class="Image" alt="Best Breathable Cover Twin Mattress" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/e99e541/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F83%2F11%2F62c7f370472ea7ed56dcd62b5649%2Flucid-breathable-cover-twin-mattress-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/sleep-rest">Sleep &amp; Rest</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-twin-mattress">Sleep With Comfort on One of The Best Twin Mattresses</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Are you hunting for a twin mattress to finish up that guest room you've been trying to complete for ages? If the answer is yes, then you are absolutely in the right place! Twin mattresses are one of the most flexible, convenient, and affordable types of mattresses. Not just for kids’ bedrooms, they are also a great option for your college dorm room or first apartment furnishing. Also, twin mattresses can be a lifesaver if you are trying to set up a cozy guest room, especially when you're on a tight budget.To give you a helping hand in finding the right product for you, we've done the research and are sharing our top recommendations for some of the best twin mattresses on the market. Also included below is a detailed buying guide with some essential considerations to make the buying process more convenient for you. Read on below!</div>
+        
+
+        
+            <div class="PromoB-date">December 15, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/mica-powder" aria-label="Get Creative With the Best Mica Powder">
+    <img class="Image" alt="Best 24 Colors Pearlescent Mica Powder" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/ee7f303/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fc5%2F56%2F082c4c9645d2b8c1573680ff7fbe%2Froxy-epoxy-24-colors-pearlescent-mica-powder-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/nutrition-wellness">Nutrition &amp; Wellness</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/mica-powder">Get Creative With the Best Mica Powder</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Mica is a natural mineral found all over the world. This powder uses ground-up mica and is coated with other minerals like tin and iron oxide. The purpose of mica powder is to create a beautiful sheen to various pieces of artwork or products.Mica powder is often used to make soap, resin, candles, and polymer clay sparkle. It doesn’t add much color, unless it's added in, just a sparkle that can be as subtle or bold as you like. There are many mica products to choose from, so how do you choose the best one?Later in the article, we will discuss how to choose the best product for your needs. But, first, you may want to discover some of the best mica powders in 2022.Check out our comprehensive selection below.</div>
+        
+
+        
+            <div class="PromoB-date">December 02, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/full-memory-foam-mattress" aria-label="Best Full Memory Foam Mattresses">
+    <img class="Image" alt="Best 8 Inch Gel-Infused Green Tea Full Memory Foam Mattresses" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/ebb0fd9/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F9d%2F57%2F0cdb8a5e4148aa779df124fbc134%2Fzinus-8-inch-gelinfused-green-tea-full-memory-foam-mattresses-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/sleep-rest">Sleep &amp; Rest</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/full-memory-foam-mattress">Best Full Memory Foam Mattresses</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Memory foam mattresses have loads of benefits, from being shipped in an easy-to-assemble box to relieving pain. No matter the firmness you prefer or if you’re a hot sleeper, there’s a memory foam mattress out there for you. After conducting extensive research, we have found the best full memory foam mattresses of 2021. A full mattress is a great step up from a twin, giving you some extra sleeping room without taking up too much room space. Read on to find the mattress you’ve been dreaming of for a comfortable sleep.</div>
+        
+
+        
+            <div class="PromoB-date">November 24, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/full-size-mattress" aria-label="Review: Best Full-Size Mattresses">
+    <img class="Image" alt="TUFT_and_NEEDLE_ original_ full_adaptive_foam_mattress_bestcovery.png" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/08c2fed/2147483647/strip/true/crop/958x626+0+188/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Ff1%2F45%2F31e1160540599eddaeae4bbd088e%2Ftuft-and-needle-original-full-adaptive-foam-mattress-bestcovery.png" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/sleep-rest">Sleep &amp; Rest</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/full-size-mattress">Review: Best Full-Size Mattresses</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Are you struggling to find the best full-size mattresses? Well, worry no more! Our team of experts have put in the research to find the perfect full-size mattress for your needs. Foam mattresses are very popular nowadays thanks to them being very supportive and easy to ship. Others are a mix of foam and springs. You'll see both on our list which you can decide which is best for you.Continue reading to find the best full-size mattresses reviewed, along with an insightful buying guide so you can get a restful night's sleep.</div>
+        
+
+        
+            <div class="PromoB-date">November 18, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/disposable-razors-for-women" aria-label="Best Disposable Razors For Women">
+    <img class="Image" alt="Best Tropical Value Pack 6 Disposable Razor For Women" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/7a40e3e/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F67%2F74%2F0444a68347d5a8fbf92d2969e45b%2Fgillette-venus-tropical-value-pack-6-disposable-razor-for-women-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/personal-care">Personal Care</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/disposable-razors-for-women">Best Disposable Razors For Women</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Hair removal for women can become a full-time job, so it is at least important to find ways to make it easy and no-hassle. Having disposable razors can save time and energy, while still ensuring you receive that silky soft feel expensive and reusable razors leave behind. We have searched the internet and compiled a list of the best disposable razors to order online.</div>
+        
+
+        
+            <div class="PromoB-date">November 17, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/blister-bandage" aria-label="Review: Best Blister Bandages">
+    <img class="Image" alt="Best Antibacterial Heavy Fabric Blister Bandage" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/b15feba/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fca%2Fdc%2Ff36af50f48bcb15a2c58328fb8e5%2Fall-health-antibacterial-heavy-fabric-blister-bandage-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/health-beauty">Health &amp; Beauty</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/blister-bandage">Review: Best Blister Bandages</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">If you are a runner or hiker, you know the pain that blisters can cause. They can ruin your entire hiking experience. Blisters can form if you wear the wrong type/size of shoes or by pushing yourself to walk or run more than usual. Whatever the cause, they can hurt a lot and you need a quick fix to treat them. That is what blister bandages are for. Our team has prepared this guide to help you choose the most effective blister bandages.Some athletes like to use blister bandages to prevent blisters as well. If you are wondering about their effectiveness in treating and preventing blisters, you have come to the right place. This complete guide will help you find the highest-rated blister bandages and inform you about their importance and effectiveness.</div>
+        
+
+        
+            <div class="PromoB-date">November 16, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/microfiber-duster" aria-label="Review: Best Microfiber Dusters">
+    <img class="Image" alt="Best 3 Pack Microfiber Duster" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/c4317b8/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Ff5%2Ffd%2Fe37b1cbd476da5c5785e7f4e234a%2Fmcomce-3-pack-microfiber-duster-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/health-beauty">Health &amp; Beauty</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/microfiber-duster">Review: Best Microfiber Dusters</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Microfiber dusters have gained popularity due to their ability to absorb dust better than other cloth rags, and for being eco friendly. A lot of companies are manufacturing microfiber dusters due to ever-increasing demand, and it can become overwhelming to pick the right one for your needs. Our team has prepared this guide to help you choose the finest microfiber dusters in 2022, with a list of our top picks, valuable information to help you make the right choice, and tips for using them efficiently. Dust can easily accumulate on surfaces, and it can become difficult to clean every nook and corner without a strong alcohol cleaner. Microfiber dusters help make the job easier because they can absorb even tiny dust particles efficiently, without the need of using a cleaner. You can dust almost any item with a microfiber duster including cars, computers, air conditioners, and televisions.</div>
+        
+
+        
+            <div class="PromoB-date">November 16, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/box-spring" aria-label="The Best Box Springs For Great Sleep">
+    <img class="Image" alt="Best Box Spring" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/3a6b69b/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F25%2F75%2F50df02224b65bf7055ea5afe72e8%2Fcasper-sleep-box-spring-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/sleep-rest">Sleep &amp; Rest</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/box-spring">The Best Box Springs For Great Sleep</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">A bedding necessity, the box spring is the lowest portion of the bed that bridges the gap between the floor and mattress. It not only provides back support and shock absorption, but it can also extend the longevity of your mattress, elevate your bed, and prevent it from premature wear and sagging. Although a box spring isn’t a necessity, some mattress manufacturers make it a condition to use a box spring for a warranty. The old box springs came with internal springs; however, the modern ones use metal rods.Even though a box spring is concealed beneath your bedding and mattress, it doesn’t mean that you shouldn’t be picky about it. It can be the difference between good or bad sleep. When you’re out in the market for box springs, you'll find them in various tiers, types, and features. But we've done all the research for you to make things easy. Read on to find out which of the top box springs on the market are perfect for you.</div>
+        
+
+        
+            <div class="PromoB-date">November 11, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/is-matcha-good-for-you-the-health-benefits-explained" aria-label="Is Matcha Good For You? The Health Benefits Explained">
+    <img class="Image" alt="Is Matcha Good For You? The Health Benefits Explained" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/dfe53e5/2147483647/strip/true/crop/1224x799+0+28/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fa6%2F40%2F5c09781f4cf48824f1fe7e9d18f7%2Fmatcha-health-benefits-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/nutrition-wellness">Nutrition &amp; Wellness</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/is-matcha-good-for-you-the-health-benefits-explained">Is Matcha Good For You? The Health Benefits Explained</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Matcha is made from the Camellia sinensis plant, just like green tea. It is, however, cultivated differently and has a distinct nutritional profile. Matcha is grown by covering tea plants a month before harvest to protect them from straight sunshine. This enhances amino acid content, promotes chlorophyll synthesis, and gives the plant a deeper green color.</div>
+        
+
+        
+            <div class="PromoB-date">November 10, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="article">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/which-pillow-is-right-for-your-sleep-style" aria-label="Which Pillow is Right For Your Sleep Style?">
+    <img class="Image" alt="Which Pillow is Right For Your Sleep Style" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/0ece264/2147483647/strip/true/crop/1200x784+0+8/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F86%2F39%2F24614ae3456c94c4ee9f601a1bec%2Fpillows-for-your-sleep-style-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/sleep-rest">Sleep &amp; Rest</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/which-pillow-is-right-for-your-sleep-style">Which Pillow is Right For Your Sleep Style?</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The correct pillow will offer you pleasant support while you sleep. The way you sleep has a significant influence on your fitness. Sleeping posture has an impact on breathing, spinal alignment, and even skin wrinkles. Using the proper pillow with the correct balance of filling and napping in the right angles are proven strategies to obtain a healthier night's sleep. Realizing how to sleep well can help you live a better life.</div>
+        
+
+        
+            <div class="PromoB-date">November 10, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/hair-towel" aria-label="Get Yourself Dry with the Best Hair Towels">
+    <img class="Image" alt="Best Microfiber Rectangle Hair Towel" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/000ceca/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F6e%2F19%2F7ecb91994206be5046fa9d2621aa%2Fscala-microfiber-rectangle-hair-towel-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/haircare">Haircare</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/hair-towel">Get Yourself Dry with the Best Hair Towels</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">You may have gone through life using a regular towel to dry your hair; after all, its purpose is to dry, right? While a regular bath towel is perfectly suited to drying your skin, your hair needs to be treated differently because it is different. Using a regular towel requires rubbing the hair because it is not absorbent enough to dry quickly. This friction causes frizz and damages your hair.Another thing that damages your hair is a long drying time. When your hair is wet its cuticles expand and when your hair dries, they contract. When you have enlarged cuticles for a long time, it weakens your hair when they contract back to their normal size. This is especially a problem if your hair has a high porosity.To combat this problem, the answer is to dry your hair quickly in a less damaging way (no not using a hairdryer). The answer is a super absorbent hair towel!To help you choose the perfect hair towel, we have come up with the best hair towels in 2022.Continue reading to check them out!</div>
+        
+
+        
+            <div class="PromoB-date">November 09, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-razor-for-shaving-your-head" aria-label="Best Razors For Head Shaving">
+    <img class="Image" alt="Best Dual Active Razor For Shaving Your Head" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/706c224/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F44%2F09%2Fcad6a9bd41a8ae1fc468ef22fe94%2Fheadblade-razor-for-shaving-your-head-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/personal-care">Personal Care</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-razor-for-shaving-your-head">Best Razors For Head Shaving</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">High quality razors are a must-have, but quality is even more important when looking for the right razor for your hair. You need the closest and cleanest shave possible, and others will notice if it's botched by using a low quality product. If you're looking for high-quality razors, you have come to the right place. We've gathered some great head razor options available online for you to choose from. Check them out!</div>
+        
+
+        
+            <div class="PromoB-date">November 05, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-grade-matchas" aria-label="Keep Your Mind Focused With the Best Grade Matcha">
+    <img class="Image" alt="Best Organic Grade Matcha" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/392274b/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Faa%2F1c%2F41c592ec46f7b81f7bc61a90c70c%2Fuvernal-organic-matcha-green-tea-powder-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/nutrition-wellness">Nutrition &amp; Wellness</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-grade-matchas">Keep Your Mind Focused With the Best Grade Matcha</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Recently, the market value for Grade Macha has increased rapidly and its popularity is skyrocketing. But it is hard to make it out of scratch. However, just like instant coffee, grade matcha allows users to make this popular drink at home without any inconvenience at all.It can be used to make matcha dessert, tea, shots, and lattes. Besides, grade matcha earns extra points in terms of health and emotional well-being.To cater to the increasing demand, several grade matcha powders are available on the market. Our team has spent hours bringing you this buying guide that will help you decide the best ones out there. Read on to learn about grade matcha with our buying guide and its benefits.</div>
+        
+
+        
+            <div class="PromoB-date">November 04, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/castor-oil" aria-label="Best Castor Oils - A Helpful Buying Guide For You!">
+    <img class="Image" alt="Best Natural &amp; Unbleached Castor Oil" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/b15cb10/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F51%2F7c%2Faa405d954d37b306c88670e41731%2Fheritage-store-natural-unbleached-castor-oil-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/haircare">Haircare</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/castor-oil">Best Castor Oils - A Helpful Buying Guide For You!</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Castor oil! It is a multi-purpose vegetable oil and is made by extracting oil from the seeds of the Ricinus communis plant. The seeds are also called castor beans, and they have a toxic enzyme called ricin. Note that the heating process through which castor oil has to pass deactivates it, enabling it to be used safely for various purposes. This oil has multiple industrial, medicinal, and pharmaceutical uses. It is commonly used as an additive in foods, medication, and skincare products. In addition, it is also used as a biodiesel fuel component and industrial lubricant. Planning to buy the best castor oils in 2021? Have a look at the following products:</div>
+        
+
+        
+            <div class="PromoB-date">November 04, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/healthy-snack" aria-label="Best Healthy Snacks to Give You All-Day Energy">
+    <img class="Image" alt="Best Snacks Gluten Healthy Snack" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/776c8ee/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F08%2Fd2%2Fc110baa1496f8959b8385a8a29af%2Fpopcorners-snacks-gluten-healthy-snack-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/nutrition-wellness">Nutrition &amp; Wellness</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/healthy-snack">Best Healthy Snacks to Give You All-Day Energy</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Most people struggle to find the time to cook healthy and nutritious snacks. The best snacks are packed with delicious, nutritious, and healthy ingredients. Thankfully, these can be purchased pre-packaged and ready-to-go as long as you take the time to find truly healthy options. Take a look at these best healthy snacks in 2022 picks!</div>
+        
+
+        
+            <div class="PromoB-date">November 03, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-vibration-platform-machine" aria-label="Best Vibration Platform Machines">
+    <img class="Image" alt="Best Waver Whole Body Workout Vibration Platform Machine" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/11dd215/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F5a%2F3e%2Ffc8439a3483a85da91662e06d5c4%2Fbest-vibration-platform-machine-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/massage-relaxation">Massage &amp; Relaxation</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-vibration-platform-machine">Best Vibration Platform Machines</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">There are many obstacles that people face when they try to be fit. Perhaps you don’t have time to go to the gym; maybe your metabolism is working against you. Whatever the reason, there is always an option to counter the obstacle. A vibration platform machine might be a great complementary system for your fitness strategy. These systems improve blood circulation and can help you become healthier and in better shape. In this list, you’ll be able to discover the best vibration machines in 2021 on the market.</div>
+        
+
+        
+            <div class="PromoB-date">November 02, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/body-care-products" aria-label="Best Body Care Products for Smooth, Healthy Skin">
+    <img class="Image" alt="Best Loofah Back Scrubber with Bamboo Charcoal Body Care Products" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/5caa9db/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fa2%2F4c%2Fa54af1ef4285b85b62ea77420192%2Fyoove-loofah-back-scrubber-with-bamboo-charcoal-body-care-products-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/personal-care">Personal Care</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/body-care-products">Best Body Care Products for Smooth, Healthy Skin</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Body care products are not just restricted to females. People of all ages and genders should take care of their bodies. This stereotype is slowly fading as a lot of companies have started providing body care products for men as well. A lot of the products are not gender-labelled, and these can be used by all genders. Exfoliating and moisturising your body is important to keep it healthy and get rid of dead skin cells. If you are confused about which body care products you should buy, fret no more because we are here to help. This guide will help you choose the most premium body care products in 2022.Keep reading to find out the products you need to take care of different skin regions like your skin, scalp, and face that will not break the bank.</div>
+        
+
+        
+            <div class="PromoB-date">November 01, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+            </ul>
+        
+    </div>
+
+    
+        <div class="ListE-nextPage" data-list-loadmore-pagination>
+            <a class="ButtonHoverOpacity Link" href="?00000171-757e-dc5d-a17d-f5ff52d40000-page=2">Load More</a>
+        </div>
+    
+</ps-list-loadmore>
+            </div>
+        
+    </div>
+</div>
+
+    </div>
+
+
+
+
+        
+    
+</main>
+
+
+
+<footer class="Page-footer" itemscope itemtype="https://schema.org/WPFooter">
+    <div class="Page-footer-body">
+        
+
+        <div class="Page-footer-columns">
+            <div class="Page-footer-column">
+                
+                    <div class="Page-footer-navigation">
+                        <nav class="FooterNavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+        <ul class="FooterNavigation-items">
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/about-us">About Us</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/privacy-policy">Privacy Policy</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/terms-use">Terms of Use</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/contact-us">Contact Us</a>
+    
+    
+</div>
+                </li>
+            
+        </ul>
+    
+</nav>
+                    </div>
+                
+            </div>
+            
+                <div class="Page-footer-column">
+                    <div class="Page-footer-content title-5">
+                        
+    <div class="RichTextModule">
+        
+            <div class="RichTextModule-items RichTextBody"><p>Follow Us</p></div>
+        
+
+    </div>
+<nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item"> <a class="SocialLink" rel="noreferrer noopener nofollow" href="https://www.facebook.com/Bestcovery/" target="_blank" data-social-service="facebook"><svg><use xlink:href="#mono-icon-facebook"></use></svg><span class="sr-only">facebook</span></a>
+</li>
+            
+                <li class="Navigation-items-item"> <a class="SocialLink" rel="noreferrer noopener nofollow" href="https://twitter.com/Bestcovery" target="_blank" data-social-service="twitter"><svg><use xlink:href="#mono-icon-twitter"></use></svg><span class="sr-only">twitter</span></a>
+</li>
+            
+        </ul>
+    
+</nav>
+                    </div>
+                </div>
+            
+        </div>
+
+        
+            <div class="Page-footer-disclaimer text-preview">Copyright 2023 Bestcovery.com, LLC. All rights reserved.</div>
+        
+    </div>
+</footer>
+
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Special Supplements</title>
+    <link>https://www.latimes.com/specialsupplements</link>
+    <description>Special Supplements</description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 24 May 2023 17:44:02 GMT</lastBuildDate>
+    <atom:link href="https://www.latimes.com/specialsupplements.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Best of the Southland</title>
+    <link>https://www.latimes.com/bestofthesouthland</link>
+    <description>Best of the Southland</description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 May 2023 07:01:02 GMT</lastBuildDate>
+    <atom:link href="https://www.latimes.com/bestofthesouthland.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

@@ -1,0 +1,1664 @@
+<!DOCTYPE html>
+<html class="BestList" lang="en" itemscope itemtype="http://schema.org/WebPage">
+<head>
+    <meta charset="UTF-8">
+
+    <style data-cssvarsponyfill="true">
+                :root {
+        --primaryColor1: #4079ad;
+        --primaryColor2: #000000;
+
+        --primaryTextColor: #333333;
+        --secondaryTextColor: #4079ad;
+        --breakingColor: #e9873f;
+
+        --secondaryColor1: #858585;
+        --secondaryColor2: #cccccc;
+        --secondaryColor3: #e6e6e6;
+        --secondaryColor4: #f5f5f5;
+        --secondaryColor5: #ffffff;
+        --secondaryColor6: #e12327;
+        --secondaryColor7: #4079ad;
+        --secondaryColor8: #202f3f;
+        --secondaryColor9: #666666;
+
+        --siteBgColor: #ffffff;
+        --siteInverseBgColor: #000000;
+
+        --headerBgColor: #ffffff;
+        --headerBgColorInverse: #000000;
+        --headerBorderColor: #e6e6e6;
+        --headerBorderColorInverse: #858585;
+        --headerTextColor: #333333;
+        --headerTextColorInverse: #ffffff;
+        --headerMenuBgColor: #ffffff;
+        --headerMenuTextColor: #ffffff;
+
+        --secondaryHeaderBgColor: #ffffff;
+        --secondaryHeaderTextColor: #333333;
+
+        --footerBgColor: #000000;
+        --footerTextColor: #ffffff;
+
+        --primaryTextColorInverse: #ffffff;
+        --secondaryTextColorInverse: #cccccc;
+        --tertiaryTextColor: #999999;
+        --tertiaryTextColorInverse: #cccccc;
+
+        --listBorderColor: #000000;
+        --gridBorderColor: #e6e6e6;
+
+        --buttonBgColor: #4079ad;
+        --buttonSecondaryBgColor: #ffffff;
+        --buttonSecondaryTextColor: #333333;
+        --buttonTextColor: #ffffff;
+        --inverseButtonBgColor: #030202;
+        --tagButtonBorderColor: #e6e6e6;
+        --tagButtonTextColor: #ff6f00;
+
+        --breakingTextColor: #ffffff;
+
+        --sectionTextColor: #ff6f00;
+
+        --primaryHeadlineFont: Oswald;
+        --secondaryHeadlineFont: Oswald;
+        --bodyFont: Roboto;
+
+        --contentWidth: 1200px;
+        }
+
+    </style>
+
+    
+
+    <meta property="og:url" content="https://www.latimes.com/bestcovery/best-hdtv-overall">
+
+
+    <meta property="og:site_name" content="Bestcovery">
+
+
+
+    <meta property="og:type" content="website">
+
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+
+    <link data-cssvarsponyfill="true" class="Webpack-css" rel="stylesheet" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/All.min.4d29e7a04ca97ea10a5aedec469cda49.css">
+
+    <style>.Page-above {
+    display: block !important;
+}
+
+.InfoBoxBody {
+	font-size: 14px;
+}</style>
+<style>.BestList-container .body-2 a {
+    color: var(--primaryColor1);
+    text-decoration: underline;
+}</style>
+<style>@media (min-width: 768px){
+    .ToggleText-content {
+    	max-height: none !important;
+    }
+
+    .ToggleText-more {
+        display: none !important;
+    }
+
+    .ToggleText-content:after {
+        display: none !important;
+    }
+}</style>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"><title>The Best HDTVs in 2022 | Review by Bestcovery</title><meta name="description" content="Watching things on TV may be your main source of entertainment, so it only makes sense to have the best HDTV of 2022 for perfect picture quality. "><link rel="canonical" href="https://www.latimes.com/bestcovery/best-hdtv-overall"><meta name="brightspot.contentId" content="0000016e-656d-d2e1-a3fe-756d7f350001"><link rel="apple-touch-icon" sizes="180x180" href="/styleguide/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/favicon-32x32.bf34a9f07d94299a7699e16042ef11fd.png">
+<link rel="icon" type="image/png" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/favicon-16x16.9f124a4f6e59c7927104889e0167e7ef.png">
+    <script>var _lb = '1';</script>
+<script src="https://activate.platform.californiatimes.com/caltimes/bestcovery/Bootstrap.js" async></script>
+<link rel="amphtml" href="https://www.latimes.com/bestcovery/best-hdtv-overall?_amp=true">
+
+    
+
+    <!--This is needed for custom elements to function in browsers that
+    support them natively but that are using es6 code transpiled to es5.
+    This will cause a non-fatal error to show up in the IE11 console.
+    It can be safely ignored. https://github.com/webcomponents/webcomponentsjs/issues/749 -->
+    <script>
+        (function () {
+        'use strict';
+
+        (()=>{'use strict';if(!window.customElements)return;const a=window.HTMLElement,b=window.customElements.define,c=window.customElements.get,d=new Map,e=new Map;let f=!1,g=!1;window.HTMLElement=function(){if(!f){const a=d.get(this.constructor),b=c.call(window.customElements,a);g=!0;const e=new b;return e}f=!1;},window.HTMLElement.prototype=a.prototype;Object.defineProperty(window,'customElements',{value:window.customElements,configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'define',{value:(c,h)=>{const i=h.prototype,j=class extends a{constructor(){super(),Object.setPrototypeOf(this,i),g||(f=!0,h.call(this)),g=!1;}},k=j.prototype;j.observedAttributes=h.observedAttributes,k.connectedCallback=i.connectedCallback,k.disconnectedCallback=i.disconnectedCallback,k.attributeChangedCallback=i.attributeChangedCallback,k.adoptedCallback=i.adoptedCallback,d.set(h,c),e.set(c,h),b.call(window.customElements,c,j);},configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'get',{value:(a)=>e.get(a),configurable:!0,writable:!0});})();
+
+        /**
+        @license
+        Copyright (c) 2017 The Polymer Project Authors. All rights reserved.
+        This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+        The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+        The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+        Code distributed by Google as part of the polymer project is also
+        subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+        */
+        }());
+    </script>
+    <script>
+        /**
+            For the fastest load times https://developers.google.com/speed/docs/insights/BlockingJS
+            and to prevent any FOUC, as well as prevent any race conditions for browsers that also
+            rely on the CSS variables polyfill, this is inlined.
+        **/
+        if (!window.customElements) {
+            (function(){
+                'use strict';var h=new function(){};var aa=new Set("annotation-xml color-profile font-face font-face-src font-face-uri font-face-format font-face-name missing-glyph".split(" "));function m(b){var a=aa.has(b);b=/^[a-z][.0-9_a-z]*-[\-.0-9_a-z]*$/.test(b);return!a&&b}function n(b){var a=b.isConnected;if(void 0!==a)return a;for(;b&&!(b.__CE_isImportDocument||b instanceof Document);)b=b.parentNode||(window.ShadowRoot&&b instanceof ShadowRoot?b.host:void 0);return!(!b||!(b.__CE_isImportDocument||b instanceof Document))}
+                function p(b,a){for(;a&&a!==b&&!a.nextSibling;)a=a.parentNode;return a&&a!==b?a.nextSibling:null}
+                function t(b,a,c){c=c?c:new Set;for(var d=b;d;){if(d.nodeType===Node.ELEMENT_NODE){var e=d;a(e);var f=e.localName;if("link"===f&&"import"===e.getAttribute("rel")){d=e.import;if(d instanceof Node&&!c.has(d))for(c.add(d),d=d.firstChild;d;d=d.nextSibling)t(d,a,c);d=p(b,e);continue}else if("template"===f){d=p(b,e);continue}if(e=e.__CE_shadowRoot)for(e=e.firstChild;e;e=e.nextSibling)t(e,a,c)}d=d.firstChild?d.firstChild:p(b,d)}}function u(b,a,c){b[a]=c};function v(){this.a=new Map;this.s=new Map;this.f=[];this.b=!1}function ba(b,a,c){b.a.set(a,c);b.s.set(c.constructor,c)}function w(b,a){b.b=!0;b.f.push(a)}function x(b,a){b.b&&t(a,function(a){return y(b,a)})}function y(b,a){if(b.b&&!a.__CE_patched){a.__CE_patched=!0;for(var c=0;c<b.f.length;c++)b.f[c](a)}}function z(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state?b.connectedCallback(d):A(b,d)}}
+                function B(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state&&b.disconnectedCallback(d)}}
+                function C(b,a,c){c=c?c:{};var d=c.w||new Set,e=c.i||function(a){return A(b,a)},f=[];t(a,function(a){if("link"===a.localName&&"import"===a.getAttribute("rel")){var c=a.import;c instanceof Node&&(c.__CE_isImportDocument=!0,c.__CE_hasRegistry=!0);c&&"complete"===c.readyState?c.__CE_documentLoadHandled=!0:a.addEventListener("load",function(){var c=a.import;if(!c.__CE_documentLoadHandled){c.__CE_documentLoadHandled=!0;var f=new Set(d);f.delete(c);C(b,c,{w:f,i:e})}})}else f.push(a)},d);if(b.b)for(a=0;a<
+                f.length;a++)y(b,f[a]);for(a=0;a<f.length;a++)e(f[a])}
+                function A(b,a){if(void 0===a.__CE_state){var c=a.ownerDocument;if(c.defaultView||c.__CE_isImportDocument&&c.__CE_hasRegistry)if(c=b.a.get(a.localName)){c.constructionStack.push(a);var d=c.constructor;try{try{if(new d!==a)throw Error("The custom element constructor did not produce the element being upgraded.");}finally{c.constructionStack.pop()}}catch(r){throw a.__CE_state=2,r;}a.__CE_state=1;a.__CE_definition=c;if(c.attributeChangedCallback)for(c=c.observedAttributes,d=0;d<c.length;d++){var e=c[d],
+                        f=a.getAttribute(e);null!==f&&b.attributeChangedCallback(a,e,null,f,null)}n(a)&&b.connectedCallback(a)}}}v.prototype.connectedCallback=function(b){var a=b.__CE_definition;a.connectedCallback&&a.connectedCallback.call(b)};v.prototype.disconnectedCallback=function(b){var a=b.__CE_definition;a.disconnectedCallback&&a.disconnectedCallback.call(b)};
+                v.prototype.attributeChangedCallback=function(b,a,c,d,e){var f=b.__CE_definition;f.attributeChangedCallback&&-1<f.observedAttributes.indexOf(a)&&f.attributeChangedCallback.call(b,a,c,d,e)};function D(b,a){this.c=b;this.a=a;this.b=void 0;C(this.c,this.a);"loading"===this.a.readyState&&(this.b=new MutationObserver(this.f.bind(this)),this.b.observe(this.a,{childList:!0,subtree:!0}))}function E(b){b.b&&b.b.disconnect()}D.prototype.f=function(b){var a=this.a.readyState;"interactive"!==a&&"complete"!==a||E(this);for(a=0;a<b.length;a++)for(var c=b[a].addedNodes,d=0;d<c.length;d++)C(this.c,c[d])};function ca(){var b=this;this.b=this.a=void 0;this.f=new Promise(function(a){b.b=a;b.a&&a(b.a)})}function F(b){if(b.a)throw Error("Already resolved.");b.a=void 0;b.b&&b.b(void 0)};function G(b){this.j=!1;this.c=b;this.o=new Map;this.l=function(b){return b()};this.g=!1;this.m=[];this.u=new D(b,document)}
+                G.prototype.define=function(b,a){var c=this;if(!(a instanceof Function))throw new TypeError("Custom element constructors must be functions.");if(!m(b))throw new SyntaxError("The element name '"+b+"' is not valid.");if(this.c.a.get(b))throw Error("A custom element with name '"+b+"' has already been defined.");if(this.j)throw Error("A custom element is already being defined.");this.j=!0;var d,e,f,r,k;try{var g=function(b){var a=l[b];if(void 0!==a&&!(a instanceof Function))throw Error("The '"+b+"' callback must be a function.");
+                    return a},l=a.prototype;if(!(l instanceof Object))throw new TypeError("The custom element constructor's prototype is not an object.");d=g("connectedCallback");e=g("disconnectedCallback");f=g("adoptedCallback");r=g("attributeChangedCallback");k=a.observedAttributes||[]}catch(q){return}finally{this.j=!1}a={localName:b,constructor:a,connectedCallback:d,disconnectedCallback:e,adoptedCallback:f,attributeChangedCallback:r,observedAttributes:k,constructionStack:[]};ba(this.c,b,a);this.m.push(a);this.g||
+                (this.g=!0,this.l(function(){return da(c)}))};G.prototype.i=function(b){C(this.c,b)};function da(b){if(!1!==b.g){b.g=!1;for(var a=b.m,c=[],d=new Map,e=0;e<a.length;e++)d.set(a[e].localName,[]);C(b.c,document,{i:function(a){if(void 0===a.__CE_state){var e=a.localName,f=d.get(e);f?f.push(a):b.c.a.get(e)&&c.push(a)}}});for(e=0;e<c.length;e++)A(b.c,c[e]);for(;0<a.length;){for(var f=a.shift(),e=f.localName,f=d.get(f.localName),r=0;r<f.length;r++)A(b.c,f[r]);(e=b.o.get(e))&&F(e)}}}
+                G.prototype.get=function(b){if(b=this.c.a.get(b))return b.constructor};G.prototype.whenDefined=function(b){if(!m(b))return Promise.reject(new SyntaxError("'"+b+"' is not a valid custom element name."));var a=this.o.get(b);if(a)return a.f;a=new ca;this.o.set(b,a);this.c.a.get(b)&&!this.m.some(function(a){return a.localName===b})&&F(a);return a.f};G.prototype.v=function(b){E(this.u);var a=this.l;this.l=function(c){return b(function(){return a(c)})}};window.CustomElementRegistry=G;
+                G.prototype.define=G.prototype.define;G.prototype.upgrade=G.prototype.i;G.prototype.get=G.prototype.get;G.prototype.whenDefined=G.prototype.whenDefined;G.prototype.polyfillWrapFlushCallback=G.prototype.v;var H=window.Document.prototype.createElement,ea=window.Document.prototype.createElementNS,fa=window.Document.prototype.importNode,ga=window.Document.prototype.prepend,ha=window.Document.prototype.append,ia=window.DocumentFragment.prototype.prepend,ja=window.DocumentFragment.prototype.append,I=window.Node.prototype.cloneNode,J=window.Node.prototype.appendChild,K=window.Node.prototype.insertBefore,L=window.Node.prototype.removeChild,M=window.Node.prototype.replaceChild,N=Object.getOwnPropertyDescriptor(window.Node.prototype,
+                        "textContent"),O=window.Element.prototype.attachShadow,P=Object.getOwnPropertyDescriptor(window.Element.prototype,"innerHTML"),Q=window.Element.prototype.getAttribute,R=window.Element.prototype.setAttribute,S=window.Element.prototype.removeAttribute,T=window.Element.prototype.getAttributeNS,U=window.Element.prototype.setAttributeNS,ka=window.Element.prototype.removeAttributeNS,la=window.Element.prototype.insertAdjacentElement,ma=window.Element.prototype.insertAdjacentHTML,na=window.Element.prototype.prepend,
+                        oa=window.Element.prototype.append,V=window.Element.prototype.before,pa=window.Element.prototype.after,qa=window.Element.prototype.replaceWith,ra=window.Element.prototype.remove,sa=window.HTMLElement,W=Object.getOwnPropertyDescriptor(window.HTMLElement.prototype,"innerHTML"),ta=window.HTMLElement.prototype.insertAdjacentElement,ua=window.HTMLElement.prototype.insertAdjacentHTML;function va(){var b=X;window.HTMLElement=function(){function a(){var a=this.constructor,d=b.s.get(a);if(!d)throw Error("The custom element being constructed was not registered with `customElements`.");var e=d.constructionStack;if(!e.length)return e=H.call(document,d.localName),Object.setPrototypeOf(e,a.prototype),e.__CE_state=1,e.__CE_definition=d,y(b,e),e;var d=e.length-1,f=e[d];if(f===h)throw Error("The HTMLElement constructor was either called reentrantly for this constructor or called multiple times.");
+                    e[d]=h;Object.setPrototypeOf(f,a.prototype);y(b,f);return f}a.prototype=sa.prototype;return a}()};function Y(b,a,c){function d(a){return function(c){for(var e=[],d=0;d<arguments.length;++d)e[d-0]=arguments[d];for(var d=[],f=[],l=0;l<e.length;l++){var q=e[l];q instanceof Element&&n(q)&&f.push(q);if(q instanceof DocumentFragment)for(q=q.firstChild;q;q=q.nextSibling)d.push(q);else d.push(q)}a.apply(this,e);for(e=0;e<f.length;e++)B(b,f[e]);if(n(this))for(e=0;e<d.length;e++)f=d[e],f instanceof Element&&z(b,f)}}c.h&&(a.prepend=d(c.h));c.append&&(a.append=d(c.append))};function wa(){var b=X;u(Document.prototype,"createElement",function(a){if(this.__CE_hasRegistry){var c=b.a.get(a);if(c)return new c.constructor}a=H.call(this,a);y(b,a);return a});u(Document.prototype,"importNode",function(a,c){a=fa.call(this,a,c);this.__CE_hasRegistry?C(b,a):x(b,a);return a});u(Document.prototype,"createElementNS",function(a,c){if(this.__CE_hasRegistry&&(null===a||"http://www.w3.org/1999/xhtml"===a)){var d=b.a.get(c);if(d)return new d.constructor}a=ea.call(this,a,c);y(b,a);return a});
+                    Y(b,Document.prototype,{h:ga,append:ha})};function xa(){var b=X;function a(a,d){Object.defineProperty(a,"textContent",{enumerable:d.enumerable,configurable:!0,get:d.get,set:function(a){if(this.nodeType===Node.TEXT_NODE)d.set.call(this,a);else{var e=void 0;if(this.firstChild){var c=this.childNodes,k=c.length;if(0<k&&n(this))for(var e=Array(k),g=0;g<k;g++)e[g]=c[g]}d.set.call(this,a);if(e)for(a=0;a<e.length;a++)B(b,e[a])}}})}u(Node.prototype,"insertBefore",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);
+                    a=K.call(this,a,d);if(n(this))for(d=0;d<e.length;d++)z(b,e[d]);return a}e=n(a);d=K.call(this,a,d);e&&B(b,a);n(this)&&z(b,a);return d});u(Node.prototype,"appendChild",function(a){if(a instanceof DocumentFragment){var c=Array.prototype.slice.apply(a.childNodes);a=J.call(this,a);if(n(this))for(var e=0;e<c.length;e++)z(b,c[e]);return a}c=n(a);e=J.call(this,a);c&&B(b,a);n(this)&&z(b,a);return e});u(Node.prototype,"cloneNode",function(a){a=I.call(this,a);this.ownerDocument.__CE_hasRegistry?C(b,a):x(b,a);
+                    return a});u(Node.prototype,"removeChild",function(a){var c=n(a),e=L.call(this,a);c&&B(b,a);return e});u(Node.prototype,"replaceChild",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);a=M.call(this,a,d);if(n(this))for(B(b,d),d=0;d<e.length;d++)z(b,e[d]);return a}var e=n(a),f=M.call(this,a,d),c=n(this);c&&B(b,d);e&&B(b,a);c&&z(b,a);return f});N&&N.get?a(Node.prototype,N):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){for(var a=[],b=
+                            0;b<this.childNodes.length;b++)a.push(this.childNodes[b].textContent);return a.join("")},set:function(a){for(;this.firstChild;)L.call(this,this.firstChild);J.call(this,document.createTextNode(a))}})})};function ya(b){var a=Element.prototype;function c(a){return function(e){for(var c=[],d=0;d<arguments.length;++d)c[d-0]=arguments[d];for(var d=[],k=[],g=0;g<c.length;g++){var l=c[g];l instanceof Element&&n(l)&&k.push(l);if(l instanceof DocumentFragment)for(l=l.firstChild;l;l=l.nextSibling)d.push(l);else d.push(l)}a.apply(this,c);for(c=0;c<k.length;c++)B(b,k[c]);if(n(this))for(c=0;c<d.length;c++)k=d[c],k instanceof Element&&z(b,k)}}V&&(a.before=c(V));V&&(a.after=c(pa));qa&&u(a,"replaceWith",function(a){for(var e=
+                        [],c=0;c<arguments.length;++c)e[c-0]=arguments[c];for(var c=[],d=[],k=0;k<e.length;k++){var g=e[k];g instanceof Element&&n(g)&&d.push(g);if(g instanceof DocumentFragment)for(g=g.firstChild;g;g=g.nextSibling)c.push(g);else c.push(g)}k=n(this);qa.apply(this,e);for(e=0;e<d.length;e++)B(b,d[e]);if(k)for(B(b,this),e=0;e<c.length;e++)d=c[e],d instanceof Element&&z(b,d)});ra&&u(a,"remove",function(){var a=n(this);ra.call(this);a&&B(b,this)})};function za(){var b=X;function a(a,c){Object.defineProperty(a,"innerHTML",{enumerable:c.enumerable,configurable:!0,get:c.get,set:function(a){var e=this,d=void 0;n(this)&&(d=[],t(this,function(a){a!==e&&d.push(a)}));c.set.call(this,a);if(d)for(var f=0;f<d.length;f++){var r=d[f];1===r.__CE_state&&b.disconnectedCallback(r)}this.ownerDocument.__CE_hasRegistry?C(b,this):x(b,this);return a}})}function c(a,c){u(a,"insertAdjacentElement",function(a,e){var d=n(e);a=c.call(this,a,e);d&&B(b,e);n(a)&&z(b,e);
+                    return a})}function d(a,c){function e(a,e){for(var c=[];a!==e;a=a.nextSibling)c.push(a);for(e=0;e<c.length;e++)C(b,c[e])}u(a,"insertAdjacentHTML",function(a,b){a=a.toLowerCase();if("beforebegin"===a){var d=this.previousSibling;c.call(this,a,b);e(d||this.parentNode.firstChild,this)}else if("afterbegin"===a)d=this.firstChild,c.call(this,a,b),e(this.firstChild,d);else if("beforeend"===a)d=this.lastChild,c.call(this,a,b),e(d||this.firstChild,null);else if("afterend"===a)d=this.nextSibling,c.call(this,
+                        a,b),e(this.nextSibling,d);else throw new SyntaxError("The value provided ("+String(a)+") is not one of 'beforebegin', 'afterbegin', 'beforeend', or 'afterend'.");})}O&&u(Element.prototype,"attachShadow",function(a){return this.__CE_shadowRoot=a=O.call(this,a)});P&&P.get?a(Element.prototype,P):W&&W.get?a(HTMLElement.prototype,W):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){return I.call(this,!0).innerHTML},set:function(a){var b="template"===this.localName,e=b?this.content:this,
+                            c=H.call(document,this.localName);for(c.innerHTML=a;0<e.childNodes.length;)L.call(e,e.childNodes[0]);for(a=b?c.content:c;0<a.childNodes.length;)J.call(e,a.childNodes[0])}})});u(Element.prototype,"setAttribute",function(a,c){if(1!==this.__CE_state)return R.call(this,a,c);var e=Q.call(this,a);R.call(this,a,c);c=Q.call(this,a);b.attributeChangedCallback(this,a,e,c,null)});u(Element.prototype,"setAttributeNS",function(a,c,d){if(1!==this.__CE_state)return U.call(this,a,c,d);var e=T.call(this,a,c);U.call(this,
+                        a,c,d);d=T.call(this,a,c);b.attributeChangedCallback(this,c,e,d,a)});u(Element.prototype,"removeAttribute",function(a){if(1!==this.__CE_state)return S.call(this,a);var c=Q.call(this,a);S.call(this,a);null!==c&&b.attributeChangedCallback(this,a,c,null,null)});u(Element.prototype,"removeAttributeNS",function(a,c){if(1!==this.__CE_state)return ka.call(this,a,c);var d=T.call(this,a,c);ka.call(this,a,c);var e=T.call(this,a,c);d!==e&&b.attributeChangedCallback(this,c,d,e,a)});ta?c(HTMLElement.prototype,
+                        ta):la?c(Element.prototype,la):console.warn("Custom Elements: `Element#insertAdjacentElement` was not patched.");ua?d(HTMLElement.prototype,ua):ma?d(Element.prototype,ma):console.warn("Custom Elements: `Element#insertAdjacentHTML` was not patched.");Y(b,Element.prototype,{h:na,append:oa});ya(b)};/*
+
+                Copyright (c) 2016 The Polymer Project Authors. All rights reserved.
+                This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+                The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+                The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+                Code distributed by Google as part of the polymer project is also
+                subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+                */
+                var Z=window.customElements;if(!Z||Z.forcePolyfill||"function"!=typeof Z.define||"function"!=typeof Z.get){var X=new v;va();wa();Y(X,DocumentFragment.prototype,{h:ia,append:ja});xa();za();document.__CE_hasRegistry=!0;var customElements=new G(X);Object.defineProperty(window,"customElements",{configurable:!0,enumerable:!0,value:customElements})};
+            }).call(self);
+        }
+
+        /**
+            This allows us to load the IE polyfills via feature detection so that they do not load
+            needlessly in the browsers that do not need them. It also ensures they are loaded
+            non async so that they load before the rest of our JS.
+        */
+        var head = document.getElementsByTagName('head')[0];
+        if (!window.CSS || !window.CSS.supports || !window.CSS.supports('--fake-var', 0)) {
+            var script = document.createElement('script');
+            script.setAttribute('src', "https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/util/IEPolyfills.7a8440e4b9a8eed9874904d20fd32963.js");
+            script.setAttribute('type', 'text/javascript');
+            script.async = false;
+            head.appendChild(script);
+        }
+    </script>
+    
+    <script src="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/All.min.f7fc019e5c5fa20dfcbd5201bcaa5c8e.js" async></script>
+
+    <script>document.addEventListener("DOMContentLoaded",function(){var t=Math.random()+"",e=document.createElement("img");e.src="https://pubads.g.doubleclick.net/activity;xsp=4618488;ord="+Math.floor(1e13*t)+"?",e.width=1,e.height=1,e.border=0,document.body.appendChild(e)});</script>
+
+
+    <script>
+        var link = document.createElement('link');
+        link.setAttribute('href', 'https://fonts.googleapis.com/css?family=Oswald:200,500,600,700|Roboto:400,500,700&display=swap');
+        var relList = link.relList;
+
+        if (relList && relList.supports('preload')) {
+            link.setAttribute('as', 'style');
+            link.setAttribute('rel', 'preload');
+            link.setAttribute('onload', 'this.rel="stylesheet"');
+            link.setAttribute('crossorigin', 'anonymous');
+        } else {
+            link.setAttribute('rel', 'stylesheet');
+        }
+
+        head.appendChild(link);
+    </script>
+</head>
+
+<body id="BestList-body" class="Page-body">
+<!-- Putting icons here, so we don't have to include in a bunch of -body hbs's -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" id="iconsMap">
+    <symbol id="mono-icon-facebook" viewBox="0 0 10 19">
+        <path fill-rule="evenodd" d="M2.707 18.25V10.2H0V7h2.707V4.469c0-1.336.375-2.373 1.125-3.112C4.582.62 5.578.25 6.82.25c1.008 0 1.828.047 2.461.14v2.848H7.594c-.633 0-1.067.14-1.301.422-.188.235-.281.61-.281 1.125V7H9l-.422 3.2H6.012v8.05H2.707z"></path>
+    </symbol>
+    <symbol id="mono-icon-instagram" viewBox="0 0 17 17">
+        <g>
+            <path fill-rule="evenodd" d="M8.281 4.207c.727 0 1.4.182 2.022.545a4.055 4.055 0 0 1 1.476 1.477c.364.62.545 1.294.545 2.021 0 .727-.181 1.4-.545 2.021a4.055 4.055 0 0 1-1.476 1.477 3.934 3.934 0 0 1-2.022.545c-.726 0-1.4-.182-2.021-.545a4.055 4.055 0 0 1-1.477-1.477 3.934 3.934 0 0 1-.545-2.021c0-.727.182-1.4.545-2.021A4.055 4.055 0 0 1 6.26 4.752a3.934 3.934 0 0 1 2.021-.545zm0 6.68a2.54 2.54 0 0 0 1.864-.774 2.54 2.54 0 0 0 .773-1.863 2.54 2.54 0 0 0-.773-1.863 2.54 2.54 0 0 0-1.864-.774 2.54 2.54 0 0 0-1.863.774 2.54 2.54 0 0 0-.773 1.863c0 .727.257 1.348.773 1.863a2.54 2.54 0 0 0 1.863.774zM13.45 4.03c-.023.258-.123.48-.299.668a.856.856 0 0 1-.65.281.913.913 0 0 1-.668-.28.913.913 0 0 1-.281-.669c0-.258.094-.48.281-.668a.913.913 0 0 1 .668-.28c.258 0 .48.093.668.28.187.188.281.41.281.668zm2.672.95c.023.656.035 1.746.035 3.269 0 1.523-.017 2.62-.053 3.287-.035.668-.134 1.248-.298 1.74a4.098 4.098 0 0 1-.967 1.53 4.098 4.098 0 0 1-1.53.966c-.492.164-1.072.264-1.74.3-.668.034-1.763.052-3.287.052-1.523 0-2.619-.018-3.287-.053-.668-.035-1.248-.146-1.74-.334a3.747 3.747 0 0 1-1.53-.931 4.098 4.098 0 0 1-.966-1.53c-.164-.492-.264-1.072-.299-1.74C.424 10.87.406 9.773.406 8.25S.424 5.63.46 4.963c.035-.668.135-1.248.299-1.74.21-.586.533-1.096.967-1.53A4.098 4.098 0 0 1 3.254.727c.492-.164 1.072-.264 1.74-.3C5.662.394 6.758.376 8.281.376c1.524 0 2.62.018 3.287.053.668.035 1.248.135 1.74.299a4.098 4.098 0 0 1 2.496 2.496c.165.492.27 1.078.317 1.757zm-1.687 7.91c.14-.399.234-1.032.28-1.899.024-.515.036-1.242.036-2.18V7.689c0-.961-.012-1.688-.035-2.18-.047-.89-.14-1.524-.281-1.899a2.537 2.537 0 0 0-1.512-1.511c-.375-.14-1.008-.235-1.899-.282a51.292 51.292 0 0 0-2.18-.035H7.72c-.938 0-1.664.012-2.18.035-.867.047-1.5.141-1.898.282a2.537 2.537 0 0 0-1.512 1.511c-.14.375-.234 1.008-.281 1.899a51.292 51.292 0 0 0-.036 2.18v1.125c0 .937.012 1.664.036 2.18.047.866.14 1.5.28 1.898.306.726.81 1.23 1.513 1.511.398.141 1.03.235 1.898.282.516.023 1.242.035 2.18.035h1.125c.96 0 1.687-.012 2.18-.035.89-.047 1.523-.141 1.898-.282.726-.304 1.23-.808 1.512-1.511z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-email" viewBox="0 0 512 512">
+        <g>
+            <path d="M67,148.7c11,5.8,163.8,89.1,169.5,92.1c5.7,3,11.5,4.4,20.5,4.4c9,0,14.8-1.4,20.5-4.4c5.7-3,158.5-86.3,169.5-92.1
+                c4.1-2.1,11-5.9,12.5-10.2c2.6-7.6-0.2-10.5-11.3-10.5H257H65.8c-11.1,0-13.9,3-11.3,10.5C56,142.9,62.9,146.6,67,148.7z"></path>
+            <path d="M455.7,153.2c-8.2,4.2-81.8,56.6-130.5,88.1l82.2,92.5c2,2,2.9,4.4,1.8,5.6c-1.2,1.1-3.8,0.5-5.9-1.4l-98.6-83.2
+                c-14.9,9.6-25.4,16.2-27.2,17.2c-7.7,3.9-13.1,4.4-20.5,4.4c-7.4,0-12.8-0.5-20.5-4.4c-1.9-1-12.3-7.6-27.2-17.2l-98.6,83.2
+                c-2,2-4.7,2.6-5.9,1.4c-1.2-1.1-0.3-3.6,1.7-5.6l82.1-92.5c-48.7-31.5-123.1-83.9-131.3-88.1c-8.8-4.5-9.3,0.8-9.3,4.9
+                c0,4.1,0,205,0,205c0,9.3,13.7,20.9,23.5,20.9H257h185.5c9.8,0,21.5-11.7,21.5-20.9c0,0,0-201,0-205
+                C464,153.9,464.6,148.7,455.7,153.2z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-print" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path fill-rule="nonzero" d="M9 10V7H3v3H1a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v3.132A2.868 2.868 0 0 1 9.132 10H9zm.5-4.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2zM3 0h6v2H3z"></path>
+            <path d="M4 8h4v4H4z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-copylink" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path d="M10.199 2.378c.222.205.4.548.465.897.062.332.016.614-.132.774L8.627 6.106c-.187.203-.512.232-.75-.014a.498.498 0 0 0-.706.028.499.499 0 0 0 .026.706 1.509 1.509 0 0 0 2.165-.04l1.903-2.06c.37-.398.506-.98.382-1.636-.105-.557-.392-1.097-.77-1.445L9.968.8C9.591.452 9.03.208 8.467.145 7.803.072 7.233.252 6.864.653L4.958 2.709a1.509 1.509 0 0 0 .126 2.161.5.5 0 1 0 .68-.734c-.264-.218-.26-.545-.071-.747L7.597 1.33c.147-.16.425-.228.76-.19.353.038.71.188.931.394l.91.843.001.001zM1.8 9.623c-.222-.205-.4-.549-.465-.897-.062-.332-.016-.614.132-.774l1.905-2.057c.187-.203.512-.232.75.014a.498.498 0 0 0 .706-.028.499.499 0 0 0-.026-.706 1.508 1.508 0 0 0-2.165.04L.734 7.275c-.37.399-.506.98-.382 1.637.105.557.392 1.097.77 1.445l.91.843c.376.35.937.594 1.5.656.664.073 1.234-.106 1.603-.507L7.04 9.291a1.508 1.508 0 0 0-.126-2.16.5.5 0 0 0-.68.734c.264.218.26.545.071.747l-1.904 2.057c-.147.16-.425.228-.76.191-.353-.038-.71-.188-.931-.394l-.91-.843z"></path>
+            <path d="M8.208 3.614a.5.5 0 0 0-.707.028L3.764 7.677a.5.5 0 0 0 .734.68L8.235 4.32a.5.5 0 0 0-.027-.707"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-linkedin" viewBox="0 0 16 17">
+        <g fill-rule="evenodd">
+            <path d="M3.734 16.125H.464V5.613h3.27zM2.117 4.172c-.515 0-.96-.188-1.336-.563A1.825 1.825 0 0 1 .22 2.273c0-.515.187-.96.562-1.335.375-.375.82-.563 1.336-.563.516 0 .961.188 1.336.563.375.375.563.82.563 1.335 0 .516-.188.961-.563 1.336-.375.375-.82.563-1.336.563zM15.969 16.125h-3.27v-5.133c0-.844-.07-1.453-.21-1.828-.259-.633-.762-.95-1.512-.95s-1.278.282-1.582.845c-.235.421-.352 1.043-.352 1.863v5.203H5.809V5.613h3.128v1.442h.036c.234-.469.609-.856 1.125-1.16.562-.375 1.218-.563 1.968-.563 1.524 0 2.59.48 3.2 1.441.468.774.703 1.97.703 3.586v5.766z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-pinterest" viewBox="0 0 512 512">
+        <g>
+            <path d="M256,32C132.3,32,32,132.3,32,256c0,91.7,55.2,170.5,134.1,205.2c-0.6-15.6-0.1-34.4,3.9-51.4
+                c4.3-18.2,28.8-122.1,28.8-122.1s-7.2-14.3-7.2-35.4c0-33.2,19.2-58,43.2-58c20.4,0,30.2,15.3,30.2,33.6
+                c0,20.5-13.1,51.1-19.8,79.5c-5.6,23.8,11.9,43.1,35.4,43.1c42.4,0,71-54.5,71-119.1c0-49.1-33.1-85.8-93.2-85.8
+                c-67.9,0-110.3,50.7-110.3,107.3c0,19.5,5.8,33.3,14.8,43.9c4.1,4.9,4.7,6.9,3.2,12.5c-1.1,4.1-3.5,14-4.6,18
+                c-1.5,5.7-6.1,7.7-11.2,5.6c-31.3-12.8-45.9-47-45.9-85.6c0-63.6,53.7-139.9,160.1-139.9c85.5,0,141.8,61.9,141.8,128.3
+                c0,87.9-48.9,153.5-120.9,153.5c-24.2,0-46.9-13.1-54.7-27.9c0,0-13,51.6-15.8,61.6c-4.7,17.3-14,34.5-22.5,48
+                c20.1,5.9,41.4,9.2,63.5,9.2c123.7,0,224-100.3,224-224C480,132.3,379.7,32,256,32z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-tumblr" viewBox="0 0 512 512">
+        <g>
+            <path d="M321.2,396.3c-11.8,0-22.4-2.8-31.5-8.3c-6.9-4.1-11.5-9.6-14-16.4c-2.6-6.9-3.6-22.3-3.6-46.4V224h96v-64h-96V48h-61.9
+                c-2.7,21.5-7.5,44.7-14.5,58.6c-7,13.9-14,25.8-25.6,35.7c-11.6,9.9-25.6,17.9-41.9,23.3V224h48v140.4c0,19,2,33.5,5.9,43.5
+                c4,10,11.1,19.5,21.4,28.4c10.3,8.9,22.8,15.7,37.3,20.5c14.6,4.8,31.4,7.2,50.4,7.2c16.7,0,30.3-1.7,44.7-5.1
+                c14.4-3.4,30.5-9.3,48.2-17.6v-65.6C363.2,389.4,342.3,396.3,321.2,396.3z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-twitter" viewBox="0 0 19 16">
+        <g>
+            <path fill-rule="evenodd" d="M16.48 4.594c.024.094.036.246.036.457 0 1.687-.41 3.316-1.23 4.887-.845 1.664-2.028 2.988-3.552 3.972-1.664 1.102-3.574 1.652-5.73 1.652-2.063 0-3.95-.55-5.66-1.652.258.024.55.035.879.035 1.71 0 3.246-.527 4.605-1.582-.82 0-1.54-.24-2.162-.72a3.671 3.671 0 0 1-1.283-1.811c.234.023.457.035.668.035.328 0 .656-.035.984-.105a3.72 3.72 0 0 1-2.11-1.301 3.54 3.54 0 0 1-.843-2.32v-.07a3.475 3.475 0 0 0 1.652.492A4.095 4.095 0 0 1 1.54 5.227a3.546 3.546 0 0 1-.457-1.776c0-.644.176-1.26.527-1.845a10.18 10.18 0 0 0 3.358 2.742 10.219 10.219 0 0 0 4.236 1.125 5.124 5.124 0 0 1-.07-.844c0-.656.164-1.272.492-1.846a3.613 3.613 0 0 1 1.336-1.353 3.565 3.565 0 0 1 1.828-.492c.54 0 1.037.105 1.494.316.457.21.861.492 1.213.844a7.51 7.51 0 0 0 2.356-.88c-.282.868-.82 1.548-1.618 2.04a7.93 7.93 0 0 0 2.11-.598 8.114 8.114 0 0 1-1.864 1.934z"></path>
+
+        </g>
+    </symbol>
+    <symbol id="mono-icon-youtube" viewBox="0 0 512 512">
+        <g>
+            <path fill-rule="evenodd" d="M508.6,148.8c0-45-33.1-81.2-74-81.2C379.2,65,322.7,64,265,64c-3,0-6,0-9,0s-6,0-9,0c-57.6,0-114.2,1-169.6,3.6
+                c-40.8,0-73.9,36.4-73.9,81.4C1,184.6-0.1,220.2,0,255.8C-0.1,291.4,1,327,3.4,362.7c0,45,33.1,81.5,73.9,81.5
+                c58.2,2.7,117.9,3.9,178.6,3.8c60.8,0.2,120.3-1,178.6-3.8c40.9,0,74-36.5,74-81.5c2.4-35.7,3.5-71.3,3.4-107
+                C512.1,220.1,511,184.5,508.6,148.8z M207,353.9V157.4l145,98.2L207,353.9z"></path>
+        </g>
+    </symbol>
+    <symbol id="icon-magnify" viewBox="0 0 512 512">
+        <g>
+            <path d="M337.509,305.372h-17.501l-6.571-5.486c20.791-25.232,33.922-57.054,33.922-93.257
+                C347.358,127.632,283.896,64,205.135,64C127.452,64,64,127.632,64,206.629s63.452,142.628,142.225,142.628
+                c35.011,0,67.831-13.167,92.991-34.008l6.561,5.487v17.551L415.18,448L448,415.086L337.509,305.372z M206.225,305.372
+                c-54.702,0-98.463-43.887-98.463-98.743c0-54.858,43.761-98.742,98.463-98.742c54.7,0,98.462,43.884,98.462,98.742
+                C304.687,261.485,260.925,305.372,206.225,305.372z"></path>
+        </g>
+    </symbol>
+    <symbol id="burger-menu" viewBox="0 0 512 512">
+        <g>
+            <path d="M501.333,96H10.667C4.779,96,0,100.779,0,106.667s4.779,10.667,10.667,10.667h490.667c5.888,0,10.667-4.779,10.667-10.667
+			S507.221,96,501.333,96z" />
+            <path d="M501.333,245.333H10.667C4.779,245.333,0,250.112,0,256s4.779,10.667,10.667,10.667h490.667
+			c5.888,0,10.667-4.779,10.667-10.667S507.221,245.333,501.333,245.333z" />
+            <path d="M501.333,394.667H10.667C4.779,394.667,0,399.445,0,405.333C0,411.221,4.779,416,10.667,416h490.667
+			c5.888,0,10.667-4.779,10.667-10.667C512,399.445,507.221,394.667,501.333,394.667z" />
+        </g>
+    </symbol>
+    <symbol id="close-x" viewBox="0 0 14 14">
+        <g>
+            <path fill-rule="nonzero" d="M6.336 7L0 .664.664 0 7 6.336 13.336 0 14 .664 7.664 7 14 13.336l-.664.664L7 7.664.664 14 0 13.336 6.336 7z"></path>
+        </g>
+    </symbol>
+    <symbol id="share-more-arrow" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;">
+        <g>
+            <g>
+                <path d="M512,241.7L273.643,3.343v156.152c-71.41,3.744-138.015,33.337-188.958,84.28C30.075,298.384,0,370.991,0,448.222v60.436
+                    l29.069-52.985c45.354-82.671,132.173-134.027,226.573-134.027c5.986,0,12.004,0.212,18.001,0.632v157.779L512,241.7z
+                    M255.642,290.666c-84.543,0-163.661,36.792-217.939,98.885c26.634-114.177,129.256-199.483,251.429-199.483h15.489V78.131
+                    l163.568,163.568L304.621,405.267V294.531l-13.585-1.683C279.347,291.401,267.439,290.666,255.642,290.666z"></path>
+            </g>
+        </g>
+    </symbol>
+    <symbol id="chevron" viewBox="0 0 100 100">
+        <g>
+            <path d="M22.4566257,37.2056786 L-21.4456527,71.9511488 C-22.9248661,72.9681457 -24.9073712,72.5311671 -25.8758148,70.9765924 L-26.9788683,69.2027424 C-27.9450684,67.6481676 -27.5292733,65.5646602 -26.0500598,64.5484493 L20.154796,28.2208967 C21.5532435,27.2597011 23.3600078,27.2597011 24.759951,28.2208967 L71.0500598,64.4659264 C72.5292733,65.4829232 72.9450684,67.5672166 71.9788683,69.1217913 L70.8750669,70.8956413 C69.9073712,72.4502161 67.9241183,72.8848368 66.4449048,71.8694118 L22.4566257,37.2056786 Z" id="Transparent-Chevron" transform="translate(22.500000, 50.000000) rotate(90.000000) translate(-22.500000, -50.000000) "></path>
+        </g>
+    </symbol>
+    <symbol id="play-arrow" viewBox="0 0 30 30">
+        <g fill="none" fill-rule="evenodd">
+            <path d="M9 9l12 6-12 6z"></path>
+        </g>
+    </symbol>
+    <symbol id="bookmark" viewBox="0 0 9 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M.5.5v10.997l3.431-2.374a1 1 0 0 1 1.138 0L8.5 11.497V.5h-8z"></path>
+        </g>
+    </symbol>
+    <symbol id="heart" viewBox="0 0 14 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M10.24.5c-1.098 0-2.152.576-2.808 1.7L7 2.938l-.432-.74C5.912 1.076 4.858.5 3.76.5 1.996.5.5 1.899.5 3.859.5 5.2 1.644 6.912 3.57 8.747a27.774 27.774 0 0 0 3.373 2.738A.099.099 0 0 0 7 11.5a.104.104 0 0 0 .061-.018 27.75 27.75 0 0 0 3.368-2.735C12.356 6.912 13.5 5.201 13.5 3.859 13.5 1.899 12.003.5 10.24.5z"></path>
+        </g>
+    </symbol>
+    <symbol id="grid" viewBox="0 0 32 32">
+        <g>
+            <path d="M6.4,5.7 C6.4,6.166669 6.166669,6.4 5.7,6.4 L0.7,6.4 C0.233331,6.4 0,6.166669 0,5.7 L0,0.7 C0,0.233331 0.233331,0 0.7,0 L5.7,0 C6.166669,0 6.4,0.233331 6.4,0.7 L6.4,5.7 Z M19.2,5.7 C19.2,6.166669 18.966669,6.4 18.5,6.4 L13.5,6.4 C13.033331,6.4 12.8,6.166669 12.8,5.7 L12.8,0.7 C12.8,0.233331 13.033331,0 13.5,0 L18.5,0 C18.966669,0 19.2,0.233331 19.2,0.7 L19.2,5.7 Z M32,5.7 C32,6.166669 31.766669,6.4 31.3,6.4 L26.3,6.4 C25.833331,6.4 25.6,6.166669 25.6,5.7 L25.6,0.7 C25.6,0.233331 25.833331,0 26.3,0 L31.3,0 C31.766669,0 32,0.233331 32,0.7 L32,5.7 Z M6.4,18.5 C6.4,18.966669 6.166669,19.2 5.7,19.2 L0.7,19.2 C0.233331,19.2 0,18.966669 0,18.5 L0,13.5 C0,13.033331 0.233331,12.8 0.7,12.8 L5.7,12.8 C6.166669,12.8 6.4,13.033331 6.4,13.5 L6.4,18.5 Z M19.2,18.5 C19.2,18.966669 18.966669,19.2 18.5,19.2 L13.5,19.2 C13.033331,19.2 12.8,18.966669 12.8,18.5 L12.8,13.5 C12.8,13.033331 13.033331,12.8 13.5,12.8 L18.5,12.8 C18.966669,12.8 19.2,13.033331 19.2,13.5 L19.2,18.5 Z M32,18.5 C32,18.966669 31.766669,19.2 31.3,19.2 L26.3,19.2 C25.833331,19.2 25.6,18.966669 25.6,18.5 L25.6,13.5 C25.6,13.033331 25.833331,12.8 26.3,12.8 L31.3,12.8 C31.766669,12.8 32,13.033331 32,13.5 L32,18.5 Z M6.4,31.3 C6.4,31.766669 6.166669,32 5.7,32 L0.7,32 C0.233331,32 0,31.766669 0,31.3 L0,26.3 C0,25.833331 0.233331,25.6 0.7,25.6 L5.7,25.6 C6.166669,25.6 6.4,25.833331 6.4,26.3 L6.4,31.3 Z M19.2,31.3 C19.2,31.766669 18.966669,32 18.5,32 L13.5,32 C13.033331,32 12.8,31.766669 12.8,31.3 L12.8,26.3 C12.8,25.833331 13.033331,25.6 13.5,25.6 L18.5,25.6 C18.966669,25.6 19.2,25.833331 19.2,26.3 L19.2,31.3 Z M32,31.3 C32,31.766669 31.766669,32 31.3,32 L26.3,32 C25.833331,32 25.6,31.766669 25.6,31.3 L25.6,26.3 C25.6,25.833331 25.833331,25.6 26.3,25.6 L31.3,25.6 C31.766669,25.6 32,25.833331 32,26.3 L32,31.3 Z" id=""></path>
+        </g>
+    </symbol>
+    <symbol id="filter" viewBox="0 0 16 12">
+        <path d="M0 2V0h16v2H0zm2.4 5V5h11.2v2H2.4zm2.4 5v-2h6.4v2H4.8z"></path>
+    </symbol>
+    <symbol id="minus-circle" viewBox="0 0 1792 1792">
+        <g>
+            <path d="M1344 960v-128q0-26-19-45t-45-19h-768q-26 0-45 19t-19 45v128q0 26 19 45t45 19h768q26 0 45-19t19-45zm320-64q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" />
+        </g>
+    </symbol>
+    <symbol id="plus-circle" viewBox="0 0 1792 1792">
+        <g>
+            <path d="M1344 960v-128q0-26-19-45t-45-19h-256v-256q0-26-19-45t-45-19h-128q-26 0-45 19t-19 45v256h-256q-26 0-45 19t-19 45v128q0 26 19 45t45 19h256v256q0 26 19 45t45 19h128q26 0 45-19t19-45v-256h256q26 0 45-19t19-45zm320-64q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" />
+        </g>
+    </symbol>
+    <symbol id="chevron-left" viewBox="0 0 511.641 511.641">
+        <path d="M148.32,255.76L386.08,18c4.053-4.267,3.947-10.987-0.213-15.04c-4.16-3.947-10.667-3.947-14.827,0L125.707,248.293
+			c-4.16,4.16-4.16,10.88,0,15.04L371.04,508.667c4.267,4.053,10.987,3.947,15.04-0.213c3.947-4.16,3.947-10.667,0-14.827
+			L148.32,255.76z" />
+    </symbol>
+</svg>
+
+
+<ps-header class="Page-header" itemscope itemtype="http://schema.org/WPHeader" data-sticky-disable>
+    <div class="Page-header-bar">
+        
+            
+                <div class="Page-header-logo"><a aria-label="home page" href="https://www.latimes.com/bestcovery/"  >
+    
+        <img class="PageLogo-image" src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/beea024/2147483647/strip/true/crop/1000x277+0+0/resize/433x120!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F97%2F96%2F5fd40beb48059a3edeff4d92eed5%2Fbestcovery-logo-powered-by-lat.png" alt="Bestcovery logo" width="433"  height="120" />
+    
+    </a>
+</div>
+            
+        
+
+        <button class="Page-header-menu-trigger" aria-expanded="false" tabindex="1">
+            <svg class="burger-menu"><use xlink:href="#burger-menu"></use></svg>
+            <svg class="close-x"><use xlink:href="#chevron-left"></use></svg>
+            <span class="label">Menu</span>
+        </button>
+
+        <div class="Page-header-hamburger-menu">
+            <div class="Page-header-hamburger-menu-wrapper">
+                <div class="Page-header-hamburger-menu-content">
+                    
+                        <nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/auto">Auto</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/home">Home</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/lifestyle">Lifestyle</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item" data-related-nav-item><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/electronics">Electronics</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/tech">Tech</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/health-beauty">Health &amp; Beauty</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/fashion">Fashion</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/sports">Sports</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/music">Music</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/kids-babies">Kids &amp; Babies</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/streaming">Streaming</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+        </ul>
+    
+</nav>
+                    
+                    
+                </div>
+            </div>
+        </div>
+
+        
+
+            <div class="Page-header-search-overlay">
+                <form class="Page-header-search-form" action="https://www.latimes.com/bestcovery/search#nt=navsearch" novalidate="" autocomplete="off">
+                    <label><input placeholder="Search" type="text" class="Page-header-search-input" name="q" required="true"><span class="sr-only">Search Query</span></label>
+                    <button type="submit" class="Page-header-search-submit"><svg><use xlink:href="#icon-magnify"></use></svg><span class="sr-only">Submit Search</span></button>
+                </form>
+            </div>
+        
+    </div>
+</ps-header>
+
+
+    <div class="Page-above" ><div class="InfoBoxModule byline-1">
+    
+        <div class="InfoBoxModule-items InfoBoxBody"><p><i>We may earn a commission if you make a purchase through one of our links. The LA Times editorial staff was not involved in the creation of this content. <a class="Link" href="https://www.latimes.com/bestcovery/about-us">Learn more</a></i></p></div>
+    
+</div>
+</div>
+
+
+<main class="BestList-content">
+    <div class="BestList-container">
+        
+    
+        <ul class="BestList-breadcrumbs label-2">
+            
+                <li><a class="Link" href="https://www.latimes.com/bestcovery/">Homepage</a></li>
+            
+            
+                <li><a class="Link" href="https://www.latimes.com/bestcovery/electronics">Electronics</a></li>
+            
+                <li><a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a></li>
+            
+        </ul>
+    
+
+
+        
+            <h1 class="BestList-title title-1 center">Get a Home Theater Experience With the Best HDTVs</h1>
+        
+
+        <div class="AuthorByline">
+    
+        <div class="AuthorByline-authorList byline-1">
+            
+                <a class="Link" href="#bestcovery-team">Bestcovery Team</a>
+        </div>
+    
+    
+        <span class="AuthorByline-creationDate byline-1">04.22.2022</span>
+    
+</div>
+
+        
+
+        
+            
+    <ps-toggler data-toggle="toc-content">
+        <div class="BestList-toc">
+            <button class="BestList-toc-title body-1" data-toggle-trigger="toc-content" type="button">
+                <span class="icon">
+                    <svg><use xlink:href="#close-x"></use></svg>
+                </span>
+                Table of Contents
+            </button>
+            <div class="BestList-toc-content" data-toggle-content>
+                <ol class="BestList-toc-list body-2">
+                    
+                        <li>
+                            <ps-smooth-scroller data-target="#best-led-lcd-tv-overall-vizio-px65-g1-65-quantum-4k-hdr-tv">Vizio PX65-G1 65&quot; Quantum 4K HDR TV</ps-smooth-scroller>
+                        </li>
+                    
+                        <li>
+                            <ps-smooth-scroller data-target="#best-picture-quality-lg-oled65c1-65-c1-series-oled-tv">LG OLED65C1 65&quot; C1 Series OLED TV</ps-smooth-scroller>
+                        </li>
+                    
+                        <li>
+                            <ps-smooth-scroller data-target="#runner-up-samsung-qled-q90t-series-hdtv">Samsung QLED Q90T Series HDTV </ps-smooth-scroller>
+                        </li>
+                    
+                        <li>
+                            <ps-smooth-scroller data-target="#consider-sony-bravia-xr65x90j-65-inch-led-lcd-tv">Sony Bravia XR65X90J 65-Inch LED LCD TV</ps-smooth-scroller>
+                        </li>
+                    
+                        <li>
+                            <ps-smooth-scroller data-target="#honorable-mention-tcl-65-class-6-series-4k-uhd-mini-led-lcd-tv">TCL 65” Class 6-Series 4K UHD Mini-LED LCD TV</ps-smooth-scroller>
+                        </li>
+                    
+                    
+                        <li>
+                            <ps-smooth-scroller data-target="#buyers-guide">
+                                Buyer&#x27;s Guide
+                            </ps-smooth-scroller>
+                        </li>
+                    
+                </ol>
+            </div>
+        </div>
+    </ps-toggler>
+
+
+        
+
+        
+            <div class="BestList-intro">
+                <div class="RichTextBody body-2">	<p>Now that flat-screen HDTVs have had a couple of decades worth of refinement and product development, it's fair to say that it's harder to find a bad TV than it is a good one. A modern HDTV pairs excellent picture quality with built-in smart TV streaming features, all at an incredibly affordable price. The most recent trend with HDTVs has been increasingly larger screen sizes; it's now possible to find 55-inch TVs priced similarly to 40-inch models from even a few years ago.</p>	<p>Our top HDTV picks display inky black levels, creating a more immersive experience thanks to the well-defined contrast between light and dark areas. These selections also provide excellent color accuracy, recreating an image to make it look lifelike (along with carrying the necessary adjustments to dial in the perfect images with true-to-life colors). Each of the best HDTVs in 2022 can also easily process moving images and maintain clarity with fast-moving programs or movie scenes free of shuddering or skipping, making them well-suited for home theater use. We also evaluated each TV's respective smart TV capabilities for ease of use and functionality.</p><p>If you're still unsure of which HDTV you should buy,&nbsp;head straight down to our buyer's guide below for more information.</p></div>
+            </div>
+        
+    </div>
+
+    <div >
+        
+        
+            <ps-carousel
+                data-max-slides-hk="4"
+                data-max-slides-lg="4"
+                data-max-slides-xl="5"
+                class="ListF ProductList-carousel BestList-productreview">
+                <div class="ProductList-carousel-slides"><div class="ProductCarouselReview ProductList-carousel-slide">
+    <div class="ProductCarouselReview-content">
+        
+        <div class="center">
+            <span class="byline-1 ProductCarouselReview-reviewAward">Best LED LCD TV Overall</span>
+        </div>
+        
+        
+        
+            <div class="center ProductCarouselReview-image">
+    <img class="Image" alt="best visio led lcd hdtv" width="205" height="133"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/b1d8049/2147483647/strip/true/crop/1000x649+0+9/resize/205x133!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fc6%2F2e%2F2b1e521a49a6b66abac5fb63bf8d%2Fvizio-px65-g1-quantum-4k-hdr-tv.jpg"
+        >
+
+</div>
+        
+        
+        
+        <h5 class="title-5 ProductCarouselReview-title">Vizio PX65-G1 65&quot; Quantum 4K HDR TV</h5>
+        
+        <ul class="ProductReview-pros">
+            
+        </ul>
+        <ul class="ProductReview-cons ProductCarouselReview-cons">
+            
+        </ul>
+        <div class="ProductCarouselReview-bottom">
+            <a class="ButtonLink ProductCarouselReview-fullReview text-preview" href="#best-led-lcd-tv-overall-vizio-px65-g1-65-quantum-4k-hdr-tv">See Full Review</a>
+            
+                <a class="ShopButton text-preview"  rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B07V255N45?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+       <img alt="Amazon.com logo" src="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/amazonlogo.de53eb09e0b0de2ddff9ad64708f4ff2.png"/>
+    
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a>
+            
+        </div>
+    </div>
+</div><div class="ProductCarouselReview ProductList-carousel-slide">
+    <div class="ProductCarouselReview-content">
+        
+        <div class="center">
+            <span class="byline-1 ProductCarouselReview-reviewAward">Best Picture Quality</span>
+        </div>
+        
+        
+        
+            <div class="center ProductCarouselReview-image">
+    <img class="Image" alt="lg oled65c1pub.jpg" width="205" height="133"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/04ab1f6/2147483647/strip/true/crop/750x487+0+7/resize/205x133!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F03%2F81%2F896bf6254b5bbbf56bdb2d51d16c%2Flg-oled65c1pub.jpg"
+        >
+
+</div>
+        
+        
+        
+        <h5 class="title-5 ProductCarouselReview-title">LG OLED65C1 65&quot; C1 Series OLED TV</h5>
+        
+        <ul class="ProductReview-pros">
+            
+        </ul>
+        <ul class="ProductReview-cons ProductCarouselReview-cons">
+            
+        </ul>
+        <div class="ProductCarouselReview-bottom">
+            <a class="ButtonLink ProductCarouselReview-fullReview text-preview" href="#best-picture-quality-lg-oled65c1-65-c1-series-oled-tv">See Full Review</a>
+            
+                <a class="ShopButton text-preview"  rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B08WG4HKKY?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+       <img alt="Amazon.com logo" src="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/amazonlogo.de53eb09e0b0de2ddff9ad64708f4ff2.png"/>
+    
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a>
+            
+        </div>
+    </div>
+</div><div class="ProductCarouselReview ProductList-carousel-slide">
+    <div class="ProductCarouselReview-content">
+        
+        <div class="center">
+            <span class="byline-1 ProductCarouselReview-reviewAward">Runner Up</span>
+        </div>
+        
+        
+        
+            <div class="center ProductCarouselReview-image">
+    <img class="Image" alt="best HDTV" width="205" height="133"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/99d0a38/2147483647/strip/true/crop/750x487+0+7/resize/205x133!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fce%2F1c%2F9368d6e3471e89c34bac0469d5ee%2Fsamsung-hdtv-bestcovery.jpg"
+        >
+
+</div>
+        
+        
+        
+        <h5 class="title-5 ProductCarouselReview-title">Samsung QLED Q90T Series HDTV </h5>
+        
+        <ul class="ProductReview-pros">
+            
+        </ul>
+        <ul class="ProductReview-cons ProductCarouselReview-cons">
+            
+        </ul>
+        <div class="ProductCarouselReview-bottom">
+            <a class="ButtonLink ProductCarouselReview-fullReview text-preview" href="#runner-up-samsung-qled-q90t-series-hdtv">See Full Review</a>
+            
+                <a class="ShopButton text-preview"  rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B0851Q4F7P?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+       <img alt="Amazon.com logo" src="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/amazonlogo.de53eb09e0b0de2ddff9ad64708f4ff2.png"/>
+    
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a>
+            
+        </div>
+    </div>
+</div><div class="ProductCarouselReview ProductList-carousel-slide">
+    <div class="ProductCarouselReview-content">
+        
+        <div class="center">
+            <span class="byline-1 ProductCarouselReview-reviewAward">Consider</span>
+        </div>
+        
+        
+        
+            <div class="center ProductCarouselReview-image">
+    <img class="Image" alt="sony xr65x90j.jpg" width="205" height="133"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/0e3618d/2147483647/strip/true/crop/750x487+0+7/resize/205x133!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F96%2F24%2F03fc5894432cb944cde017cd0bb0%2Fsony-xr65x90j.jpg"
+        >
+
+</div>
+        
+        
+        
+        <h5 class="title-5 ProductCarouselReview-title">Sony Bravia XR65X90J 65-Inch LED LCD TV</h5>
+        
+        <ul class="ProductReview-pros">
+            
+        </ul>
+        <ul class="ProductReview-cons ProductCarouselReview-cons">
+            
+        </ul>
+        <div class="ProductCarouselReview-bottom">
+            <a class="ButtonLink ProductCarouselReview-fullReview text-preview" href="#consider-sony-bravia-xr65x90j-65-inch-led-lcd-tv">See Full Review</a>
+            
+                <a class="ShopButton text-preview"  rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B08TKXDLQB?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+       <img alt="Amazon.com logo" src="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/amazonlogo.de53eb09e0b0de2ddff9ad64708f4ff2.png"/>
+    
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a>
+            
+        </div>
+    </div>
+</div><div class="ProductCarouselReview ProductList-carousel-slide">
+    <div class="ProductCarouselReview-content">
+        
+        <div class="center">
+            <span class="byline-1 ProductCarouselReview-reviewAward">Honorable Mention</span>
+        </div>
+        
+        
+        
+            <div class="center ProductCarouselReview-image">
+    <img class="Image" alt="best mini led lcd tv" width="205" height="133"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/e95d7d8/2147483647/strip/true/crop/750x487+0+7/resize/205x133!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F9a%2F5d%2Fc0aed1ef49b4bc3a678f121e1bf3%2Ftcl-65-class-6-series-4k-uhd-mini-led-lcd-tv-bestcovery.jpg"
+        >
+
+</div>
+        
+        
+        
+        <h5 class="title-5 ProductCarouselReview-title">TCL 65” Class 6-Series 4K UHD Mini-LED LCD TV</h5>
+        
+        <ul class="ProductReview-pros">
+            
+        </ul>
+        <ul class="ProductReview-cons ProductCarouselReview-cons">
+            
+        </ul>
+        <div class="ProductCarouselReview-bottom">
+            <a class="ButtonLink ProductCarouselReview-fullReview text-preview" href="#honorable-mention-tcl-65-class-6-series-4k-uhd-mini-led-lcd-tv">See Full Review</a>
+            
+                
+                  
+                    
+                      <a class="ShopButton text-preview" style="background:#0046bf;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://go.skimresources.com?id=135630X1599003&amp;xs=1&amp;url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftcl-65-class-6-series-4k-uhd-mini-led-qled-dolby-vision-hdr-roku-smart-tv-65r635%2F6424216.p%3FskuId%3D6424216" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="best buy logo new.jpg" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/21bebc0/2147483647/strip/true/crop/400x250+0+8/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F52%2Ff8%2Fb12c863c4bc4947c9c61963aded3%2Fbest-buy-logo-new.jpg"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Best Buy</span>
+</a>
+                    
+                  
+                
+            
+        </div>
+    </div>
+</div></div>
+            </ps-carousel>
+        
+
+        
+            <h2 class="BestList-subtitle title-subtitle center">Best HDTVs of 2022 Reviewed in Detail</h2>
+        
+
+        
+            <div class="BestList-container"><div class="ProductReview" id="best-led-lcd-tv-overall-vizio-px65-g1-65-quantum-4k-hdr-tv">
+    
+    <div class="center ProductReview-awardContainer">
+        <span class="byline-1 ProductReview-reviewAward">Best LED LCD TV Overall</span>
+    </div>
+    
+
+    
+        
+            <div class="center ProductReview-image">
+                
+                    <a rel="sponsored noreferrer noopener nofollow"
+                       href="https://www.amazon.com/gp/product/B07V255N45?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20"
+                       target="_blank">
+                
+                    
+    <img class="Image" alt="best visio led lcd hdtv" width="840" height="560"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/650be21/2147483647/strip/true/crop/1000x667+0+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fc6%2F2e%2F2b1e521a49a6b66abac5fb63bf8d%2Fvizio-px65-g1-quantum-4k-hdr-tv.jpg"
+        >
+
+
+                </a>
+            </div>
+        
+    
+
+    
+        <h3 class="center ProductReview-title" tabindex="">
+             
+                <a rel="sponsored noreferrer noopener nofollow"
+                   href="https://www.amazon.com/gp/product/B07V255N45?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20"
+                   target="_blank">
+             
+                Vizio PX65-G1 65&quot; Quantum 4K HDR TV - Best LED LCD TV Overall
+             </a>
+        </h3>
+    
+
+    
+      <div class="RichTextBody body-2">
+          <ps-toggler data-toggle="review" class="ToggleText " itemprop="description" data-fade-out="true">
+    
+        <div data-toggle-content
+            data-size="large"
+            class="ToggleText-content body-1">
+            <p>Vizio is doubling down on quantum dot technology, with most models in the company's lineup receiving this technology that other manufacturers reserve for their pricier sets. As such, the vaunted P-Series has now been split into two separate lines. The former P-Series (no suffix) is now the P-Series Quantum, adopting its name from last year's top-of-the-line model. The previous P-Series Quantum has now been designated the P-Series Quantum X, and is the new flagship of Vizio's TV lineup. In addition to several technical upgrades, Vizio now offers this model in 65-inch and 75-inch screen sizes.</p>
+
+<p>The P-Series Quantum X shares its design with the model it replaces, with the same bezel-less appearance and minimalist appeal. It's a look that's been around for a few years, but still manages to look modern and unobtrusive at the same time. Connectivity is unchanged from last year: 5 HDMI ports, a single shared component/composite video input, one USB port, TOSLINK digital audio out, a single analog audio out, and an Ethernet port. Thankfully, the cable/antenna input remains, after being reintroduced for the 2018 model. HDMI 1 supports ARC (no eARC support yet), while HDMI 5 is a dedicated game input that drops HDR support in favor of lower input lag.</p><p>The major upgrades this time around are under the hood, so to speak. Last year's P-Series Quantum was easily one of the top performers in terms of outright picture quality, and we found nothing to fault with its class-leading black levels and amazing colors. Vizio has seen fit to upgrade the set anyway, doubling the backlight's local dimming zones from 192 to 384 on the 65-inch version. Thanks to its bright and effective backlight, the P-Series Quantum X is particularly adept with HDR content. The only drawback is the narrow viewing angle (like many LED LCD TVs) - despite the inclusion of an "Enhanced Viewing Angle" feature, the P-Series Quantum X is best viewed from straight ahead. In any case, this is one of the rare TVs with a picture that will look as good in your home as it does in the store.</p><p>Another carryover is SmartCast; it should be familiar for anyone who has used a Vizio smart TV from the last few years. Netflix, Prime Video, Hulu, YouTube, and many others come pre-loaded, eliminating the need to download additional apps. It's great that so many apps are included, since there is still no way to install additional apps. Instead, the P-Series Quantum X features built-in Chromecast, and any content not covered by the built-in apps can be streamed to the TV from your phone or computer. A recent firmware update adds Apple AirPlay as well, covering both ends of the mobile streaming spectrum. While the built-in smart TV interface itself is ultimately the limiting factor, we appreciate Vizio's attempts to find creative solutions to users who need more flexibility.</p><p>Despite the smart TV woes, we have no qualms about naming the P-Series Quantum X our best HDTV overall for 2021. Even though the company is a relative newcomer to quantum dot technology, Vizio's efforts pay off big time with a TV that can face off against the best and hold its own. The real draw is in the value quotient; all of the TVs that offer incrementally better picture quality cost hundreds, if not thousands more. The P-Series Quantum X is simply that good - the only question left is how Vizio will find a way to improve from here.</p>
+        </div>
+    
+    <button type="button" class="ToggleText-more text-preview" data-toggle-trigger="review">
+        <span class="moreText">Read More</span>
+        <span class="lessText">Close</span>
+    </button>
+</ps-toggler>
+      </div>
+    
+    <div class="column ProductReview-shopbuttons">
+      
+        <a class="ShopButton text-preview"  rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B07V255N45?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+       <img alt="Amazon.com logo" src="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/amazonlogo.de53eb09e0b0de2ddff9ad64708f4ff2.png"/>
+    
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a>
+      
+      
+    </div>
+</div><div class="ProductReview" id="best-picture-quality-lg-oled65c1-65-c1-series-oled-tv">
+    
+    <div class="center ProductReview-awardContainer">
+        <span class="byline-1 ProductReview-reviewAward">Best Picture Quality</span>
+    </div>
+    
+
+    
+        
+            <div class="center ProductReview-image">
+                
+                    <a rel="sponsored noreferrer noopener nofollow"
+                       href="https://www.amazon.com/gp/product/B08WG4HKKY?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20"
+                       target="_blank">
+                
+                    
+    <img class="Image" alt="lg oled65c1pub.jpg" width="840" height="560"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/7050992/2147483647/strip/true/crop/750x500+0+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F03%2F81%2F896bf6254b5bbbf56bdb2d51d16c%2Flg-oled65c1pub.jpg"
+        >
+
+
+                </a>
+            </div>
+        
+    
+
+    
+        <h3 class="center ProductReview-title" tabindex="">
+             
+                <a rel="sponsored noreferrer noopener nofollow"
+                   href="https://www.amazon.com/gp/product/B08WG4HKKY?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20"
+                   target="_blank">
+             
+                LG OLED65C1 65&quot; C1 Series OLED TV - Best Picture Quality
+             </a>
+        </h3>
+    
+
+    
+      <div class="RichTextBody body-2">
+          <ps-toggler data-toggle="review" class="ToggleText " itemprop="description" data-fade-out="true">
+    
+        <div data-toggle-content
+            data-size="large"
+            class="ToggleText-content body-1">
+            <p>LG's OLED TVs are now a known quantity, notable for their world-beating picture quality, absolute zero black levels, and stunningly slim cabinets. With the latest C1 OLED, LG has chosen to refine the formula by keeping the basics while adding extra future-proof technology. Ads before, we're hard-pressed to come up with reasons why anyone looking for picture quality can justify spending more.</p>
+
+<p>It takes a keen eye to spot any external differences between the C1 and the model it replaces. Both share the same impossibly-thin bezels and central stand, and it appears that the overall design language for LG's OLED models has more or less been fully established for several years at this point. The lower casing houses all of the inputs; you'll find 4 HDMI inputs with full support for HDMI 2.1 and a trio of USB ports. Non-HDMI audio output options include TOSLINK optical output and a 3.5mm jack. Analog video support has been dropped entirely, so you'll need an <a class="Link" href="https://www.latimes.com/bestcovery/best-av-receiver-overall">AV receiver</a> with composite/component video inputs if you're using older devices. Rounding out the connectors is a single Ethernet port for cases where Wi-Fi is not an option.</p><p>As with its predecessors, the C1 is easily one of the best performing HDTVs of all time, thanks to the perfect black levels afforded by its OLED panel. Even though it can't get as bright as many of the higher-end quantum dot LED LCD TVs, this set excels with both standard and HDR content without resorting to eye-searing light output. Motion handling and color accuracy are both on par with its predecessors, and that's no bad thing - they left almost no room for improvement to begin with. However, LED LCD TVs retain one advantage - as with any other OLED TV, the C1 is susceptible to the same burn-in and image retention. In order to mitigate this issue, we recommend cycling content shown on the screen and avoid displaying static images, score boards, or station icons that can get "stuck" on the screen over time. For more information, rtings.com has an excellent series where they document OLED burn-in in real life.</p><p>LG's webOS remains one of our favorite smart TV interfaces, and the C1 proves no different. The menu structure is straightforward and intuitive, and the remote itself can be used as a pointer if you prefer not to use the buttons. All of the most popular channels are supported - Netflix, Amazon/Prime TV, Disney Plus, Hulu, and YouTube can be found in the quick links, and LG's Content Store offers a wide selection of add-on apps if your favorites didn't make it into the default selection. LG also provides a smartphone app that goes a long way towards reducing remote clutter, and the whole ecosystem makes an external streaming box a redundant purchase.</p><p>Rather than rewrite the rulebook, LG chose to refine an already award-winning design. The only nit to pick here is its price; though OLED TV prices have dropped in general, the C1 remains more expensive than many of the top LED LCD TVs it competes with. If it's ultimate picture quality you're after, nothing else will suffice.</p>
+        </div>
+    
+    <button type="button" class="ToggleText-more text-preview" data-toggle-trigger="review">
+        <span class="moreText">Read More</span>
+        <span class="lessText">Close</span>
+    </button>
+</ps-toggler>
+      </div>
+    
+    <div class="column ProductReview-shopbuttons">
+      
+        <a class="ShopButton text-preview"  rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B08WG4HKKY?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+       <img alt="Amazon.com logo" src="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/amazonlogo.de53eb09e0b0de2ddff9ad64708f4ff2.png"/>
+    
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a>
+      
+      
+        <a class="ShopButton text-preview" style="background:#0046bf;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://go.skimresources.com?id=135630X1599003&amp;xs=1&amp;url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-65-class-c1-series-oled-4k-uhd-smart-webos-tv%2F6453312.p%3FskuId%3D6453312&amp;sref=https%3A%2F%2Fwww.latimes.com%2Fbestcovery%2Fbest-hdtv-overall" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="best buy logo new.jpg" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/21bebc0/2147483647/strip/true/crop/400x250+0+8/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F52%2Ff8%2Fb12c863c4bc4947c9c61963aded3%2Fbest-buy-logo-new.jpg"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Best Buy</span>
+</a>
+      
+    </div>
+</div><div class="ProductReview" id="runner-up-samsung-qled-q90t-series-hdtv">
+    
+    <div class="center ProductReview-awardContainer">
+        <span class="byline-1 ProductReview-reviewAward">Runner Up</span>
+    </div>
+    
+
+    
+        
+            <div class="center ProductReview-image">
+                
+                    <a rel="sponsored noreferrer noopener nofollow"
+                       href="https://www.amazon.com/gp/product/B0851Q4F7P?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20"
+                       target="_blank">
+                
+                    
+    <img class="Image" alt="best HDTV" width="840" height="560"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/febaf7c/2147483647/strip/true/crop/750x500+0+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fce%2F1c%2F9368d6e3471e89c34bac0469d5ee%2Fsamsung-hdtv-bestcovery.jpg"
+        >
+
+
+                </a>
+            </div>
+        
+    
+
+    
+        <h3 class="center ProductReview-title" tabindex="">
+             
+                <a rel="sponsored noreferrer noopener nofollow"
+                   href="https://www.amazon.com/gp/product/B0851Q4F7P?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20"
+                   target="_blank">
+             
+                Samsung QLED Q90T Series HDTV  - Runner Up
+             </a>
+        </h3>
+    
+
+    
+      <div class="RichTextBody body-2">
+          <ps-toggler data-toggle="review" class="ToggleText " itemprop="description" data-fade-out="true">
+    
+        <div data-toggle-content
+            data-size="large"
+            class="ToggleText-content body-1">
+            <p>Samsung truly produces a TV for every purse and purpose, but it's at the high end of the market where the company shines the brightest. These TVs feature a streamlined design with premium materials, and offer the best picture quality-enhancing technologies to complete the experience. The Q90R is a major update to last year's Q9F; it represents the flagship of Samsung's 2019 4K TV lineup, and is easily one of the best TVs of 2019.</p>
+
+<p>High-end Samsung TVs have carved a niche in the premium/luxury display market, and the latest Q90R fits right in. Picking up where the Q9F left off, the Q90R shares the same minimalist vibe, with a small metallic strip of a bezel that seemingly disappears when the display is switched on. As before, there's an unobtrusive block centered at the bottom of the display; it's emblazoned with the Samsung logo, and houses the physical controls for the TV. The stand has been redesigned as well - it's now a solid base that seems to fill in the empty space of the Q9F's wire-style stand. One benefit to this design is that the Q90R is among the rare few TVs left that doesn't require furniture as wide as the TV itself if you choose not to mount it to the wall. Samsung's One Connect box returns as well, and appears more or less unchanged from last year's iteration. Inputs include 4 HDMI ports (HDMI 3 is now marked for ARC; sadly, eARC is not supported) and a trio of USB ports. There's a single cable/antenna input, but as before, no support for any analog connectivity otherwise. A TOSLINK digital optical output handles sound with devices not compatible with ARC, and a single Ethernet port is offered for wired internet connectivity.</p><p>It's been a few years since quantum dot technology became mainstream in LED LCD TVs, and the Q90R benefits greatly from the constant refinements. It's hands-down one of the best performing TVs on the market today, with inky black levels and accurate, saturated colors that can create a better 3D experience than the gimmicky 3D TVs from earlier in the decade. Compared to OLED TVs, however, we'll cut straight to the chase - an OLED TV can deliver superior black level performance, but the Q90R comes extremely close. On the other hand, the Q90R can get much brighter than any OLED TV can, making it an outstanding choice for environments with lots of ambient light. As well, it provides for superior HDR performance in any setting, since the lofty brightness levels don't require carefully controlled lighting. Uncharacteristically for an LED LCD TV, the Q90R offers a decently wide viewing angle thanks to its special "Ultra Viewing Angle" layer. Unlike many other implementations of this technology, the Q90R manages to preserve its impressive black levels, and does not suffer from any odd refractions or color shifts.</p><p>The Q90R receives the latest iteration of Samsung's Tizen smart TV interface. Among in-house smart TV suites (meaning not compared to Roku or Android TV), it stands out simply because of how intuitively it operates. Out of the box, the Q90R defaults to showing Netflix, Prime Video, YouTube, and Hulu quick links; the menu is customizable, and Samsung's marketplace is comparable to Android/Roku in terms of content. The remote supports voice control as well as Samsung's own Bixby assistant; many TV functions can be accessed by issuing a voice command (changing channels, swapping inputs, powering on and off). If you have other Samsung SmartThings-compatible devices or appliances in your household, the Q90R can be fully integrated into your smart home as well.</p><p>The Samsung Q90R is certainly an impressive TV, and displays no obvious shortfalls in design or performance. Its smart TV interface is easy to navigate and offers tons of content, and the ability to integrate with your smart home ecosystem is an attractive benefit. Where it comes up short is value; though Samsung's flagship model is priced like the premium product that it is, the elephant in the room is LG's OLED lineup that offers better picture quality at a comparable price. For the money, we can recommend the Samsung Q90R for two distinct circumstances: you need a TV with outstanding bright room performance, or you tend to leave the screen on a static image for long periods of time.</p>
+        </div>
+    
+    <button type="button" class="ToggleText-more text-preview" data-toggle-trigger="review">
+        <span class="moreText">Read More</span>
+        <span class="lessText">Close</span>
+    </button>
+</ps-toggler>
+      </div>
+    
+    <div class="column ProductReview-shopbuttons">
+      
+        <a class="ShopButton text-preview"  rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B0851Q4F7P?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+       <img alt="Amazon.com logo" src="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/amazonlogo.de53eb09e0b0de2ddff9ad64708f4ff2.png"/>
+    
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a>
+      
+      
+        <a class="ShopButton text-preview" style="background:#0071ce;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://go.skimresources.com?id=135630X1599003&amp;xs=1&amp;url=https%3A%2F%2Fwww.walmart.com%2Fip%2FSAMSUNG-65-Class-4K-Ultra-HD-2160P-HDR-Smart-QLED-TV-QN65Q70T-2020%2F166144799&amp;sref=https%3A%2F%2Fwww.latimes.com%2Fbestcovery%2Fbest-hdtv-overall" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="Walmart-Logo-PNG-Transparent.png" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/ddf81d9/2147483647/strip/true/crop/300x188+0+56/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fba%2F5d%2F84f681344ef9a6d891a4494316b6%2Fwalmart-logo-png-transparent.png"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Walmart</span>
+</a>
+      
+    </div>
+</div><div class="ProductReview" id="consider-sony-bravia-xr65x90j-65-inch-led-lcd-tv">
+    
+    <div class="center ProductReview-awardContainer">
+        <span class="byline-1 ProductReview-reviewAward">Consider</span>
+    </div>
+    
+
+    
+        
+            <div class="center ProductReview-image">
+                
+                    <a rel="sponsored noreferrer noopener nofollow"
+                       href="https://www.amazon.com/gp/product/B08TKXDLQB?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20"
+                       target="_blank">
+                
+                    
+    <img class="Image" alt="sony xr65x90j.jpg" width="840" height="560"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/2a7edb9/2147483647/strip/true/crop/750x500+0+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F96%2F24%2F03fc5894432cb944cde017cd0bb0%2Fsony-xr65x90j.jpg"
+        >
+
+
+                </a>
+            </div>
+        
+    
+
+    
+        <h3 class="center ProductReview-title" tabindex="">
+             
+                <a rel="sponsored noreferrer noopener nofollow"
+                   href="https://www.amazon.com/gp/product/B08TKXDLQB?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20"
+                   target="_blank">
+             
+                Sony Bravia XR65X90J 65-Inch LED LCD TV - Consider
+             </a>
+        </h3>
+    
+
+    
+      <div class="RichTextBody body-2">
+          <ps-toggler data-toggle="review" class="ToggleText " itemprop="description" data-fade-out="true">
+    
+        <div data-toggle-content
+            data-size="large"
+            class="ToggleText-content body-1">
+            <p>Sony's flagship LED LCD X90J returns to claim its spot for 2021, boasting outstanding picture quality and an attractive design. In a twist, the company has also kept last year's X900H as a more affordable alternative, and insists that the new model exists to supplement the X90J in the model lineup rather than replace it outright. In any case, we're recognizing the X90J for many of the same points that the X900H offered; that the new model is also an excellent value proposition is a pleasant surprise that rounds off one of the best HDTVs sold today.</p>
+
+<p>After years of variations on design, Sony seems to have settled on a motif. The X90J appears outwardly identical to last year's X900H; barring the back of the TV, anyone would be forgiven for confusing the two. Either way, the X900H was a very attractive set to begin with, and the new X90J could do much worse than repurposing its design. Connectivity is nearly unchanged; 4 HDMI ports are present (HDMI 3 supports ARC/eARC), as are 2 USB inputs (one of which is USB 3.0). Strangely, HDMI 2.1 support is limited to ports 3 and 4. The fact that HDMI 3 is the designated ARC/eARC port may potentially create a bottleneck if you have multiple devices to connect. Analog video connectivity relies on a 3.5mm breakout adapter for composite video only, as well as a single cable/antenna input. The X90J also offers a remote IR input, which is convenient for custom installations. Audio is supported via the aforementioned HDMI ARC/eARC port, as well as a TOSLINK audio output and a single 3.5mm analog audio jack. Finally, a LAN/Ethernet port is present in case you prefer to hard-wire your TV to your network.</p><p>Picture quality is largely unchanged from the X900H, and we have no complaints. Black levels are impressive, and the X90J is one of the most color-accurate TVs on sale today - even out of the box. Motion handling capabilities are class-leading thanks to Sony's expertise in image processing, and the X90J can smoothly display 24p content even if the feed is 60p or 60i. On the other hand, some detractors remain due to technical limitations. The local dimming feature works very well to deliver deep blacks without blooming or crushing details, but OLED TVs perform better still in this regard. As well, viewing angles remain relatively narrow due to the inherent nature of VA LCD panels. While it's hard to justify an upgrade if you already own the X900H, anyone upgrading from a 2017 or older TV will be hard-pressed to find an LED LCD TV with a picture that looks as good.</p><p>One area where the X90J is a noticeable improvement over the X900H is its smart TV interface. Google TV replaces Android TV as the new OS, and it's not just a renaming of the older system. Several new functions appear to seamlessly integrate the X90J with your other smart devices, and there's more support for streaming live content. The sheer abundance and variety of apps is unchanged, and the X90J comes pre-loaded with all of the favorites, including Netflix, Amazon Video, Disney Plus, and Hulu. The remote also includes a built-in mic for voice control; because the X90J natively runs Google TV, the mic can also be used for Google Assistant or Amazon Alexa. As far as smart TV interfaces go, the X90J gets our nod for one of the best TVs for streaming content.</p><p>The X90J does carry a pricing premium over its direct competitors, but the extra money buys noticeable picture quality improvements through Sony's renowned image processing capabilities. We can even go out on a limb and say that the X90J represents good value for money; while it's certainly not cheap, it avoids the eye-watering prices that OLED TVs and Samsung's flagship QLED sets demand. It's hard to find faults with the Sony X90J, which is why it's one of our top picks for Best HDTVs.</p>
+        </div>
+    
+    <button type="button" class="ToggleText-more text-preview" data-toggle-trigger="review">
+        <span class="moreText">Read More</span>
+        <span class="lessText">Close</span>
+    </button>
+</ps-toggler>
+      </div>
+    
+    <div class="column ProductReview-shopbuttons">
+      
+        <a class="ShopButton text-preview"  rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B08TKXDLQB?ie=UTF8&amp;linkCode=xm2&tag=bestcoverycom-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+       <img alt="Amazon.com logo" src="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/amazonlogo.de53eb09e0b0de2ddff9ad64708f4ff2.png"/>
+    
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a>
+      
+      
+        <a class="ShopButton text-preview" style="background:#0046bf;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://go.skimresources.com?id=135630X1599003&amp;xs=1&amp;url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-65-class-bravia-xr-x90j-series-led-4k-uhd-smart-google-tv%2F6453208.p%3FskuId%3D6453208" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="best buy logo new.jpg" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/21bebc0/2147483647/strip/true/crop/400x250+0+8/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F52%2Ff8%2Fb12c863c4bc4947c9c61963aded3%2Fbest-buy-logo-new.jpg"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Best Buy</span>
+</a>
+      
+    </div>
+</div><div class="ProductReview" id="honorable-mention-tcl-65-class-6-series-4k-uhd-mini-led-lcd-tv">
+    
+    <div class="center ProductReview-awardContainer">
+        <span class="byline-1 ProductReview-reviewAward">Honorable Mention</span>
+    </div>
+    
+
+    
+        
+            <div class="center ProductReview-image">
+                
+                    
+    <img class="Image" alt="best mini led lcd tv" width="840" height="560"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/9fac178/2147483647/strip/true/crop/750x500+0+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F9a%2F5d%2Fc0aed1ef49b4bc3a678f121e1bf3%2Ftcl-65-class-6-series-4k-uhd-mini-led-lcd-tv-bestcovery.jpg"
+        >
+
+
+                
+            </div>
+        
+    
+
+    
+        <h3 class="center ProductReview-title" tabindex="">
+             
+                TCL 65” Class 6-Series 4K UHD Mini-LED LCD TV - Honorable Mention
+             
+        </h3>
+    
+
+    
+      <div class="RichTextBody body-2">
+          <ps-toggler data-toggle="review" class="ToggleText " itemprop="description" data-fade-out="true">
+    
+        <div data-toggle-content
+            data-size="large"
+            class="ToggleText-content body-1">
+            <p>TCL was one of the industry standouts last year with its flagship 6-Series, going toe-to-toe with some of the best performers on the market with a price tag that no other manufacturer could hope to match. The latest R635 remains competitive despite its age, which proves how far TCL was ahead of the competition to begin with. Paired with its Roku interface, it's one of the most impressive HDTV options available in 2021.</p>
+
+<p>The R635 has received several refinements to its design, with a slimmer bezel that fits in with modern design themes that favor minimalism. The stand has been redesigned as well, with angled legs that take up less space overall. HDMI 4 now supports ARC/eARC; unfortunately, the R635 still does not feature HDMI 2.1. As before, analog video connectivity is limited to composite video via a 3.5mm jack (requires a breakout cable to function) and a cable/antenna input. Component video is not supported, so you'll need a converter for legacy devices. If your setup does not include an ARC-capable audio device, the R625 includes a TOSLINK digital audio output as well as a standard 3.5mm audio output jack.</p><p>One of the primary draws of TCL's "6-Series" models is their outstanding picture quality irrespective of price, and the R635 doesn't disappoint. The R635 aims to build on last year's model in subtle but noticeable ways; it keeps the quantum dot technology introduced in the preceding model while bumping the native refresh rate to 120 Hz. The latter finally allows TCL's flagship model to keep up with fast-moving sports action. Combined with its superb black levels and bright backlight, the R635 delivers a picture that simply can't be matched in this price range. We suggest taking the money you save by choosing the R635 over a more expensive set and investing in a professional calibration for the best possible picture quality.</p><p>The R635 continues to utilize Roku for its smart TV interface, right down to the remote control. Not only does the inclusion of Roku endow the R635 with one of the most user-friendly streaming platforms on the market today, it also benefits from the frequent updates and neverending content library that comes with any add-on Roku device. The remote itself offers quick access buttons to launch Netflix, Disney Plus, Hulu, and Sling TV; the built-in microphone enables voice control as well.</p><p>The R635 is one of the most impressive performers on the market even before factoring in price; if value is what you're after, the R635 can't be beat. Combined with one of the best smart TV interface options on the market today, the R635 is a no-brainer for anyone shopping for a new TV regardless of budget.</p>
+        </div>
+    
+    <button type="button" class="ToggleText-more text-preview" data-toggle-trigger="review">
+        <span class="moreText">Read More</span>
+        <span class="lessText">Close</span>
+    </button>
+</ps-toggler>
+      </div>
+    
+    <div class="column ProductReview-shopbuttons">
+      
+      
+        <a class="ShopButton text-preview" style="background:#0046bf;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://go.skimresources.com?id=135630X1599003&amp;xs=1&amp;url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftcl-65-class-6-series-4k-uhd-mini-led-qled-dolby-vision-hdr-roku-smart-tv-65r635%2F6424216.p%3FskuId%3D6424216" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="best buy logo new.jpg" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/21bebc0/2147483647/strip/true/crop/400x250+0+8/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F52%2Ff8%2Fb12c863c4bc4947c9c61963aded3%2Fbest-buy-logo-new.jpg"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Best Buy</span>
+</a>
+      
+    </div>
+</div></div>
+        
+        
+        
+            <div class="BestList-container BestList-buyersGuide" id="buyers-guide">
+                <h2 class="BestList-guide center title-2">Buyer&#x27;s Guide</h2>
+                <div class="RichTextBody body-1">
+                    <ps-toggler data-toggle="review" class="ToggleText " itemprop="description" data-fade-out="true">
+    
+        <div data-toggle-content
+            data-size="large"
+            class="ToggleText-content body-1">
+            	<p>The HDTV market is filled with enough advertising and marketing hubris to make anyone's head spin with confusion. Manufacturers routinely go out of their way to make their products seem more impressive, including puzzling claims such as “infinite contrast ratio”. Worse still, the TVs on display at local brick &amp; mortar shops usually have the brightness cranked to the max and various settings put to “store mode” to attract potential buyers.</p>	<p>Comparing TVs side-by-side at a store will do you no favors unless the sets are calibrated properly and are utilizing equal-quality HD feeds. Even then, TVs will look different in a brightly-lit environment like the sales floor compared to a dimmer, more controlled setting like your living room. Before you commit to buying a new TV, it helps to familiarize yourself with a few terms and specifications to ensure that you're getting exactly what you want.</p><p>Over the past several years, the HDTV industry has seen massive shifts in technologies and production. LCD TVs remain hugely popular and are more affordable than ever due to the shrinking cost to produce this type of display. Manufacturers have taken this opportunity to further refine this display technology, with consumers enjoying the benefits of ever-improving picture quality. OLED TV technology has matured to the point where they can be found for reasonable prices, but availability remains scarce as only one manufacturer - LG - produces such a display type. (Note: Sony offers OLED TVs as well, but LG manufactures the panel)</p><h3>Types of <b>HDTV Technologies</b></h3> <p>	</p><h4><b>LCD</b></h4>	<p>LCD TVs are by far the most popular type of television sold today. This TV displays its images by rendering them across a liquid crystal layer, which is then illuminated by the backlight. Though the earliest LCD TVs were plagued by poor picture quality and a tendency to "lag" frames and create an exaggerated blur effect, advances made in the past decade have created a well-rounded TV that bears little resemblance to their flawed predecessors.</p>	<p>Modern LCD TVs carry several advantages that make them extremely attractive to the vast majority of consumers shopping for a new TV. LCD TVs are widely available, both online and from local warehouses and brick-and-mortar stores. Comparing screen sizes, these TVs are the most affordable by a long shot - both to buy and operate daily. LCD TVs can get many times brighter than any other type of TV, which makes them more suitable for use in bright environments. This is especially important as <a class="Link" href="#buyers-guide-hdr" rel="noopener nofollow">HDR content</a> becomes more widespread.</p>	<p>Drawbacks are few, but worth noting. LCD TVs look best when viewing them head-on. Though manufacturers have gone to great lengths to increase this "viewing angle", the picture quality degrades noticeably when viewing the TV from the sides. LCD TVs also have the potential to carry uneven screen uniformity, which can be noticed as artifacts in the image or "clouding" where the backlight shines brighter in one spot.</p>	<p>Here's a quick run-down of the types of technology you're likely to encounter when shopping for an LCD TV:</p><h4><b>Lighting</b></h4>	<p>One of the primary components of an LCD TV is its backlight; without it, the images rendered on the crystal layer would not be visible. While earlier LCD TVs utilized standard CCFL (fluorescent lamp) arrays, just about any LCD TV you encounter today features an LED-illuminated backlight. This type of TV is sometimes referred to as an "LED TV", but this is a marketing term that introduces confusion. These TVs should technically be referred to as <a class="Link" href="https://www.latimes.com/bestcovery/best-led-lcd-tv">LED LCD TVs</a>; though it's a mouthful, it's especially important to distinguish this detail in today's marketplace with OLED, QLED, and Quantum Dot LEDs further clouding the waters.</p>	<p>Today's LED LCD TVs utilize two distinct types of backlight technology:</p><h4><b>Full-array LED</b></h4>	<p>This backlight setup places LEDs directly behind the LCD panel. LCD TVs with full-array LED backlighting exhibit superior screen uniformity, and are often paired with a technology called "local dimming" where the TV selectively reduces backlight output to create darker black levels where required. Most of our top picture quality performers utilize this type of backlight arrangement.</p><h4><b>Edge-lit LED</b></h4>	<p>Rather than placing the LEDs behind the LCD panel, the diodes are moved to the edge of the TV underneath the bezel (typically at the bottom). They are then aimed at a 'light guide' which stretches behind the panel instead and is used to distribute the light in order to display a viewable image. This type of backlight is typically found on more affordable models due to the lower cost of utilizing fewer lighting elements.</p><h4><b>Local dimming</b></h4>	<p>One of the challenges of getting an LCD screen to show a truly inky black comes from the very component that allows the display to be seen at all - the backlight. Unlike all other colors an LCD TV can display, black requires that the panel effectively blocks out the backlight so no light will go through. Though the best LCD panels can do this convincingly, it's easier to create a deeper black on-screen when there is simply no light for the panel to block. The solution is local dimming, where the TV's image processor can scan the frame and reduce or shut off light output for areas where a deeper black is required. All of our best-performing LED LCD TVs are equipped with such a feature.</p><h4><b>Quantum dots</b></h4>	<p>A quick glance at the best LED LCD TVs sold today will reveal one thing in common - all of these sets utilize Quantum Dot technology. While it sounds like something out of a sci-fi show, the reality is just as impressive. Without getting into too much technical detail, Quantum Dot-equipped LCD TVs utilize microscopic particles that emit desired light frequencies when hit with <a class="Link" href="https://www.latimes.com/bestcovery/best-blue-light-screen-protector">blue light</a>, which can then highlight colors better than an all-white backlight can. The result is a more "punchy" image compared to standard LCDs and has the pleasing effect of increasing color saturation to the naked eye. Each manufacturer has its own name for the technology (Sony calls it Triluminos, Samsung calls it QLED, Vizio simply calls it Quantum), but the basic principles are the same in practice.</p><h4><b>OLED</b></h4>	<p>Despite wearing a confusingly similar name to "LED TV", an OLED TV shares next to nothing with LED LCD TVs other than the ability to display an image on screen. A relative newcomer to the market, OLED TV technology has matured in the past decade from expensive, primitive, and comparatively tiny panels to full-fledged high-end units that offer the best picture quality money can buy. OLED TVs do not utilize a backlight; instead, they operate more like plasma TVs in that each pixel is energized individually and emits its own light. OLED panels exhibit perfect screen uniformity and vastly superior off-angle viewing compared to LCD TVs. Because light output from each pixel is controlled individually, OLED TVs are the first display type to be capable of the much-vaunted "infinite contrast ratio". Black levels are simply perfect - no other type of consumer display technology can match OLED when it comes to true black levels.</p>	<p>It seems OLED TVs can finally offer a real alternative to die-hard plasma TV fans, thanks to their superior picture quality. Ironically, OLED TVs have inherited the same drawbacks that marred plasma display panels - namely limited brightness and image retention/burn-in. Because OLED TVs rely on each pixel to emit its own light, LED LCD TVs can get many times brighter when displaying images. This is especially noticeable in brighter rooms, meaning OLED TVs are better suited to environments where ambient light can be controlled. Image retention/screen burn-in makes an unfortunate comeback with OLED displays as well; while real-world effects may vary, there's no getting around the fact that OLED TVs are susceptible to this phenomenon. rtings.com has a very thorough, well-documented ongoing test researching <a class="Link" href="https://www.rtings.com/tv/learn/real-life-oled-burn-in-test" target="_blank" rel="noopener nofollow">OLED burn-in</a>. As with our previous recommendation with plasma displays, burn-in can be mitigated if you vary the content and avoid displaying static images for long periods of time.</p><h3><b>What Happened to Plasma TVs?</b></h3><p></p>	<p>Sadly, plasma TVs have been <a class="Link" href="https://www.latimes.com/bestcovery/best-plasma-tv-overall" target="_blank">phased out of the market</a>, with the last remaining manufacturers - LG and Samsung - withdrawing support in 2015. Panasonic ceased US sales of all consumer plasma TVs after Q1 2014. Despite superior picture quality, perfect screen uniformity, and lack of off-angle viewing issues compared to LCD TVs, the bulkiness and relative fragility of the sets, perceived burn-in effect, and high energy cost compared to LED LCD TVs eventually led to the demise of plasma TVs in the HDTV market. Though gone, this technology is not forgotten - one of the industry-wide gold standards for black levels and picture quality remains the Pioneer Kuro Elite plasma TV, which has been out of production for a decade.</p><h3><b>Assessing Picture Quality</b></h3><p></p>	<p>No matter what size TV you’re looking for, the one thing that needs to be prioritized is good picture quality. There is an enormous amount of information available on how to judge good picture quality, but your personal preference will ultimately determine what looks good to you and if the pricier model with more features is worth the extra cost in the end.</p>	<p>Here are a few things to look for:</p><h4><b>Black levels</b></h4>	<p>Black levels are a primary component of good picture quality. A good TV will be capable of purer blacks which stand in stark contrast to any color in the scene. In a scene with true “blacks”, dark gray tones are undesirable and can detract from the movie-watching experience. OLED TVs are capable of generating the best black levels, followed closely by premium LED LCD TVs with full-array local dimming backlights.</p><h4><b>Color accuracy</b></h4>	<p>We recommend selecting a TV with good color accuracy. A TV with poor color accuracy will display washed-out or oversaturated colors, and skin tones that appear orange, green, purple, or any other color that is not associated with a healthy person.</p>	<p>We always recommend a full calibration performed by a certified professional, as it will bring out the best the TV has to offer. On the other hand, a professional calibration is not an inexpensive proposition, and many newer TVs are capable of good color accuracy out of the box. Your mileage may vary.</p><h4><b>Screen uniformity</b></h4>	<p>Screen uniformity is extremely important as well. With an LCD TV, this boils down to how effectively the TV distributes its backlight. A good backlight setup will appear flawless and unnoticeable, while the appearance of spots or patches suggests poor screen uniformity. OLED TVs do not utilize a backlight and display perfect screen uniformity at all times.</p><h4><b>Contrast ratio</b></h4>	<p>Manufacturers like to throw around large contrast ratio numbers to give the impression of superior picture quality. Outside of each respective manufacturer's products, this number is just about meaningless. A simple explanation of contrast ratio is the difference between the brightest image the TV can display and the darkest image the TV can display (black level). rtings.com has an excellent <a class="Link" href="https://www.rtings.com/tv/tools/compare" target="_blank" rel="noopener nofollow">library of native contrast ratios</a>, which is a useful comparison tool if you're stuck deciding between two TVs.</p><p>Previously, we dismissed the claim "infinite contrast ratio" as pure marketing, as it was impossible for either LCD or plasma displays to achieve a pure, true black. OLED TVs are capable of generating such black levels, and can legitimately achieve this previously unobtainable "infinite contrast ratio". How is this possible? Think of it as dividing by zero (the measurement of a true black from an OLED TV). Due to the pure black, the contrast level of an OLED TV is simply not possible to measure.</p><h4><b>Size</b></h4><p>	For the best HDTV experience, go for the biggest size your budget and setting will allow. Remember that this is an investment that you will live with for quite some time, and you don't want buyer's remorse because you didn't go for the bigger screen. Keep in mind that as implausible as it may sound, it is possible to go too big. If you live in a small apartment or plan to set the TV up where space is limited, that 85-inch TV may not be the best idea.</p><h4><b>Resolution</b></h4><p></p>	<p>Today's HDTVs come in two main resolutions – 1080p and 4K. When broken down, these alphanumeric combinations simply state the resolution and the method in which the pixels are displayed. Here's a brief explanation of each, along with a quick run-down of the less-encountered resolutions among HDTVs today.</p><h4><b>4K</b></h4>	<p><b>&nbsp;</b>- This is the resolution of most TVs on sale today. 4K televisions carry a 3840x2160 pixel resolution, which is exactly twice the horizontal resolution and twice the vertical resolution of 1080p. Though subtle, the increase in the level of detail is clearly visible on larger screens.</p><h4><b>1080p</b></h4>	<p>&nbsp;- Often referred to as 'Full HD', and represents 1920x1080 pixels displayed on the screen in a 'progressive' format. Each line is resolved during the refresh cycle, leading to a clearer, sharper picture. Despite 4K overtaking 1080p as the most popular HDTV resolution, most HD content continues to be geared towards 1080p.</p><h4><b>720p</b></h4>	<p>&nbsp;- Like 1080p, 720p is a 'progressive scan' format. The '720p' term actually refers to a range of HD resolutions, with a minimum of 1280x720 pixels from which the name is derived. This resolution is now seldom encountered and is relegated to the most bare-bones entry-level HDTVs on sale today.</p><h4><b>1080i</b></h4>	<p>&nbsp;- Although modern HDTVs do not feature 1080i as a native resolution, this format is still encountered when dealing with HD broadcasts. Older CRT HDTVs also sport a 1080i native resolution, which can lead to some confusion. While the resolution is identical to 1080p (1980x1080 pixels), the “I” in the name stands for “interlaced” scan.</p>	<p>Native 1080i-resolution displays refresh every alternating line (effectively producing 1920x540 pixels per refresh cycle) to show the entire image. Modern displays require image processing (de-interlacing) to display content encoded in this format.</p><h4><b>Standard Definition</b></h4><p>&nbsp;- Older TV formats are almost always considered “standard definition”. You'll see the term “enhanced definition” thrown around here and there when referring to 480p, but the current trend is to refer to anything which features a lower resolution than "HD” as “standard definition”.</p><p>Not all HDTVs perform well with standard definition content. Don't be surprised if you connect your old DVD player or game console to your brand new HDTV and the resulting picture isn't crystal clear.</p><p>Without getting into too much detail, here’s a brief explanation: the native resolution of a new HDTV is far higher than what standard definition devices can output. This means that your TV will try to convert the standard definition signal (usually 480i or 480p) into high definition (720p, 1080p, or even 4K) to fill the screen, and the results are not always pretty. On the other hand, high-definition content will look fantastic on a high-definition TV.</p><h4><b>3D Viewing</b></h4><p></p><p>Home 3D TV is dead. Not a single HDTV set manufactured after 2017 supports 3D in either active or passive formats.</p><h4><b id="buyers-guide-hdr">HDR</b></h4><p></p>	<p>Part of the reason why 3D TVs disappeared from the market has to do with the increased availability of HDR content. HDR stands for High-dynamic Range, and its basic operational principles are actually quite simple. When rendered properly, HDR content can display both darker and brighter scenes within the same frame, along with more vibrant colors. If you've used the built-in HDR feature found in many smartphones, you already have an idea of what to look for. Three standards currently exist - HDR10, Dolby Vision, and HDR10+. HDR10 is the baseline for TV HDR - when "regular HDR" is mentioned, it refers to HDR10. Dolby Vision and HDR10+ carry additional performance benefits over regular HDR:</p><h4><b>Dolby Vision</b></h4><p>You'll undoubtedly recognize the Dolby name from various audio formats; the very same Dolby Labs is now involved in improving video quality across the board. Dolby Vision requires TV manufacturers to meet specific video standards, and certification is granted only after the company signs off on the set's performance. HDR10 material instructs the TV where the limits are for the darkest and brightest scenes; this "metadata" is sent only once at the beginning of content playback and remains static throughout. The biggest difference between Dolby Vision and HDR10 is the ability to change the video metadata on-the-fly, resulting in more flexibility when it comes to rendering scenes. So far, the only company to exclude Dolby Vision from their sets is Samsung, which leads us neatly to...</p><h4><b>HDR10+</b></h4><p>HDR10+ is an alternate standard developed primarily by Samsung and can be found in Amazon Video content. Unlike Dolby Vision, HDR10+ does not require manufacturers to pay a royalty to Dolby Laboratories. Just like its rival format, HDR10+ can change the video metadata as required during playback. We've yet to encounter a single TV that supports both formats, though this could change at a future date. As you would expect, HDR10+ is supported by Samsung TVs.</p><h4><b>Price/Value</b></h4><p></p>	<p>As you will no doubt have noticed by now, modern HDTVs encompass a wide range of prices. It's easy to find a good HDTV for under $500, but you're more likely to encounter models on the showroom floor costing over $1000. If money is no object, there are higher-performance TVs available today that sport $5000+ sticker prices.</p><p>Current HDTVs are far from "one size fits all," both literally and figuratively. In today's TV market, screen size is the biggest factor in determining cost, whether you're looking at OLED or LCD TVs. Almost all TVs sold today come equipped with some degree of smart TV capability, so the difference in features boils down to picture quality enhancements.</p><h3><b>Try Before You Buy</b></h3><p></p><p>Don't assume that the way the TV looks in the store will translate to the one that you purchase. If you can, ask an employee or salesperson to connect high-definition material to the TV (usually a Blu-ray movie), then switch the set to its 'Cinema Mode' (or whatever is closest). This will help even the playing field.</p>
+        </div>
+    
+    <button type="button" class="ToggleText-more text-preview" data-toggle-trigger="review">
+        <span class="moreText">Read More</span>
+        <span class="lessText">Close</span>
+    </button>
+</ps-toggler>
+                </div>
+            </div>
+        
+        
+    </div>
+
+    
+        <div class="BestList-container">
+            
+                <ps-toggler data-toggle="review" class="ToggleText Author-wrapper" itemprop="description" data-fade-out="true">
+    
+        
+            
+                
+                    
+                        <div class="Author" id="bestcovery-team">
+    <div class="Author-intro">
+        
+            
+                <div class="Author-image" itemprop="image">
+    <img class="Image" alt="bestcovery team.jpg" width="200" height="200"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/a70406e/2147483647/strip/true/crop/200x200+0+0/resize/200x200!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fd4%2F9f%2F03be8fc2451cbf7140b17a8282bc%2Fbestcovery-team.jpg"
+        >
+
+</div>
+            
+        
+
+        <div class="Author-info">
+            
+                <div class="title-3 Author-name" itemprop="name">
+                    <a href="https://www.latimes.com/bestcovery/expert/bcteam">Bestcovery Team</a>
+                </div>
+            
+
+            
+
+            
+                <div class="Author-shortBiography-content RichTextBody ToggleText-content " data-toggle-content  data-size="small" >
+                    Our research team searches out the best of everything so that you can confidently pick the perfect products and services for your needs.
+                </div>
+            
+        </div>
+    </div>
+</div>
+                    
+                
+            
+        
+    
+    <button type="button" class="ToggleText-more text-preview" data-toggle-trigger="review">
+        <span class="moreText">Read More</span>
+        <span class="lessText">Close</span>
+    </button>
+</ps-toggler>
+            
+        </div>
+    
+</main>
+
+
+    <div class="BestList-below" ><ps-list-loadmore class="ListD" >
+    <div class="ListD-header" >
+    
+        <div class="ListD-header-title">Related Content</div>
+    
+</div>
+
+
+    
+        <ul class="ListD-items" data-list-loadmore-items>
+            
+            <li class="ListD-items-item">
+                <div class="PromoB" data-content-type="bestList" data-image-align="top">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-antenna-for-hdtv" aria-label="Get Great Connectivity: Best HDTV Antennas">
+    <img class="Image" alt="best Mohu Leaf Paper-Thin Indoor HDTV Antenna" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/fa960b8/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fdb%2F22%2F852a7d6a48f6a81fc9c15be57078%2Fmohu-leaf-paper-thin-indoor-hdtv-antenna-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-antenna-for-hdtv">Get Great Connectivity: Best HDTV Antennas</a>
+            </div>
+        
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+            </li>
+            
+            <li class="ListD-items-item">
+                <div class="PromoB" data-content-type="bestList" data-image-align="top">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-led-lcd-tv" aria-label="Upgrade Your TV Streaming With The Best LED LCD TVs">
+    <img class="Image" alt="best visio led lcd hdtv" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/6e8b497/2147483647/strip/true/crop/1000x653+0+7/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fc6%2F2e%2F2b1e521a49a6b66abac5fb63bf8d%2Fvizio-px65-g1-quantum-4k-hdr-tv.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-led-lcd-tv">Upgrade Your TV Streaming With The Best LED LCD TVs</a>
+            </div>
+        
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+            </li>
+            
+            <li class="ListD-items-item">
+                <div class="PromoB" data-content-type="bestList" data-image-align="top">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-projection-screen" aria-label="Upgrade Movie Night With The Best Projector Screen in 2022">
+    <img class="Image" alt="best Silver Ticket HDTV Projection Screen" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/bb8f709/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F1e%2F6a%2F87d7ebaf43e582f7a722d136bad7%2Fsilver-ticket-hdtv-projection-screen-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-projection-screen">Upgrade Movie Night With The Best Projector Screen in 2022</a>
+            </div>
+        
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+            </li>
+            
+            <li class="ListD-items-item">
+                <div class="PromoB" data-content-type="bestList" data-image-align="top">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-blu-ray-player-overall" aria-label="Best Blu-ray Players With The Image and Sound Quality You Deserve ">
+    <img class="Image" alt="best universal disc blu-ray players" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/3c7879e/2147483647/strip/true/crop/500x327+0+87/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F73%2Fbf%2Fdf863d9adeb2615d7b6ded7a7d18%2F319aub0sk3l-sl500-aa500.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/home-theater-a-v">Home Theater &amp; A/V</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-blu-ray-player-overall">Best Blu-ray Players With The Image and Sound Quality You Deserve </a>
+            </div>
+        
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+            </li>
+            
+        </ul>
+    
+
+    
+</ps-list-loadmore></div>
+
+
+<footer class="Page-footer" itemscope itemtype="https://schema.org/WPFooter">
+    <div class="Page-footer-body">
+        
+
+        <div class="Page-footer-columns">
+            <div class="Page-footer-column">
+                
+                    <div class="Page-footer-navigation">
+                        <nav class="FooterNavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+        <ul class="FooterNavigation-items">
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/about-us">About Us</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/privacy-policy">Privacy Policy</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/terms-use">Terms of Use</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/contact-us">Contact Us</a>
+    
+    
+</div>
+                </li>
+            
+        </ul>
+    
+</nav>
+                    </div>
+                
+            </div>
+            
+                <div class="Page-footer-column">
+                    <div class="Page-footer-content title-5">
+                        
+    <div class="RichTextModule">
+        
+            <div class="RichTextModule-items RichTextBody"><p>Follow Us</p></div>
+        
+
+    </div>
+<nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item"> <a class="SocialLink" rel="noreferrer noopener nofollow" href="https://www.facebook.com/Bestcovery/" target="_blank" data-social-service="facebook"><svg><use xlink:href="#mono-icon-facebook"></use></svg><span class="sr-only">facebook</span></a>
+</li>
+            
+                <li class="Navigation-items-item"> <a class="SocialLink" rel="noreferrer noopener nofollow" href="https://twitter.com/Bestcovery" target="_blank" data-social-service="twitter"><svg><use xlink:href="#mono-icon-twitter"></use></svg><span class="sr-only">twitter</span></a>
+</li>
+            
+        </ul>
+    
+</nav>
+                    </div>
+                </div>
+            
+        </div>
+
+        
+            <div class="Page-footer-disclaimer text-preview">Copyright 2023 Bestcovery.com, LLC. All rights reserved.</div>
+        
+    </div>
+</footer>
+
+
+<ps-smooth-scroller class="FloatButton text-preview" data-target="#BestList-body">
+    <div class="FloatButton-container">
+        
+            <svg class="FloatButton-icon chevron rotate-270"><use xlink:href="#chevron"></use></svg>
+        
+        
+        <span class="FloatButton-text">Go to top</span>
+    </div>
+</ps-smooth-scroller>
+</body>
+</html>

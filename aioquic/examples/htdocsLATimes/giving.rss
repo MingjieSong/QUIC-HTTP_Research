@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Giving Back: Philanthropy Issue</title>
+    <link>https://www.latimes.com/giving</link>
+    <description>Giving Back: Philanthropy Issue</description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 14 Dec 2022 16:54:21 GMT</lastBuildDate>
+    <atom:link href="https://www.latimes.com/giving.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

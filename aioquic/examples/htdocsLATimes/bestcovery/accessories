@@ -1,0 +1,2160 @@
+<!DOCTYPE html>
+<html class="SectionPage" lang="en" itemscope itemtype="http://schema.org/WebPage">
+<head>
+    <meta charset="UTF-8">
+
+    <style data-cssvarsponyfill="true">
+                :root {
+        --primaryColor1: #4079ad;
+        --primaryColor2: #000000;
+
+        --primaryTextColor: #333333;
+        --secondaryTextColor: #4079ad;
+        --breakingColor: #e9873f;
+
+        --secondaryColor1: #858585;
+        --secondaryColor2: #cccccc;
+        --secondaryColor3: #e6e6e6;
+        --secondaryColor4: #f5f5f5;
+        --secondaryColor5: #ffffff;
+        --secondaryColor6: #e12327;
+        --secondaryColor7: #4079ad;
+        --secondaryColor8: #202f3f;
+        --secondaryColor9: #666666;
+
+        --siteBgColor: #ffffff;
+        --siteInverseBgColor: #000000;
+
+        --headerBgColor: #ffffff;
+        --headerBgColorInverse: #000000;
+        --headerBorderColor: #e6e6e6;
+        --headerBorderColorInverse: #858585;
+        --headerTextColor: #333333;
+        --headerTextColorInverse: #ffffff;
+        --headerMenuBgColor: #ffffff;
+        --headerMenuTextColor: #ffffff;
+
+        --secondaryHeaderBgColor: #ffffff;
+        --secondaryHeaderTextColor: #333333;
+
+        --footerBgColor: #000000;
+        --footerTextColor: #ffffff;
+
+        --primaryTextColorInverse: #ffffff;
+        --secondaryTextColorInverse: #cccccc;
+        --tertiaryTextColor: #999999;
+        --tertiaryTextColorInverse: #cccccc;
+
+        --listBorderColor: #000000;
+        --gridBorderColor: #e6e6e6;
+
+        --buttonBgColor: #4079ad;
+        --buttonSecondaryBgColor: #ffffff;
+        --buttonSecondaryTextColor: #333333;
+        --buttonTextColor: #ffffff;
+        --inverseButtonBgColor: #030202;
+        --tagButtonBorderColor: #e6e6e6;
+        --tagButtonTextColor: #ff6f00;
+
+        --breakingTextColor: #ffffff;
+
+        --sectionTextColor: #ff6f00;
+
+        --primaryHeadlineFont: Oswald;
+        --secondaryHeadlineFont: Oswald;
+        --bodyFont: Roboto;
+
+        --contentWidth: 1200px;
+        }
+
+    </style>
+
+    
+
+    <meta property="og:title" content="Tech Accessories">
+
+    <meta property="og:url" content="https://www.latimes.com/bestcovery/accessories">
+
+
+    <meta property="og:site_name" content="Bestcovery">
+
+
+
+    <meta property="og:type" content="website">
+
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    <meta name="twitter:title" content="Tech Accessories"/>
+    
+
+
+    <link data-cssvarsponyfill="true" class="Webpack-css" rel="stylesheet" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/All.min.4d29e7a04ca97ea10a5aedec469cda49.css">
+
+    <style>.Page-above {
+    display: block !important;
+}
+
+.InfoBoxBody {
+	font-size: 14px;
+}</style>
+<style>.SectionPage .RichTextBody table {
+    max-width: 838px;
+}
+
+.SectionPage .RichTextBody table tr:first-child, .SectionPage .RichTextBody .table-h {
+    white-space:nowrap;
+    background: #f5f5f5;
+}
+
+.SectionPage .RichTextBody table, .SectionPage .RichTextBody th, .SectionPage .RichTextBody td {
+    border: 1px solid rgba(0,31,63,.08);
+}
+
+.SectionPage .RichTextBody th, .SectionPage .RichTextBody td {
+	padding: 5px 10px;
+}</style>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"><title>Tech Accessories - Bestcovery</title><link rel="canonical" href="https://www.latimes.com/bestcovery/accessories"><meta name="brightspot.contentId" content="0000016e-6532-d2e1-a3fe-753b071c0000"><link rel="apple-touch-icon" sizes="180x180" href="/styleguide/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/favicon-32x32.bf34a9f07d94299a7699e16042ef11fd.png">
+<link rel="icon" type="image/png" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/favicon-16x16.9f124a4f6e59c7927104889e0167e7ef.png">
+    <link type="application/rss+xml" rel="alternate" title="Tech Accessories" href="https://www.latimes.com/bestcovery/accessories.rss"><script>var _lb = '1';</script>
+<script src="https://activate.platform.californiatimes.com/caltimes/bestcovery/Bootstrap.js" async></script>
+
+
+    
+
+    <!--This is needed for custom elements to function in browsers that
+    support them natively but that are using es6 code transpiled to es5.
+    This will cause a non-fatal error to show up in the IE11 console.
+    It can be safely ignored. https://github.com/webcomponents/webcomponentsjs/issues/749 -->
+    <script>
+        (function () {
+        'use strict';
+
+        (()=>{'use strict';if(!window.customElements)return;const a=window.HTMLElement,b=window.customElements.define,c=window.customElements.get,d=new Map,e=new Map;let f=!1,g=!1;window.HTMLElement=function(){if(!f){const a=d.get(this.constructor),b=c.call(window.customElements,a);g=!0;const e=new b;return e}f=!1;},window.HTMLElement.prototype=a.prototype;Object.defineProperty(window,'customElements',{value:window.customElements,configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'define',{value:(c,h)=>{const i=h.prototype,j=class extends a{constructor(){super(),Object.setPrototypeOf(this,i),g||(f=!0,h.call(this)),g=!1;}},k=j.prototype;j.observedAttributes=h.observedAttributes,k.connectedCallback=i.connectedCallback,k.disconnectedCallback=i.disconnectedCallback,k.attributeChangedCallback=i.attributeChangedCallback,k.adoptedCallback=i.adoptedCallback,d.set(h,c),e.set(c,h),b.call(window.customElements,c,j);},configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'get',{value:(a)=>e.get(a),configurable:!0,writable:!0});})();
+
+        /**
+        @license
+        Copyright (c) 2017 The Polymer Project Authors. All rights reserved.
+        This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+        The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+        The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+        Code distributed by Google as part of the polymer project is also
+        subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+        */
+        }());
+    </script>
+    <script>
+        /**
+            For the fastest load times https://developers.google.com/speed/docs/insights/BlockingJS
+            and to prevent any FOUC, as well as prevent any race conditions for browsers that also
+            rely on the CSS variables polyfill, this is inlined.
+        **/
+        if (!window.customElements) {
+            (function(){
+                'use strict';var h=new function(){};var aa=new Set("annotation-xml color-profile font-face font-face-src font-face-uri font-face-format font-face-name missing-glyph".split(" "));function m(b){var a=aa.has(b);b=/^[a-z][.0-9_a-z]*-[\-.0-9_a-z]*$/.test(b);return!a&&b}function n(b){var a=b.isConnected;if(void 0!==a)return a;for(;b&&!(b.__CE_isImportDocument||b instanceof Document);)b=b.parentNode||(window.ShadowRoot&&b instanceof ShadowRoot?b.host:void 0);return!(!b||!(b.__CE_isImportDocument||b instanceof Document))}
+                function p(b,a){for(;a&&a!==b&&!a.nextSibling;)a=a.parentNode;return a&&a!==b?a.nextSibling:null}
+                function t(b,a,c){c=c?c:new Set;for(var d=b;d;){if(d.nodeType===Node.ELEMENT_NODE){var e=d;a(e);var f=e.localName;if("link"===f&&"import"===e.getAttribute("rel")){d=e.import;if(d instanceof Node&&!c.has(d))for(c.add(d),d=d.firstChild;d;d=d.nextSibling)t(d,a,c);d=p(b,e);continue}else if("template"===f){d=p(b,e);continue}if(e=e.__CE_shadowRoot)for(e=e.firstChild;e;e=e.nextSibling)t(e,a,c)}d=d.firstChild?d.firstChild:p(b,d)}}function u(b,a,c){b[a]=c};function v(){this.a=new Map;this.s=new Map;this.f=[];this.b=!1}function ba(b,a,c){b.a.set(a,c);b.s.set(c.constructor,c)}function w(b,a){b.b=!0;b.f.push(a)}function x(b,a){b.b&&t(a,function(a){return y(b,a)})}function y(b,a){if(b.b&&!a.__CE_patched){a.__CE_patched=!0;for(var c=0;c<b.f.length;c++)b.f[c](a)}}function z(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state?b.connectedCallback(d):A(b,d)}}
+                function B(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state&&b.disconnectedCallback(d)}}
+                function C(b,a,c){c=c?c:{};var d=c.w||new Set,e=c.i||function(a){return A(b,a)},f=[];t(a,function(a){if("link"===a.localName&&"import"===a.getAttribute("rel")){var c=a.import;c instanceof Node&&(c.__CE_isImportDocument=!0,c.__CE_hasRegistry=!0);c&&"complete"===c.readyState?c.__CE_documentLoadHandled=!0:a.addEventListener("load",function(){var c=a.import;if(!c.__CE_documentLoadHandled){c.__CE_documentLoadHandled=!0;var f=new Set(d);f.delete(c);C(b,c,{w:f,i:e})}})}else f.push(a)},d);if(b.b)for(a=0;a<
+                f.length;a++)y(b,f[a]);for(a=0;a<f.length;a++)e(f[a])}
+                function A(b,a){if(void 0===a.__CE_state){var c=a.ownerDocument;if(c.defaultView||c.__CE_isImportDocument&&c.__CE_hasRegistry)if(c=b.a.get(a.localName)){c.constructionStack.push(a);var d=c.constructor;try{try{if(new d!==a)throw Error("The custom element constructor did not produce the element being upgraded.");}finally{c.constructionStack.pop()}}catch(r){throw a.__CE_state=2,r;}a.__CE_state=1;a.__CE_definition=c;if(c.attributeChangedCallback)for(c=c.observedAttributes,d=0;d<c.length;d++){var e=c[d],
+                        f=a.getAttribute(e);null!==f&&b.attributeChangedCallback(a,e,null,f,null)}n(a)&&b.connectedCallback(a)}}}v.prototype.connectedCallback=function(b){var a=b.__CE_definition;a.connectedCallback&&a.connectedCallback.call(b)};v.prototype.disconnectedCallback=function(b){var a=b.__CE_definition;a.disconnectedCallback&&a.disconnectedCallback.call(b)};
+                v.prototype.attributeChangedCallback=function(b,a,c,d,e){var f=b.__CE_definition;f.attributeChangedCallback&&-1<f.observedAttributes.indexOf(a)&&f.attributeChangedCallback.call(b,a,c,d,e)};function D(b,a){this.c=b;this.a=a;this.b=void 0;C(this.c,this.a);"loading"===this.a.readyState&&(this.b=new MutationObserver(this.f.bind(this)),this.b.observe(this.a,{childList:!0,subtree:!0}))}function E(b){b.b&&b.b.disconnect()}D.prototype.f=function(b){var a=this.a.readyState;"interactive"!==a&&"complete"!==a||E(this);for(a=0;a<b.length;a++)for(var c=b[a].addedNodes,d=0;d<c.length;d++)C(this.c,c[d])};function ca(){var b=this;this.b=this.a=void 0;this.f=new Promise(function(a){b.b=a;b.a&&a(b.a)})}function F(b){if(b.a)throw Error("Already resolved.");b.a=void 0;b.b&&b.b(void 0)};function G(b){this.j=!1;this.c=b;this.o=new Map;this.l=function(b){return b()};this.g=!1;this.m=[];this.u=new D(b,document)}
+                G.prototype.define=function(b,a){var c=this;if(!(a instanceof Function))throw new TypeError("Custom element constructors must be functions.");if(!m(b))throw new SyntaxError("The element name '"+b+"' is not valid.");if(this.c.a.get(b))throw Error("A custom element with name '"+b+"' has already been defined.");if(this.j)throw Error("A custom element is already being defined.");this.j=!0;var d,e,f,r,k;try{var g=function(b){var a=l[b];if(void 0!==a&&!(a instanceof Function))throw Error("The '"+b+"' callback must be a function.");
+                    return a},l=a.prototype;if(!(l instanceof Object))throw new TypeError("The custom element constructor's prototype is not an object.");d=g("connectedCallback");e=g("disconnectedCallback");f=g("adoptedCallback");r=g("attributeChangedCallback");k=a.observedAttributes||[]}catch(q){return}finally{this.j=!1}a={localName:b,constructor:a,connectedCallback:d,disconnectedCallback:e,adoptedCallback:f,attributeChangedCallback:r,observedAttributes:k,constructionStack:[]};ba(this.c,b,a);this.m.push(a);this.g||
+                (this.g=!0,this.l(function(){return da(c)}))};G.prototype.i=function(b){C(this.c,b)};function da(b){if(!1!==b.g){b.g=!1;for(var a=b.m,c=[],d=new Map,e=0;e<a.length;e++)d.set(a[e].localName,[]);C(b.c,document,{i:function(a){if(void 0===a.__CE_state){var e=a.localName,f=d.get(e);f?f.push(a):b.c.a.get(e)&&c.push(a)}}});for(e=0;e<c.length;e++)A(b.c,c[e]);for(;0<a.length;){for(var f=a.shift(),e=f.localName,f=d.get(f.localName),r=0;r<f.length;r++)A(b.c,f[r]);(e=b.o.get(e))&&F(e)}}}
+                G.prototype.get=function(b){if(b=this.c.a.get(b))return b.constructor};G.prototype.whenDefined=function(b){if(!m(b))return Promise.reject(new SyntaxError("'"+b+"' is not a valid custom element name."));var a=this.o.get(b);if(a)return a.f;a=new ca;this.o.set(b,a);this.c.a.get(b)&&!this.m.some(function(a){return a.localName===b})&&F(a);return a.f};G.prototype.v=function(b){E(this.u);var a=this.l;this.l=function(c){return b(function(){return a(c)})}};window.CustomElementRegistry=G;
+                G.prototype.define=G.prototype.define;G.prototype.upgrade=G.prototype.i;G.prototype.get=G.prototype.get;G.prototype.whenDefined=G.prototype.whenDefined;G.prototype.polyfillWrapFlushCallback=G.prototype.v;var H=window.Document.prototype.createElement,ea=window.Document.prototype.createElementNS,fa=window.Document.prototype.importNode,ga=window.Document.prototype.prepend,ha=window.Document.prototype.append,ia=window.DocumentFragment.prototype.prepend,ja=window.DocumentFragment.prototype.append,I=window.Node.prototype.cloneNode,J=window.Node.prototype.appendChild,K=window.Node.prototype.insertBefore,L=window.Node.prototype.removeChild,M=window.Node.prototype.replaceChild,N=Object.getOwnPropertyDescriptor(window.Node.prototype,
+                        "textContent"),O=window.Element.prototype.attachShadow,P=Object.getOwnPropertyDescriptor(window.Element.prototype,"innerHTML"),Q=window.Element.prototype.getAttribute,R=window.Element.prototype.setAttribute,S=window.Element.prototype.removeAttribute,T=window.Element.prototype.getAttributeNS,U=window.Element.prototype.setAttributeNS,ka=window.Element.prototype.removeAttributeNS,la=window.Element.prototype.insertAdjacentElement,ma=window.Element.prototype.insertAdjacentHTML,na=window.Element.prototype.prepend,
+                        oa=window.Element.prototype.append,V=window.Element.prototype.before,pa=window.Element.prototype.after,qa=window.Element.prototype.replaceWith,ra=window.Element.prototype.remove,sa=window.HTMLElement,W=Object.getOwnPropertyDescriptor(window.HTMLElement.prototype,"innerHTML"),ta=window.HTMLElement.prototype.insertAdjacentElement,ua=window.HTMLElement.prototype.insertAdjacentHTML;function va(){var b=X;window.HTMLElement=function(){function a(){var a=this.constructor,d=b.s.get(a);if(!d)throw Error("The custom element being constructed was not registered with `customElements`.");var e=d.constructionStack;if(!e.length)return e=H.call(document,d.localName),Object.setPrototypeOf(e,a.prototype),e.__CE_state=1,e.__CE_definition=d,y(b,e),e;var d=e.length-1,f=e[d];if(f===h)throw Error("The HTMLElement constructor was either called reentrantly for this constructor or called multiple times.");
+                    e[d]=h;Object.setPrototypeOf(f,a.prototype);y(b,f);return f}a.prototype=sa.prototype;return a}()};function Y(b,a,c){function d(a){return function(c){for(var e=[],d=0;d<arguments.length;++d)e[d-0]=arguments[d];for(var d=[],f=[],l=0;l<e.length;l++){var q=e[l];q instanceof Element&&n(q)&&f.push(q);if(q instanceof DocumentFragment)for(q=q.firstChild;q;q=q.nextSibling)d.push(q);else d.push(q)}a.apply(this,e);for(e=0;e<f.length;e++)B(b,f[e]);if(n(this))for(e=0;e<d.length;e++)f=d[e],f instanceof Element&&z(b,f)}}c.h&&(a.prepend=d(c.h));c.append&&(a.append=d(c.append))};function wa(){var b=X;u(Document.prototype,"createElement",function(a){if(this.__CE_hasRegistry){var c=b.a.get(a);if(c)return new c.constructor}a=H.call(this,a);y(b,a);return a});u(Document.prototype,"importNode",function(a,c){a=fa.call(this,a,c);this.__CE_hasRegistry?C(b,a):x(b,a);return a});u(Document.prototype,"createElementNS",function(a,c){if(this.__CE_hasRegistry&&(null===a||"http://www.w3.org/1999/xhtml"===a)){var d=b.a.get(c);if(d)return new d.constructor}a=ea.call(this,a,c);y(b,a);return a});
+                    Y(b,Document.prototype,{h:ga,append:ha})};function xa(){var b=X;function a(a,d){Object.defineProperty(a,"textContent",{enumerable:d.enumerable,configurable:!0,get:d.get,set:function(a){if(this.nodeType===Node.TEXT_NODE)d.set.call(this,a);else{var e=void 0;if(this.firstChild){var c=this.childNodes,k=c.length;if(0<k&&n(this))for(var e=Array(k),g=0;g<k;g++)e[g]=c[g]}d.set.call(this,a);if(e)for(a=0;a<e.length;a++)B(b,e[a])}}})}u(Node.prototype,"insertBefore",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);
+                    a=K.call(this,a,d);if(n(this))for(d=0;d<e.length;d++)z(b,e[d]);return a}e=n(a);d=K.call(this,a,d);e&&B(b,a);n(this)&&z(b,a);return d});u(Node.prototype,"appendChild",function(a){if(a instanceof DocumentFragment){var c=Array.prototype.slice.apply(a.childNodes);a=J.call(this,a);if(n(this))for(var e=0;e<c.length;e++)z(b,c[e]);return a}c=n(a);e=J.call(this,a);c&&B(b,a);n(this)&&z(b,a);return e});u(Node.prototype,"cloneNode",function(a){a=I.call(this,a);this.ownerDocument.__CE_hasRegistry?C(b,a):x(b,a);
+                    return a});u(Node.prototype,"removeChild",function(a){var c=n(a),e=L.call(this,a);c&&B(b,a);return e});u(Node.prototype,"replaceChild",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);a=M.call(this,a,d);if(n(this))for(B(b,d),d=0;d<e.length;d++)z(b,e[d]);return a}var e=n(a),f=M.call(this,a,d),c=n(this);c&&B(b,d);e&&B(b,a);c&&z(b,a);return f});N&&N.get?a(Node.prototype,N):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){for(var a=[],b=
+                            0;b<this.childNodes.length;b++)a.push(this.childNodes[b].textContent);return a.join("")},set:function(a){for(;this.firstChild;)L.call(this,this.firstChild);J.call(this,document.createTextNode(a))}})})};function ya(b){var a=Element.prototype;function c(a){return function(e){for(var c=[],d=0;d<arguments.length;++d)c[d-0]=arguments[d];for(var d=[],k=[],g=0;g<c.length;g++){var l=c[g];l instanceof Element&&n(l)&&k.push(l);if(l instanceof DocumentFragment)for(l=l.firstChild;l;l=l.nextSibling)d.push(l);else d.push(l)}a.apply(this,c);for(c=0;c<k.length;c++)B(b,k[c]);if(n(this))for(c=0;c<d.length;c++)k=d[c],k instanceof Element&&z(b,k)}}V&&(a.before=c(V));V&&(a.after=c(pa));qa&&u(a,"replaceWith",function(a){for(var e=
+                        [],c=0;c<arguments.length;++c)e[c-0]=arguments[c];for(var c=[],d=[],k=0;k<e.length;k++){var g=e[k];g instanceof Element&&n(g)&&d.push(g);if(g instanceof DocumentFragment)for(g=g.firstChild;g;g=g.nextSibling)c.push(g);else c.push(g)}k=n(this);qa.apply(this,e);for(e=0;e<d.length;e++)B(b,d[e]);if(k)for(B(b,this),e=0;e<c.length;e++)d=c[e],d instanceof Element&&z(b,d)});ra&&u(a,"remove",function(){var a=n(this);ra.call(this);a&&B(b,this)})};function za(){var b=X;function a(a,c){Object.defineProperty(a,"innerHTML",{enumerable:c.enumerable,configurable:!0,get:c.get,set:function(a){var e=this,d=void 0;n(this)&&(d=[],t(this,function(a){a!==e&&d.push(a)}));c.set.call(this,a);if(d)for(var f=0;f<d.length;f++){var r=d[f];1===r.__CE_state&&b.disconnectedCallback(r)}this.ownerDocument.__CE_hasRegistry?C(b,this):x(b,this);return a}})}function c(a,c){u(a,"insertAdjacentElement",function(a,e){var d=n(e);a=c.call(this,a,e);d&&B(b,e);n(a)&&z(b,e);
+                    return a})}function d(a,c){function e(a,e){for(var c=[];a!==e;a=a.nextSibling)c.push(a);for(e=0;e<c.length;e++)C(b,c[e])}u(a,"insertAdjacentHTML",function(a,b){a=a.toLowerCase();if("beforebegin"===a){var d=this.previousSibling;c.call(this,a,b);e(d||this.parentNode.firstChild,this)}else if("afterbegin"===a)d=this.firstChild,c.call(this,a,b),e(this.firstChild,d);else if("beforeend"===a)d=this.lastChild,c.call(this,a,b),e(d||this.firstChild,null);else if("afterend"===a)d=this.nextSibling,c.call(this,
+                        a,b),e(this.nextSibling,d);else throw new SyntaxError("The value provided ("+String(a)+") is not one of 'beforebegin', 'afterbegin', 'beforeend', or 'afterend'.");})}O&&u(Element.prototype,"attachShadow",function(a){return this.__CE_shadowRoot=a=O.call(this,a)});P&&P.get?a(Element.prototype,P):W&&W.get?a(HTMLElement.prototype,W):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){return I.call(this,!0).innerHTML},set:function(a){var b="template"===this.localName,e=b?this.content:this,
+                            c=H.call(document,this.localName);for(c.innerHTML=a;0<e.childNodes.length;)L.call(e,e.childNodes[0]);for(a=b?c.content:c;0<a.childNodes.length;)J.call(e,a.childNodes[0])}})});u(Element.prototype,"setAttribute",function(a,c){if(1!==this.__CE_state)return R.call(this,a,c);var e=Q.call(this,a);R.call(this,a,c);c=Q.call(this,a);b.attributeChangedCallback(this,a,e,c,null)});u(Element.prototype,"setAttributeNS",function(a,c,d){if(1!==this.__CE_state)return U.call(this,a,c,d);var e=T.call(this,a,c);U.call(this,
+                        a,c,d);d=T.call(this,a,c);b.attributeChangedCallback(this,c,e,d,a)});u(Element.prototype,"removeAttribute",function(a){if(1!==this.__CE_state)return S.call(this,a);var c=Q.call(this,a);S.call(this,a);null!==c&&b.attributeChangedCallback(this,a,c,null,null)});u(Element.prototype,"removeAttributeNS",function(a,c){if(1!==this.__CE_state)return ka.call(this,a,c);var d=T.call(this,a,c);ka.call(this,a,c);var e=T.call(this,a,c);d!==e&&b.attributeChangedCallback(this,c,d,e,a)});ta?c(HTMLElement.prototype,
+                        ta):la?c(Element.prototype,la):console.warn("Custom Elements: `Element#insertAdjacentElement` was not patched.");ua?d(HTMLElement.prototype,ua):ma?d(Element.prototype,ma):console.warn("Custom Elements: `Element#insertAdjacentHTML` was not patched.");Y(b,Element.prototype,{h:na,append:oa});ya(b)};/*
+
+                Copyright (c) 2016 The Polymer Project Authors. All rights reserved.
+                This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+                The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+                The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+                Code distributed by Google as part of the polymer project is also
+                subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+                */
+                var Z=window.customElements;if(!Z||Z.forcePolyfill||"function"!=typeof Z.define||"function"!=typeof Z.get){var X=new v;va();wa();Y(X,DocumentFragment.prototype,{h:ia,append:ja});xa();za();document.__CE_hasRegistry=!0;var customElements=new G(X);Object.defineProperty(window,"customElements",{configurable:!0,enumerable:!0,value:customElements})};
+            }).call(self);
+        }
+
+        /**
+            This allows us to load the IE polyfills via feature detection so that they do not load
+            needlessly in the browsers that do not need them. It also ensures they are loaded
+            non async so that they load before the rest of our JS.
+        */
+        var head = document.getElementsByTagName('head')[0];
+        if (!window.CSS || !window.CSS.supports || !window.CSS.supports('--fake-var', 0)) {
+            var script = document.createElement('script');
+            script.setAttribute('src', "https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/util/IEPolyfills.7a8440e4b9a8eed9874904d20fd32963.js");
+            script.setAttribute('type', 'text/javascript');
+            script.async = false;
+            head.appendChild(script);
+        }
+    </script>
+    
+    <script src="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/All.min.f7fc019e5c5fa20dfcbd5201bcaa5c8e.js" async></script>
+
+    <script>document.addEventListener("DOMContentLoaded",function(){var t=Math.random()+"",e=document.createElement("img");e.src="https://pubads.g.doubleclick.net/activity;xsp=4618488;ord="+Math.floor(1e13*t)+"?",e.width=1,e.height=1,e.border=0,document.body.appendChild(e)});</script>
+
+
+    <script>
+        var link = document.createElement('link');
+        link.setAttribute('href', 'https://fonts.googleapis.com/css?family=Oswald:200,500,600,700|Roboto:400,500,700&display=swap');
+        var relList = link.relList;
+
+        if (relList && relList.supports('preload')) {
+            link.setAttribute('as', 'style');
+            link.setAttribute('rel', 'preload');
+            link.setAttribute('onload', 'this.rel="stylesheet"');
+            link.setAttribute('crossorigin', 'anonymous');
+        } else {
+            link.setAttribute('rel', 'stylesheet');
+        }
+
+        head.appendChild(link);
+    </script>
+</head>
+
+<body class="Page-body">
+<!-- Putting icons here, so we don't have to include in a bunch of -body hbs's -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" id="iconsMap">
+    <symbol id="mono-icon-facebook" viewBox="0 0 10 19">
+        <path fill-rule="evenodd" d="M2.707 18.25V10.2H0V7h2.707V4.469c0-1.336.375-2.373 1.125-3.112C4.582.62 5.578.25 6.82.25c1.008 0 1.828.047 2.461.14v2.848H7.594c-.633 0-1.067.14-1.301.422-.188.235-.281.61-.281 1.125V7H9l-.422 3.2H6.012v8.05H2.707z"></path>
+    </symbol>
+    <symbol id="mono-icon-instagram" viewBox="0 0 17 17">
+        <g>
+            <path fill-rule="evenodd" d="M8.281 4.207c.727 0 1.4.182 2.022.545a4.055 4.055 0 0 1 1.476 1.477c.364.62.545 1.294.545 2.021 0 .727-.181 1.4-.545 2.021a4.055 4.055 0 0 1-1.476 1.477 3.934 3.934 0 0 1-2.022.545c-.726 0-1.4-.182-2.021-.545a4.055 4.055 0 0 1-1.477-1.477 3.934 3.934 0 0 1-.545-2.021c0-.727.182-1.4.545-2.021A4.055 4.055 0 0 1 6.26 4.752a3.934 3.934 0 0 1 2.021-.545zm0 6.68a2.54 2.54 0 0 0 1.864-.774 2.54 2.54 0 0 0 .773-1.863 2.54 2.54 0 0 0-.773-1.863 2.54 2.54 0 0 0-1.864-.774 2.54 2.54 0 0 0-1.863.774 2.54 2.54 0 0 0-.773 1.863c0 .727.257 1.348.773 1.863a2.54 2.54 0 0 0 1.863.774zM13.45 4.03c-.023.258-.123.48-.299.668a.856.856 0 0 1-.65.281.913.913 0 0 1-.668-.28.913.913 0 0 1-.281-.669c0-.258.094-.48.281-.668a.913.913 0 0 1 .668-.28c.258 0 .48.093.668.28.187.188.281.41.281.668zm2.672.95c.023.656.035 1.746.035 3.269 0 1.523-.017 2.62-.053 3.287-.035.668-.134 1.248-.298 1.74a4.098 4.098 0 0 1-.967 1.53 4.098 4.098 0 0 1-1.53.966c-.492.164-1.072.264-1.74.3-.668.034-1.763.052-3.287.052-1.523 0-2.619-.018-3.287-.053-.668-.035-1.248-.146-1.74-.334a3.747 3.747 0 0 1-1.53-.931 4.098 4.098 0 0 1-.966-1.53c-.164-.492-.264-1.072-.299-1.74C.424 10.87.406 9.773.406 8.25S.424 5.63.46 4.963c.035-.668.135-1.248.299-1.74.21-.586.533-1.096.967-1.53A4.098 4.098 0 0 1 3.254.727c.492-.164 1.072-.264 1.74-.3C5.662.394 6.758.376 8.281.376c1.524 0 2.62.018 3.287.053.668.035 1.248.135 1.74.299a4.098 4.098 0 0 1 2.496 2.496c.165.492.27 1.078.317 1.757zm-1.687 7.91c.14-.399.234-1.032.28-1.899.024-.515.036-1.242.036-2.18V7.689c0-.961-.012-1.688-.035-2.18-.047-.89-.14-1.524-.281-1.899a2.537 2.537 0 0 0-1.512-1.511c-.375-.14-1.008-.235-1.899-.282a51.292 51.292 0 0 0-2.18-.035H7.72c-.938 0-1.664.012-2.18.035-.867.047-1.5.141-1.898.282a2.537 2.537 0 0 0-1.512 1.511c-.14.375-.234 1.008-.281 1.899a51.292 51.292 0 0 0-.036 2.18v1.125c0 .937.012 1.664.036 2.18.047.866.14 1.5.28 1.898.306.726.81 1.23 1.513 1.511.398.141 1.03.235 1.898.282.516.023 1.242.035 2.18.035h1.125c.96 0 1.687-.012 2.18-.035.89-.047 1.523-.141 1.898-.282.726-.304 1.23-.808 1.512-1.511z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-email" viewBox="0 0 512 512">
+        <g>
+            <path d="M67,148.7c11,5.8,163.8,89.1,169.5,92.1c5.7,3,11.5,4.4,20.5,4.4c9,0,14.8-1.4,20.5-4.4c5.7-3,158.5-86.3,169.5-92.1
+                c4.1-2.1,11-5.9,12.5-10.2c2.6-7.6-0.2-10.5-11.3-10.5H257H65.8c-11.1,0-13.9,3-11.3,10.5C56,142.9,62.9,146.6,67,148.7z"></path>
+            <path d="M455.7,153.2c-8.2,4.2-81.8,56.6-130.5,88.1l82.2,92.5c2,2,2.9,4.4,1.8,5.6c-1.2,1.1-3.8,0.5-5.9-1.4l-98.6-83.2
+                c-14.9,9.6-25.4,16.2-27.2,17.2c-7.7,3.9-13.1,4.4-20.5,4.4c-7.4,0-12.8-0.5-20.5-4.4c-1.9-1-12.3-7.6-27.2-17.2l-98.6,83.2
+                c-2,2-4.7,2.6-5.9,1.4c-1.2-1.1-0.3-3.6,1.7-5.6l82.1-92.5c-48.7-31.5-123.1-83.9-131.3-88.1c-8.8-4.5-9.3,0.8-9.3,4.9
+                c0,4.1,0,205,0,205c0,9.3,13.7,20.9,23.5,20.9H257h185.5c9.8,0,21.5-11.7,21.5-20.9c0,0,0-201,0-205
+                C464,153.9,464.6,148.7,455.7,153.2z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-print" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path fill-rule="nonzero" d="M9 10V7H3v3H1a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v3.132A2.868 2.868 0 0 1 9.132 10H9zm.5-4.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2zM3 0h6v2H3z"></path>
+            <path d="M4 8h4v4H4z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-copylink" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path d="M10.199 2.378c.222.205.4.548.465.897.062.332.016.614-.132.774L8.627 6.106c-.187.203-.512.232-.75-.014a.498.498 0 0 0-.706.028.499.499 0 0 0 .026.706 1.509 1.509 0 0 0 2.165-.04l1.903-2.06c.37-.398.506-.98.382-1.636-.105-.557-.392-1.097-.77-1.445L9.968.8C9.591.452 9.03.208 8.467.145 7.803.072 7.233.252 6.864.653L4.958 2.709a1.509 1.509 0 0 0 .126 2.161.5.5 0 1 0 .68-.734c-.264-.218-.26-.545-.071-.747L7.597 1.33c.147-.16.425-.228.76-.19.353.038.71.188.931.394l.91.843.001.001zM1.8 9.623c-.222-.205-.4-.549-.465-.897-.062-.332-.016-.614.132-.774l1.905-2.057c.187-.203.512-.232.75.014a.498.498 0 0 0 .706-.028.499.499 0 0 0-.026-.706 1.508 1.508 0 0 0-2.165.04L.734 7.275c-.37.399-.506.98-.382 1.637.105.557.392 1.097.77 1.445l.91.843c.376.35.937.594 1.5.656.664.073 1.234-.106 1.603-.507L7.04 9.291a1.508 1.508 0 0 0-.126-2.16.5.5 0 0 0-.68.734c.264.218.26.545.071.747l-1.904 2.057c-.147.16-.425.228-.76.191-.353-.038-.71-.188-.931-.394l-.91-.843z"></path>
+            <path d="M8.208 3.614a.5.5 0 0 0-.707.028L3.764 7.677a.5.5 0 0 0 .734.68L8.235 4.32a.5.5 0 0 0-.027-.707"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-linkedin" viewBox="0 0 16 17">
+        <g fill-rule="evenodd">
+            <path d="M3.734 16.125H.464V5.613h3.27zM2.117 4.172c-.515 0-.96-.188-1.336-.563A1.825 1.825 0 0 1 .22 2.273c0-.515.187-.96.562-1.335.375-.375.82-.563 1.336-.563.516 0 .961.188 1.336.563.375.375.563.82.563 1.335 0 .516-.188.961-.563 1.336-.375.375-.82.563-1.336.563zM15.969 16.125h-3.27v-5.133c0-.844-.07-1.453-.21-1.828-.259-.633-.762-.95-1.512-.95s-1.278.282-1.582.845c-.235.421-.352 1.043-.352 1.863v5.203H5.809V5.613h3.128v1.442h.036c.234-.469.609-.856 1.125-1.16.562-.375 1.218-.563 1.968-.563 1.524 0 2.59.48 3.2 1.441.468.774.703 1.97.703 3.586v5.766z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-pinterest" viewBox="0 0 512 512">
+        <g>
+            <path d="M256,32C132.3,32,32,132.3,32,256c0,91.7,55.2,170.5,134.1,205.2c-0.6-15.6-0.1-34.4,3.9-51.4
+                c4.3-18.2,28.8-122.1,28.8-122.1s-7.2-14.3-7.2-35.4c0-33.2,19.2-58,43.2-58c20.4,0,30.2,15.3,30.2,33.6
+                c0,20.5-13.1,51.1-19.8,79.5c-5.6,23.8,11.9,43.1,35.4,43.1c42.4,0,71-54.5,71-119.1c0-49.1-33.1-85.8-93.2-85.8
+                c-67.9,0-110.3,50.7-110.3,107.3c0,19.5,5.8,33.3,14.8,43.9c4.1,4.9,4.7,6.9,3.2,12.5c-1.1,4.1-3.5,14-4.6,18
+                c-1.5,5.7-6.1,7.7-11.2,5.6c-31.3-12.8-45.9-47-45.9-85.6c0-63.6,53.7-139.9,160.1-139.9c85.5,0,141.8,61.9,141.8,128.3
+                c0,87.9-48.9,153.5-120.9,153.5c-24.2,0-46.9-13.1-54.7-27.9c0,0-13,51.6-15.8,61.6c-4.7,17.3-14,34.5-22.5,48
+                c20.1,5.9,41.4,9.2,63.5,9.2c123.7,0,224-100.3,224-224C480,132.3,379.7,32,256,32z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-tumblr" viewBox="0 0 512 512">
+        <g>
+            <path d="M321.2,396.3c-11.8,0-22.4-2.8-31.5-8.3c-6.9-4.1-11.5-9.6-14-16.4c-2.6-6.9-3.6-22.3-3.6-46.4V224h96v-64h-96V48h-61.9
+                c-2.7,21.5-7.5,44.7-14.5,58.6c-7,13.9-14,25.8-25.6,35.7c-11.6,9.9-25.6,17.9-41.9,23.3V224h48v140.4c0,19,2,33.5,5.9,43.5
+                c4,10,11.1,19.5,21.4,28.4c10.3,8.9,22.8,15.7,37.3,20.5c14.6,4.8,31.4,7.2,50.4,7.2c16.7,0,30.3-1.7,44.7-5.1
+                c14.4-3.4,30.5-9.3,48.2-17.6v-65.6C363.2,389.4,342.3,396.3,321.2,396.3z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-twitter" viewBox="0 0 19 16">
+        <g>
+            <path fill-rule="evenodd" d="M16.48 4.594c.024.094.036.246.036.457 0 1.687-.41 3.316-1.23 4.887-.845 1.664-2.028 2.988-3.552 3.972-1.664 1.102-3.574 1.652-5.73 1.652-2.063 0-3.95-.55-5.66-1.652.258.024.55.035.879.035 1.71 0 3.246-.527 4.605-1.582-.82 0-1.54-.24-2.162-.72a3.671 3.671 0 0 1-1.283-1.811c.234.023.457.035.668.035.328 0 .656-.035.984-.105a3.72 3.72 0 0 1-2.11-1.301 3.54 3.54 0 0 1-.843-2.32v-.07a3.475 3.475 0 0 0 1.652.492A4.095 4.095 0 0 1 1.54 5.227a3.546 3.546 0 0 1-.457-1.776c0-.644.176-1.26.527-1.845a10.18 10.18 0 0 0 3.358 2.742 10.219 10.219 0 0 0 4.236 1.125 5.124 5.124 0 0 1-.07-.844c0-.656.164-1.272.492-1.846a3.613 3.613 0 0 1 1.336-1.353 3.565 3.565 0 0 1 1.828-.492c.54 0 1.037.105 1.494.316.457.21.861.492 1.213.844a7.51 7.51 0 0 0 2.356-.88c-.282.868-.82 1.548-1.618 2.04a7.93 7.93 0 0 0 2.11-.598 8.114 8.114 0 0 1-1.864 1.934z"></path>
+
+        </g>
+    </symbol>
+    <symbol id="mono-icon-youtube" viewBox="0 0 512 512">
+        <g>
+            <path fill-rule="evenodd" d="M508.6,148.8c0-45-33.1-81.2-74-81.2C379.2,65,322.7,64,265,64c-3,0-6,0-9,0s-6,0-9,0c-57.6,0-114.2,1-169.6,3.6
+                c-40.8,0-73.9,36.4-73.9,81.4C1,184.6-0.1,220.2,0,255.8C-0.1,291.4,1,327,3.4,362.7c0,45,33.1,81.5,73.9,81.5
+                c58.2,2.7,117.9,3.9,178.6,3.8c60.8,0.2,120.3-1,178.6-3.8c40.9,0,74-36.5,74-81.5c2.4-35.7,3.5-71.3,3.4-107
+                C512.1,220.1,511,184.5,508.6,148.8z M207,353.9V157.4l145,98.2L207,353.9z"></path>
+        </g>
+    </symbol>
+    <symbol id="icon-magnify" viewBox="0 0 512 512">
+        <g>
+            <path d="M337.509,305.372h-17.501l-6.571-5.486c20.791-25.232,33.922-57.054,33.922-93.257
+                C347.358,127.632,283.896,64,205.135,64C127.452,64,64,127.632,64,206.629s63.452,142.628,142.225,142.628
+                c35.011,0,67.831-13.167,92.991-34.008l6.561,5.487v17.551L415.18,448L448,415.086L337.509,305.372z M206.225,305.372
+                c-54.702,0-98.463-43.887-98.463-98.743c0-54.858,43.761-98.742,98.463-98.742c54.7,0,98.462,43.884,98.462,98.742
+                C304.687,261.485,260.925,305.372,206.225,305.372z"></path>
+        </g>
+    </symbol>
+    <symbol id="burger-menu" viewBox="0 0 512 512">
+        <g>
+            <path d="M501.333,96H10.667C4.779,96,0,100.779,0,106.667s4.779,10.667,10.667,10.667h490.667c5.888,0,10.667-4.779,10.667-10.667
+			S507.221,96,501.333,96z" />
+            <path d="M501.333,245.333H10.667C4.779,245.333,0,250.112,0,256s4.779,10.667,10.667,10.667h490.667
+			c5.888,0,10.667-4.779,10.667-10.667S507.221,245.333,501.333,245.333z" />
+            <path d="M501.333,394.667H10.667C4.779,394.667,0,399.445,0,405.333C0,411.221,4.779,416,10.667,416h490.667
+			c5.888,0,10.667-4.779,10.667-10.667C512,399.445,507.221,394.667,501.333,394.667z" />
+        </g>
+    </symbol>
+    <symbol id="close-x" viewBox="0 0 14 14">
+        <g>
+            <path fill-rule="nonzero" d="M6.336 7L0 .664.664 0 7 6.336 13.336 0 14 .664 7.664 7 14 13.336l-.664.664L7 7.664.664 14 0 13.336 6.336 7z"></path>
+        </g>
+    </symbol>
+    <symbol id="share-more-arrow" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;">
+        <g>
+            <g>
+                <path d="M512,241.7L273.643,3.343v156.152c-71.41,3.744-138.015,33.337-188.958,84.28C30.075,298.384,0,370.991,0,448.222v60.436
+                    l29.069-52.985c45.354-82.671,132.173-134.027,226.573-134.027c5.986,0,12.004,0.212,18.001,0.632v157.779L512,241.7z
+                    M255.642,290.666c-84.543,0-163.661,36.792-217.939,98.885c26.634-114.177,129.256-199.483,251.429-199.483h15.489V78.131
+                    l163.568,163.568L304.621,405.267V294.531l-13.585-1.683C279.347,291.401,267.439,290.666,255.642,290.666z"></path>
+            </g>
+        </g>
+    </symbol>
+    <symbol id="chevron" viewBox="0 0 100 100">
+        <g>
+            <path d="M22.4566257,37.2056786 L-21.4456527,71.9511488 C-22.9248661,72.9681457 -24.9073712,72.5311671 -25.8758148,70.9765924 L-26.9788683,69.2027424 C-27.9450684,67.6481676 -27.5292733,65.5646602 -26.0500598,64.5484493 L20.154796,28.2208967 C21.5532435,27.2597011 23.3600078,27.2597011 24.759951,28.2208967 L71.0500598,64.4659264 C72.5292733,65.4829232 72.9450684,67.5672166 71.9788683,69.1217913 L70.8750669,70.8956413 C69.9073712,72.4502161 67.9241183,72.8848368 66.4449048,71.8694118 L22.4566257,37.2056786 Z" id="Transparent-Chevron" transform="translate(22.500000, 50.000000) rotate(90.000000) translate(-22.500000, -50.000000) "></path>
+        </g>
+    </symbol>
+    <symbol id="play-arrow" viewBox="0 0 30 30">
+        <g fill="none" fill-rule="evenodd">
+            <path d="M9 9l12 6-12 6z"></path>
+        </g>
+    </symbol>
+    <symbol id="bookmark" viewBox="0 0 9 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M.5.5v10.997l3.431-2.374a1 1 0 0 1 1.138 0L8.5 11.497V.5h-8z"></path>
+        </g>
+    </symbol>
+    <symbol id="heart" viewBox="0 0 14 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M10.24.5c-1.098 0-2.152.576-2.808 1.7L7 2.938l-.432-.74C5.912 1.076 4.858.5 3.76.5 1.996.5.5 1.899.5 3.859.5 5.2 1.644 6.912 3.57 8.747a27.774 27.774 0 0 0 3.373 2.738A.099.099 0 0 0 7 11.5a.104.104 0 0 0 .061-.018 27.75 27.75 0 0 0 3.368-2.735C12.356 6.912 13.5 5.201 13.5 3.859 13.5 1.899 12.003.5 10.24.5z"></path>
+        </g>
+    </symbol>
+    <symbol id="grid" viewBox="0 0 32 32">
+        <g>
+            <path d="M6.4,5.7 C6.4,6.166669 6.166669,6.4 5.7,6.4 L0.7,6.4 C0.233331,6.4 0,6.166669 0,5.7 L0,0.7 C0,0.233331 0.233331,0 0.7,0 L5.7,0 C6.166669,0 6.4,0.233331 6.4,0.7 L6.4,5.7 Z M19.2,5.7 C19.2,6.166669 18.966669,6.4 18.5,6.4 L13.5,6.4 C13.033331,6.4 12.8,6.166669 12.8,5.7 L12.8,0.7 C12.8,0.233331 13.033331,0 13.5,0 L18.5,0 C18.966669,0 19.2,0.233331 19.2,0.7 L19.2,5.7 Z M32,5.7 C32,6.166669 31.766669,6.4 31.3,6.4 L26.3,6.4 C25.833331,6.4 25.6,6.166669 25.6,5.7 L25.6,0.7 C25.6,0.233331 25.833331,0 26.3,0 L31.3,0 C31.766669,0 32,0.233331 32,0.7 L32,5.7 Z M6.4,18.5 C6.4,18.966669 6.166669,19.2 5.7,19.2 L0.7,19.2 C0.233331,19.2 0,18.966669 0,18.5 L0,13.5 C0,13.033331 0.233331,12.8 0.7,12.8 L5.7,12.8 C6.166669,12.8 6.4,13.033331 6.4,13.5 L6.4,18.5 Z M19.2,18.5 C19.2,18.966669 18.966669,19.2 18.5,19.2 L13.5,19.2 C13.033331,19.2 12.8,18.966669 12.8,18.5 L12.8,13.5 C12.8,13.033331 13.033331,12.8 13.5,12.8 L18.5,12.8 C18.966669,12.8 19.2,13.033331 19.2,13.5 L19.2,18.5 Z M32,18.5 C32,18.966669 31.766669,19.2 31.3,19.2 L26.3,19.2 C25.833331,19.2 25.6,18.966669 25.6,18.5 L25.6,13.5 C25.6,13.033331 25.833331,12.8 26.3,12.8 L31.3,12.8 C31.766669,12.8 32,13.033331 32,13.5 L32,18.5 Z M6.4,31.3 C6.4,31.766669 6.166669,32 5.7,32 L0.7,32 C0.233331,32 0,31.766669 0,31.3 L0,26.3 C0,25.833331 0.233331,25.6 0.7,25.6 L5.7,25.6 C6.166669,25.6 6.4,25.833331 6.4,26.3 L6.4,31.3 Z M19.2,31.3 C19.2,31.766669 18.966669,32 18.5,32 L13.5,32 C13.033331,32 12.8,31.766669 12.8,31.3 L12.8,26.3 C12.8,25.833331 13.033331,25.6 13.5,25.6 L18.5,25.6 C18.966669,25.6 19.2,25.833331 19.2,26.3 L19.2,31.3 Z M32,31.3 C32,31.766669 31.766669,32 31.3,32 L26.3,32 C25.833331,32 25.6,31.766669 25.6,31.3 L25.6,26.3 C25.6,25.833331 25.833331,25.6 26.3,25.6 L31.3,25.6 C31.766669,25.6 32,25.833331 32,26.3 L32,31.3 Z" id=""></path>
+        </g>
+    </symbol>
+    <symbol id="filter" viewBox="0 0 16 12">
+        <path d="M0 2V0h16v2H0zm2.4 5V5h11.2v2H2.4zm2.4 5v-2h6.4v2H4.8z"></path>
+    </symbol>
+    <symbol id="minus-circle" viewBox="0 0 1792 1792">
+        <g>
+            <path d="M1344 960v-128q0-26-19-45t-45-19h-768q-26 0-45 19t-19 45v128q0 26 19 45t45 19h768q26 0 45-19t19-45zm320-64q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" />
+        </g>
+    </symbol>
+    <symbol id="plus-circle" viewBox="0 0 1792 1792">
+        <g>
+            <path d="M1344 960v-128q0-26-19-45t-45-19h-256v-256q0-26-19-45t-45-19h-128q-26 0-45 19t-19 45v256h-256q-26 0-45 19t-19 45v128q0 26 19 45t45 19h256v256q0 26 19 45t45 19h128q26 0 45-19t19-45v-256h256q26 0 45-19t19-45zm320-64q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" />
+        </g>
+    </symbol>
+    <symbol id="chevron-left" viewBox="0 0 511.641 511.641">
+        <path d="M148.32,255.76L386.08,18c4.053-4.267,3.947-10.987-0.213-15.04c-4.16-3.947-10.667-3.947-14.827,0L125.707,248.293
+			c-4.16,4.16-4.16,10.88,0,15.04L371.04,508.667c4.267,4.053,10.987,3.947,15.04-0.213c3.947-4.16,3.947-10.667,0-14.827
+			L148.32,255.76z" />
+    </symbol>
+</svg>
+
+
+<ps-header class="Page-header" itemscope itemtype="http://schema.org/WPHeader" data-sticky-disable>
+    <div class="Page-header-bar">
+        
+            
+                <div class="Page-header-logo"><a aria-label="home page" href="https://www.latimes.com/bestcovery/"  >
+    
+        <img class="PageLogo-image" src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/beea024/2147483647/strip/true/crop/1000x277+0+0/resize/433x120!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F97%2F96%2F5fd40beb48059a3edeff4d92eed5%2Fbestcovery-logo-powered-by-lat.png" alt="Bestcovery logo" width="433"  height="120" />
+    
+    </a>
+</div>
+            
+        
+
+        <button class="Page-header-menu-trigger" aria-expanded="false" tabindex="1">
+            <svg class="burger-menu"><use xlink:href="#burger-menu"></use></svg>
+            <svg class="close-x"><use xlink:href="#chevron-left"></use></svg>
+            <span class="label">Menu</span>
+        </button>
+
+        <div class="Page-header-hamburger-menu">
+            <div class="Page-header-hamburger-menu-wrapper">
+                <div class="Page-header-hamburger-menu-content">
+                    
+                        <nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/auto">Auto</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/home">Home</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/lifestyle">Lifestyle</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/electronics">Electronics</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item" data-related-nav-item><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/tech">Tech</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/health-beauty">Health &amp; Beauty</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/fashion">Fashion</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/sports">Sports</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/music">Music</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/kids-babies">Kids &amp; Babies</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/streaming">Streaming</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+        </ul>
+    
+</nav>
+                    
+                    
+                </div>
+            </div>
+        </div>
+
+        
+
+            <div class="Page-header-search-overlay">
+                <form class="Page-header-search-form" action="https://www.latimes.com/bestcovery/search#nt=navsearch" novalidate="" autocomplete="off">
+                    <label><input placeholder="Search" type="text" class="Page-header-search-input" name="q" required="true"><span class="sr-only">Search Query</span></label>
+                    <button type="submit" class="Page-header-search-submit"><svg><use xlink:href="#icon-magnify"></use></svg><span class="sr-only">Submit Search</span></button>
+                </form>
+            </div>
+        
+    </div>
+</ps-header>
+
+
+    <div class="Page-above" ><div class="InfoBoxModule byline-1">
+    
+        <div class="InfoBoxModule-items InfoBoxBody"><p><i>We may earn a commission if you make a purchase through one of our links. The LA Times editorial staff was not involved in the creation of this content. <a class="Link" href="https://www.latimes.com/bestcovery/about-us">Learn more</a></i></p></div>
+    
+</div>
+</div>
+
+
+
+<div class="SectionPage-topContainer">
+    <div class="SectionPage-headingWrapper">
+        
+            <div class="SectionPage-heading">
+                <h1 class="SectionPage-pageHeading">Tech Accessories</h1>
+                
+            </div>
+        
+
+        
+    <ps-section-nav class="SectionPage-navContainer">
+        <div class="SectionPage-sectionNavigation">
+            <nav class="SectionNavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+        <ul class="SectionNavigation-items">
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/desktops-components">Desktops &amp; Components</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/laptops-portables">Laptops &amp; Portables</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/data-storage">Data Storage</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/networking">Networking</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item">
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/cell-phones-mobile">Cell Phones &amp; Mobile</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item" data-current-nav-item data-related-nav-item>
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+        
+    </div>
+</div>
+                </li>
+            
+                <li class="SectionNavigation-items-item" data-related-nav-item>
+                    <div class="SectionNavigationItem" >
+    <div class="SectionNavigationItem-text">
+        
+            <a class="SectionNavigationItem-text-link" href="https://www.latimes.com/bestcovery/tech">All</a>
+        
+    </div>
+</div>
+                </li>
+            
+            <li class="SectionNavigation-items-item" data-sub-trigger tabindex="0">
+                <div class="SectionNavigationItem">
+                    <div class="SectionNavigationItem-text">More<svg class="chevron"><use xlink:href="#chevron"></use></svg></div>
+                    <div class="SectionNavigationItem-subNav"></div>
+                </div>
+            </li>
+        </ul>
+    
+</nav>
+        </div>
+    </ps-section-nav>
+
+
+    </div>
+</div>
+
+<main class="SectionPage-main">
+    
+        
+            
+    
+    <div class="Row">
+        <div class="OneColumnContainer">
+    <div class="OneColumnContainer-row">
+        
+            <div class="OneColumnContainer-column">
+                <ps-list-loadmore class="ListE" >
+    <div class="ListE-header" data-no-title>
+    
+</div>
+
+
+    <div class="ListE-container">
+        
+            <ul class="ListE-items" data-list-loadmore-items>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-portable-phone-charger" aria-label="2023’s Top Portable Batteries for Charging Phones">
+    <img class="Image" alt="Bestcovery-Portable_Phone_Chargers" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/5c50e58/2147483647/strip/true/crop/840x549+0+6/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fdc%2Fbb%2Fc58c5ff049e59a390235c3063570%2Fbestcovery-portable-phone-chargers-v1.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-portable-phone-charger">2023’s Top Portable Batteries for Charging Phones</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Smartphones have become integral to daily life. That’s why it's important to have a reliable portable phone charger for keeping your device charged on the go. With so many options on the market, finding the right one can be overwhelming. To help narrow your search, Bestcovery has compiled a list of 2023's top portable batteries for charging phones. Whether you need a quick boost or multiple daily charges, these are our picks for the best portable phone chargers to keep your phone charged without being tethered to an outlet.Price Legend:$: 0 - 100$$: 101 - 200$$$: 201 - 300+To rank 2023’s best portable phone chargers, Bestcovery reviewed several factors while creating this list. Some factors we considered included:- Battery size - Charging ports - Weight and sizeLet’s look at our top-rated portable phone chargers:</div>
+        
+
+        
+            <div class="PromoB-date">April 06, 2023</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/headphone-jack-adapter" aria-label="The Best Headphone Jack Adapters for Apple and Android Devices">
+    <img class="Image" alt="Best Lightning to 3.5 mm Headphone Jack Adapter" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/5fdc7b7/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F94%2F4b%2F2ce6611a4edeb5f344682865be1b%2Fapple-lightning-to-35-mm-headphone-jack-adapter-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/headphone-jack-adapter">The Best Headphone Jack Adapters for Apple and Android Devices</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">You just got the latest smartphone and can't wait to unlock all the exciting features it promises, but oops— something is missing. There is no headphone jack; your favorite headphones are now about to become useless. While Bluetooth headphones are always an option, it's just an additional expense you might not want to purchase given how expensive smartphones are these days. Here is your best solution: the headphone jack adapter. We've put together the ultimate list of the best headphone jack adapters that are available to purchase now.</div>
+        
+
+        
+            <div class="PromoB-date">March 22, 2022</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/extension-cord" aria-label="Run Appliances Anywhere at Home With These Extension Cords">
+    <img class="Image" alt="Best Power Strip with 3 USB Ports 5 ft Extension Cord" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/32f93ff/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fcd%2Fd2%2Fd68517f547cf925d729582ef2b73%2Ftessan-power-strip-with-3-usb-ports-5-ft-extension-cord-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/extension-cord">Run Appliances Anywhere at Home With These Extension Cords</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Modern appliances require electricity to run - that much is given. But with so many appliances these days requiring power, it can be difficult to find a place to plug in all of them. And aside from this, some places in your house may not have a socket available at all, meaning that it would be impossible to install anything electrical there - that is, without an extension cord, of course.Extension cords allow you to bring power to every nook and cranny of your home. They often bring more than one socket to an area, allowing you to plug in multiple appliances to an area that was originally built with virtually no sockets. Because of this twofold convenience, millions of homes and buildings use extension cords.But extension cords are potentially fairly dangerous, especially if you cheap out on them. The cords run live electricity through them, and if they’re exposed or not plugged in properly, this can cause electric shocks, damage to your appliances, or worse. You’ll need the best extension cords to provide both convenience and safety to your home.And that’s where we come in. We’ve picked five of the best extension cords in 2021 for you to install in your home. They have varying designs and shapes, so there’s bound to be something for everyone. With that being said, here are our favorite extension cords.</div>
+        
+
+        
+            <div class="PromoB-date">December 01, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-magsafe-wallets" aria-label="The Best MagSafe Wallet: A Smarter Way to Carry Your Cash">
+    <img class="Image" alt="Best Compatible with iPhone 12 MagSafe Wallet" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/deb6718/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fe7%2Fcd%2F57586ef84817bcb98860c4542383%2Fvibeside-compatible-with-iphone-12-magsafe-wallet-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-magsafe-wallets">The Best MagSafe Wallet: A Smarter Way to Carry Your Cash</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">If you are like many people, you might have trouble traveling with a bunch of essentials. You try to stuff keys, money, cards, and even your sunglasses in your pocket, making your pocket feel bulky and cluttered. If you’re looking for an organized alternative or something to only carry the essentials – your ID and credit cards – then a phone wallet is what you need. This is where the MagSafe wallet comes in handy. The ultimate minimalist MagSafe wallets stick to the back of your iPhone and help you carry your credit cards and cash with convenience. With a MagSafe wallet, you can simply avoid the hassle of carrying a purse or a wallet at all. That's why we have compiled a list of MagSafe wallets that will help you lose the bulk, not your valuable cards.</div>
+        
+
+        
+            <div class="PromoB-date">November 11, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-cable-covers-for-cord" aria-label="The Best Cable Covers for Cords in Your Home">
+    <img class="Image" alt="Best Raceway On-Wall Cable Cover For Cord" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/a930266/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F0c%2F55%2F3926cb904520ba03271557679446%2Fd-line-cable-cover-for-cord.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-cable-covers-for-cord">The Best Cable Covers for Cords in Your Home</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Cable covers for cords are widely used across the world in many different settings. The primary aim of these tools is to protect people from potential hazards created by wires and cables around the house or office. You may use cable cords to protect newly installed cables from any damage, or you can use them to cover up already damaged cables. You can also use them to keep cables tidy.With so many applications of cable covers, it is important to choose the right one for your home or workplace. This is why we bring you the best cable covers for cords in 2022 that you can use in multiple settings successfully.</div>
+        
+
+        
+            <div class="PromoB-date">October 19, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-gaming-keyboards" aria-label="The Best Gaming Keyboards in 2022 to Up Your Gaming Experience">
+    <img class="Image" alt="best wired gaming keyboard" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/1ff713c/2147483647/strip/true/crop/1052x687+0+7/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fd0%2Fd2%2F5cffb8ee4e169b10709550d80a59%2Fredragon-s101-wired-gaming-keyboard-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-gaming-keyboards">The Best Gaming Keyboards in 2022 to Up Your Gaming Experience</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">If you’re a passionate gamer, you will understand the importance of a good quality keyboard. To ensure a great gaming experience, the keyboard should be sturdy, have quick-firing keys, and be very quiet. The best gaming keyboards are also a good size to fit your gaming space and feature extra benefits such as RGB lighting and dedicated shortcut keys.If you're looking for top-tier, competitive-level performance, look through our list of the best gaming keyboards in 2022 available to choose from.</div>
+        
+
+        
+            <div class="PromoB-date">February 24, 2021</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-dvd-burners" aria-label="The Best DVD Burner in 2022 for Your Data Storage Needs">
+    <img class="Image" alt="best Asus Serial ATA Internal OEM Drive DVD Burner" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/04d10f2/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F6b%2F2b%2Ffd5593714448a5736899ef6f0fa0%2Fasus-serial-ata-internal-oem-drive-dvd-burner-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-dvd-burners">The Best DVD Burner in 2022 for Your Data Storage Needs</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">When DVDs debuted, they quickly came to replace CDs for optical storage considering they provide much greater storage at the same size. As the hardware involved in writing data to DVDs became more affordable, a wide range of different DVD burners were released for use in computers. These internal drives became fairly standard, essentially replacing CD drives in computers completely in the past decade. External burners have also become increasingly common, providing the perks of easy data storage on a DVD with the portability of a separate device. However, as blu-ray discs have become more popular recently, these have become something of a niche product and will likely become even harder to find in the future. Check out our list of our favorite DVD burners, as well as the buyer’s guide below for more information to help you pick out the right one for your computer setup.</div>
+        
+
+        
+            <div class="PromoB-date">June 12, 2019</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-pc-racing-wheel" aria-label="Take a Virtual Drive With the Best PC Racing Wheel in 2022">
+    <img class="Image" alt="best g923 driving pc racing wheel" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/2d6e94a/2147483647/strip/true/crop/1500x980+0+260/resize/320x209!/quality/90/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71pJHPTyacL._SL1500_.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-pc-racing-wheel">Take a Virtual Drive With the Best PC Racing Wheel in 2022</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Although PC racing wheels may be something of a niche item, there are a decent number of them on the market to choose from. When considering different options, look for racing wheels that offer a realistic PC driving experience while checking it’s been manufactured with quality materials to ensure long-term enjoyment. Different manufacturers offer a variety of accessories and features to enhance your gameplay. A basic racing wheel gives you a more realistic experience in a driving game, but the addition of pedals and shift sticks can take your game to the next level.We’ve chosen these as the top PC racing wheels because of their minimum 900-degree rotation angles and variety of customizable buttons, as well as durable shifting paddles for a more immersive driving experience. These wheels are also are built durably, with even the addition of metal and leather materials on some which help reduce the effects of wear and tear. While all of these PC racing wheels are designed to work with a PC, some of these models also have functionality that works with a video game console, a level of flexibility that makes them a better overall value.</div>
+        
+
+        
+            <div class="PromoB-date">May 15, 2019</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-usb-bluetooth-adapter" aria-label="The Best USB Bluetooth Adapters for Your Wireless Devices">
+    <img class="Image" alt="Bluetooth Adapter for PC，Techkey USB Mini Bluetooth 5.0 EDR Dongle for Computer Desktop" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/910ce53/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F9b%2F1d%2Fbce032304267a00a15c3b268d1ba%2Ftechkey-bluetooth-pc-adapter.png" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-usb-bluetooth-adapter">The Best USB Bluetooth Adapters for Your Wireless Devices</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">A USB Bluetooth adapter lets you connect any supported computer or laptop to other wireless Bluetooth devices. They’re small units that plug into a USB port and then connect wirelessly to other devices through Bluetooth technology. This type of adapter is ideal if you don’t want to add new hardware to your computer system, but need to connect to one or more devices through Bluetooth. Although there’s a wide range of manufacturers, most of these devices are fairly similar in their size and design.We’ve chosen the following USB Bluetooth adapters because they offer the fastest speeds possible at very affordable prices. You get as much wireless range with these adapters as possible since all of them offer a minimum 20-foot range. All of these devices work with multiple versions of Windows and include encryption for data and hardware security, though some of them also work with computers running a Mac OS. Keep on reading to figure out which one is right for your system!</div>
+        
+
+        
+            <div class="PromoB-date">April 04, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-video-capture-device" aria-label="Best Video Capture Devices for Streaming and More">
+    <img class="Image" alt="best avermedia portable video capture device" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/011908b/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F81%2F5c%2F0052cd4b4acb87afc3e4be9970d9%2Favermedia-live-gamer-portable-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-video-capture-device">Best Video Capture Devices for Streaming and More</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">There's a pretty wide range of video capture devices out there that cover a lot of different uses. If you want to capture video professionally, for web streaming content, or convert analog video to a digital format, then you should consider a high-end model that gives you more input options and ensures high output. But there are also quite a few models that are very affordable and can be purchased for easy video capture at a very reasonable price. Consider the type of media you want to capture and the physical input and output connections you need for your existing hardware before purchasing any device.These best video capture devices in 2022 offer the best picture quality thanks to HD video that supports up to 1080p 30 fps video quality. You get HDMI pass-through performance with all of these devices, which means they have HDMI output as well as input, so you can play or stream live in addition to recording gameplay with a single device. All of these video capture devices include great software that makes it easy to control how you stream or record video and audio, plus edit, save, and post video without the need for additional, expensive video-editing programs.</div>
+        
+
+        
+            <div class="PromoB-date">April 01, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-laptop-cooler" aria-label="The Best Laptop Coolers to Increase Performance and Longevity">
+    <img class="Image" alt="best Thermaltake Massive TM Laptop Cooler" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/a899f45/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F08%2F08%2Fbff1fda84abcb4c57a80317b8c5a%2Fthermaltake-massive-tm-laptop-cooler-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-laptop-cooler">The Best Laptop Coolers to Increase Performance and Longevity</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">There's a fair bit of debate among many laptop owners about whether coolers actually do anything in terms of laptop performance and longevity. However, lot of evidence supports the idea that a good cooler can reduce internal operating temperatures for a laptop, especially while running demanding software such as PC games. A good laptop cooler should provide a level surface for the laptop to keep ducts clear and move air to the bottom of the laptop to help promote heat transfer.We’ve chosen the following best laptop coolers in 2022 because they have at least one very large fan or multiple smaller fans at least 80mm in size working together. More important than just the number of fans is how much air these fans can move which is measured in cubic feet per minute or CFM, determined by the size and speed of the fan. All of these laptop coolers move at least 34CFM of air and their fans spin at a minimum of 1,000 rotations per minute (RPN) or higher. &nbsp;They also offer great connectivity options with at least one USB port on each of these coolers (in addition to one needed for power) which keeps you from losing a port during use. Lastly, these picks are large enough to support at least a 15-inch laptop, making them incredibly versatile.</div>
+        
+
+        
+            <div class="PromoB-date">April 01, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-pc-joystick" aria-label="Responsive Gameplay from the Best PC Joysticks">
+    <img class="Image" alt="best 3d pc joystick" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/315d19d/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fe1%2Fd8%2Fd0591f514d6d8b0af3e2f62f7766%2Flogitech-extreme-3d-pro-precision-pc-joystick-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-pc-joystick">Responsive Gameplay from the Best PC Joysticks</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Joysticks are game controllers designed with a single stick that (depending on the game of course) typically controls character aim or movement, with one or more buttons for additional input if required. These types of controllers were once extremely common because they can provide a great deal of control and flexibility. While other types of controllers have become popular, these are still great for many games.When considering a joystick for your PC games, you'll want to know how accurate its movements are as well as options with a good number of buttons for interacting with a wide range of games without the need for additional peripherals. If you want incredibly realistic flight simulation controls you’ll want to consider a PC flight control option, although some of these joysticks featured here may work well for simpler flying games.We’ve chosen the following best PC joysticks in 2022 because of their accurate, sensitive control sticks for responsive gameplay. They’ve also been designed to have a minimum of 12 programmable buttons and a trigger, which are essential ideal for use in combat-oriented flight and “mecha” games. Stability is also important during play so all of these picks have large, solid bases that keep them in place while you’re are playing. Lastly, these joysticks are all plug-and-play devices that don’t require any software installation to use, although optional software provided with many of them will certainly give you more options for customized setups.</div>
+        
+
+        
+            <div class="PromoB-date">March 29, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-pc-gamepad" aria-label="Best PC Gamepads for Precise Gaming">
+    <img class="Image" alt="best pc gamepad" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/219d8ce/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fda%2Fb2%2F82b0fb774410885dbed888449525%2Frazer-wolverine-ultimate-chroma-pc-gamepad-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-pc-gamepad">Best PC Gamepads for Precise Gaming</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">While many people prefer to use a mouse and keyboard when playing a wide range of PC games, there are certain titles that just lend themselves to using a gamepad instead. Most gamers swear by a mouse and keyboard for optimal precision in a first-person shooter, but for fighting games and platformers a gamepad can be easier to use and far more intuitive. Most gamepads can work with gaming consoles, but PC support is going to be the primary focus on this list.These Best PC gamepads in 2022 are easy to use and great for a wide range of PC games thanks to their inclusion of at least one thumbstick, a D-pad, and eight or more buttons. This has become a pretty standard setup that aligns with the controllers found on current-generation gaming consoles. All of these controllers feature programmable mapping options that let you set up your preferred controls, though you typically need to install software or a utility to do so. Lastly, these picks have great secondary features which give you a more immersive gameplay experience like vibration and feedback. Take a glance at these PC gamepads to up your gaming experience.</div>
+        
+
+        
+            <div class="PromoB-date">March 28, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-flight-joystick-controller" aria-label="Fly High with the Best PC Flight Controls">
+    <img class="Image" alt="best pro pc flight control" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/15a1b81/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F84%2F47%2F506cf95447609ac7e3599836df5d%2Flogitech-g-saitek-pro-pc-flight-control-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-flight-joystick-controller">Fly High with the Best PC Flight Controls</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Flight control devices are designed to let you control flight simulators and similar programs with as much realistic detail as possible. In addition to these controllers, you can also purchase foot pedals, dashboard switches, and other hardware to complete the simulation experience. Initially, it’s best to focus on just the best control devices offering an overall realistic look and feel. The number of buttons and similar options are important since these devices fully replace a mouse and keyboard while playing a game or enjoying a simulation. Yokes and sticks are the two primary types of flight controls available and you can find excellent examples of both designs from a variety of manufacturers.We’ve chosen the following as the best PC flight controls in 2022 because they offer realistic flight simulation and gameplay thanks to designs that authentically mimic the controls of an actual airplane. Both yokes and flight sticks are included, and these models have at least nine programmable buttons and switches to give you the most authentic experience currently possible. With a little guidance we've supplied to you in this guide, we trust that you will find the best flight control for your future flight simulations.</div>
+        
+
+        
+            <div class="PromoB-date">March 28, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-home-scanner" aria-label="The Best Scanners for High-Quality Digital Copies">
+    <img class="Image" alt="document-scanner-amazon.jpg" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/a1a4361/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fc6%2Fbb%2Fcce574054edf801227a6070fd404%2Fdocument-scanner-amazon.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-home-scanner">The Best Scanners for High-Quality Digital Copies</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">A scanner is able to capture an image of a physical object or document to create a digital copy of it. Coming in a wide range of designs and styles, their overall purpose is to create a digital backup of a physical image or document. Some of the most common models on the market are flatbed designs. These versions have a glass bed that you lay a document onto with a light beneath it used to scan the item and create a digital copy of it. These have become increasingly powerful, with high-resolution models often used for photographs and illustrations.There are also specialized scanners used to capture images from older photographic film and slides, as well as smaller versions that can quickly scan a business card. Pen scanners provide small options for scanning individual lines of text, while portable models can be used to scan any document at any location. In any case, a scanner is likely to be a worthy investment, allowing you to turn practically any physical document into a digital file. Reduce clutter, make things easier to find, and digitally save favorite photos all with one handy device. With so many different types of scanners on the market, it can be hard to decide which is best for you, your budget, and your needs. Take a look at our list of the best scanners of 2022 to figure out which model is right for you.</div>
+        
+
+        
+            <div class="PromoB-date">March 20, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-kvm-switch-dvi" aria-label="Best KVM Switch for Your Computer Setup">
+    <img class="Image" alt="best 4port kvm switch" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/1fed485/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F83%2Fa7%2F665778d641f2b1cde903a590941e%2Funtitled-29.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-kvm-switch-dvi">Best KVM Switch for Your Computer Setup</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">A KVM switch (or keyboard/video/mouse switch) is a device that lets you easily swap input devices between two or more computer systems. The basic design of this type of switch has an input for a keyboard and mouse as well as a connection to a single video display. This then connects to the keyboard/mouse ports and video output on multiple computers. With the press of a button on the switch (or hotkey if you prefer) you can then use one keyboard, mouse, and video display, easily swapping between the computers you have connected. While this certainly isn't necessary for every computer setup, a KVM switch makes multitasking easier between multiple workstations and using one setup for more than one system.We've chosen the following as the best KVM switches in 2022 because they all provide the best functionality due to support for at least four different computers, though switches with even more ports are available. All of these are great options for the latest computers and displays, thanks to either DVI or VGA and USB support. For all your computer setup needs, our guide below is here to help.</div>
+        
+
+        
+            <div class="PromoB-date">March 08, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-surge-protector-overall" aria-label="Guard Your Electronics with the Best Surge Protector in 2022">
+    <img class="Image" alt="yintar Surge Protector" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/78a5a1f/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F7d%2F32%2Fd98222a94440a207e01a8618c045%2Fyintarsurgeprotector.png" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-surge-protector-overall">Guard Your Electronics with the Best Surge Protector in 2022</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">While a surge protector might seem like little more than a fancy power strip, the protection they provide can be crucial for guarding your electronic devices. Their protection is usually rated in Joules, which is a measurement of energy and indicates how much of a surge they can protect against; generally, a higher rating means more protection from one of these devices. Any power outlet in a house or similar building must be properly grounded to ensure a surge has somewhere to go, even with a surge protector in place. The immense power of a bolt of lightning cannot be adequately handled by a surge protector, but good protection can deal with more common power issues like surges utility providers or other local sources. With all of this in mind, we've compiled a list of five high quality surge protectors and have also included a surge protector buyer’s guide below for information to help you pick the right model to keep your electronics safe.</div>
+        
+
+        
+            <div class="PromoB-date">January 29, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-ups-overall" aria-label="Stay Prepared With the Best Uninterruptible Power Supplies (UPS)">
+    <img class="Image" alt="best 8 outlets ups" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/46ff53c/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F5a%2F14%2Faa01087f4273bcb8512b63f048e2%2Fcyberpower-smart-app-8-outlets-ups-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-ups-overall">Stay Prepared With the Best Uninterruptible Power Supplies (UPS)</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">You never know when the power will suddenly go out, so why not protect your devices and get some extra power in the meantime? An uninterruptable power supply can store the power necessary to give you some more time to find a new power source. When looking for the best uninterruptible power supply, or UPS, consider overall performance as the most important factor. Try to find hardware that is reliable and can provide as much time as possible in the event of any kind of power outage. While even a minute can be enough to maintain system integrity and data in the case of a brief power surge or flicker, you should try to find systems that can provide several minutes or more for you to react appropriately to a power outage. You might also look for hardware that includes utilities that you can use to set up safe power-down options in case there is a power outage when you are not at your computer.We've chosen these picks as the best UPS devices in 2022 on the market because of their voltage and capacities. Each of these picks has an output watt capacity of at least 800W, which gives you enough power for quite a few different devices. Further, each of these units has six or more outlets to connect to and they all offer some surge protection. While it's important to consider the available capacity, each of these picks is designed to give you at least two minutes of backup time under full load and nine minutes or more under half load. Read on below for our favorite UPS devices of this year.</div>
+        
+
+        
+            <div class="PromoB-date">January 26, 2016</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-computer-headset-overall" aria-label="Functional and Comfortable: The Best Computer Headsets">
+    <img class="Image" alt="best Logitech H800 Computer Headset" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/49ac66c/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fa3%2F18%2F1e0bc769401ea308318312729c20%2Flogitech-h800-computer-headset-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-computer-headset-overall">Functional and Comfortable: The Best Computer Headsets</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">A good computer headset should provide you with both functionality and comfort. Whether you use a headset while gaming with friends or on an online conference call, you need to consider a headset that offers great sound, an ergonomic design, and a quality mic. Headsets that give you controls or extra features for easy and efficient use are ideal, and there are many wired and wireless options. The headband and ear cups also need to be comfortable so that you can wear them for several hours at a time without any pain or irritation. There are lots of features to consider, but that's why we're here to help.We’ve chosen these as the best computer headsets in 2022 because they offer excellent sound quality and comfort. All of these picks have an overhead band that rests comfortably on your head with padding on the ear pads so that you can wear them for hours. In addition to their sound quality and comfort, many of these headsets have a noise-canceling feature so you have the best audio quality possible during a conversation. Read on below to see our favorite headsets from 2022 along with a buyer's guide to aid you in your purchase.</div>
+        
+
+        
+            <div class="PromoB-date">November 23, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-usb-hub" aria-label="Best USB Hubs to Connect Your Devices">
+    <img class="Image" alt="best 7port usb hub" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/40f65eb/2147483647/strip/true/crop/500x327+0+87/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fdb%2F7d%2F5d52b64ecf9e43aecd82cfee2dce%2F31xmrin1kgl-sl500-aa500.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-usb-hub">Best USB Hubs to Connect Your Devices</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">A USB hub lets you easily connect numerous USB cables to a single device and acts as part of a larger network. This lets you work around limitations you may have on the number of USB ports in your computer and can make it easy for multiple devices to be shared within a network. The best type of hub for you will depend primarily on two things: the version of USB technology and how many ports. Most models out there support USB 2.0 because so many devices still use that standard, but the best performance comes from a USB 3.0 hub. While a wide range of different models is available, most of them have about half a dozen ports, which is plenty for most uses. We’ve chosen these as the best USB hubs in 2022 because they offer you support for at least USB 2.0 specifications. You get at least four ports on these hubs to give you a lot of options for connecting your devices, and some of them also provide you with seven (or even 10) ports if you have a lot of devices to connect. All of these hubs include backward compatibility so you can choose a model that’s a bit better than what you need but it will still work with older hardware. Keep scrolling for our top picks and buyer's guide.</div>
+        
+
+        
+            <div class="PromoB-date">November 23, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-webcam-overall" aria-label="Check Out the Best Webcams Right Now">
+    <img class="Image" alt="best wired webcam" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/63a10a4/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F19%2Fa1%2F89b6a9b64b45a207193248a1c167%2Fgoogle-nest-cam-indoor-wired-webcam-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-webcam-overall">Check Out the Best Webcams Right Now</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Webcams cover a wide range of devices designed to capture video mages and send them to a computer or network. These cameras are usually pretty small, often designed to hook onto a monitor or sit next to a computer on your desktop. There are also webcams designed as part of other hardware, usually integrated into a computer monitor, tablet, or laptop. As internet streaming has become faster and more widely available, webcams have advanced to include high-definition video and other convenience features. With so many different models available (and a number of accompanying technical specifications) to consider, you should check out our list for the best webcams in 2022 and our buyer’s guide below to determine which one is best for you.</div>
+        
+
+        
+            <div class="PromoB-date">October 13, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-blu-ray-writer" aria-label="Optimal Video Quality: Best Blu-Ray Burners ">
+    <img class="Image" alt="best Pioneer Electronics USA Slim External Blue-Ray Burner" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/3ffbdd0/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fd7%2F0f%2F5f19da054aaab13de07dc40685b8%2Fpioneer-electronics-usa-slim-external-blue-ray-burner-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-blu-ray-writer">Optimal Video Quality: Best Blu-Ray Burners </a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Devices that can burn to Blu-Ray discs have become the pinnacle of current optical media hardware. These drives are able to read from and write to Blu-rays, DVDs, and CDs, giving you total freedom to handle whatever kind of media you prefer. Though these were once very expensive, they have become increasingly affordable in the last few years and should continue to become standard in many computers. Internal devices are often installed by computer manufacturers or can be placed into a system with just a little effort. External drives are quite handy and effective as a portable way to write to and read from various types of media. Keep in mind, however, that these are data drives, so if you want to watch your favorite new movie on a Blu-ray, you'll need software on a computer or similar device to actually play the film. For more information to help you pick out the best Blu-ray burner for your files, check out our list of the best Blu-ray burner in 2022 and the buyer’s guide below.</div>
+        
+
+        
+            <div class="PromoB-date">October 12, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-keyboard-overall" aria-label="The Best Computer Keyboards: Basic, Specialty, and Everything Between">
+    <img class="Image" alt="best professional computer keyboard" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/b0fcd55/2147483647/strip/true/crop/600x392+0+104/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Ff2%2F97%2Fc5c50fe8c602efd834e5dba19d17%2Fdaskeyboard-4-professional-front-view.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-keyboard-overall">The Best Computer Keyboards: Basic, Specialty, and Everything Between</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">While keyboards may seem simple and identical to one another, there is actually a wide range of different keyboards available. From standard keyboards that don't have a lot of bells and whistles, to illuminated gamer keyboards with a dozen programmable hotkeys, to ergonomically-designed split keyboards, there’s a lot for you to choose from.If you're just looking for a basic input device, check out our best overall keyboard pick. But if you want something special, perhaps to get an edge in your favorite PC game or if you’re seeking relief for aching wrists, there’s also a number of specialty keyboards available to users with unique needs. To help you better understand what is available to you and pick the right model for your needs, take a look at our list of the best computer keyboards in 2022 and the buyer’s guide below for more information and recommendations.</div>
+        
+
+        
+            <div class="PromoB-date">October 08, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-mouse-overall" aria-label="Don’t Settle for the Bare Minimum: The Best Computer Mouse">
+    <img class="Image" alt="best wireless laser mouse" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/a1bc395/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fbc%2F60%2Fd0d9d911444c94f41b39733d2be2%2Flogitech-m705-marathon-wireless-mouse.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-mouse-overall">Don’t Settle for the Bare Minimum: The Best Computer Mouse</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">The computer mouse is easily one of the most commonly used input devices around, yet hardly any thought goes into selecting a decent one. Computer mice come in all kinds of shapes and sizes, ranging from the familiar flat mouse with two buttons and a scroll wheel to ergonomic models designed to keep your wrist and forearm free from repetitive strain. Gaming mice provide more programmable buttons, while laptop mice are designed to be compact and easy to travel with. With so many options available, we recommend taking a look at our list of the best computer mice in 2022 and the buyer’s guide below for more information to help you choose the right mouse for your needs.</div>
+        
+
+        
+            <div class="PromoB-date">October 08, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-mouse-pad" aria-label="The Best Mouse Pad for Maximum Comfort and Efficiency in 2022">
+    <img class="Image" alt="mroco best mousepad" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/9d2fddb/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Ff5%2F3f%2F30540e7f437cba683c80956b1e1c%2Fmrocomousepad.png" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-mouse-pad">The Best Mouse Pad for Maximum Comfort and Efficiency in 2022</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">When computer mice primarily used the physical rotation of a ball to track movement, mouse pads were necessary to ensure a secure grip and accurate motion. However, as optical and laser mice have replaced the older designs, these pads have become much less necessary. Many people still prefer to use them though since they can provide a more comfortable workspace and improve performance under certain conditions. For example, gamers often use high-performance mouse pads to gain an edge over other players and even non-gamers can still benefit from mouse pads, since they can provide wrist support and a smooth surface. Be sure to check out our picks for our favorite mouse pads in 2022 and the buyer’s guide below for all the information you need to pick the right mousepad for you .</div>
+        
+
+        
+            <div class="PromoB-date">October 08, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-pc-speakers-overall" aria-label="Best PC Speaker for Quality Audio">
+    <img class="Image" alt="best Logitech Z313 2.1-Channel PC Speaker" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/988457a/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F9d%2F41%2F318e985d461db2d5bd830ae16f0c%2Flogitech-z313-2.1-Channel%20PC%20Speaker%20-%20bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-pc-speakers-overall">Best PC Speaker for Quality Audio</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Computer speakers play the largest role in determining the quality of the audio from your system. Most basic computer speakers have two "satellites" which are often placed on either side of a computer monitor, providing left and right channels for stereo sound. Beyond that, 2.1 and 5.1 speaker systems are growing in popularity. These setups have multiple satellites and a dedicated subwoofer and offer much higher performance than basic speaker systems. They have substantially better bass response, making them an ideal choice for PC gaming and watching movies. While a simple pair of speakers can be inexpensive and easy to choose, take a look at our picks for the best PC Speakers in 2022 and the buyer’s guide below for more information to help you pick exactly the right speakers for your setup.</div>
+        
+
+        
+            <div class="PromoB-date">October 07, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-gaming-headset" aria-label="The Best Gaming Headsets for Prolonged Wear">
+    <img class="Image" alt="Best Gaming Headset" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/7cc5a68/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fde%2F3d%2F469d37c143f1b3694e225a960919%2F71m51gjuj2l._AC_SL1372_bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-gaming-headset">The Best Gaming Headsets for Prolonged Wear</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Gaming headsets differ from standard headsets by the special needs they must fulfill—while sound quality is an important consideration, the best gaming headsets must also be comfortable enough for prolonged wear. Thankfully, there are wired and wireless headsets that meet these requirements so gamers have plenty of options to choose from. Since gaming headsets can cost you quite a lot of money, it’s important to choose a model that works well for your needs while providing adequate value for the money you’re spending. Check out our list of the best gaming headsets in 2022 and the buyer’s guide below for all the information you need to pick just the right headset for your next gaming session.</div>
+        
+
+        
+            <div class="PromoB-date">October 05, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-smartwatch" aria-label="Stay Connected with the Best Smartwatch">
+    <img class="Image" alt="series-7-apple-watch.jpg" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/317502c/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F6a%2Fd9%2Fd5c8d4964a1995e7a10e6406d6e5%2Fseries-7-apple-watch.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-smartwatch">Stay Connected with the Best Smartwatch</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Smartwatches are yet another way technology is becoming further integrated into our daily lives. While most current smartwatches are designed to work in tandem with your smartphone, others can function as standalone devices with their own data and calling capabilities. This market is still emerging, but competition is already heating up with new technologies and innovations constantly being released.Although these early devices aren’t fully polished yet, we've compiled a list of some of the best options currently available to consumers. While the Apple Watch has created big change in the market, there still remain only a select few options for iPhone users, with the majority of smartwatches being for Android devices only.When choosing the best smartwatches in 2022 for this list, we looked at their design, both in terms of appearance and in terms of comfort. Since a watch is to be worn, it's important it fits the image you want to portray while being comfortable enough to keep on for many hours at a time.We looked at their battery life as well, an area where smartwatches are still lacking, with just about every single mainstream model requiring charging every one to two days. Fortunately, all of the following watches should last a minimum of one day of typical use before needing a recharge.We also chose to include smartwatches with full user functionality, as opposed to more fitness-oriented models; this means the ability to run a variety of apps and perform a range of functions beyond just fitness tracking. As features are currently fairly standard across most of the leading models, we've placed less emphasis on features than overall performance and user experience.</div>
+        
+
+        
+            <div class="PromoB-date">May 29, 2015</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-all-one-printer" aria-label="Best Printers for Professional Results">
+    <img class="Image" alt="best inkjet printers" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/b6ebb95/2147483647/strip/true/crop/700x457+0+121/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F68%2F07%2F6d72ee725d1f5e297f7bc4de3f53%2F617pzzn6qbl-sl1337-aa700.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-all-one-printer">Best Printers for Professional Results</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">Printers have evolved quite a bit in a short period of time. Inkjet printers used to be the low-cost and quality solution to the more sophisticated laser printer option, but that's not the case anymore. Both types of printers can print quality pages, it just depends on what kind of printing you want to do. The difference between inkjet and laser is how the ink is applied and adheres to your page. Inkjets spray millions of tiny dots onto the page, but there’s the risk the finished product might show a slight bleed or a subtle pixelated effect if the printer is a low-quality machine. Laser printers use toner, a powdered ink that heats the ink to the page to produce an image. Unlike ink, toner doesn't have the risk of wet smudging, but you lose some of the colors as toner lays down one color at a time and it isn't as deep or thick as regular ink. Text documents and monochrome graphics look great with laser, but if you're looking to print lab-quality photos, ink presents a better color palette and deeper, richer photographic images.There’s a wide spectrum of printers suitable for every budget. Some have limited paper capacities for smaller jobs, making them better for home or personal use. Larger paper capacities are better for office environments, so you're not constantly replacing paper. Extra features like auto document feeders and duplex printing make large and complicated jobs easier to do as the machine does much of the work for you.One of the more resourceful and popular options at the moment is the "all-in-one" printer. These printers are capable of not only printing, but scanning, faxing, and copying. These machines are one of the best options because they can do so many things in one easy-to-use unit. Plus, many of them offer the highest quality printed, scanned, and copied pages, with a resolution of up to 9600 x 2400 dpi (dots per inch) for color prints.Wireless printers are a hot commodity now too. Printers can now print documents and photos directly from mobile devices and web-based cloud services. Many of them can also accept USB drives and memory cards to download your material directly to the printer's hard drive, eliminating the need for a PC or laptop altogether. Office environments may want a printer that multiple employees can use along with a shared network and there are quite a few that offer this type of connectivity.You may already know exactly what type of printer you need, but if you don’t, that’s okay too. We’ve curated a list of the best printers in 2022 that can suit a wide variety of functions and budgets. Whether you’re looking for an inexpensive, simple printer for occasional print jobs or a high-end printer for professional results, there’s a printer out there for you.</div>
+        
+
+        
+            <div class="PromoB-date">October 28, 2014</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+                <li class="ListE-items-item">
+                    <div class="PromoB" data-content-type="bestList">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-laptop-carrying-case" aria-label="Keep Your Laptop Safe as You Travel in the Best Laptop Bag">
+    <img class="Image" alt="best Targus Drifter II Laptop Bag" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/9e24bde/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F83%2F2c%2F3ee661c34a42aa20918cebaa3ef5%2Ftargus-drifter-ii-laptop-bag-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/accessories">Tech Accessories</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-laptop-carrying-case">Keep Your Laptop Safe as You Travel in the Best Laptop Bag</a>
+            </div>
+        
+
+        
+            <div class="PromoB-description">From working professionals to college students, laptops have become an essential item for many people. Due to our increasing reliance on being “connected” at any given time, many people carry their laptop around with them almost everywhere they go. Since this technology can be expensive to replace, it’s important to have adequate protection for your laptop and other electronic devices. No matter how careful you are, at some point the bag with your computer inside will end up banging too hard against a surface, fall to the ground, or otherwise risk damage to the contents inside. Because of this, the design of the laptop bag you choose is very important. Although the very best bags often tend to be expensive, there are budget-friendly options out there that will generally do a good enough job (but usually sacrificing somewhat on durability).Regardless of style, certain selection criteria must apply to any reliable laptop bag. The best laptop bags in 2022 will have thick padding designed to protect your computer at all angles while keeping it snugly in place. There must also be plenty of space for additional items such as power cords, computer accessories, files and paperwork, as well as personal items such as a phone and/or wallet. A good laptop bag will also be durable and comfortable to wear, with adjustable straps and strong (preferably water-resistant) materials.</div>
+        
+
+        
+            <div class="PromoB-date">August 15, 2014</div>
+        
+
+        
+    </div>
+</div>
+
+                </li>
+                
+            </ul>
+        
+    </div>
+
+    
+</ps-list-loadmore>
+            </div>
+        
+    </div>
+</div>
+
+    </div>
+
+
+
+
+        
+    
+</main>
+
+
+
+<footer class="Page-footer" itemscope itemtype="https://schema.org/WPFooter">
+    <div class="Page-footer-body">
+        
+
+        <div class="Page-footer-columns">
+            <div class="Page-footer-column">
+                
+                    <div class="Page-footer-navigation">
+                        <nav class="FooterNavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+        <ul class="FooterNavigation-items">
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/about-us">About Us</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/privacy-policy">Privacy Policy</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/terms-use">Terms of Use</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/contact-us">Contact Us</a>
+    
+    
+</div>
+                </li>
+            
+        </ul>
+    
+</nav>
+                    </div>
+                
+            </div>
+            
+                <div class="Page-footer-column">
+                    <div class="Page-footer-content title-5">
+                        
+    <div class="RichTextModule">
+        
+            <div class="RichTextModule-items RichTextBody"><p>Follow Us</p></div>
+        
+
+    </div>
+<nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item"> <a class="SocialLink" rel="noreferrer noopener nofollow" href="https://www.facebook.com/Bestcovery/" target="_blank" data-social-service="facebook"><svg><use xlink:href="#mono-icon-facebook"></use></svg><span class="sr-only">facebook</span></a>
+</li>
+            
+                <li class="Navigation-items-item"> <a class="SocialLink" rel="noreferrer noopener nofollow" href="https://twitter.com/Bestcovery" target="_blank" data-social-service="twitter"><svg><use xlink:href="#mono-icon-twitter"></use></svg><span class="sr-only">twitter</span></a>
+</li>
+            
+        </ul>
+    
+</nav>
+                    </div>
+                </div>
+            
+        </div>
+
+        
+            <div class="Page-footer-disclaimer text-preview">Copyright 2023 Bestcovery.com, LLC. All rights reserved.</div>
+        
+    </div>
+</footer>
+
+
+</body>
+</html>

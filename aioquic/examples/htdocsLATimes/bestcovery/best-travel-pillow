@@ -1,0 +1,2171 @@
+<!DOCTYPE html>
+<html class="BestList" lang="en" itemscope itemtype="http://schema.org/WebPage">
+<head>
+    <meta charset="UTF-8">
+
+    <style data-cssvarsponyfill="true">
+                :root {
+        --primaryColor1: #4079ad;
+        --primaryColor2: #000000;
+
+        --primaryTextColor: #333333;
+        --secondaryTextColor: #4079ad;
+        --breakingColor: #e9873f;
+
+        --secondaryColor1: #858585;
+        --secondaryColor2: #cccccc;
+        --secondaryColor3: #e6e6e6;
+        --secondaryColor4: #f5f5f5;
+        --secondaryColor5: #ffffff;
+        --secondaryColor6: #e12327;
+        --secondaryColor7: #4079ad;
+        --secondaryColor8: #202f3f;
+        --secondaryColor9: #666666;
+
+        --siteBgColor: #ffffff;
+        --siteInverseBgColor: #000000;
+
+        --headerBgColor: #ffffff;
+        --headerBgColorInverse: #000000;
+        --headerBorderColor: #e6e6e6;
+        --headerBorderColorInverse: #858585;
+        --headerTextColor: #333333;
+        --headerTextColorInverse: #ffffff;
+        --headerMenuBgColor: #ffffff;
+        --headerMenuTextColor: #ffffff;
+
+        --secondaryHeaderBgColor: #ffffff;
+        --secondaryHeaderTextColor: #333333;
+
+        --footerBgColor: #000000;
+        --footerTextColor: #ffffff;
+
+        --primaryTextColorInverse: #ffffff;
+        --secondaryTextColorInverse: #cccccc;
+        --tertiaryTextColor: #999999;
+        --tertiaryTextColorInverse: #cccccc;
+
+        --listBorderColor: #000000;
+        --gridBorderColor: #e6e6e6;
+
+        --buttonBgColor: #4079ad;
+        --buttonSecondaryBgColor: #ffffff;
+        --buttonSecondaryTextColor: #333333;
+        --buttonTextColor: #ffffff;
+        --inverseButtonBgColor: #030202;
+        --tagButtonBorderColor: #e6e6e6;
+        --tagButtonTextColor: #ff6f00;
+
+        --breakingTextColor: #ffffff;
+
+        --sectionTextColor: #ff6f00;
+
+        --primaryHeadlineFont: Oswald;
+        --secondaryHeadlineFont: Oswald;
+        --bodyFont: Roboto;
+
+        --contentWidth: 1200px;
+        }
+
+    </style>
+
+    
+
+    <meta property="og:url" content="https://www.latimes.com/bestcovery/best-travel-pillow">
+
+
+    <meta property="og:site_name" content="Bestcovery">
+
+
+
+    <meta property="og:type" content="website">
+
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+
+    <link data-cssvarsponyfill="true" class="Webpack-css" rel="stylesheet" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/All.min.4d29e7a04ca97ea10a5aedec469cda49.css">
+
+    <style>.Page-above {
+    display: block !important;
+}
+
+.InfoBoxBody {
+	font-size: 14px;
+}</style>
+<style>.BestList-container .body-2 a {
+    color: var(--primaryColor1);
+    text-decoration: underline;
+}</style>
+<style>@media (min-width: 768px){
+    .ToggleText-content {
+    	max-height: none !important;
+    }
+
+    .ToggleText-more {
+        display: none !important;
+    }
+
+    .ToggleText-content:after {
+        display: none !important;
+    }
+}</style>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"><title>Best Travel Pillow of 2023 | Bestcovery - Bestcovery</title><meta name="description" content="Long flights and drives can be made comfortable with the correct type of travel pillow depending on how you like to sleep."><link rel="canonical" href="https://www.latimes.com/bestcovery/best-travel-pillow"><meta name="brightspot.contentId" content="00000187-8266-d9b9-a7ef-effe0b680000"><link rel="apple-touch-icon" sizes="180x180" href="/styleguide/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/favicon-32x32.bf34a9f07d94299a7699e16042ef11fd.png">
+<link rel="icon" type="image/png" href="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/assets/favicon-16x16.9f124a4f6e59c7927104889e0167e7ef.png">
+    <script>var _lb = '1';</script>
+<script src="https://activate.platform.californiatimes.com/caltimes/bestcovery/Bootstrap.js" async></script>
+<link rel="amphtml" href="https://www.latimes.com/bestcovery/best-travel-pillow?_amp=true">
+
+    
+
+    <!--This is needed for custom elements to function in browsers that
+    support them natively but that are using es6 code transpiled to es5.
+    This will cause a non-fatal error to show up in the IE11 console.
+    It can be safely ignored. https://github.com/webcomponents/webcomponentsjs/issues/749 -->
+    <script>
+        (function () {
+        'use strict';
+
+        (()=>{'use strict';if(!window.customElements)return;const a=window.HTMLElement,b=window.customElements.define,c=window.customElements.get,d=new Map,e=new Map;let f=!1,g=!1;window.HTMLElement=function(){if(!f){const a=d.get(this.constructor),b=c.call(window.customElements,a);g=!0;const e=new b;return e}f=!1;},window.HTMLElement.prototype=a.prototype;Object.defineProperty(window,'customElements',{value:window.customElements,configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'define',{value:(c,h)=>{const i=h.prototype,j=class extends a{constructor(){super(),Object.setPrototypeOf(this,i),g||(f=!0,h.call(this)),g=!1;}},k=j.prototype;j.observedAttributes=h.observedAttributes,k.connectedCallback=i.connectedCallback,k.disconnectedCallback=i.disconnectedCallback,k.attributeChangedCallback=i.attributeChangedCallback,k.adoptedCallback=i.adoptedCallback,d.set(h,c),e.set(c,h),b.call(window.customElements,c,j);},configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'get',{value:(a)=>e.get(a),configurable:!0,writable:!0});})();
+
+        /**
+        @license
+        Copyright (c) 2017 The Polymer Project Authors. All rights reserved.
+        This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+        The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+        The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+        Code distributed by Google as part of the polymer project is also
+        subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+        */
+        }());
+    </script>
+    <script>
+        /**
+            For the fastest load times https://developers.google.com/speed/docs/insights/BlockingJS
+            and to prevent any FOUC, as well as prevent any race conditions for browsers that also
+            rely on the CSS variables polyfill, this is inlined.
+        **/
+        if (!window.customElements) {
+            (function(){
+                'use strict';var h=new function(){};var aa=new Set("annotation-xml color-profile font-face font-face-src font-face-uri font-face-format font-face-name missing-glyph".split(" "));function m(b){var a=aa.has(b);b=/^[a-z][.0-9_a-z]*-[\-.0-9_a-z]*$/.test(b);return!a&&b}function n(b){var a=b.isConnected;if(void 0!==a)return a;for(;b&&!(b.__CE_isImportDocument||b instanceof Document);)b=b.parentNode||(window.ShadowRoot&&b instanceof ShadowRoot?b.host:void 0);return!(!b||!(b.__CE_isImportDocument||b instanceof Document))}
+                function p(b,a){for(;a&&a!==b&&!a.nextSibling;)a=a.parentNode;return a&&a!==b?a.nextSibling:null}
+                function t(b,a,c){c=c?c:new Set;for(var d=b;d;){if(d.nodeType===Node.ELEMENT_NODE){var e=d;a(e);var f=e.localName;if("link"===f&&"import"===e.getAttribute("rel")){d=e.import;if(d instanceof Node&&!c.has(d))for(c.add(d),d=d.firstChild;d;d=d.nextSibling)t(d,a,c);d=p(b,e);continue}else if("template"===f){d=p(b,e);continue}if(e=e.__CE_shadowRoot)for(e=e.firstChild;e;e=e.nextSibling)t(e,a,c)}d=d.firstChild?d.firstChild:p(b,d)}}function u(b,a,c){b[a]=c};function v(){this.a=new Map;this.s=new Map;this.f=[];this.b=!1}function ba(b,a,c){b.a.set(a,c);b.s.set(c.constructor,c)}function w(b,a){b.b=!0;b.f.push(a)}function x(b,a){b.b&&t(a,function(a){return y(b,a)})}function y(b,a){if(b.b&&!a.__CE_patched){a.__CE_patched=!0;for(var c=0;c<b.f.length;c++)b.f[c](a)}}function z(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state?b.connectedCallback(d):A(b,d)}}
+                function B(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state&&b.disconnectedCallback(d)}}
+                function C(b,a,c){c=c?c:{};var d=c.w||new Set,e=c.i||function(a){return A(b,a)},f=[];t(a,function(a){if("link"===a.localName&&"import"===a.getAttribute("rel")){var c=a.import;c instanceof Node&&(c.__CE_isImportDocument=!0,c.__CE_hasRegistry=!0);c&&"complete"===c.readyState?c.__CE_documentLoadHandled=!0:a.addEventListener("load",function(){var c=a.import;if(!c.__CE_documentLoadHandled){c.__CE_documentLoadHandled=!0;var f=new Set(d);f.delete(c);C(b,c,{w:f,i:e})}})}else f.push(a)},d);if(b.b)for(a=0;a<
+                f.length;a++)y(b,f[a]);for(a=0;a<f.length;a++)e(f[a])}
+                function A(b,a){if(void 0===a.__CE_state){var c=a.ownerDocument;if(c.defaultView||c.__CE_isImportDocument&&c.__CE_hasRegistry)if(c=b.a.get(a.localName)){c.constructionStack.push(a);var d=c.constructor;try{try{if(new d!==a)throw Error("The custom element constructor did not produce the element being upgraded.");}finally{c.constructionStack.pop()}}catch(r){throw a.__CE_state=2,r;}a.__CE_state=1;a.__CE_definition=c;if(c.attributeChangedCallback)for(c=c.observedAttributes,d=0;d<c.length;d++){var e=c[d],
+                        f=a.getAttribute(e);null!==f&&b.attributeChangedCallback(a,e,null,f,null)}n(a)&&b.connectedCallback(a)}}}v.prototype.connectedCallback=function(b){var a=b.__CE_definition;a.connectedCallback&&a.connectedCallback.call(b)};v.prototype.disconnectedCallback=function(b){var a=b.__CE_definition;a.disconnectedCallback&&a.disconnectedCallback.call(b)};
+                v.prototype.attributeChangedCallback=function(b,a,c,d,e){var f=b.__CE_definition;f.attributeChangedCallback&&-1<f.observedAttributes.indexOf(a)&&f.attributeChangedCallback.call(b,a,c,d,e)};function D(b,a){this.c=b;this.a=a;this.b=void 0;C(this.c,this.a);"loading"===this.a.readyState&&(this.b=new MutationObserver(this.f.bind(this)),this.b.observe(this.a,{childList:!0,subtree:!0}))}function E(b){b.b&&b.b.disconnect()}D.prototype.f=function(b){var a=this.a.readyState;"interactive"!==a&&"complete"!==a||E(this);for(a=0;a<b.length;a++)for(var c=b[a].addedNodes,d=0;d<c.length;d++)C(this.c,c[d])};function ca(){var b=this;this.b=this.a=void 0;this.f=new Promise(function(a){b.b=a;b.a&&a(b.a)})}function F(b){if(b.a)throw Error("Already resolved.");b.a=void 0;b.b&&b.b(void 0)};function G(b){this.j=!1;this.c=b;this.o=new Map;this.l=function(b){return b()};this.g=!1;this.m=[];this.u=new D(b,document)}
+                G.prototype.define=function(b,a){var c=this;if(!(a instanceof Function))throw new TypeError("Custom element constructors must be functions.");if(!m(b))throw new SyntaxError("The element name '"+b+"' is not valid.");if(this.c.a.get(b))throw Error("A custom element with name '"+b+"' has already been defined.");if(this.j)throw Error("A custom element is already being defined.");this.j=!0;var d,e,f,r,k;try{var g=function(b){var a=l[b];if(void 0!==a&&!(a instanceof Function))throw Error("The '"+b+"' callback must be a function.");
+                    return a},l=a.prototype;if(!(l instanceof Object))throw new TypeError("The custom element constructor's prototype is not an object.");d=g("connectedCallback");e=g("disconnectedCallback");f=g("adoptedCallback");r=g("attributeChangedCallback");k=a.observedAttributes||[]}catch(q){return}finally{this.j=!1}a={localName:b,constructor:a,connectedCallback:d,disconnectedCallback:e,adoptedCallback:f,attributeChangedCallback:r,observedAttributes:k,constructionStack:[]};ba(this.c,b,a);this.m.push(a);this.g||
+                (this.g=!0,this.l(function(){return da(c)}))};G.prototype.i=function(b){C(this.c,b)};function da(b){if(!1!==b.g){b.g=!1;for(var a=b.m,c=[],d=new Map,e=0;e<a.length;e++)d.set(a[e].localName,[]);C(b.c,document,{i:function(a){if(void 0===a.__CE_state){var e=a.localName,f=d.get(e);f?f.push(a):b.c.a.get(e)&&c.push(a)}}});for(e=0;e<c.length;e++)A(b.c,c[e]);for(;0<a.length;){for(var f=a.shift(),e=f.localName,f=d.get(f.localName),r=0;r<f.length;r++)A(b.c,f[r]);(e=b.o.get(e))&&F(e)}}}
+                G.prototype.get=function(b){if(b=this.c.a.get(b))return b.constructor};G.prototype.whenDefined=function(b){if(!m(b))return Promise.reject(new SyntaxError("'"+b+"' is not a valid custom element name."));var a=this.o.get(b);if(a)return a.f;a=new ca;this.o.set(b,a);this.c.a.get(b)&&!this.m.some(function(a){return a.localName===b})&&F(a);return a.f};G.prototype.v=function(b){E(this.u);var a=this.l;this.l=function(c){return b(function(){return a(c)})}};window.CustomElementRegistry=G;
+                G.prototype.define=G.prototype.define;G.prototype.upgrade=G.prototype.i;G.prototype.get=G.prototype.get;G.prototype.whenDefined=G.prototype.whenDefined;G.prototype.polyfillWrapFlushCallback=G.prototype.v;var H=window.Document.prototype.createElement,ea=window.Document.prototype.createElementNS,fa=window.Document.prototype.importNode,ga=window.Document.prototype.prepend,ha=window.Document.prototype.append,ia=window.DocumentFragment.prototype.prepend,ja=window.DocumentFragment.prototype.append,I=window.Node.prototype.cloneNode,J=window.Node.prototype.appendChild,K=window.Node.prototype.insertBefore,L=window.Node.prototype.removeChild,M=window.Node.prototype.replaceChild,N=Object.getOwnPropertyDescriptor(window.Node.prototype,
+                        "textContent"),O=window.Element.prototype.attachShadow,P=Object.getOwnPropertyDescriptor(window.Element.prototype,"innerHTML"),Q=window.Element.prototype.getAttribute,R=window.Element.prototype.setAttribute,S=window.Element.prototype.removeAttribute,T=window.Element.prototype.getAttributeNS,U=window.Element.prototype.setAttributeNS,ka=window.Element.prototype.removeAttributeNS,la=window.Element.prototype.insertAdjacentElement,ma=window.Element.prototype.insertAdjacentHTML,na=window.Element.prototype.prepend,
+                        oa=window.Element.prototype.append,V=window.Element.prototype.before,pa=window.Element.prototype.after,qa=window.Element.prototype.replaceWith,ra=window.Element.prototype.remove,sa=window.HTMLElement,W=Object.getOwnPropertyDescriptor(window.HTMLElement.prototype,"innerHTML"),ta=window.HTMLElement.prototype.insertAdjacentElement,ua=window.HTMLElement.prototype.insertAdjacentHTML;function va(){var b=X;window.HTMLElement=function(){function a(){var a=this.constructor,d=b.s.get(a);if(!d)throw Error("The custom element being constructed was not registered with `customElements`.");var e=d.constructionStack;if(!e.length)return e=H.call(document,d.localName),Object.setPrototypeOf(e,a.prototype),e.__CE_state=1,e.__CE_definition=d,y(b,e),e;var d=e.length-1,f=e[d];if(f===h)throw Error("The HTMLElement constructor was either called reentrantly for this constructor or called multiple times.");
+                    e[d]=h;Object.setPrototypeOf(f,a.prototype);y(b,f);return f}a.prototype=sa.prototype;return a}()};function Y(b,a,c){function d(a){return function(c){for(var e=[],d=0;d<arguments.length;++d)e[d-0]=arguments[d];for(var d=[],f=[],l=0;l<e.length;l++){var q=e[l];q instanceof Element&&n(q)&&f.push(q);if(q instanceof DocumentFragment)for(q=q.firstChild;q;q=q.nextSibling)d.push(q);else d.push(q)}a.apply(this,e);for(e=0;e<f.length;e++)B(b,f[e]);if(n(this))for(e=0;e<d.length;e++)f=d[e],f instanceof Element&&z(b,f)}}c.h&&(a.prepend=d(c.h));c.append&&(a.append=d(c.append))};function wa(){var b=X;u(Document.prototype,"createElement",function(a){if(this.__CE_hasRegistry){var c=b.a.get(a);if(c)return new c.constructor}a=H.call(this,a);y(b,a);return a});u(Document.prototype,"importNode",function(a,c){a=fa.call(this,a,c);this.__CE_hasRegistry?C(b,a):x(b,a);return a});u(Document.prototype,"createElementNS",function(a,c){if(this.__CE_hasRegistry&&(null===a||"http://www.w3.org/1999/xhtml"===a)){var d=b.a.get(c);if(d)return new d.constructor}a=ea.call(this,a,c);y(b,a);return a});
+                    Y(b,Document.prototype,{h:ga,append:ha})};function xa(){var b=X;function a(a,d){Object.defineProperty(a,"textContent",{enumerable:d.enumerable,configurable:!0,get:d.get,set:function(a){if(this.nodeType===Node.TEXT_NODE)d.set.call(this,a);else{var e=void 0;if(this.firstChild){var c=this.childNodes,k=c.length;if(0<k&&n(this))for(var e=Array(k),g=0;g<k;g++)e[g]=c[g]}d.set.call(this,a);if(e)for(a=0;a<e.length;a++)B(b,e[a])}}})}u(Node.prototype,"insertBefore",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);
+                    a=K.call(this,a,d);if(n(this))for(d=0;d<e.length;d++)z(b,e[d]);return a}e=n(a);d=K.call(this,a,d);e&&B(b,a);n(this)&&z(b,a);return d});u(Node.prototype,"appendChild",function(a){if(a instanceof DocumentFragment){var c=Array.prototype.slice.apply(a.childNodes);a=J.call(this,a);if(n(this))for(var e=0;e<c.length;e++)z(b,c[e]);return a}c=n(a);e=J.call(this,a);c&&B(b,a);n(this)&&z(b,a);return e});u(Node.prototype,"cloneNode",function(a){a=I.call(this,a);this.ownerDocument.__CE_hasRegistry?C(b,a):x(b,a);
+                    return a});u(Node.prototype,"removeChild",function(a){var c=n(a),e=L.call(this,a);c&&B(b,a);return e});u(Node.prototype,"replaceChild",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);a=M.call(this,a,d);if(n(this))for(B(b,d),d=0;d<e.length;d++)z(b,e[d]);return a}var e=n(a),f=M.call(this,a,d),c=n(this);c&&B(b,d);e&&B(b,a);c&&z(b,a);return f});N&&N.get?a(Node.prototype,N):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){for(var a=[],b=
+                            0;b<this.childNodes.length;b++)a.push(this.childNodes[b].textContent);return a.join("")},set:function(a){for(;this.firstChild;)L.call(this,this.firstChild);J.call(this,document.createTextNode(a))}})})};function ya(b){var a=Element.prototype;function c(a){return function(e){for(var c=[],d=0;d<arguments.length;++d)c[d-0]=arguments[d];for(var d=[],k=[],g=0;g<c.length;g++){var l=c[g];l instanceof Element&&n(l)&&k.push(l);if(l instanceof DocumentFragment)for(l=l.firstChild;l;l=l.nextSibling)d.push(l);else d.push(l)}a.apply(this,c);for(c=0;c<k.length;c++)B(b,k[c]);if(n(this))for(c=0;c<d.length;c++)k=d[c],k instanceof Element&&z(b,k)}}V&&(a.before=c(V));V&&(a.after=c(pa));qa&&u(a,"replaceWith",function(a){for(var e=
+                        [],c=0;c<arguments.length;++c)e[c-0]=arguments[c];for(var c=[],d=[],k=0;k<e.length;k++){var g=e[k];g instanceof Element&&n(g)&&d.push(g);if(g instanceof DocumentFragment)for(g=g.firstChild;g;g=g.nextSibling)c.push(g);else c.push(g)}k=n(this);qa.apply(this,e);for(e=0;e<d.length;e++)B(b,d[e]);if(k)for(B(b,this),e=0;e<c.length;e++)d=c[e],d instanceof Element&&z(b,d)});ra&&u(a,"remove",function(){var a=n(this);ra.call(this);a&&B(b,this)})};function za(){var b=X;function a(a,c){Object.defineProperty(a,"innerHTML",{enumerable:c.enumerable,configurable:!0,get:c.get,set:function(a){var e=this,d=void 0;n(this)&&(d=[],t(this,function(a){a!==e&&d.push(a)}));c.set.call(this,a);if(d)for(var f=0;f<d.length;f++){var r=d[f];1===r.__CE_state&&b.disconnectedCallback(r)}this.ownerDocument.__CE_hasRegistry?C(b,this):x(b,this);return a}})}function c(a,c){u(a,"insertAdjacentElement",function(a,e){var d=n(e);a=c.call(this,a,e);d&&B(b,e);n(a)&&z(b,e);
+                    return a})}function d(a,c){function e(a,e){for(var c=[];a!==e;a=a.nextSibling)c.push(a);for(e=0;e<c.length;e++)C(b,c[e])}u(a,"insertAdjacentHTML",function(a,b){a=a.toLowerCase();if("beforebegin"===a){var d=this.previousSibling;c.call(this,a,b);e(d||this.parentNode.firstChild,this)}else if("afterbegin"===a)d=this.firstChild,c.call(this,a,b),e(this.firstChild,d);else if("beforeend"===a)d=this.lastChild,c.call(this,a,b),e(d||this.firstChild,null);else if("afterend"===a)d=this.nextSibling,c.call(this,
+                        a,b),e(this.nextSibling,d);else throw new SyntaxError("The value provided ("+String(a)+") is not one of 'beforebegin', 'afterbegin', 'beforeend', or 'afterend'.");})}O&&u(Element.prototype,"attachShadow",function(a){return this.__CE_shadowRoot=a=O.call(this,a)});P&&P.get?a(Element.prototype,P):W&&W.get?a(HTMLElement.prototype,W):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){return I.call(this,!0).innerHTML},set:function(a){var b="template"===this.localName,e=b?this.content:this,
+                            c=H.call(document,this.localName);for(c.innerHTML=a;0<e.childNodes.length;)L.call(e,e.childNodes[0]);for(a=b?c.content:c;0<a.childNodes.length;)J.call(e,a.childNodes[0])}})});u(Element.prototype,"setAttribute",function(a,c){if(1!==this.__CE_state)return R.call(this,a,c);var e=Q.call(this,a);R.call(this,a,c);c=Q.call(this,a);b.attributeChangedCallback(this,a,e,c,null)});u(Element.prototype,"setAttributeNS",function(a,c,d){if(1!==this.__CE_state)return U.call(this,a,c,d);var e=T.call(this,a,c);U.call(this,
+                        a,c,d);d=T.call(this,a,c);b.attributeChangedCallback(this,c,e,d,a)});u(Element.prototype,"removeAttribute",function(a){if(1!==this.__CE_state)return S.call(this,a);var c=Q.call(this,a);S.call(this,a);null!==c&&b.attributeChangedCallback(this,a,c,null,null)});u(Element.prototype,"removeAttributeNS",function(a,c){if(1!==this.__CE_state)return ka.call(this,a,c);var d=T.call(this,a,c);ka.call(this,a,c);var e=T.call(this,a,c);d!==e&&b.attributeChangedCallback(this,c,d,e,a)});ta?c(HTMLElement.prototype,
+                        ta):la?c(Element.prototype,la):console.warn("Custom Elements: `Element#insertAdjacentElement` was not patched.");ua?d(HTMLElement.prototype,ua):ma?d(Element.prototype,ma):console.warn("Custom Elements: `Element#insertAdjacentHTML` was not patched.");Y(b,Element.prototype,{h:na,append:oa});ya(b)};/*
+
+                Copyright (c) 2016 The Polymer Project Authors. All rights reserved.
+                This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+                The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+                The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+                Code distributed by Google as part of the polymer project is also
+                subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+                */
+                var Z=window.customElements;if(!Z||Z.forcePolyfill||"function"!=typeof Z.define||"function"!=typeof Z.get){var X=new v;va();wa();Y(X,DocumentFragment.prototype,{h:ia,append:ja});xa();za();document.__CE_hasRegistry=!0;var customElements=new G(X);Object.defineProperty(window,"customElements",{configurable:!0,enumerable:!0,value:customElements})};
+            }).call(self);
+        }
+
+        /**
+            This allows us to load the IE polyfills via feature detection so that they do not load
+            needlessly in the browsers that do not need them. It also ensures they are loaded
+            non async so that they load before the rest of our JS.
+        */
+        var head = document.getElementsByTagName('head')[0];
+        if (!window.CSS || !window.CSS.supports || !window.CSS.supports('--fake-var', 0)) {
+            var script = document.createElement('script');
+            script.setAttribute('src', "https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/util/IEPolyfills.7a8440e4b9a8eed9874904d20fd32963.js");
+            script.setAttribute('type', 'text/javascript');
+            script.async = false;
+            head.appendChild(script);
+        }
+    </script>
+    
+    <script src="https://cdn.bestcovery.ca-times-dam.psdops.com/resource/0000016d-b120-d5f3-a1fd-fb2cbcb30000/styleguide/All.min.f7fc019e5c5fa20dfcbd5201bcaa5c8e.js" async></script>
+
+    <script>document.addEventListener("DOMContentLoaded",function(){var t=Math.random()+"",e=document.createElement("img");e.src="https://pubads.g.doubleclick.net/activity;xsp=4618488;ord="+Math.floor(1e13*t)+"?",e.width=1,e.height=1,e.border=0,document.body.appendChild(e)});</script>
+
+
+    <script>
+        var link = document.createElement('link');
+        link.setAttribute('href', 'https://fonts.googleapis.com/css?family=Oswald:200,500,600,700|Roboto:400,500,700&display=swap');
+        var relList = link.relList;
+
+        if (relList && relList.supports('preload')) {
+            link.setAttribute('as', 'style');
+            link.setAttribute('rel', 'preload');
+            link.setAttribute('onload', 'this.rel="stylesheet"');
+            link.setAttribute('crossorigin', 'anonymous');
+        } else {
+            link.setAttribute('rel', 'stylesheet');
+        }
+
+        head.appendChild(link);
+    </script>
+</head>
+
+<body id="BestList-body" class="Page-body">
+<!-- Putting icons here, so we don't have to include in a bunch of -body hbs's -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" id="iconsMap">
+    <symbol id="mono-icon-facebook" viewBox="0 0 10 19">
+        <path fill-rule="evenodd" d="M2.707 18.25V10.2H0V7h2.707V4.469c0-1.336.375-2.373 1.125-3.112C4.582.62 5.578.25 6.82.25c1.008 0 1.828.047 2.461.14v2.848H7.594c-.633 0-1.067.14-1.301.422-.188.235-.281.61-.281 1.125V7H9l-.422 3.2H6.012v8.05H2.707z"></path>
+    </symbol>
+    <symbol id="mono-icon-instagram" viewBox="0 0 17 17">
+        <g>
+            <path fill-rule="evenodd" d="M8.281 4.207c.727 0 1.4.182 2.022.545a4.055 4.055 0 0 1 1.476 1.477c.364.62.545 1.294.545 2.021 0 .727-.181 1.4-.545 2.021a4.055 4.055 0 0 1-1.476 1.477 3.934 3.934 0 0 1-2.022.545c-.726 0-1.4-.182-2.021-.545a4.055 4.055 0 0 1-1.477-1.477 3.934 3.934 0 0 1-.545-2.021c0-.727.182-1.4.545-2.021A4.055 4.055 0 0 1 6.26 4.752a3.934 3.934 0 0 1 2.021-.545zm0 6.68a2.54 2.54 0 0 0 1.864-.774 2.54 2.54 0 0 0 .773-1.863 2.54 2.54 0 0 0-.773-1.863 2.54 2.54 0 0 0-1.864-.774 2.54 2.54 0 0 0-1.863.774 2.54 2.54 0 0 0-.773 1.863c0 .727.257 1.348.773 1.863a2.54 2.54 0 0 0 1.863.774zM13.45 4.03c-.023.258-.123.48-.299.668a.856.856 0 0 1-.65.281.913.913 0 0 1-.668-.28.913.913 0 0 1-.281-.669c0-.258.094-.48.281-.668a.913.913 0 0 1 .668-.28c.258 0 .48.093.668.28.187.188.281.41.281.668zm2.672.95c.023.656.035 1.746.035 3.269 0 1.523-.017 2.62-.053 3.287-.035.668-.134 1.248-.298 1.74a4.098 4.098 0 0 1-.967 1.53 4.098 4.098 0 0 1-1.53.966c-.492.164-1.072.264-1.74.3-.668.034-1.763.052-3.287.052-1.523 0-2.619-.018-3.287-.053-.668-.035-1.248-.146-1.74-.334a3.747 3.747 0 0 1-1.53-.931 4.098 4.098 0 0 1-.966-1.53c-.164-.492-.264-1.072-.299-1.74C.424 10.87.406 9.773.406 8.25S.424 5.63.46 4.963c.035-.668.135-1.248.299-1.74.21-.586.533-1.096.967-1.53A4.098 4.098 0 0 1 3.254.727c.492-.164 1.072-.264 1.74-.3C5.662.394 6.758.376 8.281.376c1.524 0 2.62.018 3.287.053.668.035 1.248.135 1.74.299a4.098 4.098 0 0 1 2.496 2.496c.165.492.27 1.078.317 1.757zm-1.687 7.91c.14-.399.234-1.032.28-1.899.024-.515.036-1.242.036-2.18V7.689c0-.961-.012-1.688-.035-2.18-.047-.89-.14-1.524-.281-1.899a2.537 2.537 0 0 0-1.512-1.511c-.375-.14-1.008-.235-1.899-.282a51.292 51.292 0 0 0-2.18-.035H7.72c-.938 0-1.664.012-2.18.035-.867.047-1.5.141-1.898.282a2.537 2.537 0 0 0-1.512 1.511c-.14.375-.234 1.008-.281 1.899a51.292 51.292 0 0 0-.036 2.18v1.125c0 .937.012 1.664.036 2.18.047.866.14 1.5.28 1.898.306.726.81 1.23 1.513 1.511.398.141 1.03.235 1.898.282.516.023 1.242.035 2.18.035h1.125c.96 0 1.687-.012 2.18-.035.89-.047 1.523-.141 1.898-.282.726-.304 1.23-.808 1.512-1.511z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-email" viewBox="0 0 512 512">
+        <g>
+            <path d="M67,148.7c11,5.8,163.8,89.1,169.5,92.1c5.7,3,11.5,4.4,20.5,4.4c9,0,14.8-1.4,20.5-4.4c5.7-3,158.5-86.3,169.5-92.1
+                c4.1-2.1,11-5.9,12.5-10.2c2.6-7.6-0.2-10.5-11.3-10.5H257H65.8c-11.1,0-13.9,3-11.3,10.5C56,142.9,62.9,146.6,67,148.7z"></path>
+            <path d="M455.7,153.2c-8.2,4.2-81.8,56.6-130.5,88.1l82.2,92.5c2,2,2.9,4.4,1.8,5.6c-1.2,1.1-3.8,0.5-5.9-1.4l-98.6-83.2
+                c-14.9,9.6-25.4,16.2-27.2,17.2c-7.7,3.9-13.1,4.4-20.5,4.4c-7.4,0-12.8-0.5-20.5-4.4c-1.9-1-12.3-7.6-27.2-17.2l-98.6,83.2
+                c-2,2-4.7,2.6-5.9,1.4c-1.2-1.1-0.3-3.6,1.7-5.6l82.1-92.5c-48.7-31.5-123.1-83.9-131.3-88.1c-8.8-4.5-9.3,0.8-9.3,4.9
+                c0,4.1,0,205,0,205c0,9.3,13.7,20.9,23.5,20.9H257h185.5c9.8,0,21.5-11.7,21.5-20.9c0,0,0-201,0-205
+                C464,153.9,464.6,148.7,455.7,153.2z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-print" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path fill-rule="nonzero" d="M9 10V7H3v3H1a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v3.132A2.868 2.868 0 0 1 9.132 10H9zm.5-4.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2zM3 0h6v2H3z"></path>
+            <path d="M4 8h4v4H4z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-copylink" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path d="M10.199 2.378c.222.205.4.548.465.897.062.332.016.614-.132.774L8.627 6.106c-.187.203-.512.232-.75-.014a.498.498 0 0 0-.706.028.499.499 0 0 0 .026.706 1.509 1.509 0 0 0 2.165-.04l1.903-2.06c.37-.398.506-.98.382-1.636-.105-.557-.392-1.097-.77-1.445L9.968.8C9.591.452 9.03.208 8.467.145 7.803.072 7.233.252 6.864.653L4.958 2.709a1.509 1.509 0 0 0 .126 2.161.5.5 0 1 0 .68-.734c-.264-.218-.26-.545-.071-.747L7.597 1.33c.147-.16.425-.228.76-.19.353.038.71.188.931.394l.91.843.001.001zM1.8 9.623c-.222-.205-.4-.549-.465-.897-.062-.332-.016-.614.132-.774l1.905-2.057c.187-.203.512-.232.75.014a.498.498 0 0 0 .706-.028.499.499 0 0 0-.026-.706 1.508 1.508 0 0 0-2.165.04L.734 7.275c-.37.399-.506.98-.382 1.637.105.557.392 1.097.77 1.445l.91.843c.376.35.937.594 1.5.656.664.073 1.234-.106 1.603-.507L7.04 9.291a1.508 1.508 0 0 0-.126-2.16.5.5 0 0 0-.68.734c.264.218.26.545.071.747l-1.904 2.057c-.147.16-.425.228-.76.191-.353-.038-.71-.188-.931-.394l-.91-.843z"></path>
+            <path d="M8.208 3.614a.5.5 0 0 0-.707.028L3.764 7.677a.5.5 0 0 0 .734.68L8.235 4.32a.5.5 0 0 0-.027-.707"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-linkedin" viewBox="0 0 16 17">
+        <g fill-rule="evenodd">
+            <path d="M3.734 16.125H.464V5.613h3.27zM2.117 4.172c-.515 0-.96-.188-1.336-.563A1.825 1.825 0 0 1 .22 2.273c0-.515.187-.96.562-1.335.375-.375.82-.563 1.336-.563.516 0 .961.188 1.336.563.375.375.563.82.563 1.335 0 .516-.188.961-.563 1.336-.375.375-.82.563-1.336.563zM15.969 16.125h-3.27v-5.133c0-.844-.07-1.453-.21-1.828-.259-.633-.762-.95-1.512-.95s-1.278.282-1.582.845c-.235.421-.352 1.043-.352 1.863v5.203H5.809V5.613h3.128v1.442h.036c.234-.469.609-.856 1.125-1.16.562-.375 1.218-.563 1.968-.563 1.524 0 2.59.48 3.2 1.441.468.774.703 1.97.703 3.586v5.766z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-pinterest" viewBox="0 0 512 512">
+        <g>
+            <path d="M256,32C132.3,32,32,132.3,32,256c0,91.7,55.2,170.5,134.1,205.2c-0.6-15.6-0.1-34.4,3.9-51.4
+                c4.3-18.2,28.8-122.1,28.8-122.1s-7.2-14.3-7.2-35.4c0-33.2,19.2-58,43.2-58c20.4,0,30.2,15.3,30.2,33.6
+                c0,20.5-13.1,51.1-19.8,79.5c-5.6,23.8,11.9,43.1,35.4,43.1c42.4,0,71-54.5,71-119.1c0-49.1-33.1-85.8-93.2-85.8
+                c-67.9,0-110.3,50.7-110.3,107.3c0,19.5,5.8,33.3,14.8,43.9c4.1,4.9,4.7,6.9,3.2,12.5c-1.1,4.1-3.5,14-4.6,18
+                c-1.5,5.7-6.1,7.7-11.2,5.6c-31.3-12.8-45.9-47-45.9-85.6c0-63.6,53.7-139.9,160.1-139.9c85.5,0,141.8,61.9,141.8,128.3
+                c0,87.9-48.9,153.5-120.9,153.5c-24.2,0-46.9-13.1-54.7-27.9c0,0-13,51.6-15.8,61.6c-4.7,17.3-14,34.5-22.5,48
+                c20.1,5.9,41.4,9.2,63.5,9.2c123.7,0,224-100.3,224-224C480,132.3,379.7,32,256,32z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-tumblr" viewBox="0 0 512 512">
+        <g>
+            <path d="M321.2,396.3c-11.8,0-22.4-2.8-31.5-8.3c-6.9-4.1-11.5-9.6-14-16.4c-2.6-6.9-3.6-22.3-3.6-46.4V224h96v-64h-96V48h-61.9
+                c-2.7,21.5-7.5,44.7-14.5,58.6c-7,13.9-14,25.8-25.6,35.7c-11.6,9.9-25.6,17.9-41.9,23.3V224h48v140.4c0,19,2,33.5,5.9,43.5
+                c4,10,11.1,19.5,21.4,28.4c10.3,8.9,22.8,15.7,37.3,20.5c14.6,4.8,31.4,7.2,50.4,7.2c16.7,0,30.3-1.7,44.7-5.1
+                c14.4-3.4,30.5-9.3,48.2-17.6v-65.6C363.2,389.4,342.3,396.3,321.2,396.3z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-twitter" viewBox="0 0 19 16">
+        <g>
+            <path fill-rule="evenodd" d="M16.48 4.594c.024.094.036.246.036.457 0 1.687-.41 3.316-1.23 4.887-.845 1.664-2.028 2.988-3.552 3.972-1.664 1.102-3.574 1.652-5.73 1.652-2.063 0-3.95-.55-5.66-1.652.258.024.55.035.879.035 1.71 0 3.246-.527 4.605-1.582-.82 0-1.54-.24-2.162-.72a3.671 3.671 0 0 1-1.283-1.811c.234.023.457.035.668.035.328 0 .656-.035.984-.105a3.72 3.72 0 0 1-2.11-1.301 3.54 3.54 0 0 1-.843-2.32v-.07a3.475 3.475 0 0 0 1.652.492A4.095 4.095 0 0 1 1.54 5.227a3.546 3.546 0 0 1-.457-1.776c0-.644.176-1.26.527-1.845a10.18 10.18 0 0 0 3.358 2.742 10.219 10.219 0 0 0 4.236 1.125 5.124 5.124 0 0 1-.07-.844c0-.656.164-1.272.492-1.846a3.613 3.613 0 0 1 1.336-1.353 3.565 3.565 0 0 1 1.828-.492c.54 0 1.037.105 1.494.316.457.21.861.492 1.213.844a7.51 7.51 0 0 0 2.356-.88c-.282.868-.82 1.548-1.618 2.04a7.93 7.93 0 0 0 2.11-.598 8.114 8.114 0 0 1-1.864 1.934z"></path>
+
+        </g>
+    </symbol>
+    <symbol id="mono-icon-youtube" viewBox="0 0 512 512">
+        <g>
+            <path fill-rule="evenodd" d="M508.6,148.8c0-45-33.1-81.2-74-81.2C379.2,65,322.7,64,265,64c-3,0-6,0-9,0s-6,0-9,0c-57.6,0-114.2,1-169.6,3.6
+                c-40.8,0-73.9,36.4-73.9,81.4C1,184.6-0.1,220.2,0,255.8C-0.1,291.4,1,327,3.4,362.7c0,45,33.1,81.5,73.9,81.5
+                c58.2,2.7,117.9,3.9,178.6,3.8c60.8,0.2,120.3-1,178.6-3.8c40.9,0,74-36.5,74-81.5c2.4-35.7,3.5-71.3,3.4-107
+                C512.1,220.1,511,184.5,508.6,148.8z M207,353.9V157.4l145,98.2L207,353.9z"></path>
+        </g>
+    </symbol>
+    <symbol id="icon-magnify" viewBox="0 0 512 512">
+        <g>
+            <path d="M337.509,305.372h-17.501l-6.571-5.486c20.791-25.232,33.922-57.054,33.922-93.257
+                C347.358,127.632,283.896,64,205.135,64C127.452,64,64,127.632,64,206.629s63.452,142.628,142.225,142.628
+                c35.011,0,67.831-13.167,92.991-34.008l6.561,5.487v17.551L415.18,448L448,415.086L337.509,305.372z M206.225,305.372
+                c-54.702,0-98.463-43.887-98.463-98.743c0-54.858,43.761-98.742,98.463-98.742c54.7,0,98.462,43.884,98.462,98.742
+                C304.687,261.485,260.925,305.372,206.225,305.372z"></path>
+        </g>
+    </symbol>
+    <symbol id="burger-menu" viewBox="0 0 512 512">
+        <g>
+            <path d="M501.333,96H10.667C4.779,96,0,100.779,0,106.667s4.779,10.667,10.667,10.667h490.667c5.888,0,10.667-4.779,10.667-10.667
+			S507.221,96,501.333,96z" />
+            <path d="M501.333,245.333H10.667C4.779,245.333,0,250.112,0,256s4.779,10.667,10.667,10.667h490.667
+			c5.888,0,10.667-4.779,10.667-10.667S507.221,245.333,501.333,245.333z" />
+            <path d="M501.333,394.667H10.667C4.779,394.667,0,399.445,0,405.333C0,411.221,4.779,416,10.667,416h490.667
+			c5.888,0,10.667-4.779,10.667-10.667C512,399.445,507.221,394.667,501.333,394.667z" />
+        </g>
+    </symbol>
+    <symbol id="close-x" viewBox="0 0 14 14">
+        <g>
+            <path fill-rule="nonzero" d="M6.336 7L0 .664.664 0 7 6.336 13.336 0 14 .664 7.664 7 14 13.336l-.664.664L7 7.664.664 14 0 13.336 6.336 7z"></path>
+        </g>
+    </symbol>
+    <symbol id="share-more-arrow" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;">
+        <g>
+            <g>
+                <path d="M512,241.7L273.643,3.343v156.152c-71.41,3.744-138.015,33.337-188.958,84.28C30.075,298.384,0,370.991,0,448.222v60.436
+                    l29.069-52.985c45.354-82.671,132.173-134.027,226.573-134.027c5.986,0,12.004,0.212,18.001,0.632v157.779L512,241.7z
+                    M255.642,290.666c-84.543,0-163.661,36.792-217.939,98.885c26.634-114.177,129.256-199.483,251.429-199.483h15.489V78.131
+                    l163.568,163.568L304.621,405.267V294.531l-13.585-1.683C279.347,291.401,267.439,290.666,255.642,290.666z"></path>
+            </g>
+        </g>
+    </symbol>
+    <symbol id="chevron" viewBox="0 0 100 100">
+        <g>
+            <path d="M22.4566257,37.2056786 L-21.4456527,71.9511488 C-22.9248661,72.9681457 -24.9073712,72.5311671 -25.8758148,70.9765924 L-26.9788683,69.2027424 C-27.9450684,67.6481676 -27.5292733,65.5646602 -26.0500598,64.5484493 L20.154796,28.2208967 C21.5532435,27.2597011 23.3600078,27.2597011 24.759951,28.2208967 L71.0500598,64.4659264 C72.5292733,65.4829232 72.9450684,67.5672166 71.9788683,69.1217913 L70.8750669,70.8956413 C69.9073712,72.4502161 67.9241183,72.8848368 66.4449048,71.8694118 L22.4566257,37.2056786 Z" id="Transparent-Chevron" transform="translate(22.500000, 50.000000) rotate(90.000000) translate(-22.500000, -50.000000) "></path>
+        </g>
+    </symbol>
+    <symbol id="play-arrow" viewBox="0 0 30 30">
+        <g fill="none" fill-rule="evenodd">
+            <path d="M9 9l12 6-12 6z"></path>
+        </g>
+    </symbol>
+    <symbol id="bookmark" viewBox="0 0 9 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M.5.5v10.997l3.431-2.374a1 1 0 0 1 1.138 0L8.5 11.497V.5h-8z"></path>
+        </g>
+    </symbol>
+    <symbol id="heart" viewBox="0 0 14 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M10.24.5c-1.098 0-2.152.576-2.808 1.7L7 2.938l-.432-.74C5.912 1.076 4.858.5 3.76.5 1.996.5.5 1.899.5 3.859.5 5.2 1.644 6.912 3.57 8.747a27.774 27.774 0 0 0 3.373 2.738A.099.099 0 0 0 7 11.5a.104.104 0 0 0 .061-.018 27.75 27.75 0 0 0 3.368-2.735C12.356 6.912 13.5 5.201 13.5 3.859 13.5 1.899 12.003.5 10.24.5z"></path>
+        </g>
+    </symbol>
+    <symbol id="grid" viewBox="0 0 32 32">
+        <g>
+            <path d="M6.4,5.7 C6.4,6.166669 6.166669,6.4 5.7,6.4 L0.7,6.4 C0.233331,6.4 0,6.166669 0,5.7 L0,0.7 C0,0.233331 0.233331,0 0.7,0 L5.7,0 C6.166669,0 6.4,0.233331 6.4,0.7 L6.4,5.7 Z M19.2,5.7 C19.2,6.166669 18.966669,6.4 18.5,6.4 L13.5,6.4 C13.033331,6.4 12.8,6.166669 12.8,5.7 L12.8,0.7 C12.8,0.233331 13.033331,0 13.5,0 L18.5,0 C18.966669,0 19.2,0.233331 19.2,0.7 L19.2,5.7 Z M32,5.7 C32,6.166669 31.766669,6.4 31.3,6.4 L26.3,6.4 C25.833331,6.4 25.6,6.166669 25.6,5.7 L25.6,0.7 C25.6,0.233331 25.833331,0 26.3,0 L31.3,0 C31.766669,0 32,0.233331 32,0.7 L32,5.7 Z M6.4,18.5 C6.4,18.966669 6.166669,19.2 5.7,19.2 L0.7,19.2 C0.233331,19.2 0,18.966669 0,18.5 L0,13.5 C0,13.033331 0.233331,12.8 0.7,12.8 L5.7,12.8 C6.166669,12.8 6.4,13.033331 6.4,13.5 L6.4,18.5 Z M19.2,18.5 C19.2,18.966669 18.966669,19.2 18.5,19.2 L13.5,19.2 C13.033331,19.2 12.8,18.966669 12.8,18.5 L12.8,13.5 C12.8,13.033331 13.033331,12.8 13.5,12.8 L18.5,12.8 C18.966669,12.8 19.2,13.033331 19.2,13.5 L19.2,18.5 Z M32,18.5 C32,18.966669 31.766669,19.2 31.3,19.2 L26.3,19.2 C25.833331,19.2 25.6,18.966669 25.6,18.5 L25.6,13.5 C25.6,13.033331 25.833331,12.8 26.3,12.8 L31.3,12.8 C31.766669,12.8 32,13.033331 32,13.5 L32,18.5 Z M6.4,31.3 C6.4,31.766669 6.166669,32 5.7,32 L0.7,32 C0.233331,32 0,31.766669 0,31.3 L0,26.3 C0,25.833331 0.233331,25.6 0.7,25.6 L5.7,25.6 C6.166669,25.6 6.4,25.833331 6.4,26.3 L6.4,31.3 Z M19.2,31.3 C19.2,31.766669 18.966669,32 18.5,32 L13.5,32 C13.033331,32 12.8,31.766669 12.8,31.3 L12.8,26.3 C12.8,25.833331 13.033331,25.6 13.5,25.6 L18.5,25.6 C18.966669,25.6 19.2,25.833331 19.2,26.3 L19.2,31.3 Z M32,31.3 C32,31.766669 31.766669,32 31.3,32 L26.3,32 C25.833331,32 25.6,31.766669 25.6,31.3 L25.6,26.3 C25.6,25.833331 25.833331,25.6 26.3,25.6 L31.3,25.6 C31.766669,25.6 32,25.833331 32,26.3 L32,31.3 Z" id=""></path>
+        </g>
+    </symbol>
+    <symbol id="filter" viewBox="0 0 16 12">
+        <path d="M0 2V0h16v2H0zm2.4 5V5h11.2v2H2.4zm2.4 5v-2h6.4v2H4.8z"></path>
+    </symbol>
+    <symbol id="minus-circle" viewBox="0 0 1792 1792">
+        <g>
+            <path d="M1344 960v-128q0-26-19-45t-45-19h-768q-26 0-45 19t-19 45v128q0 26 19 45t45 19h768q26 0 45-19t19-45zm320-64q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" />
+        </g>
+    </symbol>
+    <symbol id="plus-circle" viewBox="0 0 1792 1792">
+        <g>
+            <path d="M1344 960v-128q0-26-19-45t-45-19h-256v-256q0-26-19-45t-45-19h-128q-26 0-45 19t-19 45v256h-256q-26 0-45 19t-19 45v128q0 26 19 45t45 19h256v256q0 26 19 45t45 19h128q26 0 45-19t19-45v-256h256q26 0 45-19t19-45zm320-64q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z" />
+        </g>
+    </symbol>
+    <symbol id="chevron-left" viewBox="0 0 511.641 511.641">
+        <path d="M148.32,255.76L386.08,18c4.053-4.267,3.947-10.987-0.213-15.04c-4.16-3.947-10.667-3.947-14.827,0L125.707,248.293
+			c-4.16,4.16-4.16,10.88,0,15.04L371.04,508.667c4.267,4.053,10.987,3.947,15.04-0.213c3.947-4.16,3.947-10.667,0-14.827
+			L148.32,255.76z" />
+    </symbol>
+</svg>
+
+
+<ps-header class="Page-header" itemscope itemtype="http://schema.org/WPHeader" data-sticky-disable>
+    <div class="Page-header-bar">
+        
+            
+                <div class="Page-header-logo"><a aria-label="home page" href="https://www.latimes.com/bestcovery/"  >
+    
+        <img class="PageLogo-image" src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/beea024/2147483647/strip/true/crop/1000x277+0+0/resize/433x120!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F97%2F96%2F5fd40beb48059a3edeff4d92eed5%2Fbestcovery-logo-powered-by-lat.png" alt="Bestcovery logo" width="433"  height="120" />
+    
+    </a>
+</div>
+            
+        
+
+        <button class="Page-header-menu-trigger" aria-expanded="false" tabindex="1">
+            <svg class="burger-menu"><use xlink:href="#burger-menu"></use></svg>
+            <svg class="close-x"><use xlink:href="#chevron-left"></use></svg>
+            <span class="label">Menu</span>
+        </button>
+
+        <div class="Page-header-hamburger-menu">
+            <div class="Page-header-hamburger-menu-wrapper">
+                <div class="Page-header-hamburger-menu-content">
+                    
+                        <nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/auto">Auto</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/home">Home</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item" data-related-nav-item><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/lifestyle">Lifestyle</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/electronics">Electronics</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/tech">Tech</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/health-beauty">Health &amp; Beauty</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/fashion">Fashion</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/sports">Sports</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/music">Music</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/kids-babies">Kids &amp; Babies</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item"><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://www.latimes.com/bestcovery/streaming">Streaming</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+        </ul>
+    
+</nav>
+                    
+                    
+                </div>
+            </div>
+        </div>
+
+        
+
+            <div class="Page-header-search-overlay">
+                <form class="Page-header-search-form" action="https://www.latimes.com/bestcovery/search#nt=navsearch" novalidate="" autocomplete="off">
+                    <label><input placeholder="Search" type="text" class="Page-header-search-input" name="q" required="true"><span class="sr-only">Search Query</span></label>
+                    <button type="submit" class="Page-header-search-submit"><svg><use xlink:href="#icon-magnify"></use></svg><span class="sr-only">Submit Search</span></button>
+                </form>
+            </div>
+        
+    </div>
+</ps-header>
+
+
+    <div class="Page-above" ><div class="InfoBoxModule byline-1">
+    
+        <div class="InfoBoxModule-items InfoBoxBody"><p><i>We may earn a commission if you make a purchase through one of our links. The LA Times editorial staff was not involved in the creation of this content. <a class="Link" href="https://www.latimes.com/bestcovery/about-us">Learn more</a></i></p></div>
+    
+</div>
+</div>
+
+
+<main class="BestList-content">
+    <div class="BestList-container">
+        
+    
+        <ul class="BestList-breadcrumbs label-2">
+            
+                <li><a class="Link" href="https://www.latimes.com/bestcovery/">Homepage</a></li>
+            
+            
+                <li><a class="Link" href="https://www.latimes.com/bestcovery/lifestyle">Lifestyle</a></li>
+            
+                <li><a class="Link" href="https://www.latimes.com/bestcovery/travel">Travel</a></li>
+            
+        </ul>
+    
+
+
+        
+            <h1 class="BestList-title title-1 center">Best Travel Pillow of 2023</h1>
+        
+
+        <div class="AuthorByline">
+    
+        <div class="AuthorByline-authorList byline-1">
+            
+                <a class="Link" href="#bestcovery-team">Bestcovery Team</a>
+        </div>
+    
+    
+        <span class="AuthorByline-creationDate byline-1">04.21.2023</span>
+    
+</div>
+
+        
+            
+                <div class="BestList-lead"><figure class="Figure">
+    
+        
+            <img src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/5840ee5/2147483647/strip/true/crop/840x560+0+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F9f%2F53%2F2dfd89a84f56938637da1974f32e%2Fbestcovery-travel-pillows-cover-image-1.png" alt="Bestcovery Travel Pillows Cover Image" width="840"  height="560" />
+        
+    
+    
+    
+        
+    
+        
+    
+</figure>
+</div>
+            
+        
+
+        
+            
+    <ps-toggler data-toggle="toc-content">
+        <div class="BestList-toc">
+            <button class="BestList-toc-title body-1" data-toggle-trigger="toc-content" type="button">
+                <span class="icon">
+                    <svg><use xlink:href="#close-x"></use></svg>
+                </span>
+                Table of Contents
+            </button>
+            <div class="BestList-toc-content" data-toggle-content>
+                <ol class="BestList-toc-list body-2">
+                    
+                        <li>
+                            <ps-smooth-scroller data-target="#best-overall-trtl-pillow"> Trtl Pillow</ps-smooth-scroller>
+                        </li>
+                    
+                        <li>
+                            <ps-smooth-scroller data-target="#sustainable-therm-a-rest-compressible-pillow">Therm-a-Rest Compressible Pillow</ps-smooth-scroller>
+                        </li>
+                    
+                        <li>
+                            <ps-smooth-scroller data-target="#most-adjustable-ostrich-pillow-go-neck-pillow">Ostrich Pillow Go Neck Pillow</ps-smooth-scroller>
+                        </li>
+                    
+                        <li>
+                            <ps-smooth-scroller data-target="#budget-friendly-cloudz-microbead-travel-neck-pillow">Cloudz Microbead Travel Neck Pillow</ps-smooth-scroller>
+                        </li>
+                    
+                        <li>
+                            <ps-smooth-scroller data-target="#best-for-softness-j-pillow-chin-supporting-neck-pillow">J-Pillow Chin-Supporting Neck Pillow</ps-smooth-scroller>
+                        </li>
+                    
+                    
+                        <li>
+                            <ps-smooth-scroller data-target="#buyers-guide">
+                                Buyer&#x27;s Guide
+                            </ps-smooth-scroller>
+                        </li>
+                    
+                </ol>
+            </div>
+        </div>
+    </ps-toggler>
+
+
+        
+
+        
+            <div class="BestList-intro">
+                <div class="RichTextBody body-2"><p>If you travel frequently, you know how challenging it can be to get some shut-eye on a long flight or road trip. A good travel pillow can make all the difference between arriving at your destination well-rested or feeling tired and sore. But, with so many travel pillow options available, what’s the best travel pillow on the market? That’s what we’re here to answer! We’ve put together a list of the best-rated pillows for your next travel adventures.</p><p><b>Price legend:</b><br>$: 0-25<br>$$: 26-50<br>$$$: 51-100</p><p>Below, you’ll find our picks for the 5 best travel pillows of 2023. We made our selections based on the products’ price, portability, and level of support and comfort. See what each travel pillow has to offer!</p></div>
+            </div>
+        
+    </div>
+
+    <div >
+        
+        
+            <ps-carousel
+                data-max-slides-hk="4"
+                data-max-slides-lg="4"
+                data-max-slides-xl="5"
+                class="ListF ProductList-carousel BestList-productreview">
+                <div class="ProductList-carousel-slides"><div class="ProductCarouselReview ProductList-carousel-slide">
+    <div class="ProductCarouselReview-content">
+        
+        <div class="center">
+            <span class="byline-1 ProductCarouselReview-reviewAward">Best Overall</span>
+        </div>
+        
+        
+        
+            <div class="center ProductCarouselReview-image">
+    <img class="Image" alt="TRTL Pillow" width="205" height="133"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/bc47d1b/2147483647/strip/true/crop/840x545+0+8/resize/205x133!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fa5%2F26%2Fa01e0b3247cfb618e6b13df3dc67%2Ftrtl-pillow-resized.png"
+        >
+
+</div>
+        
+        
+        
+        <h5 class="title-5 ProductCarouselReview-title"> Trtl Pillow</h5>
+        
+        <ul class="ProductReview-pros">
+            
+            <li>
+                <span>
+                    <svg class="plus-circle-icon">
+                        <use xlink:href="#plus-circle"></use>
+                    </svg>
+                </span>
+                <span>Effortlessly slides into backpacks for easy transport </span>
+            </li>
+            
+            <li>
+                <span>
+                    <svg class="plus-circle-icon">
+                        <use xlink:href="#plus-circle"></use>
+                    </svg>
+                </span>
+                <span>Maximum neck support</span>
+            </li>
+            
+        </ul>
+        <ul class="ProductReview-cons ProductCarouselReview-cons">
+            
+            <li>
+                <span>
+                    <svg class="minus-circle-icon">
+                        <use xlink:href="#minus-circle"></use>
+                    </svg>
+                </span>
+                <span>There’s no fill, so it’s not the best travel pillow for people who want an extra soft feel</span>
+            </li>
+            
+            <li>
+                <span>
+                    <svg class="minus-circle-icon">
+                        <use xlink:href="#minus-circle"></use>
+                    </svg>
+                </span>
+                <span>Wireless earbuds are challenging to wear while using this pillow</span>
+            </li>
+            
+        </ul>
+        <div class="ProductCarouselReview-bottom">
+            <a class="ButtonLink ProductCarouselReview-fullReview text-preview" href="#best-overall-trtl-pillow">See Full Review</a>
+            
+                
+                  
+                    
+                      <a class="ShopButton text-preview" style="background:#202f3f;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B00LB7REBE?ie=UTF8&amp;linkCode=xm2&amp;tag=bcavlat-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="amazon logo.png" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/26c9207/2147483647/strip/true/crop/56x35+0+0/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F1f%2Fa0%2Fa9550d984740a6fcf76adca7cdef%2Famazon-logo.png"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a>
+                    
+                  
+                    
+                  
+                
+            
+        </div>
+    </div>
+</div><div class="ProductCarouselReview ProductList-carousel-slide">
+    <div class="ProductCarouselReview-content">
+        
+        <div class="center">
+            <span class="byline-1 ProductCarouselReview-reviewAward">Sustainable</span>
+        </div>
+        
+        
+        
+            <div class="center ProductCarouselReview-image">
+    <img class="Image" alt="Thermarest Compressible Pillow" width="205" height="133"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/3e93e34/2147483647/strip/true/crop/840x545+0+8/resize/205x133!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F6b%2F2b%2F729baf074b56b538ddbf96843f7a%2Ftherma-rest-compressable-pillow-resized.png"
+        >
+
+</div>
+        
+        
+        
+        <h5 class="title-5 ProductCarouselReview-title">Therm-a-Rest Compressible Pillow</h5>
+        
+        <ul class="ProductReview-pros">
+            
+            <li>
+                <span>
+                    <svg class="plus-circle-icon">
+                        <use xlink:href="#plus-circle"></use>
+                    </svg>
+                </span>
+                <span>Sustainable — made from recycled and upcycled materials</span>
+            </li>
+            
+            <li>
+                <span>
+                    <svg class="plus-circle-icon">
+                        <use xlink:href="#plus-circle"></use>
+                    </svg>
+                </span>
+                <span>Comfortable and breathable </span>
+            </li>
+            
+        </ul>
+        <ul class="ProductReview-cons ProductCarouselReview-cons">
+            
+            <li>
+                <span>
+                    <svg class="minus-circle-icon">
+                        <use xlink:href="#minus-circle"></use>
+                    </svg>
+                </span>
+                <span>Less neck support than other travel pillows</span>
+            </li>
+            
+            <li>
+                <span>
+                    <svg class="minus-circle-icon">
+                        <use xlink:href="#minus-circle"></use>
+                    </svg>
+                </span>
+                <span>No portable case</span>
+            </li>
+            
+        </ul>
+        <div class="ProductCarouselReview-bottom">
+            <a class="ButtonLink ProductCarouselReview-fullReview text-preview" href="#sustainable-therm-a-rest-compressible-pillow">See Full Review</a>
+            
+                
+                  
+                    
+                      <a class="ShopButton text-preview" style="background:#202f3f;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B09LNYPG7Y?ie=UTF8&amp;linkCode=xm2&amp;tag=bcavlat-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="amazon logo.png" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/26c9207/2147483647/strip/true/crop/56x35+0+0/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F1f%2Fa0%2Fa9550d984740a6fcf76adca7cdef%2Famazon-logo.png"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a>
+                    
+                  
+                
+            
+        </div>
+    </div>
+</div><div class="ProductCarouselReview ProductList-carousel-slide">
+    <div class="ProductCarouselReview-content">
+        
+        <div class="center">
+            <span class="byline-1 ProductCarouselReview-reviewAward">Most Adjustable</span>
+        </div>
+        
+        
+        
+            <div class="center ProductCarouselReview-image">
+    <img class="Image" alt="ostrich Go pillow" width="205" height="133"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/420905f/2147483647/strip/true/crop/840x545+0+8/resize/205x133!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F25%2F47%2F0c2105e04a73a11ba9e6fdb697ec%2Fostrich-go-pillow-resized.png"
+        >
+
+</div>
+        
+        
+        
+        <h5 class="title-5 ProductCarouselReview-title">Ostrich Pillow Go Neck Pillow</h5>
+        
+        <ul class="ProductReview-pros">
+            
+            <li>
+                <span>
+                    <svg class="plus-circle-icon">
+                        <use xlink:href="#plus-circle"></use>
+                    </svg>
+                </span>
+                <span>Has an asymmetrical design that offers support for the neck, chin, and head</span>
+            </li>
+            
+            <li>
+                <span>
+                    <svg class="plus-circle-icon">
+                        <use xlink:href="#plus-circle"></use>
+                    </svg>
+                </span>
+                <span>Adjustable closure to fit any neck size</span>
+            </li>
+            
+        </ul>
+        <ul class="ProductReview-cons ProductCarouselReview-cons">
+            
+            <li>
+                <span>
+                    <svg class="minus-circle-icon">
+                        <use xlink:href="#minus-circle"></use>
+                    </svg>
+                </span>
+                <span>On the more expensive side</span>
+            </li>
+            
+            <li>
+                <span>
+                    <svg class="minus-circle-icon">
+                        <use xlink:href="#minus-circle"></use>
+                    </svg>
+                </span>
+                <span>Not the best for hot sleepers</span>
+            </li>
+            
+        </ul>
+        <div class="ProductCarouselReview-bottom">
+            <a class="ButtonLink ProductCarouselReview-fullReview text-preview" href="#most-adjustable-ostrich-pillow-go-neck-pillow">See Full Review</a>
+            
+                
+                  
+                    
+                      <a class="ShopButton text-preview" style="background:#202f3f;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B07CMJ5186?ie=UTF8&amp;linkCode=xm2&amp;tag=bcavlat-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="amazon logo.png" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/26c9207/2147483647/strip/true/crop/56x35+0+0/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F1f%2Fa0%2Fa9550d984740a6fcf76adca7cdef%2Famazon-logo.png"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a>
+                    
+                  
+                    
+                  
+                
+            
+        </div>
+    </div>
+</div><div class="ProductCarouselReview ProductList-carousel-slide">
+    <div class="ProductCarouselReview-content">
+        
+        <div class="center">
+            <span class="byline-1 ProductCarouselReview-reviewAward">Budget Friendly</span>
+        </div>
+        
+        
+        
+            <div class="center ProductCarouselReview-image">
+    <img class="Image" alt="cloudz microbead travel neck pillow" width="205" height="133"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/a2b70e4/2147483647/strip/true/crop/840x545+0+8/resize/205x133!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F90%2Fd1%2F6343d7cf4975af7a06bd7e59fa84%2Fcloudz-microbead-travel-neck-pillow-resized.png"
+        >
+
+</div>
+        
+        
+        
+        <h5 class="title-5 ProductCarouselReview-title">Cloudz Microbead Travel Neck Pillow</h5>
+        
+        <ul class="ProductReview-pros">
+            
+            <li>
+                <span>
+                    <svg class="plus-circle-icon">
+                        <use xlink:href="#plus-circle"></use>
+                    </svg>
+                </span>
+                <span>Best travel pillow for people on a budget</span>
+            </li>
+            
+            <li>
+                <span>
+                    <svg class="plus-circle-icon">
+                        <use xlink:href="#plus-circle"></use>
+                    </svg>
+                </span>
+                <span>Beneficial for both hot and cold sleepers </span>
+            </li>
+            
+        </ul>
+        <ul class="ProductReview-cons ProductCarouselReview-cons">
+            
+            <li>
+                <span>
+                    <svg class="minus-circle-icon">
+                        <use xlink:href="#minus-circle"></use>
+                    </svg>
+                </span>
+                <span>Not machine-washable</span>
+            </li>
+            
+            <li>
+                <span>
+                    <svg class="minus-circle-icon">
+                        <use xlink:href="#minus-circle"></use>
+                    </svg>
+                </span>
+                <span>Not as much neck support as other travel pillows</span>
+            </li>
+            
+        </ul>
+        <div class="ProductCarouselReview-bottom">
+            <a class="ButtonLink ProductCarouselReview-fullReview text-preview" href="#budget-friendly-cloudz-microbead-travel-neck-pillow">See Full Review</a>
+            
+                
+                  
+                    
+                      <a class="ShopButton text-preview" style="background:#202f3f;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B00B2KV5D8?ie=UTF8&amp;linkCode=xm2&amp;tag=bcavlat-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="amazon logo.png" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/26c9207/2147483647/strip/true/crop/56x35+0+0/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F1f%2Fa0%2Fa9550d984740a6fcf76adca7cdef%2Famazon-logo.png"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a>
+                    
+                  
+                    
+                  
+                
+            
+        </div>
+    </div>
+</div><div class="ProductCarouselReview ProductList-carousel-slide">
+    <div class="ProductCarouselReview-content">
+        
+        <div class="center">
+            <span class="byline-1 ProductCarouselReview-reviewAward">Best for Softness </span>
+        </div>
+        
+        
+        
+            <div class="center ProductCarouselReview-image">
+    <img class="Image" alt="J Pillow" width="205" height="133"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/5f32146/2147483647/strip/true/crop/840x545+0+8/resize/205x133!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F3d%2F5a%2F8acbd3284db38d575eed8bccef68%2Fj-pillow-resized.png"
+        >
+
+</div>
+        
+        
+        
+        <h5 class="title-5 ProductCarouselReview-title">J-Pillow Chin-Supporting Neck Pillow</h5>
+        
+        <ul class="ProductReview-pros">
+            
+            <li>
+                <span>
+                    <svg class="plus-circle-icon">
+                        <use xlink:href="#plus-circle"></use>
+                    </svg>
+                </span>
+                <span>Has a chin rest to prevent the head from falling forward</span>
+            </li>
+            
+            <li>
+                <span>
+                    <svg class="plus-circle-icon">
+                        <use xlink:href="#plus-circle"></use>
+                    </svg>
+                </span>
+                <span>Soft memory foam fill makes it softer than many other travel pillows</span>
+            </li>
+            
+        </ul>
+        <ul class="ProductReview-cons ProductCarouselReview-cons">
+            
+            <li>
+                <span>
+                    <svg class="minus-circle-icon">
+                        <use xlink:href="#minus-circle"></use>
+                    </svg>
+                </span>
+                <span>Difficult to use in a middle seat or end seat </span>
+            </li>
+            
+            <li>
+                <span>
+                    <svg class="minus-circle-icon">
+                        <use xlink:href="#minus-circle"></use>
+                    </svg>
+                </span>
+                <span>Bulkier than traditional travel pillows</span>
+            </li>
+            
+        </ul>
+        <div class="ProductCarouselReview-bottom">
+            <a class="ButtonLink ProductCarouselReview-fullReview text-preview" href="#best-for-softness-j-pillow-chin-supporting-neck-pillow">See Full Review</a>
+            
+                
+                  
+                    
+                      <a class="ShopButton text-preview" style="background:#202f3f;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B019CJSDM6?ie=UTF8&amp;linkCode=xm2&amp;tag=bcavlat-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="amazon logo.png" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/26c9207/2147483647/strip/true/crop/56x35+0+0/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F1f%2Fa0%2Fa9550d984740a6fcf76adca7cdef%2Famazon-logo.png"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a>
+                    
+                  
+                    
+                  
+                
+            
+        </div>
+    </div>
+</div></div>
+            </ps-carousel>
+        
+
+        
+            <h2 class="BestList-subtitle title-subtitle center">The Top 5 Best Travel Pillows Reviewed</h2>
+        
+
+        
+            <div class="BestList-container"><div class="ProductReview" id="best-overall-trtl-pillow">
+    
+    <div class="center ProductReview-awardContainer">
+        <span class="byline-1 ProductReview-reviewAward">Best Overall</span>
+    </div>
+    
+
+    
+        
+            <div class="center ProductReview-image">
+                
+                    
+    <img class="Image" alt="TRTL Pillow" width="840" height="560"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/58dc8ab/2147483647/strip/true/crop/840x560+0+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fa5%2F26%2Fa01e0b3247cfb618e6b13df3dc67%2Ftrtl-pillow-resized.png"
+        >
+
+
+                
+            </div>
+        
+    
+
+    
+        <h3 class="center ProductReview-title" tabindex="">
+             
+                 Trtl Pillow - Best Overall
+             
+        </h3>
+    
+
+    
+      <div class="RichTextBody body-2">
+          <ps-toggler data-toggle="review" class="ToggleText " itemprop="description" data-fade-out="true">
+    
+        <div data-toggle-content
+            data-size="large"
+            class="ToggleText-content body-1">
+            <p>The Trtl Pillow doesn’t look like your traditional neck pillow but provides maximum neck support while you doze off. It keeps your head from falling too far forward or to the side, so you don’t risk waking with a stiff neck. This travel pillow comes with an adjustable plastic brace that can be worn on either side of your neck. There's also built-in neck support - while it's not obvious or visible from the outside, your neck will thank you after a few hours of comfortable sleep. Its thin design also makes it easy to store and transport.</p>
+
+<div class="row ProductReview-injectedProsCons">
+    
+        <ul class="ProductReview-pros">
+            
+                <li>
+                        <span>
+                            <svg class="plus-circle-icon">
+                                <use xlink:href="#plus-circle"></use>
+                            </svg>
+                        </span>
+                    <span>Effortlessly slides into backpacks for easy transport </span>
+                </li>
+            
+                <li>
+                        <span>
+                            <svg class="plus-circle-icon">
+                                <use xlink:href="#plus-circle"></use>
+                            </svg>
+                        </span>
+                    <span>Maximum neck support</span>
+                </li>
+            
+        </ul>
+    
+    
+    <ul class="ProductReview-cons">
+        
+            <li>
+                    <span>
+                        <svg class="minus-circle-icon">
+                            <use xlink:href="#minus-circle"></use>
+                        </svg>
+                    </span>
+                <span>There’s no fill, so it’s not the best travel pillow for people who want an extra soft feel</span>
+            </li>
+        
+            <li>
+                    <span>
+                        <svg class="minus-circle-icon">
+                            <use xlink:href="#minus-circle"></use>
+                        </svg>
+                    </span>
+                <span>Wireless earbuds are challenging to wear while using this pillow</span>
+            </li>
+        
+    </ul>
+    
+</div>
+
+<p><b>Material:</b> Hypoallergenic fleece<br><b>Filler material:</b> No fill<br><b>Portability:</b> Easy to pack and fits in hand luggage<br><b>Appearance:</b> Thin, isn’t the common travel pillow U-shape<br><b>Cleaning:</b> Easy to clean, machine washable</p><p><b>Price range:</b> $$</p>
+        </div>
+    
+    <button type="button" class="ToggleText-more text-preview" data-toggle-trigger="review">
+        <span class="moreText">Read More</span>
+        <span class="lessText">Close</span>
+    </button>
+</ps-toggler>
+      </div>
+    
+    <div class="column ProductReview-shopbuttons">
+      
+      
+        <a class="ShopButton text-preview" style="background:#202f3f;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B00LB7REBE?ie=UTF8&amp;linkCode=xm2&amp;tag=bcavlat-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="amazon logo.png" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/26c9207/2147483647/strip/true/crop/56x35+0+0/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F1f%2Fa0%2Fa9550d984740a6fcf76adca7cdef%2Famazon-logo.png"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a><a class="ShopButton text-preview" style="background:#638abb;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://go.skimresources.com?id=135630X1599003&amp;xs=1&amp;url=https%3A%2F%2Ftrtltravel.com%2Fproducts%2Ftrtl-travel-pillow&amp;xcust=bcavlat" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="bc logo.png" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/f42b921/2147483647/strip/true/crop/280x175+0+0/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F26%2F26%2F703103a74abf9e9a190018b719ac%2Fbc-logo.png"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Manufacturer&#x27;s Official Website</span>
+</a>
+      
+    </div>
+</div><div class="ProductReview" id="sustainable-therm-a-rest-compressible-pillow">
+    
+    <div class="center ProductReview-awardContainer">
+        <span class="byline-1 ProductReview-reviewAward">Sustainable</span>
+    </div>
+    
+
+    
+        
+            <div class="center ProductReview-image">
+                
+                    
+    <img class="Image" alt="Thermarest Compressible Pillow" width="840" height="560"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/68f7f85/2147483647/strip/true/crop/840x560+0+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F6b%2F2b%2F729baf074b56b538ddbf96843f7a%2Ftherma-rest-compressable-pillow-resized.png"
+        >
+
+
+                
+            </div>
+        
+    
+
+    
+        <h3 class="center ProductReview-title" tabindex="">
+             
+                Therm-a-Rest Compressible Pillow - Sustainable
+             
+        </h3>
+    
+
+    
+      <div class="RichTextBody body-2">
+          <ps-toggler data-toggle="review" class="ToggleText " itemprop="description" data-fade-out="true">
+    
+        <div data-toggle-content
+            data-size="large"
+            class="ToggleText-content body-1">
+            <p>The Therm-a-Rest Compressible Pillow looks like a traditional rectangle-shaped pillow, but it compresses down for easy transport when traveling. It’s made from breathable recycled polyester fabric and memory foam filling for utmost comfort. The toggle strap also makes it easy to compress and fold into the built-in cover for protection during transport. It’s extremely durable and can be used for many trips to come.</p>
+
+<div class="row ProductReview-injectedProsCons">
+    
+        <ul class="ProductReview-pros">
+            
+                <li>
+                        <span>
+                            <svg class="plus-circle-icon">
+                                <use xlink:href="#plus-circle"></use>
+                            </svg>
+                        </span>
+                    <span>Sustainable — made from recycled and upcycled materials</span>
+                </li>
+            
+                <li>
+                        <span>
+                            <svg class="plus-circle-icon">
+                                <use xlink:href="#plus-circle"></use>
+                            </svg>
+                        </span>
+                    <span>Comfortable and breathable </span>
+                </li>
+            
+        </ul>
+    
+    
+    <ul class="ProductReview-cons">
+        
+            <li>
+                    <span>
+                        <svg class="minus-circle-icon">
+                            <use xlink:href="#minus-circle"></use>
+                        </svg>
+                    </span>
+                <span>Less neck support than other travel pillows</span>
+            </li>
+        
+            <li>
+                    <span>
+                        <svg class="minus-circle-icon">
+                            <use xlink:href="#minus-circle"></use>
+                        </svg>
+                    </span>
+                <span>No portable case</span>
+            </li>
+        
+    </ul>
+    
+</div>
+
+<p><b>Material:</b> Recycled polyester<br><b>Filler material:</b> Polyurethane foam<br><b>Portability:</b> Doesn’t come with a portable case but can be compressed to fit in carry-on luggage <br><b>Appearance:</b> Rectangular in shape like more traditional pillows <br><b>Cleaning:</b> Easy to clean, machine washable</p><p><b>Price range:</b> $$</p>
+        </div>
+    
+    <button type="button" class="ToggleText-more text-preview" data-toggle-trigger="review">
+        <span class="moreText">Read More</span>
+        <span class="lessText">Close</span>
+    </button>
+</ps-toggler>
+      </div>
+    
+    <div class="column ProductReview-shopbuttons">
+      
+      
+        <a class="ShopButton text-preview" style="background:#202f3f;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B09LNYPG7Y?ie=UTF8&amp;linkCode=xm2&amp;tag=bcavlat-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="amazon logo.png" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/26c9207/2147483647/strip/true/crop/56x35+0+0/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F1f%2Fa0%2Fa9550d984740a6fcf76adca7cdef%2Famazon-logo.png"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a>
+      
+    </div>
+</div><div class="ProductReview" id="most-adjustable-ostrich-pillow-go-neck-pillow">
+    
+    <div class="center ProductReview-awardContainer">
+        <span class="byline-1 ProductReview-reviewAward">Most Adjustable</span>
+    </div>
+    
+
+    
+        
+            <div class="center ProductReview-image">
+                
+                    
+    <img class="Image" alt="ostrich Go pillow" width="840" height="560"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/5662f79/2147483647/strip/true/crop/840x560+0+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F25%2F47%2F0c2105e04a73a11ba9e6fdb697ec%2Fostrich-go-pillow-resized.png"
+        >
+
+
+                
+            </div>
+        
+    
+
+    
+        <h3 class="center ProductReview-title" tabindex="">
+             
+                Ostrich Pillow Go Neck Pillow - Most Adjustable
+             
+        </h3>
+    
+
+    
+      <div class="RichTextBody body-2">
+          <ps-toggler data-toggle="review" class="ToggleText " itemprop="description" data-fade-out="true">
+    
+        <div data-toggle-content
+            data-size="large"
+            class="ToggleText-content body-1">
+            <p>The Ostrich Pillow Go Neck Pillow's 360° ergonomic design provides complete neck support during travel. It keeps your spine properly positioned to prevent neck and shoulder pain. It can easily be adjusted to support the chin, neck, and head. The soft memory foam fill and breathable viscose cover provide ultimate comfort while you snooze. It also compresses to 60% of its size, easily fitting in backpacks and handbags. </p>
+
+<div class="row ProductReview-injectedProsCons">
+    
+        <ul class="ProductReview-pros">
+            
+                <li>
+                        <span>
+                            <svg class="plus-circle-icon">
+                                <use xlink:href="#plus-circle"></use>
+                            </svg>
+                        </span>
+                    <span>Has an asymmetrical design that offers support for the neck, chin, and head</span>
+                </li>
+            
+                <li>
+                        <span>
+                            <svg class="plus-circle-icon">
+                                <use xlink:href="#plus-circle"></use>
+                            </svg>
+                        </span>
+                    <span>Adjustable closure to fit any neck size</span>
+                </li>
+            
+        </ul>
+    
+    
+    <ul class="ProductReview-cons">
+        
+            <li>
+                    <span>
+                        <svg class="minus-circle-icon">
+                            <use xlink:href="#minus-circle"></use>
+                        </svg>
+                    </span>
+                <span>On the more expensive side</span>
+            </li>
+        
+            <li>
+                    <span>
+                        <svg class="minus-circle-icon">
+                            <use xlink:href="#minus-circle"></use>
+                        </svg>
+                    </span>
+                <span>Not the best for hot sleepers</span>
+            </li>
+        
+    </ul>
+    
+</div>
+
+<p><b>Material:</b> Viscose<br><b>Filler material:</b> Memory foam<br><b>Portability:</b> Compresses to fit into the included travel bag<br><b>Appearance:</b> asymmetrical design that wraps around the whole neck<br><b>Cleaning:</b> Cover is machine washable, inside can be spot cleaned</p><p><b>Price range:</b> $$$</p>
+        </div>
+    
+    <button type="button" class="ToggleText-more text-preview" data-toggle-trigger="review">
+        <span class="moreText">Read More</span>
+        <span class="lessText">Close</span>
+    </button>
+</ps-toggler>
+      </div>
+    
+    <div class="column ProductReview-shopbuttons">
+      
+      
+        <a class="ShopButton text-preview" style="background:#202f3f;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B07CMJ5186?ie=UTF8&amp;linkCode=xm2&amp;tag=bcavlat-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="amazon logo.png" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/26c9207/2147483647/strip/true/crop/56x35+0+0/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F1f%2Fa0%2Fa9550d984740a6fcf76adca7cdef%2Famazon-logo.png"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a><a class="ShopButton text-preview" style="background:#638abb;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://go.skimresources.com?id=135630X1599003&amp;xs=1&amp;url=https%3A%2F%2Fostrichpillow.com%2Fproducts%2Fgo-neck-pillow&amp;xcust=bcavlat" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="bc logo.png" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/f42b921/2147483647/strip/true/crop/280x175+0+0/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F26%2F26%2F703103a74abf9e9a190018b719ac%2Fbc-logo.png"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Manufacturer&#x27;s Official Website</span>
+</a>
+      
+    </div>
+</div><div class="ProductReview" id="budget-friendly-cloudz-microbead-travel-neck-pillow">
+    
+    <div class="center ProductReview-awardContainer">
+        <span class="byline-1 ProductReview-reviewAward">Budget Friendly</span>
+    </div>
+    
+
+    
+        
+            <div class="center ProductReview-image">
+                
+                    
+    <img class="Image" alt="cloudz microbead travel neck pillow" width="840" height="560"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/f4baddf/2147483647/strip/true/crop/840x560+0+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F90%2Fd1%2F6343d7cf4975af7a06bd7e59fa84%2Fcloudz-microbead-travel-neck-pillow-resized.png"
+        >
+
+
+                
+            </div>
+        
+    
+
+    
+        <h3 class="center ProductReview-title" tabindex="">
+             
+                Cloudz Microbead Travel Neck Pillow - Budget Friendly
+             
+        </h3>
+    
+
+    
+      <div class="RichTextBody body-2">
+          <ps-toggler data-toggle="review" class="ToggleText " itemprop="description" data-fade-out="true">
+    
+        <div data-toggle-content
+            data-size="large"
+            class="ToggleText-content body-1">
+            <p>The Cloudz Microbead Travel Neck Pillow is a budget-friendly option that offers plenty of comfort. The microbead fill molds to your neck’s shape to keep your head from moving around while you sleep. It’s also temperature-regulating and designed to keep you cool during warm flights and warm during cold ones. Its lightweight but durable design makes it easy to attach to luggage without the risk of damage if it bumps into anything during transport.</p>
+
+<div class="row ProductReview-injectedProsCons">
+    
+        <ul class="ProductReview-pros">
+            
+                <li>
+                        <span>
+                            <svg class="plus-circle-icon">
+                                <use xlink:href="#plus-circle"></use>
+                            </svg>
+                        </span>
+                    <span>Best travel pillow for people on a budget</span>
+                </li>
+            
+                <li>
+                        <span>
+                            <svg class="plus-circle-icon">
+                                <use xlink:href="#plus-circle"></use>
+                            </svg>
+                        </span>
+                    <span>Beneficial for both hot and cold sleepers </span>
+                </li>
+            
+        </ul>
+    
+    
+    <ul class="ProductReview-cons">
+        
+            <li>
+                    <span>
+                        <svg class="minus-circle-icon">
+                            <use xlink:href="#minus-circle"></use>
+                        </svg>
+                    </span>
+                <span>Not machine-washable</span>
+            </li>
+        
+            <li>
+                    <span>
+                        <svg class="minus-circle-icon">
+                            <use xlink:href="#minus-circle"></use>
+                        </svg>
+                    </span>
+                <span>Not as much neck support as other travel pillows</span>
+            </li>
+        
+    </ul>
+    
+</div>
+
+<p><b>Material:</b> Polyester<br><b>Filler material:</b> Microbeads<br><b>Portability:</b> Easily snaps around luggage handles<br><b>Appearance:</b> Traditional travel pillow U-shape <br><b>Cleaning:</b> Cover isn’t removable, but it comes with instructions for easy surface spot-cleaning </p><p><b>Price range:</b> $ </p>
+        </div>
+    
+    <button type="button" class="ToggleText-more text-preview" data-toggle-trigger="review">
+        <span class="moreText">Read More</span>
+        <span class="lessText">Close</span>
+    </button>
+</ps-toggler>
+      </div>
+    
+    <div class="column ProductReview-shopbuttons">
+      
+      
+        <a class="ShopButton text-preview" style="background:#202f3f;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B00B2KV5D8?ie=UTF8&amp;linkCode=xm2&amp;tag=bcavlat-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="amazon logo.png" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/26c9207/2147483647/strip/true/crop/56x35+0+0/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F1f%2Fa0%2Fa9550d984740a6fcf76adca7cdef%2Famazon-logo.png"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a><a class="ShopButton text-preview" style="background:#0071ce;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://go.skimresources.com?id=135630X1599003&amp;xs=1&amp;url=https%3A%2F%2Fwww.walmart.com%2Fip%2FCloudz-Microbead-Travel-Neck-Pillow-Black%2F196504229&amp;xcust=bcavlat" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="Walmart-Logo-PNG-Transparent.png" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/ddf81d9/2147483647/strip/true/crop/300x188+0+56/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fba%2F5d%2F84f681344ef9a6d891a4494316b6%2Fwalmart-logo-png-transparent.png"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Walmart</span>
+</a>
+      
+    </div>
+</div><div class="ProductReview" id="best-for-softness-j-pillow-chin-supporting-neck-pillow">
+    
+    <div class="center ProductReview-awardContainer">
+        <span class="byline-1 ProductReview-reviewAward">Best for Softness </span>
+    </div>
+    
+
+    
+        
+            <div class="center ProductReview-image">
+                
+                    
+    <img class="Image" alt="J Pillow" width="840" height="560"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/9ddae43/2147483647/strip/true/crop/840x560+0+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F3d%2F5a%2F8acbd3284db38d575eed8bccef68%2Fj-pillow-resized.png"
+        >
+
+
+                
+            </div>
+        
+    
+
+    
+        <h3 class="center ProductReview-title" tabindex="">
+             
+                J-Pillow Chin-Supporting Neck Pillow - Best for Softness 
+             
+        </h3>
+    
+
+    
+      <div class="RichTextBody body-2">
+          <ps-toggler data-toggle="review" class="ToggleText " itemprop="description" data-fade-out="true">
+    
+        <div data-toggle-content
+            data-size="large"
+            class="ToggleText-content body-1">
+            <p>The j-shape of the J-Pillow Chin-Supporting Neck Pillow wraps comfortably around the neck and supports your chin and the front, back, and side of your head. This is the best pillow for airplane and car window seats. The design allows the pillow to fill in any gaps between your head and shoulders to provide the best possible support. Your head stays securely upright without bobbing forward during sleep.</p>
+
+<div class="row ProductReview-injectedProsCons">
+    
+        <ul class="ProductReview-pros">
+            
+                <li>
+                        <span>
+                            <svg class="plus-circle-icon">
+                                <use xlink:href="#plus-circle"></use>
+                            </svg>
+                        </span>
+                    <span>Has a chin rest to prevent the head from falling forward</span>
+                </li>
+            
+                <li>
+                        <span>
+                            <svg class="plus-circle-icon">
+                                <use xlink:href="#plus-circle"></use>
+                            </svg>
+                        </span>
+                    <span>Soft memory foam fill makes it softer than many other travel pillows</span>
+                </li>
+            
+        </ul>
+    
+    
+    <ul class="ProductReview-cons">
+        
+            <li>
+                    <span>
+                        <svg class="minus-circle-icon">
+                            <use xlink:href="#minus-circle"></use>
+                        </svg>
+                    </span>
+                <span>Difficult to use in a middle seat or end seat </span>
+            </li>
+        
+            <li>
+                    <span>
+                        <svg class="minus-circle-icon">
+                            <use xlink:href="#minus-circle"></use>
+                        </svg>
+                    </span>
+                <span>Bulkier than traditional travel pillows</span>
+            </li>
+        
+    </ul>
+    
+</div>
+
+<p><b>Material:</b> Polyester<br><b>Filler material:</b> Memory foam<br><b>Portability:</b> The portable case makes it easy to attach to luggage <br><b>Appearance:</b> J-shaped to support the neck, chin, and back/side of the head <br><b>Cleaning:</b> Easy to clean, machine washable</p><p><b>Price range:</b> $$</p>
+        </div>
+    
+    <button type="button" class="ToggleText-more text-preview" data-toggle-trigger="review">
+        <span class="moreText">Read More</span>
+        <span class="lessText">Close</span>
+    </button>
+</ps-toggler>
+      </div>
+    
+    <div class="column ProductReview-shopbuttons">
+      
+      
+        <a class="ShopButton text-preview" style="background:#202f3f;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://www.amazon.com/gp/product/B019CJSDM6?ie=UTF8&amp;linkCode=xm2&amp;tag=bcavlat-20" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="amazon logo.png" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/26c9207/2147483647/strip/true/crop/56x35+0+0/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F1f%2Fa0%2Fa9550d984740a6fcf76adca7cdef%2Famazon-logo.png"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Amazon.com</span>
+</a><a class="ShopButton text-preview" style="background:#638abb;color:#ffffff;" rel="sponsored noreferrer noopener nofollow"  href="https://go.skimresources.com?id=135630X1599003&amp;xs=1&amp;url=https%3A%2F%2Fj-pillow.com%2Fproducts%2Fj-pillow-travel-pillow-silver-gray&amp;xcust=bcavlat" target="_blank" >
+  <div class="ShopButton-icon">
+    
+    
+      
+        
+    <img class="Image" alt="bc logo.png" width="56" height="35"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/f42b921/2147483647/strip/true/crop/280x175+0+0/resize/56x35!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F26%2F26%2F703103a74abf9e9a190018b719ac%2Fbc-logo.png"
+        >
+
+
+      
+    
+  </div>
+  <span class="ShopButton-text byline-1">Shop now at Manufacturer&#x27;s Official Website</span>
+</a>
+      
+    </div>
+</div></div>
+        
+        
+        
+            <div class="BestList-container BestList-buyersGuide" id="buyers-guide">
+                <h2 class="BestList-guide center title-2">Buyer&#x27;s Guide</h2>
+                <div class="RichTextBody body-1">
+                    <ps-toggler data-toggle="review" class="ToggleText " itemprop="description" data-fade-out="true">
+    
+        <div data-toggle-content
+            data-size="large"
+            class="ToggleText-content body-1">
+            <h2>Bestcovery’s Tips for Buying a Travel Pillow</h2><p></p><p>Having a hard time deciding which of these best-rated pillows to use on your next trip? Here are some tips to keep in mind while on the hunt for a new travel pillow. </p><h3>Consider Your Neck Support Needs</h3><p></p><p>When resting in a car or plane, keeping your head upright is key to preventing neck pain and headaches. However, this can be challenging because the motion of the car or plane can cause your head to bob forward. Look for a travel pillow that will keep your head in a secure upright position without being too tight around the neck. </p><h3>Easy Portability Is a Must</h3><p></p><p>The last thing you want to worry about while packing is figuring out where to place a bulky travel pillow. The best travel pillows can compact to fit into small carrying cases. You can also look for travel pillows with secure fasteners that quickly attach to luggage handles. </p><h3>What Filling Material Do You Prefer?</h3><p></p><p>The type of filling you should look for in a travel pillow depends on how firm or soft you like your pillows. Microbead fills have a little less structure and are perfect if you want a softer travel pillow. If you prefer firmer pillows, look for memory foam fills or inflatable alternatives.</p>
+        </div>
+    
+    <button type="button" class="ToggleText-more text-preview" data-toggle-trigger="review">
+        <span class="moreText">Read More</span>
+        <span class="lessText">Close</span>
+    </button>
+</ps-toggler>
+                </div>
+            </div>
+        
+        
+    </div>
+
+    
+        <div class="BestList-container">
+            
+                <ps-toggler data-toggle="review" class="ToggleText Author-wrapper" itemprop="description" data-fade-out="true">
+    
+        
+            
+                
+                    
+                        <div class="Author" id="bestcovery-team">
+    <div class="Author-intro">
+        
+            
+                <div class="Author-image" itemprop="image">
+    <img class="Image" alt="bestcovery team.jpg" width="200" height="200"
+        src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/a70406e/2147483647/strip/true/crop/200x200+0+0/resize/200x200!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fd4%2F9f%2F03be8fc2451cbf7140b17a8282bc%2Fbestcovery-team.jpg"
+        >
+
+</div>
+            
+        
+
+        <div class="Author-info">
+            
+                <div class="title-3 Author-name" itemprop="name">
+                    <a href="https://www.latimes.com/bestcovery/expert/bcteam">Bestcovery Team</a>
+                </div>
+            
+
+            
+
+            
+                <div class="Author-shortBiography-content RichTextBody ToggleText-content " data-toggle-content  data-size="small" >
+                    Our research team searches out the best of everything so that you can confidently pick the perfect products and services for your needs.
+                </div>
+            
+        </div>
+    </div>
+</div>
+                    
+                
+            
+        
+    
+    <button type="button" class="ToggleText-more text-preview" data-toggle-trigger="review">
+        <span class="moreText">Read More</span>
+        <span class="lessText">Close</span>
+    </button>
+</ps-toggler>
+            
+        </div>
+    
+</main>
+
+
+    <div class="BestList-below" ><ps-list-loadmore class="ListD" >
+    <div class="ListD-header" >
+    
+        <div class="ListD-header-title">Related Content</div>
+    
+</div>
+
+
+    
+        <ul class="ListD-items" data-list-loadmore-items>
+            
+            <li class="ListD-items-item">
+                <div class="PromoB" data-content-type="bestList" data-image-align="top">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-camping-pillow" aria-label="Get a Good Night’s Sleep on the Best Camping Pillow">
+    <img class="Image" alt="best Classic Quixote Goose Down Camping Pillow" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/4d61324/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F89%2Fd7%2F572d2eb94f28b2a0d6a1495e9e4f%2Fclassic-quixote-goose-down-camping-pillow-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/camping">Camping</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-camping-pillow">Get a Good Night’s Sleep on the Best Camping Pillow</a>
+            </div>
+        
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+            </li>
+            
+            <li class="ListD-items-item">
+                <div class="PromoB" data-content-type="bestList" data-image-align="top">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-money-belt" aria-label="Avoid Pick Pockets With The Best Money Belts">
+    <img class="Image" alt="best  Eagle Creek All Terrain Money Belt" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/6493825/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F2c%2Ff3%2Fc597db76487491ceb3f55e924e66%2Feagle-creek-all-terrain-money-belt-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/travel">Travel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-money-belt">Avoid Pick Pockets With The Best Money Belts</a>
+            </div>
+        
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+            </li>
+            
+            <li class="ListD-items-item">
+                <div class="PromoB" data-content-type="bestList" data-image-align="top">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-luggage-overall" aria-label="Best Luggage For Keeping Travel Safe and Easy ">
+    <img class="Image" alt="best expandable luggage" width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/ce1da12/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2Fd3%2Ffb%2F2f02d7b948678bfa241c125238ad%2Freyleo-expandable-luggage-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/travel">Travel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-luggage-overall">Best Luggage For Keeping Travel Safe and Easy </a>
+            </div>
+        
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+            </li>
+            
+            <li class="ListD-items-item">
+                <div class="PromoB" data-content-type="bestList" data-image-align="top">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                        
+                            <a class="Link" href="https://www.latimes.com/bestcovery/best-luggage-scale" aria-label="Best Luggage Scales for Packing the Perfect Bag ">
+    <img class="Image" alt="best EatSmart Precision Voyager Digital Luggage Scale " width="320" height="209"
+        data-src="https://cdn.bestcovery.ca-times-dam.psdops.com/dims4/default/2341d90/2147483647/strip/true/crop/750x490+0+5/resize/320x209!/quality/90/?url=http%3A%2F%2Fbestcovery-brightspot.s3.amazonaws.com%2F2c%2F8b%2Fc436e6f84412b07bc188f14a93f4%2Featsmart-precision-voyager-digital-luggage-scale-bestcovery.jpg" data-lazy-load="true" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+</a>
+                        
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://www.latimes.com/bestcovery/travel">Travel</a>
+            </div>
+        
+
+        
+            <div class="PromoB-title">
+                <a class="Link" href="https://www.latimes.com/bestcovery/best-luggage-scale">Best Luggage Scales for Packing the Perfect Bag </a>
+            </div>
+        
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+            </li>
+            
+        </ul>
+    
+
+    
+</ps-list-loadmore></div>
+
+
+<footer class="Page-footer" itemscope itemtype="https://schema.org/WPFooter">
+    <div class="Page-footer-body">
+        
+
+        <div class="Page-footer-columns">
+            <div class="Page-footer-column">
+                
+                    <div class="Page-footer-navigation">
+                        <nav class="FooterNavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+        <ul class="FooterNavigation-items">
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/about-us">About Us</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/privacy-policy">Privacy Policy</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/terms-use">Terms of Use</a>
+    
+    
+</div>
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <a class="FooterNavigationItem-text-link title-5" href="https://www.latimes.com/bestcovery/contact-us">Contact Us</a>
+    
+    
+</div>
+                </li>
+            
+        </ul>
+    
+</nav>
+                    </div>
+                
+            </div>
+            
+                <div class="Page-footer-column">
+                    <div class="Page-footer-content title-5">
+                        
+    <div class="RichTextModule">
+        
+            <div class="RichTextModule-items RichTextBody"><p>Follow Us</p></div>
+        
+
+    </div>
+<nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item"> <a class="SocialLink" rel="noreferrer noopener nofollow" href="https://www.facebook.com/Bestcovery/" target="_blank" data-social-service="facebook"><svg><use xlink:href="#mono-icon-facebook"></use></svg><span class="sr-only">facebook</span></a>
+</li>
+            
+                <li class="Navigation-items-item"> <a class="SocialLink" rel="noreferrer noopener nofollow" href="https://twitter.com/Bestcovery" target="_blank" data-social-service="twitter"><svg><use xlink:href="#mono-icon-twitter"></use></svg><span class="sr-only">twitter</span></a>
+</li>
+            
+        </ul>
+    
+</nav>
+                    </div>
+                </div>
+            
+        </div>
+
+        
+            <div class="Page-footer-disclaimer text-preview">Copyright 2023 Bestcovery.com, LLC. All rights reserved.</div>
+        
+    </div>
+</footer>
+
+
+<ps-smooth-scroller class="FloatButton text-preview" data-target="#BestList-body">
+    <div class="FloatButton-container">
+        
+            <svg class="FloatButton-icon chevron rotate-270"><use xlink:href="#chevron"></use></svg>
+        
+        
+        <span class="FloatButton-text">Go to top</span>
+    </div>
+</ps-smooth-scroller>
+</body>
+</html>

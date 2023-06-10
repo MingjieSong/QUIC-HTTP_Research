@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Video</title>
+    <link>https://www.latimes.com/video</link>
+    <description>Video</description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Apr 2023 02:21:21 GMT</lastBuildDate>
+    <atom:link href="https://www.latimes.com/video.rss" type="application/rss+xml" rel="self" />
+    <item>
+      <title>Very Important Questions</title>
+      <link>https://www.latimes.com/video/story/2023-04-19/very-important-questions</link>
+      <description>From our Sundance studio in Park City to our annual Oscars roundtables, we're asking Hollywood some Very Important Questions. Watch how they answered.</description>
+      <pubDate>Thu, 20 Apr 2023 02:21:21 GMT</pubDate>
+      <guid>https://www.latimes.com/video/story/2023-04-19/very-important-questions</guid>
+    </item>
+  </channel>
+</rss>
