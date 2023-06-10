@@ -5,7 +5,11 @@ CDP(async (client) => {
   // Enable required domains
   const { Network, Page } = client;
   await Promise.all([Network.enable(), Page.enable()]);
-
+ try {
+  await Network.clearBrowserCookies();
+} catch (error) {
+  console.error('Error clearing browser cache:', error);
+}
   const networkData = [];
   let firstRequestTimestamp = 0 ;
   // Set up event listeners
@@ -40,15 +44,10 @@ CDP(async (client) => {
 //	      networkItem.RTT = timing.receiveHeadersEnd -timing.sendStart ; 
   //    }
      
-    }                     
+    }                   
   });
    
-     networkData.forEach(item => {
-	     if(item.timing.receiveHeadersEnd && item.timing.sendStart){
-		     const rtt = item.timing.receiveHeadersEnd -  item.timing.sendStart;
-		     console.log(`RTT: ${rtt} ms`);
-	     }
-     }); 
+     
     let lastRequestTimestamp = 0;
     let totalDataReceived = 0;
     Network.loadingFinished(params => {
@@ -58,10 +57,15 @@ CDP(async (client) => {
       lastRequestTimestamp = timestamp;
       totalDataReceived += encodedDataLength;
     });
-                          
-  // Navigate to the desi red website
+                       
+    
+ 
+
+  // Navigate to the desired website
   await Page.navigate({ url: 'https://10.10.1.2:8000/' }); //https://10.10.1.2:4433/
   await Page.loadEventFired();
+ 
+
 
     const totalTimeElapsed = lastRequestTimestamp - firstRequestTimestamp;
     const throughput  = ( totalDataReceived/totalTimeElapsed)*1000 ; 
@@ -74,7 +78,7 @@ CDP(async (client) => {
 	    throughput, 
     });
   // Write network data to a file
-  const fileName = 'network_inspect_h1_tbf50k32k70ms_ucsd.json';
+  const fileName = 'network_inspect_h1_LATime.json';
   fs.writeFile(fileName,  JSON.stringify(networkData, null, 2), (err) => {
     if (err) {            
       console.error('Error writing network data:', err);
@@ -82,7 +86,8 @@ CDP(async (client) => {
       console.log(`Network data saved to ${fileName}`);
     }                     
   });                     
-                          
+  
+
   // Close the connection 
   await client.close();   
 }).on('error', (err) => { 
